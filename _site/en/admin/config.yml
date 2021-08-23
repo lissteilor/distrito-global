@@ -7,7 +7,7 @@ collections:
     label: 'Noticias'
     folder: '_posts/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{title_es}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
     editor:
       preview: false
     fields:
@@ -28,7 +28,7 @@ collections:
     label: 'Iniciativas'
     folder: '_initiatives/'
     create: true
-    slug: '{{title_es}}'
+    slug: '{{title}}'
     editor:
       preview: false
     fields:
