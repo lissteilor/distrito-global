@@ -8,7 +8,7 @@ layout: default
 
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
-    <p class="font-label-grey"><a href="">{% t initiatives.breadcrumb %}</a> > {{page.title}}</p>
+    <p class="font-label-grey"><a href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title}}</p>
   </div>
   <div class="uk-container uk-width-2-3@m">
   <article>
@@ -20,7 +20,7 @@ layout: default
       </svg>
     </div>
     <div class="uk-text-justify">
-      {{ content }}
+      {{page.content}}
     </div>
     {% if {{page.external_link}} != null %}
     <div class="uk-flex uk-flex-right"
