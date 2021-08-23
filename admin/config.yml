@@ -42,9 +42,9 @@ collections:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: date, format: 'Do MMM'}
+      - {label: "Fecha", name: date, widget: datetime, format: 'DD MM'}
       - {label: "Título", name: title, widget: string}
-      - {label: "Contenido", name: content, widget: markdown}
+      - {label: "Contenido", name: content_block, widget: markdown}
       - label: "Categoría"
         name: "color"
         widget: "select"
