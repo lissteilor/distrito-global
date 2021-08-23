@@ -3,28 +3,6 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'blog'
-    label: 'Noticias'
-    folder: '_posts/'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
-    editor:
-      preview: false
-    fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
-      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
-      - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: date, format: 'Do MMM'}
-      - {label: "Título", name: title, widget: string}
-      - {label: "Contenido", name: content, widget: markdown}
-      - label: "Categoría"
-        name: "color"
-        widget: "select"
-        options:
-          - { label: "Noticias", value: "dash-pink" }
-          - { label: "Eventos", value: "dash-green" }
-          - { label: "Prensa", value: "dash-purple" }
-          - { label: "Global", value: "dash-orange" }
   - name: 'initiatives'
     label: 'Iniciativas'
     folder: '_initiatives/'
@@ -53,3 +31,25 @@ collections:
       - {label: "Alianza 5 - Logo", name: alliance_5_logo, widget: image, required: false}
       - {label: "Alianza 6 - Org", name: alliance_6_org, widget: string, required: false}
       - {label: "Alianza 6 - Logo", name: alliance_6_logo, widget: image, required: false}
+  - name: 'news'
+    label: 'Noticias'
+    folder: '_news/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Fecha", name: date, widget: date, format: 'Do MMM'}
+      - {label: "Título", name: title, widget: string}
+      - {label: "Contenido", name: content, widget: markdown}
+      - label: "Categoría"
+        name: "color"
+        widget: "select"
+        options:
+          - { label: "Noticias", value: "dash-pink" }
+          - { label: "Eventos", value: "dash-green" }
+          - { label: "Prensa", value: "dash-purple" }
+          - { label: "Global", value: "dash-orange" }
