@@ -7,6 +7,43 @@ collections:
     label: 'Blog'
     folder: '_posts/'
     create: true
+    editor:
+      preview: false
     fields:
-      - { label: "Content", name: content, widget: markdown }
-      - { label: "Title", name: title, widget: string }
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
+      - {label: "Thumbnail image", name: image_thumbnail, widget: image}
+      - {label: "Hero image", name: image_hero, widget: image}
+      - {label: "Title ES", name: title_es, widget: string}
+      - {label: "Content ES", name: desc_es, widget: markdown}
+      - {label: "Title EN", name: title_en, widget: string, required: false}
+      - {label: "Content EN", name: desc_en, widget: markdown, required: false}
+  - name: 'projects'
+    label: 'Proyectos'
+    folder: '_projects/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'project'}
+      - {label: "Active", name: active, widget: boolean}
+      - {label: "Thumbnail image", name: image_thumbnail, widget: image}
+      - {label: "Hero image", name: image_hero, widget: image}
+      - {label: "Title ES", name: title_es, widget: string}
+      - {label: "Brief ES", name: brief_es, widget: string}
+      - {label: "Content ES", name: desc_es, widget: markdown}
+      - {label: "Website", name: external_link, widget: string, required: false}
+      - {label: "Alliance 1 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alliance 1 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Alliance 2 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alliance 2 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Alliance 3 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alliance 3 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Alliance 4 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alliance 4 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Alliance 5 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alliance 5 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Alliance 6 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alliance 6 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Title EN", name: title_en, widget: string, required: false}
+      - {label: "Brief EN", name: brief_en, widget: string, required: false}
+      - {label: "Content EN", name: desc_en, widget: markdown, required: false}

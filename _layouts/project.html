@@ -2,15 +2,18 @@
 layout: default
 ---
 
+<div id="hero-page" class="uk-height-viewport uk-flex uk-inline uk-flex-middle uk-background-cover uk-light animate__animated animate__fadeIn animate__delay-2s animate__fast"
+  data-src="{{site.baseurl_root}}/assets/images/hero/hero-desktop.jpg" uk-parallax="bgy: -100;" uk-img>
+</div>
+
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
-    <p class="font-sm"><a href="<?php echo site_url('/blog');?>">{% t news.breadcrumb %}</a> > Title</p>
+    <p class="font-label-grey"><a href="<?php echo site_url('/blog');?>">{% t projects.breadcrumb %}</a> > Title</p>
   </div>
   <div class="uk-container uk-width-2-3@m">
   <article>
-    <p class="font-label-grey">Date</p>
-    <p class="font-label">Category</p>
     <h1 class="font-black" style="margin: 0 0 10px;">Title</h1>
+    <p>Lead</p>
     <div class="dash dash-black">
       <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
         <rect width="30" height="6" fill="none"/>
@@ -18,6 +21,11 @@ layout: default
     </div>
     <div class="uk-text-justify">
       {{ content }}
+    </div>
+    <div class="uk-flex uk-flex-right"
+      <div class="uk-with-1-1">
+        <a href="" class="uk-button button-bg-black">{% t projects.external_link %}</a>
+      </div>
     </div>
     </article>
   </div>

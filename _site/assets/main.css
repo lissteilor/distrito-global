@@ -26,6 +26,9 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-size: 2.8rem; }
 
+h3 {
+  margin: 10px 0; }
+
 .welcome-home-title span {
   background-image: linear-gradient(180deg, transparent 65%, white 0);
   background-size: 100% 180%;
@@ -217,6 +220,27 @@ cite {
 /**
  * Images and svgs
  */
+.dash {
+  margin: 20px 0 10px; }
+
+.dash-black > svg > rect {
+  fill: #08141A !important; }
+
+.dash-pink > svg > rect {
+  fill: #FF4FA3 !important; }
+
+.dash-purple > svg > rect {
+  fill: #6738EB !important; }
+
+.dash-green > svg > rect {
+  fill: #51CB7B !important; }
+
+.dash-orange > svg > rect {
+  fill: #FF685A !important; }
+
+.dash-blue > svg > rect {
+  fill: #56CEDD !important; }
+
 /**
  * Cards
  */

@@ -27,8 +27,14 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 languages: ["es", "en"]
+exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
+
+
+collections:
+  projects:
+    output: true
+
 
 gems:
   - jekyll-multiple-languages-plugin

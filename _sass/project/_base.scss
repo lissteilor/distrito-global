@@ -30,6 +30,10 @@ h1{
   font-size: 2.8rem;
 }
 
+h3{
+  margin: 10px 0;
+}
+
 
 .welcome-home-title span{
   background-image: linear-gradient(180deg, transparent 65%, white 0);
@@ -264,6 +268,29 @@ cite {
 /**
  * Images and svgs
  */
+
+.dash{
+  margin: 20px 0 10px;
+}
+
+.dash-black > svg > rect{
+  fill: $black !important;
+}
+.dash-pink > svg > rect{
+  fill: $pink !important;
+}
+.dash-purple > svg > rect{
+  fill: $purple !important;
+}
+.dash-green > svg > rect{
+  fill: $green !important;
+}
+.dash-orange > svg > rect{
+  fill: $orange !important;
+}
+.dash-blue > svg > rect{
+  fill: $blue !important;
+}
 
  /**
   * Cards
