@@ -1,5 +1,5 @@
 navbar:
-  language: EN
+  language: ES
   item_1: Somos
   item_2: Iniciativas
   item_3: Publicaciones
@@ -9,9 +9,9 @@ navbar:
   item_7: Únete al equipo
 home:
   hero:
-    title: Mensaje destacado bienvenida
-    subtitle: Subtítulo
-  projects:
+    title: Impulsamos los derechos económicos y sociales en el proceso constituyente chileno
+    subtitle: Distrito Global es un programa de GI-ESCR que documenta, monitorea e incide en el avance de los derechos económicos y sociales en el contexto chileno para escalar sus lecciones a nivel global.
+  initiatives:
     title: Nuestras iniciativas
     description: Impulsamos diversas iniciativas para promover los derechos económicos y sociales, en alianza con organizaciones de la sociedad civil a nivel local, nacional y global.
     button: Ver todas las iniciativas
@@ -57,11 +57,12 @@ about:
     action_3:
       title: Innovación y creatividad
       description: Desarrollamos herramientas innovadoras que nos permitan participar en los procesos de incidencia de manera inclusiva, informada y colaborativa. Aplicamos tácticas creativas y novedosas que nos permitan mostrar y conectar el mundo de los derechos humanos desde nuevos horizontes.
-projects:
+initiatives:
   breadcrumb: Iniciativas
   alliances: Proyecto realizado en conjunto con
-  publications: Publicacione relacionadas
+  publications: Publicaciones relacionadas
   news: Noticias relacionadas
+  external_link: Visitar sitio
   chapters:
       title: Capítulos
       description:
@@ -106,6 +107,6 @@ footer:
   suscription:
     title: Suscríbete a nuestro Newsletter
     button: Suscribirme
-  giescr: Un programa de
+  giescr: Distrito Global es un programa de
   osf: Con el apoyo de
   social_media: Síguenos

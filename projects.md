@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /initiatives/
 hero_desktop: hero-projects-desktop.jpg
 hero_mobile: hero-projects-mobile.jpg
 title_en:
@@ -9,4 +9,4 @@ subtitle_en:
 subtitle_es: Estas son las iniciativas para promover los derechos económicos y sociales, en alianza con organizaciones de la sociedad civil a nivel local, nacional y global.
 ---
 
-{%- include projects.html -%}
+{%- include initiatives.html -%}

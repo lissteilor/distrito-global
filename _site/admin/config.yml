@@ -4,46 +4,51 @@ backend:
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'Noticias'
     folder: '_posts/'
     create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{title_es}}'
     editor:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
-      - {label: "Thumbnail image", name: image_thumbnail, widget: image}
-      - {label: "Hero image", name: image_hero, widget: image}
-      - {label: "Title ES", name: title_es, widget: string}
-      - {label: "Content ES", name: desc_es, widget: markdown}
-      - {label: "Title EN", name: title_en, widget: string, required: false}
-      - {label: "Content EN", name: desc_en, widget: markdown, required: false}
-  - name: 'projects'
-    label: 'Proyectos'
-    folder: '_projects/'
+      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Título", name: title, widget: string}
+      - {label: "Contenido", name: content, widget: markdown}
+      - label: "Categoría"
+        name: "color"
+        widget: "select"
+        options:
+          - { label: "Noticias", value: "dash-pink" }
+          - { label: "Eventos", value: "dash-green" }
+          - { label: "Prensa", value: "dash-purple" }
+          - { label: "Global", value: "dash-orange" }
+  - name: 'initiatives'
+    label: 'Iniciativas'
+    folder: '_initiatives/'
     create: true
+    slug: '{{title_es}}'
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'project'}
-      - {label: "Active", name: active, widget: boolean}
-      - {label: "Thumbnail image", name: image_thumbnail, widget: image}
-      - {label: "Hero image", name: image_hero, widget: image}
-      - {label: "Title ES", name: title_es, widget: string}
-      - {label: "Brief ES", name: brief_es, widget: string}
-      - {label: "Content ES", name: desc_es, widget: markdown}
-      - {label: "Website", name: external_link, widget: string, required: false}
-      - {label: "Alliance 1 - Org", name: alliance_1_org, widget: string, required: false}
-      - {label: "Alliance 1 - Logo", name: alliance_1_logo, widget: image, required: false}
-      - {label: "Alliance 2 - Org", name: alliance_2_org, widget: string, required: false}
-      - {label: "Alliance 2 - Logo", name: alliance_2_logo, widget: image, required: false}
-      - {label: "Alliance 3 - Org", name: alliance_3_org, widget: string, required: false}
-      - {label: "Alliance 3 - Logo", name: alliance_3_logo, widget: image, required: false}
-      - {label: "Alliance 4 - Org", name: alliance_4_org, widget: string, required: false}
-      - {label: "Alliance 4 - Logo", name: alliance_4_logo, widget: image, required: false}
-      - {label: "Alliance 5 - Org", name: alliance_5_org, widget: string, required: false}
-      - {label: "Alliance 5 - Logo", name: alliance_5_logo, widget: image, required: false}
-      - {label: "Alliance 6 - Org", name: alliance_6_org, widget: string, required: false}
-      - {label: "Alliance 6 - Logo", name: alliance_6_logo, widget: image, required: false}
-      - {label: "Title EN", name: title_en, widget: string, required: false}
-      - {label: "Brief EN", name: brief_en, widget: string, required: false}
-      - {label: "Content EN", name: desc_en, widget: markdown, required: false}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative'}
+      - {label: "Activo", name: active, widget: boolean}
+      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Título", name: title, widget: string}
+      - {label: "Bajada", name: brief, widget: string}
+      - {label: "Contenido", name: content, widget: markdown}
+      - {label: "Sitio web", name: external_link, widget: string, required: false}
+      - {label: "Alianza 1 - Org", name: alliance_1_org, widget: string, required: false}
+      - {label: "Alianza 1 - Logo", name: alliance_1_logo, widget: image, required: false}
+      - {label: "Alianza 2 - Org", name: alliance_2_org, widget: string, required: false}
+      - {label: "Alianza 2 - Logo", name: alliance_2_logo, widget: image, required: false}
+      - {label: "Alianza 3 - Org", name: alliance_3_org, widget: string, required: false}
+      - {label: "Alianza 3 - Logo", name: alliance_3_logo, widget: image, required: false}
+      - {label: "Alianza 4 - Org", name: alliance_4_org, widget: string, required: false}
+      - {label: "Alianza 4 - Logo", name: alliance_4_logo, widget: image, required: false}
+      - {label: "Alianza 5 - Org", name: alliance_5_org, widget: string, required: false}
+      - {label: "Alianza 5 - Logo", name: alliance_5_logo, widget: image, required: false}
+      - {label: "Alianza 6 - Org", name: alliance_6_org, widget: string, required: false}
+      - {label: "Alianza 6 - Logo", name: alliance_6_logo, widget: image, required: false}

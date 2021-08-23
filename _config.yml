@@ -32,7 +32,7 @@ exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 
 
 collections:
-  projects:
+  initiatives:
     output: true
 
 
