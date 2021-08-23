@@ -34,7 +34,8 @@ exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 collections:
   initiatives:
     output: true
-
+  news:
+    output: true
 
 gems:
   - jekyll-multiple-languages-plugin
