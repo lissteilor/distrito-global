@@ -9,7 +9,7 @@ layout: default
   <div class="uk-container uk-width-2-3@m">
   <article>
     <p class="font-label-grey">{{page.date}}</p>
-    <p class="font-label">{{page.category}}</p>
+    <p class="font-label"></p>
     <h1 class="font-black" style="margin: 0 0 10px;">{{page.title}}</h1>
     <div class="dash {{ page.color}}">
       <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -17,7 +17,7 @@ layout: default
       </svg>
     </div>
     <div class="uk-text-justify">
-      <p>{{ page.content | markdownify }}</p>
+      {{page.content_block}}
     </div>
     </article>
   </div>
