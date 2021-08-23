@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% assign title_lang = "title_" | append: site.lang %}
+{% assign title = page[title_lang] %}
+{% assign subtitle_lang = "subtitle_" | append: site.lang %}
+{% assign subtitle = page[subtitle_lang] %}
+
+{%- include hero-page.html title=title hero_mobile=page.hero_mobile hero_desktop=page.hero_desktop subtitle=subtitle -%}
+
+{{ content }}

@@ -1,0 +1,19 @@
+<div id="hero-page" class="uk-visible@m uk-height-viewport uk-flex uk-inline uk-flex-middle uk-background-cover uk-light animate__animated animate__fadeIn animate__delay-2s animate__fast"
+  data-src="{{site.baseurl_root}}/assets/images/hero/{{include.hero_desktop}}" uk-parallax="bgy: -100;" uk-img>
+  <div class="uk-position-center">
+    <div class="uk-text-center">
+        <h1 class="white uk-width-large uk-margin-remove"> {{ include.title }} </h1>
+        <p class="white uk-padding-remove"> {{ include.subtitle }} </p>
+      </div>
+    </div>
+</div>
+
+<div id="hero-page" class="uk-hidden@m uk-height-viewport uk-flex uk-flex-center uk-inline uk-flex-middle uk-background-cover uk-light animate__animated animate__fadeIn animate__delay-2s animate__fast"
+  data-src="{{site.baseurl_root}}/assets/images/hero/{{include.hero_mobile}}" uk-parallax="bgy: -100;" uk-img>
+  <div class="uk-position-center">
+    <div class="uk-text-center">
+        <h1 class="white uk-width-large uk-margin-remove"> {{ include.title }} </h1>
+        <p class="white uk-padding-remove"> {{ include.subtitle }} </p>
+      </div>
+    </div>
+</div>

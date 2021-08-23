@@ -1,0 +1,381 @@
+/**
+ * Basic styling
+ */
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5 {
+  font-family: $title-font-family;
+}
+
+h1{
+  font-size: 2.8rem;
+}
+
+
+.welcome-home-title span{
+  background-image: linear-gradient(180deg, transparent 65%, white 0);
+  background-size: 100% 180%;
+  background-repeat: no-repeat;
+  color: $black;
+  background-position-y: -59px;
+}
+
+.welcome-home-subtitle{
+  font-size: 1.3rem;
+  margin: 20px 0 40px;
+  font-weight: 600;
+  color: white;
+  line-height: 1.5;
+}
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit / 2;
+}
+
+
+/**
+ * `main` element
+ */
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
+
+/**
+ * Links
+ */
+a {
+  color: $purple;
+  text-decoration: none;
+  &:hover, &:focus{
+    text-decoration: none;
+  }
+}
+
+h3.link-highlighted > span > a{
+  color: $black;
+}
+
+a.underline{
+  color: $purple;
+  position: relative;
+  text-decoration: none;
+  transition: 0.5s;
+}
+a.underline::after{
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 1px;
+  top: 90%;
+  left: 0;
+  background: $purple;
+  transition: transform 0.5s;
+  transform: scaleX(0);
+  transform-origin: right;
+}
+a.underline:hover, a.underline:focus, a.underline:active{
+  color: $purple;
+  text-decoration: none;
+}
+a.underline:hover::after, a.underline:focus::after, a.underline:active::after{
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+
+
+
+
+/**
+ * Sections
+ */
+.bg-black-soft{
+ background: $black-soft;
+}
+
+.bg-grey-soft{
+ background: $grey-soft;
+}
+
+#hero-page {
+ &.uk-height-viewport{
+   min-height: 60vh;
+ }
+}
+
+/**
+ * Buttons
+ */
+.uk-button{
+ font-family: $base-font-family;
+ text-transform: uppercase;
+ font-weight: 600;
+ background: transparent;
+ letter-spacing: 1px;
+ transition: all .5s;
+ font-size: 0.75rem;
+}
+
+.button-line-black, a.button-line-black{
+ color: $black;
+ border: 2px solid $black;
+ &:hover, &:focus{
+   color: white;
+   background: $black;
+ }
+}
+
+.button-bg-black, a.button-bg-black{
+ color: white;
+ background-color: $black;
+ border: 2px solid $black;
+ &:hover, &:focus{
+   color: $black;
+   background: transparent;
+ }
+}
+
+.button-line-white, a.button-line-white{
+ color: white;
+ border: 2px solid white;
+ &:hover, &:focus{
+   color: $black-soft;
+   background: white;
+ }
+}
+
+.button-bg-white, a.button-bg-white{
+ color: $black-soft;
+ background-color: white;
+ border: 2px solid white;
+ &:hover, &:focus{
+   color: white;
+   background: transparent;
+ }
+}
+
+/**
+ * Basic texts
+ */
+strong{
+  font-weight: 600;
+}
+
+.uk-label{
+  font-weight: 600;
+  padding: 3px 7px;
+  text-transform: none;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  background: none;
+  color: $grey;
+}
+
+.font-label-white{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 0.65rem;
+  color: white;
+}
+
+
+.font-label-black-soft{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 0.65rem;
+  color: $black-soft;
+}
+
+.font-label-grey{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 0.65rem;
+  color: $grey;
+}
+
+.font-white{
+  color: white !important;
+}
+
+.font-black{
+  color: $black !important;
+}
+
+.font-600{
+  font-weight: 600;
+}
+
+.font-700{
+  font-weight: 700;
+}
+
+.font-lead {
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 2rem;
+}
+
+.font-small{
+  font-size: 0.7rem;
+  line-height: 1.8;
+}
+
+/**
+ * Article
+ */
+blockquote{
+  font-family: $title-font-family;
+}
+
+cite {
+  font-size: 0.9rem;
+  font-style: normal;
+}
+
+/**
+ * Images and svgs
+ */
+
+ /**
+  * Cards
+  */
+ .uk-card-default {
+     box-shadow: none;
+ }
+
+/**
+ * Navbar
+ */
+header.uk-sticky {
+  background: white;
+  z-index: 200;
+}
+
+.logo-menu{
+  width: 58%;
+  position: relative;
+  top: 7px;
+}
+
+.font-menu{
+  font-weight: 600;
+  font-size: 0.7rem !important;
+  letter-spacing: 0.045rem;
+  text-transform: uppercase;
+}
+
+.uk-navbar-nav > li:hover > a, .uk-navbar-nav > li > a.uk-open, .uk-navbar-nav > li > a:focus{
+  color: $purple;
+}
+
+.uk-navbar-dropdown-nav>li>a {
+ color: $black-soft;
+ &:hover{
+   color: $purple;
+ }
+}
+
+[class*="uk-navbar-dropdown-bottom"] {
+    margin-top: 5px;
+}
+.uk-navbar-dropdown {
+    padding: 10px 20px;
+    box-shadow: none;
+    line-height: 2.5;
+    width: 150px;
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle{
+  min-height: 50px;
+}
+
+.uk-navbar-container>.uk-container .uk-navbar-left {
+  margin-left: 0;
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle, li.uk-active>a{
+  color: $black-soft;
+  font-family: $base-font-family;
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+  background: white;
+  a{
+    color: $black-soft;
+  }
+}
+
+
+/**
+ * Hero
+ */
+.icon-hero>svg{
+  width: 4%;
+}
+
+/**
+ * Footer
+ */
+footer {
+  background: $black-soft;
+  padding: 50px 0 30px;
+}
+
+.font-footer{
+  font-weight: 600;
+  font-size: 0.65rem !important;
+  letter-spacing: 0.045rem;
+  text-transform: uppercase;
+}
+
+svg.icon-footer {
+  width: 9%;
+  &:hover, &:focus{
+    fill: $grey-soft;
+  }
+}
+
+svg.icon-footer>path {
+  &:hover, &:focus{
+    fill: $grey-soft;
+  }
+}
+
+.logo-giescr{
+  width: 70%;
+}
+
+.logo-osf{
+  width: 58%;
+  position: relative;
+  top: 18px;
+}

@@ -1,0 +1,77 @@
+@media only screen and (max-width: 991px) {
+  h1{
+    font-size: 1.6rem;
+  }
+  h2{
+    font-size: 1.2rem;
+  }
+  h3{
+    font-size: 1rem;
+  }
+  h4{
+    font-size: 0.9rem;
+  }
+  h5{
+    font-size: 0.8rem;
+  }
+  body{
+    font-size: 0.8rem;
+    line-height: 1.7;
+  }
+  .uk-accordion-title {
+    font-size: 1rem;
+  }
+  .uk-button{
+   font-size: 0.65rem;
+  }
+
+  /**
+   * Navbar
+   */
+
+  .uk-navbar-item, .uk-navbar-nav > li > a, .uk-navbar-toggle, li.uk-active > a{
+    color: $black-soft;
+    &:hover{
+      color: $purple;
+    }
+  }
+
+  .uk-offcanvas-bar{
+    background: white;
+    font-size: 0.8rem;
+    a{
+      color: $black-soft;
+      &:hover, &:focus{
+        color: $purple;
+        text-decoration: none;
+      }
+    }
+    hr{
+      border-top-color: $grey;
+      border-top: 1px solid $grey;
+    }
+    .uk-close{
+      color: $grey;
+      &:hover, &:focus{
+        color: $grey;
+      }
+    }
+  }
+
+  .logo-navbar>svg{
+    width: 90%;
+  }
+  /**
+   * Hero
+   */
+  .icon-hero>svg{
+      width: 10%;
+  }
+  .logo-giescr{
+    width: 60%;
+  }
+  .logo-osf{
+    width: 27%;
+  }
+
+}

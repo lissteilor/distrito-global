@@ -1,0 +1,39 @@
+/**
+ * Fonts:
+ *  1. Space Mono [https://fonts.google.com/specimen/Viga]
+ *  2. Work Sans [https://fonts.google.com/specimen/Poppins]
+ */
+
+
+
+// 1. Viga https://fonts.google.com/specimen/Viga
+@font-face {
+  font-family: 'Viga', sans-serif;
+  src: url('fonts/Viga/Viga-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} // Viga-Regular
+
+
+// 2. Poppins https://fonts.google.com/specimen/Poppins
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: url('fonts/Poppins/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+} // Poppins-Regular
+
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: url('fonts/Poppins/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+} // Poppins-SemiBold
+
+
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: url('fonts/Poppins/Poppins-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+} // Poppins-Bold
