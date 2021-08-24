@@ -26,6 +26,7 @@ github_username:
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 languages: ["es", "en"]
 exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
