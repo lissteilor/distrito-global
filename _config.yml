@@ -32,7 +32,7 @@ exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 
 # Paginate
 paginate: 1
-paginate_path: "/blog/page:num/"
+paginate_path: "/news/page:num/"
 
 
 collections:
