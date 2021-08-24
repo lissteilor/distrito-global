@@ -1,6 +1,6 @@
 ---
 layout: initiative
-active: true
+active: false
 image_thumbnail: /assets/uploads/thumbnail.jpg
 image_hero: /assets/uploads/hero.jpg
 title_es: Proyecto
