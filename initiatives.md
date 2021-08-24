@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /initiatives/
-hero_desktop: hero-projects-desktop.jpg
-hero_mobile: hero-projects-mobile.jpg
+hero_desktop: hero-desktop.jpg
+hero_mobile: hero-mobile.jpg
 title_en:
 title_es: Conoce nuestras iniciativas
 subtitle_en:

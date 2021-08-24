@@ -15,9 +15,12 @@ collections:
       - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Título", name: title, widget: string}
-      - {label: "Bajada", name: brief, widget: string}
-      - {label: "Contenido", name: content_block, widget: markdown}
+      - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Bajada ES", name: brief_es, widget: string}
+      - {label: "Contenido ES", name: content_block_es, widget: markdown}
+      - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
       - {label: "Sitio web", name: external_link, widget: string, required: false}
       - {label: "Alianza 1 - Org", name: alliance_1_org, widget: string, required: false}
       - {label: "Alianza 1 - Logo", name: alliance_1_logo, widget: image, required: false}
@@ -31,6 +34,55 @@ collections:
       - {label: "Alianza 5 - Logo", name: alliance_5_logo, widget: image, required: false}
       - {label: "Alianza 6 - Org", name: alliance_6_org, widget: string, required: false}
       - {label: "Alianza 6 - Logo", name: alliance_6_logo, widget: image, required: false}
+  - name: 'initiatives-book'
+    label: 'Iniciativa - Libro'
+    folder: '_initiatives-book/'
+    create: true
+    slug: '{{title}}'
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative-book'}
+      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Bajada ES", name: brief_es, widget: string}
+      - {label: "Contenido ES", name: content_block_es, widget: markdown}
+      - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
+  - name: 'chapter'
+    label: 'Capítulo Libro'
+    folder: '_book-chapters/'
+    create: true
+    slug: '{{title}}'
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'chapter'}
+      - {label: "Autores", name: authors, widget: string}
+      - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Contenido ES", name: content_block_es, widget: markdown}
+      - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
+  - name: 'initiatives-article'
+    label: 'Iniciativa - Artículos'
+    folder: '_initiatives-article/'
+    create: true
+    slug: '{{title}}'
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative-article'}
+      - {label: "Destacada en home", name: active, widget: boolean}
+      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Bajada ES", name: brief_es, widget: string}
+      - {label: "Contenido ES", name: content_block_es, widget: markdown}
+      - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
   - name: 'news'
     label: 'Noticias'
     folder: '_news/'
@@ -43,12 +95,18 @@ collections:
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
-      - {label: "Título", name: title, widget: string}
-      - {label: "Contenido", name: content_block, widget: markdown}
-      - label: "Categoría"
-        name: "category"
+      - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Contenido ES", name: content_block_es, widget: markdown}
+      - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - label: "Categoría ES"
+        name: "category_es"
         widget: "select"
         options: ["Noticias", "Eventos", "Prensa", "Global"]
+      - label: "Categoría EN"
+        name: "category_en"
+        widget: "select"
+        options: ["News", "Events", "Prensa", "Global"]
       - label: "Repetir categoría"
         name: "color"
         widget: "select"
@@ -57,3 +115,29 @@ collections:
           - { label: "Eventos", value: "dash-green" }
           - { label: "Prensa", value: "dash-purple" }
           - { label: "Global", value: "dash-orange" }
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Alianzas"
+        name: "alliances"
+        file: "_data/alliances.yml"
+        fields:
+          - label: "Datos de la alianza"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Nombre, name: name, widget: string}
+              - label: "Categoría"
+                name: "category"
+                widget: "select"
+                options: ["Categoría 1", "Categoría 2", "Categoría 3", "Categoría 4"]
+              - label: "Repetir categoría"
+                name: "color"
+                widget: "select"
+                options:
+                  - { label: "Categoría 1", value: "dash-pink" }
+                  - { label: "Categoría 2", value: "dash-green" }
+                  - { label: "Categoría 3", value: "dash-purple" }
+                  - { label: "Categoría 4", value: "dash-orange" }

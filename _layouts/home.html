@@ -50,13 +50,13 @@ layout: default
       <div class="uk-width-5-6@m">
         <!--highlighted initiatives-->
         <div class="uk-flex uk-flex-center" uk-grid>
-          <!-- For -->
+          {% for b in site.initiatives-book %}
           <!-- 2 col -->
           <div class="uk-width-1-2@m">
             <!-- Image -->
             <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
-              <a href="">
-                <img data-src="../assets/images/image-project.jpg" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              <a href="{{b.url}}">
+                <img data-src="{{b.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
               </a>
             </div>
             <!-- Content -->
@@ -64,15 +64,38 @@ layout: default
               <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="30" height="6" fill="none"/>
               </svg>
-              <h3 class="link-highlighted"><span><a href="">Lorem ipsum dolor sit</a></span></h3>
-              <p>Párrafo</p>
-              <a href="{{ site.baseurl }}/" class="uk-button uk-button-small button-line-black">{% t home.initiatives.button %}</a>
+              <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title}}</a></span></h3>
+              <p>{{b.brief}}</p>
+              <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button-rep}}</a>
             </div>
           </div><!-- End 2 col -->
+          {% endfor %}
+          {% assign active_initiatives-article = site.initiatives-article | where: "active", true %}
+          {% for a in active_initiatives-article %}
+          <!-- 2 col -->
+          <div class="uk-width-1-2@m">
+            <!-- Image -->
+            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+              <a href="{{a.url}}">
+                <img data-src="{{a.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              </a>
+            </div>
+            <!-- Content -->
+            <div class="dash dash-black">
+              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="30" height="6" fill="none"/>
+              </svg>
+              <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title}}</a></span></h3>
+              <p>{{a.brief}}</p>
+              <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button-rep}}</a>
+            </div>
+          </div><!-- End 2 col -->
+          {% endfor %}
         </div><!-- End flex -->
         <!--Other Initiatives-->
         <div class="uk-flex uk-flex-center" uk-grid>
-          {% for i in site.initiatives %}
+          {% assign active_initiatives = site.initiatives | where: "active", true %}
+          {% for i in active_initiatives %}
           <!-- 3 col -->
           <div class="uk-width-1-3@m">
             <!-- Image -->

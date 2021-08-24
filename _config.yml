@@ -39,6 +39,16 @@ exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 collections:
   initiatives:
     output: true
+  initiatives-book:
+    output: true
+  book-chapters:
+    output: true
+  initiatives-article:
+    output: true
+  project-articles:
+    output: true
+  publications:
+    output: true
   news:
     output: true
 

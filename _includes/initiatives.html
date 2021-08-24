@@ -1,0 +1,76 @@
+<!--Initiatives-->
+<div id="initiatives" class="uk-section animate__animated animate__fadeIn animate__delay-4s animate__fast">
+  <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center" uk-grid>
+      <div class="uk-width-5-6@m">
+        <!--highlighted initiatives-->
+        <div class="uk-flex uk-flex-center" uk-grid>
+          {% for b in site.initiatives-book %}
+          <!-- 2 col -->
+          <div class="uk-width-1-2@m">
+            <!-- Image -->
+            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+              <a href="{{b.url}}">
+                <img data-src="{{b.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              </a>
+            </div>
+            <!-- Content -->
+            <div class="dash dash-black">
+              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="30" height="6" fill="none"/>
+              </svg>
+              <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title}}</a></span></h3>
+              <p>{{b.brief}}</p>
+              <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button-rep}}</a>
+            </div>
+          </div><!-- End 2 col -->
+          {% endfor %}
+          {% for a in site.initiatives-articles %}
+          <!-- 2 col -->
+          <div class="uk-width-1-2@m">
+            <!-- Image -->
+            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+              <a href="{{a.url}}">
+                <img data-src="{{a.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              </a>
+            </div>
+            <!-- Content -->
+            <div class="dash dash-black">
+              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="30" height="6" fill="none"/>
+              </svg>
+              <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title}}</a></span></h3>
+              <p>{{a.brief}}</p>
+              <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button-rep}}</a>
+            </div>
+          </div><!-- End 2 col -->
+          {% endfor %}
+        </div><!-- End flex -->
+        <!--Other Initiatives-->
+        <div class="uk-flex" uk-grid>
+          {% for i in site.initiatives %}
+          <!-- 3 col -->
+          <div class="uk-width-1-3@m">
+            <!-- Image -->
+            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+              <a href="{{i.url}}">
+                <img data-src="{{i.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              </a>
+            </div>
+            <!-- Content -->
+            <div>
+              <div class="dash dash-black">
+                <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="30" height="6" fill="none"/>
+                </svg>
+              </div>
+              <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title}}</a></span></h3>
+              <p>{{i.brief}}</p>
+            </div>
+          </div><!-- End 3 col -->
+          {% endfor %}
+        </div><!-- End flex -->
+      </div>
+    </div>
+  </div>
+</div>

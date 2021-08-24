@@ -64,9 +64,11 @@ initiatives:
   news: Noticias relacionadas
   external_link: Visitar sitio
   chapters:
-      title: Capítulos
-      description:
-      download: Descarga el libro completo
+      title_section: Capítulos
+      description_section:
+      download_all: Descarga el libro completo
+      chapter: Capítulo
+      download: Descargar
   articles: Artículos
 publications:
   breadcrumb: Publicaciones
