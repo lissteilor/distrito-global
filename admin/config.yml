@@ -40,7 +40,6 @@ collections:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
-      - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
