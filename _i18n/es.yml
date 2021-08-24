@@ -90,10 +90,10 @@ news:
     category_2: Prensa
     category_3: Eventos
     category_4: Global
-    pagination:
-      prev: Anterior
-      next: Siguiente
-    news: Otras noticias
+  pagination:
+    prev: Anterior
+    next: Siguiente
+  news: Otras noticias
 alliances:
   categories:
     category_1: Categoría 1

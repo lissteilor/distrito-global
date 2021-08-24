@@ -12,7 +12,7 @@ collections:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative'}
-      - {label: "Activo", name: active, widget: boolean}
+      - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Título", name: title, widget: string}
@@ -42,10 +42,14 @@ collections:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: date, format: 'Do MMM'}
+      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
       - {label: "Título", name: title, widget: string}
-      - {label: "Contenido", name: content, widget: markdown}
+      - {label: "Contenido", name: content_block, widget: markdown}
       - label: "Categoría"
+        name: "category"
+        widget: "select"
+        options: ["Noticias", "Eventos", "Prensa", "Global"]
+      - label: "Repetir categoría"
         name: "color"
         widget: "select"
         options:

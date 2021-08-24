@@ -159,7 +159,7 @@
 
 
 <div id="hero-page" class="uk-visible@m uk-height-viewport uk-flex uk-inline uk-flex-middle uk-background-cover uk-light animate__animated animate__fadeIn animate__delay-2s animate__fast"
-  data-src="/assets/images/hero/hero-news-desktop.jpg" uk-parallax="bgy: -100;" uk-img>
+  data-src="/assets/images/hero/hero-desktop.jpg" uk-parallax="bgy: -100;" uk-img>
   <div class="uk-position-center">
     <div class="uk-text-center">
         <h1 class="white uk-width-large uk-margin-remove"> Noticias </h1>
@@ -169,7 +169,7 @@
 </div>
 
 <div id="hero-page" class="uk-hidden@m uk-height-viewport uk-flex uk-flex-center uk-inline uk-flex-middle uk-background-cover uk-light animate__animated animate__fadeIn animate__delay-2s animate__fast"
-  data-src="/assets/images/hero/hero-news-mobile.jpg" uk-parallax="bgy: -100;" uk-img>
+  data-src="/assets/images/hero/hero-mobile.jpg" uk-parallax="bgy: -100;" uk-img>
   <div class="uk-position-center">
     <div class="uk-text-center">
         <h1 class="white uk-width-large uk-margin-remove"> Noticias </h1>
@@ -177,7 +177,48 @@
       </div>
     </div>
 </div>
+<!--News-->
+<div class="uk-section animate__animated animate__fadeIn">
+  <div class="uk-container uk-width-1-1" uk-scrollspy="target: &gt; div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid="">
+      <div class="uk-width-2-3@m">
+      </div>
+    </div>
+    <div class="uk-flex uk-flex-center" uk-grid="">
+      <div class="uk-width-5-6@m">
+        <div class="uk-flex" uk-grid="">
+          
+        </div><!-- End flex -->
+      </div>
+    </div>
+  </div>
+</div>
 
+<!-- Pagination links -->
+<div class="uk-section animate__animated animate__fadeIn">
+  <div class="uk-container uk-width-1-1" uk-scrollspy="target: &gt; div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid="">
+      <div class="uk-width-2-3@m">
+          <ul class="uk-pagination">
+            <li>
+               
+               <a class="pagination-previous disabled" href="#">
+               <span class="uk-margin-small-right" uk-pagination-previous=""></span> Anterior
+               </a>
+               
+            </li>
+            <li class="uk-margin-auto-left">
+               
+               <a href="" class="pagination-next disabled">
+              Siguiente
+               <span class="uk-margin-small-left" uk-pagination-next=""></span>
+               </a> 
+            </li>
+         </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 <footer>
     <div class="uk-container">
