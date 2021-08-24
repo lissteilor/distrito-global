@@ -12,8 +12,8 @@ layout: default
   </div>
   <div class="uk-container uk-width-2-3@m">
   <article>
-    <p class="font-label-grey">{{page.date}}</p>
-    <p class="font-label-grey">{{page.category}}</p>
+    <p class="font-label-grey">{{ page.date | date_to_string }}</p>
+    <p class="font-label-black-soft">{{page.category}}</p>
     <h1 class="font-black" style="margin: 0 0 10px;">{{page.title}}</h1>
     <div class="dash {{ page.color}}">
       <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
