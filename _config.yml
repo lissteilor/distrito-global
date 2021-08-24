@@ -28,12 +28,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-languages: ["es", "en"]
-exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
-
 # Paginate
 paginate: 1
 paginate_path: "/news/page:num/"
+
+languages: ["es", "en"]
+exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 
 
 collections:
