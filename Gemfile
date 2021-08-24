@@ -30,4 +30,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Add translations
 gem 'jekyll-multiple-languages-plugin'
-gem 'jekyll-paginate'
