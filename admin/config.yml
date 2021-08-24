@@ -46,6 +46,10 @@ collections:
       - {label: "Título", name: title, widget: string}
       - {label: "Contenido", name: content_block, widget: markdown}
       - label: "Categoría"
+        name: "category"
+        widget: "select"
+        options: ["Noticias", "Eventos", "Prensa", "Global"]
+      - label: "Repetir categoría"
         name: "color"
         widget: "select"
         options:

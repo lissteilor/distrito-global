@@ -253,7 +253,12 @@ layout: default
               </a>
             </div>
             <!-- Content -->
-            <p class="font-label-black-soft" style="margin: 0 0 -20px;">Categoría</p>
+            <p class="font-label-black-soft" style="margin: 0 0 -20px;">{{n.category}}</p>
+            <div class="dash {{ n.color}}">
+              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="30" height="6" fill="none"/>
+              </svg>
+            </div>
             <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title}}</a></span></h3>
             <p class="font-label-grey">{{n.date}}</p>
           </div><!-- End 3 col -->
