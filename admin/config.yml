@@ -43,7 +43,7 @@ collections:
       - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: datetime, format: 'DD MMMM'}
+      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
       - {label: "Título", name: title, widget: string}
       - {label: "Contenido", name: content_block, widget: markdown}
       - label: "Categoría"
