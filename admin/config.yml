@@ -12,7 +12,7 @@ collections:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative'}
-      - {label: "Activo", name: active, widget: boolean}
+      - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Título", name: title, widget: string}
@@ -40,9 +40,10 @@ collections:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: datetime, format: 'DD MM'}
+      - {label: "Fecha", name: date, widget: datetime, format: 'DD MMMM'}
       - {label: "Título", name: title, widget: string}
       - {label: "Contenido", name: content_block, widget: markdown}
       - label: "Categoría"
