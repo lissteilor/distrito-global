@@ -10,5 +10,5 @@ title_en: global news
 content_block_en: este es el contenido
 category_es: Prensa
 category_en: Press
-color: dash-purple
+color: dash-green
 ---

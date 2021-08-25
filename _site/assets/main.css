@@ -251,6 +251,76 @@ cite {
   margin: 0 0 -20px; }
 
 /**
+ * Filters
+ */
+a.filter-link {
+  font-size: 0.7rem !important;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: #263238 !important;
+  margin-bottom: 20px; }
+
+a.filter-black-soft {
+  border-bottom: 4px solid #263238; }
+  a.filter-black-soft:hover {
+    background-color: #263238;
+    color: white !important; }
+
+a.filter-pink {
+  border-bottom: 4px solid #FF4FA3; }
+  a.filter-pink:hover {
+    background-color: #FF4FA3;
+    color: white !important; }
+
+a.filter-green {
+  border-bottom: 4px solid #51CB7B; }
+  a.filter-green:hover {
+    background-color: #51CB7B;
+    color: white !important; }
+
+a.filter-purple {
+  border-bottom: 4px solid #6738EB; }
+  a.filter-purple:hover {
+    background-color: #6738EB;
+    color: white !important; }
+
+a.filter-orange {
+  border-bottom: 4px solid #FF685A; }
+  a.filter-orange:hover {
+    background-color: #FF685A;
+    color: white !important; }
+
+a.filter-blue {
+  border-bottom: 4px solid #56CEDD; }
+  a.filter-blue:hover {
+    background-color: #56CEDD;
+    color: white !important; }
+
+.uk-subnav-pill > .uk-active > a.filter-black-soft {
+  background-color: #263238;
+  color: white !important; }
+
+.uk-subnav-pill > .uk-active > a.filter-pink {
+  background-color: #FF4FA3;
+  color: white !important; }
+
+.uk-subnav-pill > .uk-active > a.filter-green {
+  background-color: #51CB7B;
+  color: white !important; }
+
+.uk-subnav-pill > .uk-active > a.filter-purple {
+  background-color: #6738EB;
+  color: white !important; }
+
+.uk-subnav-pill > .uk-active > a.filter-orange {
+  background-color: #FF685A;
+  color: white !important; }
+
+.uk-subnav-pill > .uk-active > a.filter-blue {
+  background-color: #56CEDD;
+  color: white !important; }
+
+/**
  * Navbar
  */
 header.uk-sticky {

@@ -122,10 +122,10 @@ a.underline:hover::after, a.underline:focus::after, a.underline:active::after{
 .bg-black-soft{
  background: $black-soft;
 }
-
 .bg-grey-soft{
  background: $grey-soft;
 }
+
 
 #hero-page {
  &.uk-height-viewport{
@@ -302,6 +302,85 @@ cite {
  .featured-news{
    margin: 0 0 -20px;
  }
+
+ /**
+  * Filters
+  */
+a.filter-link {
+  font-size: 0.7rem !important;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: $black-soft !important;
+  margin-bottom: 20px;
+}
+
+a.filter-black-soft{
+  border-bottom: 4px solid $black-soft;
+  &:hover{
+    background-color: $black-soft;
+    color: white !important;
+  }
+}
+a.filter-pink{
+  border-bottom: 4px solid $pink;
+  &:hover{
+    background-color: $pink;
+    color: white !important;
+  }
+}
+a.filter-green{
+  border-bottom: 4px solid $green;
+  &:hover{
+    background-color: $green;
+    color: white !important;
+  }
+}
+a.filter-purple{
+  border-bottom: 4px solid $purple;
+  &:hover{
+    background-color: $purple;
+    color: white !important;
+  }
+}
+a.filter-orange{
+  border-bottom: 4px solid $orange;
+  &:hover{
+    background-color: $orange;
+    color: white !important;
+  }
+}
+a.filter-blue{
+  border-bottom: 4px solid $blue;
+  &:hover{
+    background-color: $blue;
+    color: white !important;
+  }
+}
+
+.uk-subnav-pill > .uk-active > a.filter-black-soft {
+  background-color: $black-soft;
+  color: white !important;
+}
+.uk-subnav-pill > .uk-active > a.filter-pink {
+  background-color: $pink;
+  color: white !important;
+}
+.uk-subnav-pill > .uk-active > a.filter-green {
+  background-color: $green;
+  color: white !important;
+}
+.uk-subnav-pill > .uk-active > a.filter-purple {
+  background-color: $purple;
+  color: white !important;
+}
+.uk-subnav-pill > .uk-active > a.filter-orange {
+  background-color: $orange;
+  color: white !important;
+}
+.uk-subnav-pill > .uk-active > a.filter-blue {
+  background-color: $blue;
+  color: white !important;
+}
 
 /**
  * Navbar

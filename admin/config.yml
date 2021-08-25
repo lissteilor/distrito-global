@@ -106,18 +106,18 @@ collections:
       - label: "Categoría ES"
         name: "category_es"
         widget: "select"
-        options: ["Noticias", "Eventos", "Prensa", "Global"]
+        options: ["Noticias", "Prensa", "Eventos", "Global"]
       - label: "Categoría EN"
         name: "category_en"
         widget: "select"
-        options: ["News", "Events", "Press", "Global"]
+        options: ["News", "Press", "Events", "Global"]
       - label: "Repetir categoría"
         name: "color"
         widget: "select"
         options:
           - { label: "Noticias", value: "dash-pink" }
-          - { label: "Eventos", value: "dash-green" }
-          - { label: "Prensa", value: "dash-purple" }
+          - { label: "Prensa", value: "dash-green" }
+          - { label: "Eventos", value: "dash-purple" }
           - { label: "Global", value: "dash-orange" }
   - name: "config"
     label: "Config"
