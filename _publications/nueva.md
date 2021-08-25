@@ -1,6 +1,6 @@
 ---
 layout: publication
-active: false
+active: true
 image_slider: /assets/uploads/thumbnail.jpg
 image_hero: /assets/uploads/hero.jpg
 title_es: Nueva

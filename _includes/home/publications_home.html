@@ -13,7 +13,8 @@
             <div class="uk-position-relative">
                 <div class="uk-slider-container">
                     <ul class="uk-slider-items uk-child-width-1-1">
-                      {% for p in site.publications %}
+                      {% assign active_publications = site.publications | where: "active", true %}
+                      {% for p in active_publications %}
                         <li>
                           <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
                               <div class="uk-card-media-left uk-cover-container">
