@@ -220,8 +220,26 @@ cite {
 /**
  * Images and svgs
  */
+.uk-card-body.bg-pink {
+  background-color: #FF4FA3; }
+
+.uk-card-body.bg-green {
+  background-color: #51CB7B; }
+
+.uk-card-body.bg-purple {
+  background-color: #6738EB; }
+
+.uk-card-body.bg-orange {
+  background-color: #FF685A; }
+
+.uk-card-body.bg-blue {
+  background-color: #56CEDD; }
+
 .dash {
   margin: 20px 0 10px; }
+
+.dash-white > svg > rect {
+  fill: white !important; }
 
 .dash-black > svg > rect {
   fill: #08141A !important; }

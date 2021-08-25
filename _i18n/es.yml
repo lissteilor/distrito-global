@@ -26,6 +26,8 @@ home:
     title: Últimas publicaciones
     description: Contribuimos al desarrollo de conocimiento que aporte nuevas miradas al debate público sobre derechos económicos y sociales, con perspectiva de género y un enfoque socioambiental.
     button: Ver todas
+    read: Leer publicación
+    download: Descargar
   news:
     title: Noticias
     description: ¿Quieres enterarte de las últimas novedades del Distrito Global? Aquí te contamos sobre eventos y actividades, apariciones en prensa y las noticias clave para la región y el mundo.
@@ -72,6 +74,8 @@ initiatives:
   articles: Artículos
 publications:
   breadcrumb: Publicaciones
+  read_index: Leer
+  download_index: Descargar
   categories:
     all: Todas
     category_1: Constitución
@@ -82,8 +86,8 @@ publications:
     pagination:
       prev: Anterior
       next: Siguiente
-    download: Descargar publicación
-    publications: Otras publicaciones
+  download: Descargar publicación
+  publications: Otras publicaciones
 news:
   breadcrumb: Noticias
   categories:

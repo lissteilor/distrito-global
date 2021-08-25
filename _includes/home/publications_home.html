@@ -13,39 +13,41 @@
             <div class="uk-position-relative">
                 <div class="uk-slider-container">
                     <ul class="uk-slider-items uk-child-width-1-1">
+                      {% for p in site.publications %}
                         <li>
                           <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
                               <div class="uk-card-media-left uk-cover-container">
-                                  <img src="" alt="" uk-cover>
+                                  <img src="{{p.image_slider}}" alt="" uk-cover>
                                   <canvas width="600" height="400"></canvas>
                               </div>
                               <div>
-                                  <div class="uk-card-body bg-black-soft">
-                                      <p class="font-label-white" style="margin: 0 0 -20px;">Publicaciones · Categorías</p>
-                                      <h3 class="font-white">Media Left</h3>
-                                      <p class="font-white" style="margin-bottom:30px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                                      <a href="" class="uk-button uk-button-small button-line-white">Leer publicación</a>
-                                      <a href="" class="uk-button uk-button-small button-line-white">Descargar ICONO</a>
+                                  <div class="uk-card-body {{p.color}}">
+                                    {% if site.lang == "es" %}
+                                        <p class="font-label-white" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_es}}</p>
+                                        <div class="dash dash-white">
+                                          <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="6" fill="none"/>
+                                          </svg>
+                                        </div>
+                                        <h3 class="font-white">{{p.title_es}}</h3>
+                                        <p class="font-white" style="margin-bottom:30px;">{{p.brief_es}}</p>
+                                    {% elsif site.lang == "en" %}
+                                        <p class="font-label-white" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_en}}</p>
+                                        <div class="dash dash-white">
+                                          <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="6" fill="none"/>
+                                          </svg>
+                                        </div>
+                                        <h3 class="font-white">{{p.title_en}}</h3>
+                                        <p class="font-white" style="margin-bottom:30px;">{{p.brief_en}}</p>
+                                    {% endif %}
+                                      <a href="{{p.url}}" class="uk-button uk-button-small button-line-white">{% t home.publications.read %}</a>
+                                      <a href="{{p.pdf_publication}}" class="uk-button uk-button-small button-line-white">{% t home.publications.download %}</a>
                                   </div>
                               </div>
                           </div>
                         </li>
-                        <li>
-                          <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
-                              <div class="uk-card-media-left uk-cover-container">
-                                  <img src="" alt="" uk-cover>
-                                  <canvas width="600" height="400"></canvas>
-                              </div>
-                              <div>
-                                  <div class="uk-card-body">
-                                      <h3 class="uk-card-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</h3>
-                                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-
-                                  </div>
-                              </div>
-                          </div>
-                        </li>
+                        {% endfor %}
                     </ul>
                 </div>
                 <div class="uk-hidden@s uk-light">

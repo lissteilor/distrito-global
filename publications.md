@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-hero_desktop: hero-publications-desktop.jpg
-hero_mobile: hero-publications-mobile.jpg
+hero_desktop: hero-desktop.jpg
+hero_mobile: hero-mobile.jpg
 title_en:
 title_es: Nuestras publicaciones
 subtitle_en:

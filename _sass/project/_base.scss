@@ -268,11 +268,29 @@ cite {
 /**
  * Images and svgs
  */
+.uk-card-body.bg-pink{
+ background-color: $pink;
+}
+.uk-card-body.bg-green{
+  background-color: $green;
+}
+.uk-card-body.bg-purple{
+  background-color: $purple;
+}
+.uk-card-body.bg-orange{
+  background-color: $orange;
+}
+.uk-card-body.bg-blue{
+  background-color: $blue;
+}
+
 
 .dash{
   margin: 20px 0 10px;
 }
-
+.dash-white > svg > rect{
+  fill: white !important;
+}
 .dash-black > svg > rect{
   fill: $black !important;
 }
