@@ -182,12 +182,22 @@
   <div class="uk-container uk-width-1-1" uk-scrollspy="target: &gt; div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid="">
       <div class="uk-width-2-3@m">
+        <div uk-filter="target: .js-filter">
+        <ul class="uk-subnav uk-subnav-pill">
+            <li class="uk-active" uk-filter-control=""><a href="#">Todas</a></li>
+            <li uk-filter-control="[data='News']"><a href="#">Noticias</a></li>
+            <li uk-filter-control="[data='Events']"><a href="#">Prensa</a></li>
+            <li uk-filter-control="[data='Press']"><a href="#">Eventos</a></li>
+            <li uk-filter-control="[data='Global']"><a href="#">Global</a></li>
+        </ul>
       </div>
     </div>
     <div class="uk-flex uk-flex-center" uk-grid="">
       <div class="uk-width-5-6@m">
         <div class="uk-flex" uk-grid="">
+          <ul class="js-filter">
           
+          </ul>
         </div><!-- End flex -->
       </div>
     </div>
@@ -218,6 +228,7 @@
       </div>
     </div>
   </div>
+</div>
 </div>
 
 <footer>

@@ -98,10 +98,8 @@ news:
   news: Otras noticias
 alliances:
   categories:
-    category_1: Categoría 1
-    category_2: Categoría 2
-    category_3: Categoría 3
-    category_4: Categoría 4
+    category_1: Internacionales
+    category_2: Nacionales
 join:
   title: ¿Quieres aportar al avance de los derechos económicos y sociales en Chile y América Latina?
   description: Recibimos solicitudes de prácticas, pasantías y voluntariados todo el año para apoyarnos en tareas de investigación, diseño y comunicaciones. Para cargos remunerados las postulaciones sólo se realizarán al momento de abrir nuevas convocatorias. Si te interesa conocer sobre futuras oportunidades laborales en GI-ESCR, completa este formulario.

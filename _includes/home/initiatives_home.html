@@ -1,6 +1,12 @@
 <!--Initiatives-->
 <div id="initiatives" class="uk-section animate__animated animate__fadeIn animate__delay-4s animate__fast">
   <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+      <div class="uk-width-2-3@m">
+        <h2 class="font-black">{% t home.initiatives.title %}</h2>
+        <p class="font-lead">{% t home.initiatives.description %}</p>
+      </div>
+    </div>
     <div class="uk-flex uk-flex-center" uk-grid>
       <div class="uk-width-5-6@m">
         <!--highlighted initiatives-->
@@ -31,7 +37,8 @@
               {% endif %}
           </div><!-- End 2 col -->
           {% endfor %}
-          {% for a in site.initiatives-articles %}
+          {% assign active_initiatives-article = site.initiatives-article | where: "active", true %}
+          {% for a in active_initiatives-article %}
           <!-- 2 col -->
           <div class="uk-width-1-2@m">
             <!-- Image -->
@@ -59,8 +66,9 @@
           {% endfor %}
         </div><!-- End flex -->
         <!--Other Initiatives-->
-        <div class="uk-flex" uk-grid>
-          {% for i in site.initiatives %}
+        <div class="uk-flex uk-flex-center" uk-grid>
+          {% assign active_initiatives = site.initiatives | where: "active", true %}
+          {% for i in active_initiatives %}
           <!-- 3 col -->
           <div class="uk-width-1-3@m">
             <!-- Image -->
@@ -87,6 +95,11 @@
           </div><!-- End 3 col -->
           {% endfor %}
         </div><!-- End flex -->
+      </div>
+    </div>
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+      <div class="uk-width-1-1">
+        <a href="{{ site.baseurl }}/initiatives" class="uk-button button-bg-black">{% t home.initiatives.button %}</a>
       </div>
     </div>
   </div>

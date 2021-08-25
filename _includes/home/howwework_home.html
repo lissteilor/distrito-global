@@ -1,0 +1,55 @@
+<!--How we work Desktop-->
+<div class="uk-visible@m uk-section bg-black-soft animate__animated animate__fadeIn">
+  <div class="uk-container uk-width-1-1@m" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center uk-flex-middle" uk-grid>
+      <div class="uk-width-1-4@m">
+        <h2 class="font-white">{% t home.how_we_work.title %}</h2>
+        <p class="font-white font-lead">{% t home.how_we_work.description %}</p>
+        <a href="{{ site.baseurl }}/about" class="uk-button button-line-white">{% t home.how_we_work.button %}</a>
+      </div>
+      <div class="uk-width-1-4@m uk-text-center">
+        <img data-src="../assets/images/icon-action-1-white.svg" uk-img>
+        <p class="font-white">{% t home.how_we_work.action_1 %}</p>
+      </div>
+      <div class="uk-width-1-4@m uk-text-center">
+        <img data-src="../assets/images/icon-action-2-white.svg" uk-img>
+        <p class="font-white">{% t home.how_we_work.action_2 %}</p>
+      </div>
+      <div class="uk-width-1-4@m uk-text-center">
+        <img data-src="../assets/images/icon-action-3-white.svg" uk-img>
+        <p class="font-white">{% t home.how_we_work.action_3 %}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--How we work Mobile-->
+<div class="uk-hidden@m uk-section bg-black-soft animate__animated animate__fadeIn">
+  <div class="uk-container uk-width-1-1@m" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+      <div class="uk-width-1-1">
+        <h2 class="font-white">{% t home.how_we_work.title %}</h2>
+        <p class="font-white font-lead">{% t home.how_we_work.description %}</p>
+      </div>
+    </div>
+    <div class="uk-flex uk-flex-center" uk-grid>
+      <div class="uk-width-1-3 uk-text-center">
+        <img data-src="../assets/images/icon-action-1-white.svg" uk-img>
+        <p class="font-white">{% t home.how_we_work.action_1 %}</p>
+      </div>
+      <div class="uk-width-1-3 uk-text-center">
+        <img data-src="../assets/images/icon-action-2-white.svg" uk-img>
+        <p class="font-white">{% t home.how_we_work.action_2 %}</p>
+      </div>
+      <div class="uk-width-1-3 uk-text-center">
+        <img data-src="../assets/images/icon-action-3-white.svg" uk-img>
+        <p class="font-white">{% t home.how_we_work.action_3 %}</p>
+      </div>
+    </div>
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+      <div class="uk-width-1-1">
+        <a href="{{ site.baseurl }}/about" class="uk-button button-line-white">{% t home.how_we_work.button %}</a>
+      </div>
+    </div>
+  </div>
+</div>

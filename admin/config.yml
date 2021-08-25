@@ -47,9 +47,11 @@ collections:
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Título ES", name: title_es, widget: string}
       - {label: "Bajada ES", name: brief_es, widget: string}
+      - {label: "Botón ES", name: button_es, widget: markdown}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Botón EN", name: button_en, widget: markdown}
       - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
   - name: 'chapter'
     label: 'Capítulo Libro'
@@ -79,9 +81,11 @@ collections:
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Título ES", name: title_es, widget: string}
       - {label: "Bajada ES", name: brief_es, widget: string}
+      - {label: "Botón ES", name: button_es, widget: markdown}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Botón EN", name: button_en, widget: markdown}
       - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
   - name: 'news'
     label: 'Noticias'
@@ -106,7 +110,7 @@ collections:
       - label: "Categoría EN"
         name: "category_en"
         widget: "select"
-        options: ["News", "Events", "Prensa", "Global"]
+        options: ["News", "Events", "Press", "Global"]
       - label: "Repetir categoría"
         name: "color"
         widget: "select"
@@ -132,12 +136,10 @@ collections:
               - label: "Categoría"
                 name: "category"
                 widget: "select"
-                options: ["Categoría 1", "Categoría 2", "Categoría 3", "Categoría 4"]
+                options: ["Categoría 1", "Categoría 2"]
               - label: "Repetir categoría"
                 name: "color"
                 widget: "select"
                 options:
                   - { label: "Categoría 1", value: "dash-pink" }
                   - { label: "Categoría 2", value: "dash-green" }
-                  - { label: "Categoría 3", value: "dash-purple" }
-                  - { label: "Categoría 4", value: "dash-orange" }
