@@ -43,6 +43,12 @@ h3 {
   color: white;
   line-height: 1.5; }
 
+.welcome-page-subtitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  line-height: 1.5; }
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
