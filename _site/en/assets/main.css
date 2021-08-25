@@ -261,64 +261,82 @@ a.filter-link {
   margin-bottom: 20px; }
 
 a.filter-black-soft {
-  border-bottom: 4px solid #263238; }
-  a.filter-black-soft:hover {
+  border-bottom: 4px solid #263238;
+  transition: all 0.5s; }
+  a.filter-black-soft:hover, a.filter-black-soft:focus {
     background-color: #263238;
-    color: white !important; }
+    color: white !important;
+    border-bottom: 4px solid #263238; }
 
 a.filter-pink {
-  border-bottom: 4px solid #FF4FA3; }
-  a.filter-pink:hover {
+  border-bottom: 4px solid #263238;
+  transition: all 0.5s; }
+  a.filter-pink:hover, a.filter-pink:focus {
     background-color: #FF4FA3;
-    color: white !important; }
+    color: white !important;
+    border-bottom: 4px solid #FF4FA3; }
 
 a.filter-green {
-  border-bottom: 4px solid #51CB7B; }
-  a.filter-green:hover {
+  border-bottom: 4px solid #263238;
+  transition: all 0.5s; }
+  a.filter-green:hover, a.filter-green:focus {
     background-color: #51CB7B;
-    color: white !important; }
+    color: white !important;
+    border-bottom: 4px solid #51CB7B; }
 
 a.filter-purple {
-  border-bottom: 4px solid #6738EB; }
-  a.filter-purple:hover {
+  border-bottom: 4px solid #263238;
+  transition: all 0.5s; }
+  a.filter-purple:hover, a.filter-purple:focus {
     background-color: #6738EB;
-    color: white !important; }
+    color: white !important;
+    border-bottom: 4px solid #6738EB; }
 
 a.filter-orange {
-  border-bottom: 4px solid #FF685A; }
-  a.filter-orange:hover {
+  border-bottom: 4px solid #263238;
+  transition: all 0.5s; }
+  a.filter-orange:hover, a.filter-orange:focus {
     background-color: #FF685A;
-    color: white !important; }
+    color: white !important;
+    border-bottom: 4px solid #FF685A; }
 
 a.filter-blue {
-  border-bottom: 4px solid #56CEDD; }
-  a.filter-blue:hover {
+  border-bottom: 4px solid #263238;
+  transition: all 0.5s; }
+  a.filter-blue:hover, a.filter-blue:focus {
     background-color: #56CEDD;
-    color: white !important; }
+    color: white !important;
+    border-bottom: 4px solid #56CEDD; }
 
 .uk-subnav-pill > .uk-active > a.filter-black-soft {
   background-color: #263238;
-  color: white !important; }
+  color: white !important;
+  border-bottom: 4px solid #263238; }
 
 .uk-subnav-pill > .uk-active > a.filter-pink {
   background-color: #FF4FA3;
-  color: white !important; }
+  color: white !important;
+  border-bottom: 4px solid #FF4FA3; }
 
 .uk-subnav-pill > .uk-active > a.filter-green {
   background-color: #51CB7B;
-  color: white !important; }
+  color: white !important;
+  border-bottom: 4px solid #51CB7B; }
 
 .uk-subnav-pill > .uk-active > a.filter-purple {
   background-color: #6738EB;
-  color: white !important; }
+  color: white !important;
+  border-bottom: 4px solid #6738EB; }
 
 .uk-subnav-pill > .uk-active > a.filter-orange {
   background-color: #FF685A;
-  color: white !important; }
+  color: white !important;
+  border-bottom: 4px solid #FF685A; }
 
 .uk-subnav-pill > .uk-active > a.filter-blue {
   background-color: #56CEDD;
-  color: white !important; }
+  color: white !important;
+  border-bottom: 4px solid #56CEDD; }
 
 /**
  * Navbar

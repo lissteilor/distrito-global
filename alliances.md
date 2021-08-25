@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /alliances/
-hero_desktop: hero-alliances-desktop.jpg
-hero_mobile: hero-alliances-mobile.jpg
+hero_desktop: hero-desktop.jpg
+hero_mobile: hero-mobile.jpg
 title_en: Our alliances
 title_es: Nuestras alianzas
 subtitle_en:

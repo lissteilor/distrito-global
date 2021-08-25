@@ -1,4 +1,9 @@
 items:
-  - name: Public Citizen
-    category: Categoría 1
-    color: dash_pink
+  - name: Name
+    category_es: Internacionales
+    category_en: International
+    color: dash-pink
+  - name: Name
+    category_es: Nacionales
+    category_en: National
+    color: dash-green

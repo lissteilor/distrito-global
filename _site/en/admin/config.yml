@@ -134,12 +134,16 @@ collections:
             fields:
               - {label: Nombre, name: name, widget: string}
               - label: "Categoría"
-                name: "category"
+                name: "category_es"
                 widget: "select"
-                options: ["Categoría 1", "Categoría 2"]
+                options: ["Internacionales", "Nacionales"]
+              - label: "Categoría"
+                name: "category_en"
+                widget: "select"
+                options: ["International", "National"]
               - label: "Repetir categoría"
                 name: "color"
                 widget: "select"
                 options:
-                  - { label: "Categoría 1", value: "dash-pink" }
-                  - { label: "Categoría 2", value: "dash-green" }
+                  - { label: "Internacionales", value: "dash-pink" }
+                  - { label: "Nacionales", value: "dash-green" }

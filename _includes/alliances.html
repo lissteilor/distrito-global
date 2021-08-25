@@ -1,0 +1,33 @@
+<!--Alliances-->
+<div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
+  <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div uk-filter="target: .js-filter">
+      <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+        <div class="uk-width-2-3@m">
+          <ul class="uk-subnav uk-subnav-pill uk-flex uk-flex-center">
+              <li class="uk-active" uk-filter-control="[data-color='International']"><a class="filter-link filter-pink" href="#">{% t alliances.categories.category_1 %}</a></li>
+              <li uk-filter-control="[data-color='National']"><a class="filter-link filter-green" href="#">{% t alliances.categories.category_2 %}</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="uk-flex uk-flex-center" uk-grid>
+        <div class="uk-width-5-6@m">
+          <div class="js-filter uk-flex" uk-grid>
+            {% for a in site.data.alliances.items %}
+            <!-- 4 col -->
+            <div data-color="{{a.category_en}}" class="uk-width-1-2 uk-width-1-4@m">
+              <!-- Content -->
+                <div class="dash {{a.color}}">
+                  <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="30" height="6" fill="none"/>
+                  </svg>
+                </div>
+                <h3>{{a.name}}</h3>
+            </div><!-- End 4 col -->
+            {% endfor %}
+          </div><!-- End flex -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
