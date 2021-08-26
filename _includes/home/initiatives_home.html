@@ -9,9 +9,6 @@
     </div>
     <div class="uk-flex uk-flex-center" uk-grid>
       <div class="uk-width-5-6@m">
-        <!--highlighted initiatives-->
-        <div class="uk-flex uk-flex-center" uk-grid>
-        </div><!-- End flex -->
         <!--Other Initiatives-->
         <div class="uk-flex uk-flex-center" uk-grid>
           {% assign active_initiatives = site.initiatives | where: "active", true %}
@@ -33,7 +30,7 @@
               </div>
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
-                <p>{{i.brief_es}}</p>
+                <p>{{i.summary_es}}</p>
                 {% if {{i.button_es}} != null %}
                 <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
                 {% endif %}
@@ -43,10 +40,10 @@
                   {% else %}
                   <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
                 {% endif %}
-                {% if {{i.brief_en}} != null %}
-                  <p>{{i.brief_en}}</p>
+                {% if {{i.summary_en}} != null %}
+                  <p>{{i.summary_en}}</p>
                   {% else %}
-                  <p>{{i.brief_es}}</p>
+                  <p>{{i.summary_es}}</p>
                 {% endif %}
                 {% if {{i.button_en}} != null %}
                   <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_en}}</a>
