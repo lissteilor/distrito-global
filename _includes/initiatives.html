@@ -3,91 +3,10 @@
   <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div class="uk-flex uk-flex-center" uk-grid>
       <div class="uk-width-5-6@m">
-        <!--book-->
-        <div class="uk-flex uk-flex-center" uk-grid>
-          {% assign all_initiatives-book = site.initiatives | where: "layout", "initiative-book" %}
-          {% for b in all_initiatives-book %}
-          <!-- 2 col -->
-          <div class="uk-width-1-2@m">
-            <!-- Image -->
-            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
-              <a href="{{b.url}}">
-                <img data-src="{{b.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
-              </a>
-            </div>
-            <!-- Content -->
-            <div class="dash dash-black">
-              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="30" height="6" fill="none"/>
-              </svg>
-            </div>
-              {% if site.lang == "es" %}
-                <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title_es}}</a></span></h3>
-                <p>{{b.brief_es}}</p>
-                <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_es}}</a>
-              {% elsif site.lang == "en" %}
-                {% if {{b.title_en}} != null %}
-                  <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title_en}}</a></span></h3>
-                  {% else %}
-                  <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title_es}}</a></span></h3>
-                {% endif %}
-                {% if {{b.brief_en}} != null %}
-                  <p>{{b.brief_en}}</p>
-                  {% else %}
-                  <p>{{b.brief_es}}</p>
-                {% endif %}
-                {% if {{b.button_en}} != null %}
-                  <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_en}}</a>
-                  {% else %}
-                  <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_es}}</a>
-                {% endif %}
-              {% endif %}
-          </div><!-- End 2 col -->
-          {% endfor %}
-          {% assign all_initiatives-blog = site.initiatives | where: "layout", "initiative-blog" %}
-          {% for a in all_initiatives-blog %}
-          <!-- 2 col -->
-          <div class="uk-width-1-2@m">
-            <!-- Image -->
-            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
-              <a href="{{a.url}}">
-                <img data-src="{{a.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
-              </a>
-            </div>
-            <!-- Content -->
-            <div class="dash dash-black">
-              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="30" height="6" fill="none"/>
-              </svg>
-            </div>
-              {% if site.lang == "es" %}
-                <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
-                <p>{{a.brief_es}}</p>
-                <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_es}}</a>
-              {% elsif site.lang == "en" %}
-                {% if {{a.title_en}} != null %}
-                  <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_en}}</a></span></h3>
-                  {% else %}
-                  <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
-                {% endif %}
-                {% if {{a.brief_en}} != null %}
-                  <p>{{a.brief_en}}</p>
-                  {% else %}
-                  <p>{{a.brief_es}}</p>
-                {% endif %}
-                {% if {{a.button_en}} != null %}
-                  <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_en}}</a>
-                  {% else %}
-                  <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_es}}</a>
-                {% endif %}
-              {% endif %}
-          </div><!-- End 2 col -->
-          {% endfor %}
-        </div><!-- End flex -->
-        <!--Other Initiatives-->
+        <!--Initiatives-->
         <div class="uk-flex" uk-grid>
-          {% assign all_initiatives-basic = site.initiatives | where: "layout", "initiative-basic" %}
-          {% for i in all_initiatives-basic %}
+          {% assign active_initiatives = site.initiatives | where: "active", true %}
+          {% for i in active_initiatives %}
           <!-- 3 col -->
           <div class="uk-width-1-3@m">
             <!-- Image -->
@@ -106,6 +25,9 @@
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
                 <p>{{i.brief_es}}</p>
+                {% if {{i.button_es}} != null %}
+                <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
+                {% endif %}
               {% elsif site.lang == "en" %}
                 {% if {{i.title_en}} != null %}
                   <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_en}}</a></span></h3>
@@ -116,6 +38,56 @@
                   <p>{{i.brief_en}}</p>
                   {% else %}
                   <p>{{i.brief_es}}</p>
+                {% endif %}
+                {% if {{i.button_en}} != null %}
+                  <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_en}}</a>
+                  {% else %}
+                  <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
+                {% endif %}
+              {% endif %}
+            </div>
+          </div><!-- End 3 col -->
+          {% endfor %}
+        </div><!-- End flex -->
+        <div class="uk-flex" uk-grid>
+          {% assign inactive_initiatives = site.initiatives | where: "active", false %}
+          {% for n in inactive_initiatives %}
+          <!-- 3 col -->
+          <div class="uk-width-1-3@m">
+            <!-- Image -->
+            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+              <a href="{{i.url}}">
+                <img data-src="{{i.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              </a>
+            </div>
+            <!-- Content -->
+            <div>
+              <div class="dash dash-black">
+                <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="30" height="6" fill="none"/>
+                </svg>
+              </div>
+              {% if site.lang == "es" %}
+                <h3 class="link-highlighted"><span><a href="{{i.url}}">{{n.title_es}}</a></span></h3>
+                <p>{{n.brief_es}}</p>
+                {% if {{n.button_es}} != null %}
+                <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_es}}</a>
+                {% endif %}
+              {% elsif site.lang == "en" %}
+                {% if {{n.title_en}} != null %}
+                  <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_en}}</a></span></h3>
+                  {% else %}
+                  <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
+                {% endif %}
+                {% if {{n.brief_en}} != null %}
+                  <p>{{n.brief_en}}</p>
+                  {% else %}
+                  <p>{{n.brief_es}}</p>
+                {% endif %}
+                {% if {{n.button_en}} != null %}
+                  <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_en}}</a>
+                  {% else %}
+                  <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_es}}</a>
                 {% endif %}
               {% endif %}
             </div>
