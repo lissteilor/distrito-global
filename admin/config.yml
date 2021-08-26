@@ -19,10 +19,12 @@ collections:
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Resumen Home ES", name: summary_es, widget: string, required: false}
       - {label: "Bajada ES", name: brief_es, widget: string}
       - {label: "Botón ES", name: button_es, widget: string, required: false}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Resumen Home EN", name: summary_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
       - {label: "Botón EN", name: button_en, widget: string, required: false}
       - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}

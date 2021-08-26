@@ -31,7 +31,7 @@
                                           </svg>
                                         </div>
                                         <h3 class="font-white">{{p.title_es}}</h3>
-                                        <p class="font-white" style="margin-bottom:30px;">{{p.brief_es}}</p>
+                                        <p class="font-white" style="margin-bottom:30px;">{{p.summary_es}}</p>
                                     {% elsif site.lang == "en" %}
                                         {% if {{p.category_en}} != null %}
                                           <p class="font-label-white" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_en}}</p>
@@ -49,9 +49,9 @@
                                           <h3 class="font-white">{{p.title_es}}</h3>
                                         {% endif %}
                                         {% if {{p.brief_en}} != null %}
-                                          <p class="font-white" style="margin-bottom:30px;">{{p.brief_en}}</p>
+                                          <p class="font-white" style="margin-bottom:30px;">{{p.summary_en}}</p>
                                           {% else %}
-                                          <p class="font-white" style="margin-bottom:30px;">{{p.brief_es}}</p>
+                                          <p class="font-white" style="margin-bottom:30px;">{{p.summary_es}}</p>
                                         {% endif %}
                                     {% endif %}
                                       <a href="{{p.url}}" class="uk-button uk-button-small button-line-white">{% t home.publications.read %}</a>
