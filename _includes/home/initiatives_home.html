@@ -31,9 +31,21 @@
                 <p>{{b.brief_es}}</p>
                 <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_es}}</a>
               {% elsif site.lang == "en" %}
-                <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title_en}}</a></span></h3>
-                <p>{{b.brief_en}}</p>
-                <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_en}}</a>
+                {% if {{b.title_en}} != null %}
+                  <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title_en}}</a></span></h3>
+                  {% else %}
+                  <h3 class="link-highlighted"><span><a href="{{b.url}}">{{b.title_es}}</a></span></h3>
+                {% endif %}
+                {% if {{b.brief_en}} != null %}
+                  <p>{{b.brief_en}}</p>
+                  {% else %}
+                  <p>{{b.brief_es}}</p>
+                {% endif %}
+                {% if {{b.button_en}} != null %}
+                  <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_en}}</a>
+                  {% else %}
+                  <a href="{{b.url}}" class="uk-button uk-button-small button-line-black">{{b.button_es}}</a>
+                {% endif %}
               {% endif %}
           </div><!-- End 2 col -->
           {% endfor %}
@@ -58,9 +70,21 @@
                 <p>{{a.brief_es}}</p>
                 <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_es}}</a>
               {% elsif site.lang == "en" %}
-                <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_en}}</a></span></h3>
-                <p>{{a.brief_en}}</p>
-                <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_en}}</a>
+                {% if {{a.title_en}} != null %}
+                  <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_en}}</a></span></h3>
+                  {% else %}
+                  <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
+                {% endif %}
+                {% if {{a.brief_en}} != null %}
+                  <p>{{a.brief_en}}</p>
+                  {% else %}
+                  <p>{{a.brief_es}}</p>
+                {% endif %}
+                {% if {{a.button_en}} != null %}
+                  <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_en}}</a>
+                  {% else %}
+                  <a href="{{a.url}}" class="uk-button uk-button-small button-line-black">{{a.button_es}}</a>
+                {% endif %}
               {% endif %}
           </div><!-- End 2 col -->
           {% endfor %}
@@ -88,8 +112,16 @@
                 <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
                 <p>{{i.brief_es}}</p>
               {% elsif site.lang == "en" %}
-                <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_en}}</a></span></h3>
-                <p>{{i.brief_en}}</p>
+                {% if {{i.title_en}} != null %}
+                  <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_en}}</a></span></h3>
+                  {% else %}
+                  <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
+                {% endif %}
+                {% if {{i.brief_en}} != null %}
+                  <p>{{i.brief_en}}</p>
+                  {% else %}
+                  <p>{{i.brief_es}}</p>
+                {% endif %}
               {% endif %}
             </div>
           </div><!-- End 3 col -->

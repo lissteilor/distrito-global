@@ -6,89 +6,59 @@ layout: default
   data-src="{{page.image_hero}}" uk-parallax="bgy: -100;" uk-img>
 </div>
 
+<!--Content-->
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
-    <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title}}</p>
+    {% if site.lang == "es" %}
+      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
+    {% elsif site.lang == "en" %}
+      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+    {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">
   <article>
-    <h1 class="font-black" style="margin: 0 0 10px;">{{page.title}}</h1>
-    <p class="font-lead">{{page.brief}}</p>
-    <div class="dash dash-black">
-      <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="30" height="6" fill="none"/>
-      </svg>
-    </div>
-    <div class="uk-text-justify">
-      {{page.content_block}}
-    </div>
-    {% if {{page.external_link}} != null %}
-    <div class="uk-flex uk-flex-right"
-      <div class="uk-with-1-1">
-        <a href="{{page.external_link}}" class="uk-button button-bg-black">{% t initiatives.external_link %}</a>
+    {% if site.lang == "es" %}
+      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
+      <p class="font-lead">{{page.brief_es}}</p>
+      <div class="dash dash-black">
+        <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="30" height="6" fill="none"/>
+        </svg>
       </div>
-    </div>
+      <div class="uk-text-justify">
+        {{page.content_block_es}}
+      </div>
+    {% elsif site.lang == "en" %}
+      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+      <p class="font-lead">{{page.brief_en}}</p>
+      <div class="dash dash-black">
+        <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="30" height="6" fill="none"/>
+        </svg>
+      </div>
+      <div class="uk-text-justify">
+        {{page.content_block_en}}
+      </div>
     {% endif %}
     </article>
   </div>
 </div>
 
-
-<div class="uk-section animate__animated animate__fadeIn">
-  <div class="uk-container">
+<!--Chapters-->
+<div class="uk-section bg-grey-soft animate__animated animate__fadeIn">
+  <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-2-3@m">
-        <h3 class="font-black">{% t initiatives.alliances %}</h3>
+        <h2 class="font-black">{% t initiatives.chapters.title_section %}</h2>
+        <p class="font-lead">{% t initiatives.chapters.description_section %}</p>
+        <a href="{{ site.baseurl }}/news" class="uk-button button-bg-black">{% t initiatives.chapters.download %}</a>
       </div>
-      <div class="uk-width-3-4 uk-width-1-2@m">
-        <div uk-slider>
-          <div class="uk-position-relative">
-            <div class="uk-slider-container uk-light">
-                <ul class="uk-slider-items uk-child-width-1-2 uk-grid">
-                  {% if {{page.alliance_1_org}} != null %}
-                  <li>
-                    <div class="uk-panel">
-                        <img data-src="{{page.alliance_1_logo}}" title="{{page.alliance_1_org}}" uk-img>
-                    </div>
-                  </li>
-                  {% endif %}
-                  {% if {{page.alliance_2_org}} != null %}
-                  <li>
-                    <div class="uk-panel">
-                        <img data-src="{{page.alliance_2_logo}}" title="{{page.alliance_2_org}}" uk-img>
-                    </div>
-                  </li>
-                  {% endif %}
-                  {% if {{page.alliance_3_org}} != null %}
-                  <li>
-                    <div class="uk-panel">
-                        <img data-src="{{page.alliance_3_logo}}" title="{{page.alliance_3_org}}" uk-img>
-                    </div>
-                  </li>
-                  {% endif %}
-                  {% if {{page.alliance_4_org}} != null %}
-                  <li>
-                    <div class="uk-panel">
-                        <img data-src="{{page.alliance_4_logo}}" title="{{page.alliance_4_org}}" uk-img>
-                    </div>
-                  </li>
-                  {% endif %}
-                  {% if {{page.alliance_5_org}} != null %}
-                    <li>
-                      <div class="uk-panel">
-                          <img data-src="{{page.alliance_5_logo}}" title="{{page.alliance_5_org}}" uk-img>
-                      </div>
-                    </li>
-                  {% endif %}
-                </ul>
-            </div>
+    </div>
+    <div class="uk-flex uk-flex-center" uk-grid>
+      <div class="uk-width-5-6@m">
+        <div class="uk-flex uk-flex-center" uk-grid>
 
-            <div>
-                <a class="uk-position-center-left-out uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
-                <a class="uk-position-center-right-out uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
-            </div>
-          </div>
-        </div>
+        </div><!-- End flex -->
       </div>
     </div>
   </div>

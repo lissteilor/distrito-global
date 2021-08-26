@@ -29,16 +29,32 @@ layout: default
         {{page.content_block_es}}
       </div>
     {% elsif site.lang == "en" %}
-      <p class="font-label-black-soft">{{page.category_en}}</p>
-      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
-      <p class="font-lead">{{page.brief_en}}</p>
+      {% if {{page.category_en}} != null %}
+        <p class="font-label-black-soft">{{page.category_en}}</p>
+        {% else %}
+        <p class="font-label-black-soft">{{page.category_es}}</p>
+      {% endif %}
+      {% if {{page.title_en}} != null %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+        {% else %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
+      {% endif %}
+      {% if {{page.brief_en}} != null %}
+        <p class="font-lead">{{page.brief_en}}</p>
+        {% else %}
+        <p class="font-lead">{{page.brief_es}}</p>
+      {% endif %}
       <div class="dash {{page.color}}">
         <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="30" height="6" fill="none"/>
         </svg>
       </div>
       <div class="uk-text-justify">
-        {{page.content_block_en}}
+        {% if {{page.content_block_en}} != null %}
+          {{page.content_block_en}}
+          {% else %}
+          {{page.content_block_es}}
+        {% endif %}
       </div>
     {% endif %}
     <div class="uk-flex uk-flex-right"
@@ -86,13 +102,21 @@ layout: default
                   <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %}</a>
                   <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %}</a>
                 {% elsif site.lang == "en" %}
-                  <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_en}}</p>
+                  {% if {{p.category_en}} != null %}
+                    <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_en}}</p>
+                    {% else %}
+                    <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_es}}</p>
+                  {% endif %}
                   <div class="dash {{p.color}}">
                     <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <rect width="30" height="6" fill="none"/>
                     </svg>
                   </div>
-                  <h3 class="font-black">{{p.title_en}}</h3>
+                  {% if {{p.title_en}} != null %}
+                    <h3 class="font-black">{{p.title_en}}</h3>
+                    {% else %}
+                    <h3 class="font-black">{{p.title_es}}</h3>
+                  {% endif %}
                   <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %}</a>
                   <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %}</a>
                 {% endif %}

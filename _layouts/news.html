@@ -13,7 +13,11 @@ layout: default
     {% if site.lang == "es" %}
       <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/news"">{% t news.breadcrumb %}</a> > {{page.title_es}}</p>
     {% elsif site.lang == "en" %}
-      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/news"">{% t news.breadcrumb %}</a> > {{page.title_en}}</p>
+      {% if {{page.title_en}} != null %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/news"">{% t news.breadcrumb %}</a> > {{page.title_en}}</p>
+        {% else %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/news"">{% t news.breadcrumb %}</a> > {{page.title_es}}</p>
+      {% endif %}
     {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">
@@ -31,15 +35,27 @@ layout: default
         {{page.content_block_es}}
       </div>
     {% elsif site.lang == "en" %}
-      <p class="font-label-black-soft">{{page.category_en}}</p>
-      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+      {% if {{page.category_en}} != null %}
+        <p class="font-label-black-soft">{{page.category_en}}</p>
+        {% else %}
+        <p class="font-label-black-soft">{{page.category_es}}</p>
+      {% endif %}
+      {% if {{page.title_en}} != null %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+        {% else %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
+      {% endif %}
       <div class="dash {{ page.color}}">
         <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="30" height="6" fill="none"/>
         </svg>
       </div>
       <div class="uk-text-justify">
-        {{page.content_block_en}}
+        {% if {{page.content_block_en}} != null %}
+          {{page.content_block_en}}
+          {% else %}
+          {{page.content_block_es}}
+        {% endif %}
       </div>
     {% endif %}
     </article>
@@ -76,13 +92,21 @@ layout: default
               </div>
               <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
             {% elsif site.lang == "en" %}
-              <p class="font-label-black-soft" style="margin: 20px 0 -20px;">{{n.category_en}}</p>
+              {% if {{n.category_en}} != null %}
+                <p class="font-label-black-soft" style="margin: 20px 0 -20px;">{{n.category_en}}</p>
+                {% else %}
+                <p class="font-label-black-soft" style="margin: 20px 0 -20px;">{{n.category_es}}</p>
+              {% endif %}
               <div class="dash {{ n.color}}">
                 <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="30" height="6" fill="none"/>
                 </svg>
               </div>
-              <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_en}}</a></span></h3>
+              {% if {{n.title_en}} != null %}
+                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_en}}</a></span></h3>
+                {% else %}
+                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
+              {% endif %}
             {% endif %}
             <p class="font-label-grey">{{ n.date | date_to_string }}</p>
           </div><!-- End 3 col -->
