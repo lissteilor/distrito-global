@@ -1,11 +1,12 @@
 ---
-layout: initiative-book
+layout: initiative-blog
+active: false
 image_thumbnail: /assets/uploads/thumbnail.jpg
 image_hero: /assets/uploads/hero.jpg
-title_es: Libro
+title_es: Proyectonodestacado
 brief_es: bajada
 content_block_es: contenido
-title_en: Book
+title_en: Project
 brief_en: lead
 content_block_en: content
 alliance_1_org: alianza1

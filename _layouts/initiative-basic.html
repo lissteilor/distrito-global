@@ -6,13 +6,16 @@ layout: default
   data-src="{{page.image_hero}}" uk-parallax="bgy: -100;" uk-img>
 </div>
 
-<!--Content-->
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
     {% if site.lang == "es" %}
       <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
     {% elsif site.lang == "en" %}
-      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+      {% if {{page.title_en}} != null %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+        {% else %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
+      {% endif %}
     {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">
@@ -29,64 +32,40 @@ layout: default
         {{page.content_block_es}}
       </div>
     {% elsif site.lang == "en" %}
-      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
-      <p class="font-lead">{{page.brief_en}}</p>
+      {% if {{page.title_en}} != null %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+        {% else %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
+      {% endif %}
+      {% if {{page.brief_en}} != null %}
+        <p class="font-lead">{{page.brief_en}}</p>
+        {% else %}
+        <p class="font-lead">{{page.brief_es}}</p>
+      {% endif %}
       <div class="dash dash-black">
         <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="30" height="6" fill="none"/>
         </svg>
       </div>
       <div class="uk-text-justify">
-        {{page.content_block_en}}
+        {% if {{page.content_block_en}} != null %}
+          {{page.content_block_en}}
+          {% else %}
+          {{page.content_block_es}}
+        {% endif %}
       </div>
+    {% endif %}
+    {% if {{page.external_link}} != null %}
+    <div class="uk-flex uk-flex-right"
+      <div class="uk-with-1-1">
+        <a href="{{page.external_link}}" class="uk-button button-bg-black">{% t initiatives.external_link %}</a>
+      </div>
+    </div>
     {% endif %}
     </article>
   </div>
 </div>
 
-<!--Chapters-->
-<div class="uk-section bg-grey-soft animate__animated animate__fadeIn">
-  <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
-    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
-      <div class="uk-width-2-3@m">
-        <h2 class="font-black">{% t initiatives.chapters.title_section %}</h2>
-        <p class="font-lead">{% t initiatives.chapters.description_section %}</p>
-        <a href="#" class="uk-button button-bg-black">{% t initiatives.chapters.download_all %}</a>
-      </div>
-    </div>
-    <div class="uk-flex uk-flex-center" uk-grid>
-      <div class="uk-width-5-6@m">
-        <div class="uk-flex uk-flex-center" uk-grid>
-          {% for c in site.book %}
-          <div class="uk-width-1-2@m">
-              <div class="bg-black-soft  uk-card uk-card-default uk-grid-collapse uk-margin uk-flex uk-flex-center uk-flex-middle" uk-grid>
-                  <div class="uk-width-1-4 uk-text-center">
-                      <p class="font-label-white">{% t initiatives.chapters.chapter %}</p>
-                      <p class="font-white font-number-xl">{{c.number}}</p>
-                  </div>
-                  <div class="uk-width-3-4">
-                      <div class="uk-card-body bg-white">
-                            <p class="font-label-grey" style="margin: 0 0 -20px;">{{c.authors}}</p>
-                            <div class="dash dash-black">
-                              <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <rect width="30" height="6" fill="none"/>
-                              </svg>
-                            </div>
-                            <h3 class="font-black">{{c.title_es}}</h3>
-                          <a href="{{c.url}}" class="uk-button uk-button-small button-line-black">{% t initiatives.chapters.read %}</a>
-                          <a href="{{c.pdf_chapter}}" class="uk-button uk-button-small button-line-black">{% t initiatives.chapters.download %}</a>
-                      </div>
-                  </div>
-              </div>
-            </div>
-            {% endfor %}
-        </div><!-- End flex -->
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Alliances -->
 {% if {{page.alliance_1_org}} != null %}
 <div class="uk-section animate__animated animate__fadeIn">
   <div class="uk-container">

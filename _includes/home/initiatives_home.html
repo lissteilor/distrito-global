@@ -11,7 +11,8 @@
       <div class="uk-width-5-6@m">
         <!--highlighted initiatives-->
         <div class="uk-flex uk-flex-center" uk-grid>
-          {% for b in site.initiatives-book %}
+          {% assign active_initiatives-book = site.initiatives | where: "layout", "initiative-book" | where: "active", true %}
+          {% for b in active_initiatives-book %}
           <!-- 2 col -->
           <div class="uk-width-1-2@m">
             <!-- Image -->
@@ -49,7 +50,7 @@
               {% endif %}
           </div><!-- End 2 col -->
           {% endfor %}
-          {% assign active_initiatives-article = site.initiatives-article | where: "active", true %}
+          {% assign active_initiatives-article = site.initiatives | where: "layout", "initiative-blog" | where: "active", true %}
           {% for a in active_initiatives-article %}
           <!-- 2 col -->
           <div class="uk-width-1-2@m">
@@ -91,7 +92,7 @@
         </div><!-- End flex -->
         <!--Other Initiatives-->
         <div class="uk-flex uk-flex-center" uk-grid>
-          {% assign active_initiatives = site.initiatives | where: "active", true %}
+          {% assign active_initiatives = site.initiatives | where: "layout", "initiative-basic" | where: "active", true %}
           {% for i in active_initiatives %}
           <!-- 3 col -->
           <div class="uk-width-1-3@m">

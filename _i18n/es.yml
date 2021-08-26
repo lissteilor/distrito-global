@@ -70,8 +70,10 @@ initiatives:
       description_section:
       download_all: Descarga el libro completo
       chapter: Capítulo
+      read: Leer
       download: Descargar
   articles: Artículos
+  more_articles: Más artículos
 publications:
   breadcrumb: Publicaciones
   read_index: Leer

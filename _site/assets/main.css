@@ -111,6 +111,9 @@ a.underline:hover::after, a.underline:focus::after, a.underline:active::after {
 .bg-grey-soft {
   background: #F4F9F9; }
 
+.bg-white {
+  background: white; }
+
 #hero-page.uk-height-viewport {
   min-height: 60vh; }
 
@@ -212,6 +215,12 @@ strong {
 .font-small {
   font-size: 0.7rem;
   line-height: 1.8; }
+
+.font-number-xl {
+  font-size: 5rem;
+  font-weight: 700;
+  margin-top: -10px;
+  line-height: 100%; }
 
 /**
  * Article
@@ -472,6 +481,9 @@ svg.icon-footer > path:hover, svg.icon-footer > path:focus {
 
   .uk-button {
     font-size: 0.65rem; }
+
+  .font-number-xl {
+    font-size: 3rem; }
 
   /**
    * Navbar

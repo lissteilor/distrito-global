@@ -132,6 +132,9 @@ a.underline:hover::after, a.underline:focus::after, a.underline:active::after{
 .bg-grey-soft{
  background: $grey-soft;
 }
+.bg-white{
+ background: white;
+}
 
 
 #hero-page {
@@ -236,30 +239,30 @@ strong{
 .font-white{
   color: white !important;
 }
-
 .font-black{
   color: $black !important;
 }
-
 .font-600{
   font-weight: 600;
 }
-
 .font-700{
   font-weight: 700;
 }
-
 .font-lead {
     font-size: 1rem;
     line-height: 1.7;
     margin-bottom: 2rem;
 }
-
 .font-small{
   font-size: 0.7rem;
   line-height: 1.8;
 }
-
+.font-number-xl{
+  font-size: 5rem;
+  font-weight: 700;
+  margin-top: -10px;
+  line-height: 100%;
+}
 /**
  * Article
  */

@@ -11,15 +11,20 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative'}
+      - label: "Template"
+        name: "layout"
+        widget: "select"
+        options: ["initiative-book", "initiative-blog", "initiative-basic"]
       - {label: "Destacada en home", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Título ES", name: title_es, widget: string}
       - {label: "Bajada ES", name: brief_es, widget: string}
+      - {label: "Botón ES - Sólo para libro/blog", name: button_es, widget: string}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Botón EN - Sólo para libro/blog", name: button_en, widget: string}
       - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
       - {label: "Sitio web", name: external_link, widget: string, required: false}
       - {label: "Alianza 1 - Org", name: alliance_1_org, widget: string, required: false}
@@ -34,59 +39,46 @@ collections:
       - {label: "Alianza 5 - Logo", name: alliance_5_logo, widget: image, required: false}
       - {label: "Alianza 6 - Org", name: alliance_6_org, widget: string, required: false}
       - {label: "Alianza 6 - Logo", name: alliance_6_logo, widget: image, required: false}
-  - name: 'initiatives-book'
-    label: 'Iniciativa - Libro'
-    folder: '_initiatives-book/'
-    create: true
-    slug: '{{title}}'
-    editor:
-      preview: false
-    fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative-book'}
-      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
-      - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Título ES", name: title_es, widget: string}
-      - {label: "Bajada ES", name: brief_es, widget: string}
-      - {label: "Botón ES", name: button_es, widget: markdown}
-      - {label: "Contenido ES", name: content_block_es, widget: markdown}
-      - {label: "Título EN", name: title_en, widget: string, required: false}
-      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
-      - {label: "Botón EN", name: button_en, widget: markdown}
-      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
   - name: 'chapter'
-    label: 'Capítulo Libro'
-    folder: '_book-chapters/'
+    label: 'Capítulos Libro'
+    folder: '_book/'
     create: true
     slug: '{{title}}'
     editor:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'chapter'}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Número", name: number, widget: number}
       - {label: "Autores", name: authors, widget: string}
       - {label: "Título ES", name: title_es, widget: string}
-      - {label: "Contenido ES", name: content_block_es, widget: markdown}
-      - {label: "Título EN", name: title_en, widget: string, required: false}
-      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
-  - name: 'initiatives-article'
-    label: 'Iniciativa - Artículos'
-    folder: '_initiatives-article/'
-    create: true
-    slug: '{{title}}'
-    editor:
-      preview: false
-    fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'initiative-article'}
-      - {label: "Destacada en home", name: active, widget: boolean}
-      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
-      - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Título ES", name: title_es, widget: string}
       - {label: "Bajada ES", name: brief_es, widget: string}
-      - {label: "Botón ES", name: button_es, widget: markdown}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
-      - {label: "Botón EN", name: button_en, widget: markdown}
       - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
+      - label: "PDF Capítulo"
+        name: "pdf_chapter"
+        widget: "file"
+        media_library:
+          config:
+            multiple: false
+  - name: 'articles'
+    label: 'Blog iniciativa'
+    folder: '_articles/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
+      - {label: "Imagen hero", name: image_hero, widget: image}
+      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
+      - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Contenido ES", name: content_block_es, widget: markdown}
+      - {label: "Título EN", name: title_en, widget: string, required: false}
+      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
   - name: 'publications'
     label: 'Publicaciones'
     folder: '_publications/'
