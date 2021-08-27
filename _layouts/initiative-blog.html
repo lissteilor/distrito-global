@@ -6,28 +6,39 @@ layout: default
   data-src="{{page.image_hero}}" uk-parallax="bgy: -100;" uk-img>
 </div>
 
+<!--Content-->
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
-    <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title}}</p>
+    {% if site.lang == "es" %}
+      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
+    {% elsif site.lang == "en" %}
+      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+    {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">
   <article>
-    <h1 class="font-black" style="margin: 0 0 10px;">{{page.title}}</h1>
-    <p class="font-lead">{{page.brief}}</p>
-    <div class="dash dash-black">
-      <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="30" height="6" fill="none"/>
-      </svg>
-    </div>
-    <div class="uk-text-justify">
-      {{page.content_block}}
-    </div>
-    {% if {{page.external_link}} != null %}
-    <div class="uk-flex uk-flex-right"
-      <div class="uk-with-1-1">
-        <a href="{{page.external_link}}" class="uk-button button-bg-black">{% t initiatives.external_link %}</a>
+    {% if site.lang == "es" %}
+      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
+      <p class="font-lead">{{page.brief_es}}</p>
+      <div class="dash dash-black">
+        <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="30" height="6" fill="none"/>
+        </svg>
       </div>
-    </div>
+      <div class="uk-text-justify">
+        {{page.content_block_es}}
+      </div>
+    {% elsif site.lang == "en" %}
+      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+      <p class="font-lead">{{page.brief_en}}</p>
+      <div class="dash dash-black">
+        <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="30" height="6" fill="none"/>
+        </svg>
+      </div>
+      <div class="uk-text-justify">
+        {{page.content_block_en}}
+      </div>
     {% endif %}
     </article>
   </div>

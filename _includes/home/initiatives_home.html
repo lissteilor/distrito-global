@@ -30,7 +30,7 @@
               </div>
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
-                <p>{{i.summary_es}}</p>
+                <p>{{i.brief_es}}</p>
                 {% if {{i.button_es}} != null %}
                 <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
                 {% endif %}
@@ -40,10 +40,10 @@
                   {% else %}
                   <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
                 {% endif %}
-                {% if {{i.summary_en}} != null %}
-                  <p>{{i.summary_en}}</p>
+                {% if {{i.brief_en}} != null %}
+                  <p>{{i.brief_en}}</p>
                   {% else %}
-                  <p>{{i.summary_es}}</p>
+                  <p>{{i.brief_es}}</p>
                 {% endif %}
                 {% if {{i.button_en}} != null %}
                   <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_en}}</a>

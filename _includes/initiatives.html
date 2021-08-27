@@ -24,7 +24,7 @@
               </div>
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
-                <p>{{i.brief_es}}</p>
+                <p>{{i.summary_es}}</p>
                 {% if {{i.button_es}} != null %}
                 <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
                 {% endif %}
@@ -34,10 +34,10 @@
                   {% else %}
                   <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
                 {% endif %}
-                {% if {{i.brief_en}} != null %}
-                  <p>{{i.brief_en}}</p>
+                {% if {{i.summary_en}} != null %}
+                  <p>{{i.summary_en}}</p>
                   {% else %}
-                  <p>{{i.brief_es}}</p>
+                  <p>{{i.summary_es}}</p>
                 {% endif %}
                 {% if {{i.button_en}} != null %}
                   <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_en}}</a>
@@ -56,8 +56,8 @@
           <div class="uk-width-1-3@m">
             <!-- Image -->
             <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
-              <a href="{{i.url}}">
-                <img data-src="{{i.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+              <a href="{{n.url}}">
+                <img data-src="{{n.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
               </a>
             </div>
             <!-- Content -->
@@ -68,8 +68,8 @@
                 </svg>
               </div>
               {% if site.lang == "es" %}
-                <h3 class="link-highlighted"><span><a href="{{i.url}}">{{n.title_es}}</a></span></h3>
-                <p>{{n.brief_es}}</p>
+                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
+                <p>{{n.summary_es}}</p>
                 {% if {{n.button_es}} != null %}
                 <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_es}}</a>
                 {% endif %}
@@ -79,10 +79,10 @@
                   {% else %}
                   <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
                 {% endif %}
-                {% if {{n.brief_en}} != null %}
-                  <p>{{n.brief_en}}</p>
+                {% if {{n.summary_en}} != null %}
+                  <p>{{n.summary_en}}</p>
                   {% else %}
-                  <p>{{n.brief_es}}</p>
+                  <p>{{n.summary_es}}</p>
                 {% endif %}
                 {% if {{n.button_en}} != null %}
                   <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_en}}</a>
