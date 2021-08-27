@@ -73,7 +73,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'article'}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
