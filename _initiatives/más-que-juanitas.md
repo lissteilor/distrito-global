@@ -1,8 +1,8 @@
 ---
 layout: initiative-blog
 active: true
-image_thumbnail: /assets/uploads/thumbnail.jpg
-image_hero: /assets/uploads/hero.jpg
+image_thumbnail: /assets/uploads/thumb-purple.jpg
+image_hero: /assets/uploads/hero-purple.jpg
 title_es: Más que Juanitas
 summary_es: Construimos una bitácora feminista de elaboración colectiva, que
   visibiliza los impactos desiguales en la vivencia de los derechos económicos,
