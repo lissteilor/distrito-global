@@ -3,7 +3,7 @@ layout: publication
 active: true
 image_slider: /assets/uploads/slider-green.jpg
 image_thumbnail: /assets/uploads/news-thumb.jpg
-image_hero: /assets/uploads/news-hero.jpg
+image_hero: /assets/uploads/news-featured.jpg
 title_es: Esta es una publicación lorem ipsum dolor
 brief_es: Esta es la bajada
 content_block_es: Este es el contenido
