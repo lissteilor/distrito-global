@@ -1,8 +1,8 @@
 ---
 layout: initiative-basic
 active: true
-image_thumbnail: /assets/uploads/thumbnail.jpg
-image_hero: /assets/uploads/hero.jpg
+image_thumbnail: /assets/uploads/thumb-pink.jpg
+image_hero: /assets/uploads/hero-pink.jpg
 title_es: La Constitución es Nuestra
 summary_es: "Desarrollamos una plataforma digital abierta y colaborativa que
   permite conectar las propuestas de la ciudadanía con el trabajo de la
