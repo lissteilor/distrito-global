@@ -1,9 +1,9 @@
 ---
 layout: publication
 active: true
-image_slider: /assets/uploads/thumbnail.jpg
-image_thumbnail: /assets/uploads/thumbnail.jpg
-image_hero: /assets/uploads/hero.jpg
+image_slider: /assets/uploads/slider-pink.jpg
+image_thumbnail: /assets/uploads/news-thumb.jpg
+image_hero: /assets/uploads/news-hero.jpg
 title_es: Esta es una publicación lorem ipsum dolor
 brief_es: Esta es la bajada
 content_block_es: Este es el contenido
