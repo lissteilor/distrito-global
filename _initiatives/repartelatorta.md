@@ -13,8 +13,7 @@ content_block_es: >-
   sociales de la población.</p>
 
 
-  <p>Algunos de los objetivos de la campaña son:</p> 
-
+  Algunos de los objetivos de la campaña son:
 
   <ul>
 
