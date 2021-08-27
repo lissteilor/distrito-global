@@ -1,8 +1,8 @@
 ---
 layout: initiative-basic
 active: false
-image_thumbnail: /assets/uploads/thumbnail.jpg
-image_hero: /assets/uploads/hero.jpg
+image_thumbnail: /assets/uploads/thumb-green.jpg
+image_hero: /assets/uploads/hero-green.jpg
 title_es: "#ReparteLaTorta"
 brief_es: Por una política fiscal con enfoque de derechos
 content_block_es: >-
