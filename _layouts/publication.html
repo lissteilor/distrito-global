@@ -59,7 +59,7 @@ layout: default
     {% endif %}
     <div class="uk-flex uk-flex-right"
       <div class="uk-with-1-1">
-        <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %}</a>
+        <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
       </div>
     </div>
     </article>
@@ -99,8 +99,8 @@ layout: default
                     </svg>
                   </div>
                   <h3 class="font-black">{{p.title_es}}</h3>
-                  <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %}</a>
-                  <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %}</a>
+                  <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %} <i class="uil uil-arrow-right"></i></a>
+                  <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %} <i class="uil uil-arrow-to-bottom"></i></a>
                 {% elsif site.lang == "en" %}
                   {% if {{p.category_en}} != null %}
                     <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_en}}</p>
@@ -117,8 +117,8 @@ layout: default
                     {% else %}
                     <h3 class="font-black">{{p.title_es}}</h3>
                   {% endif %}
-                  <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %}</a>
-                  <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %}</a>
+                  <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %} <i class="uil uil-arrow-right"></i></a>
+                  <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %} <i class="uil uil-arrow-to-bottom"></i></a>
                 {% endif %}
               </div><!-- End card body -->
             </div><!-- End card -->

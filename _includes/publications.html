@@ -39,8 +39,8 @@
                       </svg>
                     </div>
                     <h3 class="font-black">{{p.title_es}}</h3>
-                    <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %}</a>
-                    <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %}</a>
+                    <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %} <i class="uil uil-arrow-right"></i></a>
+                    <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %} <i class="uil uil-arrow-to-bottom"></i></a>
                   {% elsif site.lang == "en" %}
                     {% if {{p.category_en}} != null %}
                       <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t publications.breadcrumb %} • {{p.category_en}}</p>
@@ -57,8 +57,13 @@
                       {% else %}
                       <h3 class="font-black">{{p.title_es}}</h3>
                     {% endif %}
-                    <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %}</a>
-                    <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %}</a>
+                    {% if {{p.brief_en}} != null %}
+                      <p style="margin-bottom:30px;">{{p.brief_en}}</p>
+                      {% else %}
+                      <p style="margin-bottom:30px;">{{p.brief_es}}</p>
+                    {% endif %}
+                    <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %} <i class="uil uil-arrow-right"></i></a>
+                    <a class="uk-button uk-button-small button-line-black" href="{{p.pdf_publication}}">{% t publications.download_index %} <i class="uil uil-arrow-to-bottom"></i></a>
                   {% endif %}
                 </div><!-- End card body -->
               </div><!-- End card -->

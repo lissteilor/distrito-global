@@ -47,11 +47,12 @@ layout: default
 <!--Chapters-->
 <div class="uk-section bg-grey-soft animate__animated animate__fadeIn">
   <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div>
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-2-3@m">
         <h2 class="font-black">{% t initiatives.chapters.title_section %}</h2>
         <p class="font-lead">{% t initiatives.chapters.description_section %}</p>
-        <a href="#" class="uk-button button-bg-black">{% t initiatives.chapters.download_all %}</a>
+        <a href="#" class="uk-button button-bg-black">{% t initiatives.chapters.download_all %} <i class="uil uil-arrow-to-bottom"></i></a>
       </div>
     </div>
     <div class="uk-flex uk-flex-center" uk-grid>
@@ -74,7 +75,7 @@ layout: default
                             </div>
                             <h3 class="font-black">{{c.title_es}}</h3>
                           <a href="{{c.url}}" class="uk-button uk-button-small button-line-black">{% t initiatives.chapters.read %}</a>
-                          <a href="{{c.pdf_chapter}}" class="uk-button uk-button-small button-line-black">{% t initiatives.chapters.download %}</a>
+                          <a href="{{c.pdf_chapter}}" class="uk-button uk-button-small button-line-black">{% t initiatives.chapters.download %} <i class="uil uil-arrow-to-bottom"></i></a>
                       </div>
                   </div>
               </div>
@@ -83,13 +84,14 @@ layout: default
         </div><!-- End flex -->
       </div>
     </div>
+    </div>
   </div>
 </div>
 
 <!-- Alliances -->
 {% if {{page.alliance_1_org}} != null %}
 <div class="uk-section animate__animated animate__fadeIn">
-  <div class="uk-container">
+  <div class="uk-container" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-2-3@m">
         <h3 class="font-black">{% t initiatives.alliances %}</h3>

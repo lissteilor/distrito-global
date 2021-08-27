@@ -24,25 +24,17 @@
               </div>
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
-                <p>{{i.summary_es}}</p>
-                {% if {{i.button_es}} != null %}
-                <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
-                {% endif %}
+                <p style="line-height: 1.8">{{i.brief_es}}</p>
               {% elsif site.lang == "en" %}
                 {% if {{i.title_en}} != null %}
                   <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_en}}</a></span></h3>
                   {% else %}
                   <h3 class="link-highlighted"><span><a href="{{i.url}}">{{i.title_es}}</a></span></h3>
                 {% endif %}
-                {% if {{i.summary_en}} != null %}
-                  <p>{{i.summary_en}}</p>
+                {% if {{i.brief_en}} != null %}
+                  <p style="line-height: 1.8">{{i.brief_en}}</p>
                   {% else %}
-                  <p>{{i.summary_es}}</p>
-                {% endif %}
-                {% if {{i.button_en}} != null %}
-                  <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_en}}</a>
-                  {% else %}
-                  <a href="{{i.url}}" class="uk-button uk-button-small button-line-black">{{i.button_es}}</a>
+                  <p style="line-height: 1.8">{{i.brief_es}}</p>
                 {% endif %}
               {% endif %}
             </div>
@@ -69,7 +61,7 @@
               </div>
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
-                <p>{{n.summary_es}}</p>
+                <p style="line-height: 1.8">{{n.brief_es}}</p>
                 {% if {{n.button_es}} != null %}
                 <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_es}}</a>
                 {% endif %}
@@ -79,10 +71,10 @@
                   {% else %}
                   <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
                 {% endif %}
-                {% if {{n.summary_en}} != null %}
-                  <p>{{n.summary_en}}</p>
+                {% if {{n.brief_en}} != null %}
+                  <p style="line-height: 1.8">{{n.brief_en}}</p>
                   {% else %}
-                  <p>{{n.summary_es}}</p>
+                  <p style="line-height: 1.8">{{n.brief_es}}</p>
                 {% endif %}
                 {% if {{n.button_en}} != null %}
                   <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_en}}</a>

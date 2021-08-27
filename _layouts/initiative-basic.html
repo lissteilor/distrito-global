@@ -49,16 +49,16 @@ layout: default
       </div>
       <div class="uk-text-justify">
         {% if {{page.content_block_en}} != null %}
-          {{page.content_block_en}}
+          <p>{{page.content_block_en}}</p>
           {% else %}
-          {{page.content_block_es}}
+          <p>{{page.content_block_es}}</p>
         {% endif %}
       </div>
     {% endif %}
     {% if {{page.external_link}} != null %}
     <div class="uk-flex uk-flex-right" style="margin-top: 50px">
       <div class="uk-with-1-1">
-        <a href="{{page.external_link}}" target="_blank" class="uk-button button-bg-black">{% t initiatives.external_link %}</a>
+        <a href="{{page.external_link}}" target="_blank" class="uk-button button-bg-black">{% t initiatives.external_link %} <i class="uil uil-external-link-alt"></i></a>
       </div>
     </div>
     {% endif %}

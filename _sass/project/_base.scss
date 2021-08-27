@@ -119,6 +119,34 @@ a.underline:hover::after, a.underline:focus::after, a.underline:active::after{
   transform-origin: left;
 }
 
+a.underline-black{
+  color: $black;
+  position: relative;
+  text-decoration: none;
+  transition: 0.5s;
+}
+a.underline-black::after{
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 1px;
+  top: 90%;
+  left: 0;
+  background: $purple;
+  transition: transform 0.5s;
+  transform: scaleX(0);
+  transform-origin: right;
+}
+a.underline-black:hover, a.underline-black:focus, a.underline-black:active{
+  color: $purple;
+  text-decoration: none;
+}
+a.underline-black:hover::after, a.underline-black:focus::after, a.underline-black:active::after{
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+
 
 
 
@@ -174,6 +202,14 @@ a.underline:hover::after, a.underline:focus::after, a.underline:active::after{
    background: transparent;
  }
 }
+.button-bg-black > svg > path:hover,
+.button-bg-black > svg > path:focus,
+a.button-bg-black > svg > path:hover,
+a.button-bg-black > svg > path:focus{
+  fill: $black;
+}
+
+
 
 .button-line-white, a.button-line-white{
  color: white;
@@ -428,6 +464,15 @@ a.filter-blue{
   border-bottom: 4px solid $blue;
 }
 
+/**
+ * Slider
+ */
+.uk-dotnav > * > *{
+  border: 1px solid $grey;
+}
+.uk-dotnav > .uk-active > *{
+  background-color: $grey;
+}
 /**
  * Navbar
  */
