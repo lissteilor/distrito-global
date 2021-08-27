@@ -1,7 +1,7 @@
 ---
 layout: initiative-blog
 active: true
-image_thumbnail: /assets/uploads/thumb-purple.jpg
+image_thumbnail: /assets/uploads/thumb-purple-2.jpg
 image_hero: /assets/uploads/hero-purple.jpg
 title_es: Más que Juanitas
 summary_es: Construimos una bitácora feminista de elaboración colectiva, que
