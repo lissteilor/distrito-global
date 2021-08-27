@@ -15,7 +15,11 @@ content_block_es: >-
   humanos.
 
 
+
+
   A través de un proceso participativo, elaboramos el estudio “Constituyamos Otra Educación: Una Mejor Sociedad es Posible  - 10 nudos constitucionales en educación y experiencias internacionales destacadas para inspirar el debate nacional”  ofrece una visión concisa y útil del derecho a la educación, en particular en el contexto del actual debate constitucional en Chile.
+
+
 
 
   Además, estamos trabajando en el desarrollo de una propuesta sobre cómo incorporar adecuadamente este derecho en la nueva constitución.
