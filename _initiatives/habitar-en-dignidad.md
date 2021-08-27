@@ -1,8 +1,8 @@
 ---
 layout: initiative-basic
 active: false
-image_thumbnail: /assets/uploads/thumbnail.jpg
-image_hero: /assets/uploads/hero.jpg
+image_thumbnail: /assets/uploads/thumb-purple-2.jpg
+image_hero: /assets/uploads/hero-purple.jpg
 title_es: Habitar en Dignidad
 brief_es: Hacia el derecho a la vivienda en la Nueva Constitución
 content_block_es: >-
