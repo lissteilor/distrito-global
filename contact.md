@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /escribenos/
+permalink: /contacto/
 hero_desktop: hero-desktop.jpg
 hero_mobile: hero-mobile.jpg
 title_en:
