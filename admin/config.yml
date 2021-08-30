@@ -66,7 +66,7 @@ collections:
           config:
             multiple: false
   - name: 'contributions'
-    label: 'Constribuciones'
+    label: 'Contribuciones'
     folder: '_contributions/'
     create: true
     slug: '{{title_es}}'
@@ -132,6 +132,8 @@ collections:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: "Destacada en home - XL", name: active, widget: boolean}
+      - {label: "Destacada en home - M", name: active, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
