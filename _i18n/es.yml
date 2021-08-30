@@ -73,8 +73,8 @@ initiatives:
       read: Leer
       download: Descargar
       more_chapters: Todos los capítulos
-  articles: Artículos
-  more_articles: Más artículos
+  contributions: Contribuciones
+  more_contributions: Más contribuciones
 publications:
   breadcrumb: Publicaciones
   read_index: Leer

@@ -41,7 +41,7 @@ collections:
     output: true
   book:
     output: true
-  articles:
+  contributions:
     output: true
   publications:
     output: true

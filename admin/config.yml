@@ -52,8 +52,8 @@ collections:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'chapter'}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Número", name: number, widget: number}
-      - {label: "Autores", name: authors, widget: string}
       - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Autores", name: authors, widget: string}
       - {label: "Bajada ES", name: brief_es, widget: string}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
@@ -65,18 +65,18 @@ collections:
         media_library:
           config:
             multiple: false
-  - name: 'articles'
-    label: 'Blog iniciativa'
-    folder: '_articles/'
+  - name: 'contributions'
+    label: 'Constribuciones'
+    folder: '_contributions/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{title_es}}'
+    slug: '{{title_es}}'
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'article'}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'contribution'}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
+      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false, , required: false}
       - {label: "Título ES", name: title_es, widget: string}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}

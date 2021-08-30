@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: contribution
 image_hero: /assets/uploads/news-featured.jpg
 number: 1
 authors: Juana Pérez Pérez y Juan Pérez Pérez
