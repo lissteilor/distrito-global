@@ -132,8 +132,8 @@ collections:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
-      - {label: "Destacada en home - XL", name: active, widget: boolean}
-      - {label: "Destacada en home - M", name: active, widget: boolean}
+      - {label: "Destacada en home - Large", name: active-l, widget: boolean}
+      - {label: "Destacada en home - Medium", name: active-m, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
