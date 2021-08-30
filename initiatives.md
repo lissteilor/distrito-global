@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /initiatives/
+permalink: /iniciativas/
 hero_desktop: hero-desktop.jpg
 hero_mobile: hero-mobile.jpg
 title_en:

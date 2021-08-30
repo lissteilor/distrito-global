@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /alliances/
+permalink: /alianzas/
 hero_desktop: hero-desktop.jpg
 hero_mobile: hero-mobile.jpg
 title_en: Our alliances

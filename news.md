@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /news/
+permalink: /noticias/
 hero_desktop: hero-desktop.jpg
 hero_mobile: hero-mobile.jpg
 title_en: News
