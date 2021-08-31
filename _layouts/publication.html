@@ -30,6 +30,13 @@ layout: default
         </svg>
       </div>
       <div class="uk-text-justify">
+        {% if {{page.pdf_publication}} != null %}
+        <div class="uk-flex"
+          <div class="uk-with-1-1">
+            <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+          </div>
+        </div>
+        {% endif %}
         {{page.content_block_es | markdownify }}
       </div>
     {% elsif site.lang == "en" %}
@@ -54,6 +61,13 @@ layout: default
         </svg>
       </div>
       <div class="uk-text-justify">
+        {% if {{page.pdf_publication}} != null %}
+        <div class="uk-flex"
+          <div class="uk-with-1-1">
+            <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+          </div>
+        </div>
+        {% endif %}
         {% if {{page.content_block_en}} != null %}
           {{page.content_block_en | markdownify }}
           {% else %}
@@ -61,11 +75,6 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
-    <div class="uk-flex uk-flex-right"
-      <div class="uk-with-1-1">
-        <a href="{{page.pdf_publication}}" target="_blank" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
-      </div>
-    </div>
     </article>
   </div>
 </div>

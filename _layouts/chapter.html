@@ -32,6 +32,13 @@ layout: default
         </svg>
       </div>
       <div class="uk-text-justify">
+        {% if {{page.pdf_chapter}} != null %}
+        <div class="uk-flex"
+          <div class="uk-with-1-1">
+            <a href="{{page.pdf_chapter}}" class="uk-button button-bg-black">{% t initiatives.chapters.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+          </div>
+        </div>
+        {% endif %}
         {{page.content_block_es | markdownify }}
       </div>
     {% elsif site.lang == "en" %}
@@ -51,19 +58,19 @@ layout: default
         </svg>
       </div>
       <div class="uk-text-justify">
+        {% if {{page.pdf_chapter}} != null %}
+        <div class="uk-flex"
+          <div class="uk-with-1-1">
+            <a href="{{page.pdf_chapter}}" class="uk-button button-bg-black">{% t initiatives.chapters.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+          </div>
+        </div>
+        {% endif %}
         {% if {{page.content_block_en}} != null %}
           {{page.content_block_en | markdownify }}
           {% else %}
           {{page.content_block_es | markdownify }}
         {% endif %}
       </div>
-    {% endif %}
-    {% if {{page.external_link}} != null %}
-    <div class="uk-flex uk-flex-right"
-      <div class="uk-with-1-1">
-        <a href="{{page.pdf_chapter}}" class="uk-button button-bg-black">{% t initiatives.chapters.download %} <i class="uil uil-arrow-to-bottom"></i></a>
-      </div>
-    </div>
     {% endif %}
     </article>
   </div>
