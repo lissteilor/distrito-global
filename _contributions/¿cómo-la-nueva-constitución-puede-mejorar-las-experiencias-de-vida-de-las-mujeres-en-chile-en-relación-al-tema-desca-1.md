@@ -3,13 +3,16 @@ layout: contribution
 image_thumbnail: /assets/uploads/logo-opcion-png.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T02:00:54.621Z
-title_es: ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de
-  las mujeres en Chile en relación al tema DESCA?
+title_es: Corporación Opción
 content_block_es: >-
-  ## **Karina Flores Silva**
+  ## ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de las
+  mujeres en Chile en relación al tema DESCA?
 
 
-  ## **Adulta a cargo usuario** 
+  #### **Karina Flores Silva**
+
+
+  #### **Adulta a cargo usuario**
 
 
   Primero que todo agradezco la invitación a participar de este proyecto y les doy las gracias por confiar en mí.
