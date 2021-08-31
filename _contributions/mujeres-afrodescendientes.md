@@ -5,11 +5,10 @@ image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T02:30:46.948Z
 title_es: Mujeres afrodescendientes
 content_block_es: >-
-  ## Según las vivencias de su organización, y basándose en casos concretos,
-  ¿cómo la nueva Constitución puede mejorar las experiencias de vida de las
-  mujeres chilenas en relación al tema Mujeres Afrodescendientes?
+  ![](/assets/uploads/dscf8566.jpg)
 
 
+  ## Según las vivencias de su organización, y basándose en casos concretos, ¿cómo la nueva Constitución puede mejorar las experiencias de vida de las mujeres chilenas en relación al tema Mujeres Afrodescendientes?
 
 
   El momento constituyente que estamos viviendo en Chile es histórico, por primera vez los pueblos habitantes del territorio han salido a reclamar a las calles justicia, igualdad y la eliminación de la precarización de la vida. La revuelta social es sin duda un fenómeno que invocó desde el primer día la dignidad para la sociedad chilena, donde las mujeres del Pueblo Tribal Afrodescendiente se hicieron presente exigiendo lo que el Decenio Internacional de las Naciones Unidas para las personas afrodescendientes ha proclamado como “Reconocimiento, Justicia y Desarrollo”. 
