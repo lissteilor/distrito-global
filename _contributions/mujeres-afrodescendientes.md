@@ -1,7 +1,7 @@
 ---
 layout: contribution
 image_thumbnail: /assets/uploads/logo_-pequeño-.png
-image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
+image_hero: /assets/uploads/afro-por-constitución-.jpeg
 date: 2021-08-31T02:30:46.948Z
 title_es: Mujeres afrodescendientes
 content_block_es: >-
