@@ -1,5 +1,5 @@
 ---
-layout: contribution
+layout: testimony
 image_thumbnail: /assets/uploads/logo-muzosare.jpg
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T02:25:46.334Z

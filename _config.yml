@@ -37,15 +37,15 @@ exclude_from_localizations: ["assets", "javascript", "images", "css", "fonts"]
 
 
 collections:
-  initiatives:
+  iniciativas:
     output: true
-  book:
+  capitulos:
     output: true
-  contributions:
+  testimonios:
     output: true
-  publications:
+  publicaciones:
     output: true
-  news:
+  noticias:
     output: true
 
 gems:

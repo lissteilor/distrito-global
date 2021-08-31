@@ -1,5 +1,5 @@
 ---
-layout: contribution
+layout: testimony
 image_thumbnail: /assets/uploads/la-morada.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T02:17:10.596Z

@@ -12,7 +12,7 @@
       <div class="uk-width-1-1">
         <!--Other Initiatives-->
         <div class="uk-flex uk-flex-center" uk-grid>
-          {% assign active_initiatives = site.initiatives | where: "active", true %}
+          {% assign active_initiatives = site.iniciativas | where: "active", true %}
           {% for i in active_initiatives %}
           <!-- 3 col -->
           <div class="uk-width-1-3@m">
@@ -60,7 +60,7 @@
     </div>
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-1-1">
-        <a href="{{ site.baseurl }}/initiatives" class="uk-button button-bg-black">{% t home.initiatives.button %}</a>
+        <a href="{{ site.baseurl }}/iniciativas" class="uk-button button-bg-black">{% t home.initiatives.button %}</a>
       </div>
     </div>
     </div>

@@ -14,7 +14,7 @@
             <div class="uk-position-relative">
                 <div class="uk-slider-container">
                     <ul class="uk-slider-items uk-child-width-1-1">
-                      {% assign active_publications = site.publications | where: "active", true %}
+                      {% assign active_publications = site.publicaciones | where: "active", true %}
                       {% for p in active_publications %}
                         <li>
                           <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
@@ -79,7 +79,7 @@
     </div>
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-1-1">
-        <a href="{{ site.baseurl }}/publications" class="uk-button button-bg-black">{% t home.publications.button %}</a>
+        <a href="{{ site.baseurl }}/publicaciones" class="uk-button button-bg-black">{% t home.publications.button %}</a>
       </div>
     </div>
     </div>

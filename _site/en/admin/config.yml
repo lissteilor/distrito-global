@@ -3,9 +3,9 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'initiatives'
+  - name: 'iniciativas'
     label: 'Iniciativas'
-    folder: '_initiatives/'
+    folder: '_iniciativas/'
     create: true
     slug: '{{title_es}}'
     editor:
@@ -41,9 +41,9 @@ collections:
       - {label: "Alianza 5 - Logo", name: alliance_5_logo, widget: image, required: false}
       - {label: "Alianza 6 - Org", name: alliance_6_org, widget: string, required: false}
       - {label: "Alianza 6 - Logo", name: alliance_6_logo, widget: image, required: false}
-  - name: 'chapter'
+  - name: 'capitulos'
     label: 'Capítulos Libro'
-    folder: '_book/'
+    folder: '_capitulos/'
     create: true
     slug: '{{title_es}}'
     editor:
@@ -52,8 +52,8 @@ collections:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'chapter'}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Número", name: number, widget: number}
-      - {label: "Autores", name: authors, widget: string}
       - {label: "Título ES", name: title_es, widget: string}
+      - {label: "Autores", name: authors, widget: string}
       - {label: "Bajada ES", name: brief_es, widget: string}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
@@ -65,25 +65,25 @@ collections:
         media_library:
           config:
             multiple: false
-  - name: 'articles'
-    label: 'Blog iniciativa'
-    folder: '_articles/'
+  - name: 'testimonios'
+    label: 'Testimonios'
+    folder: '_testimonios/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{title_es}}'
+    slug: '{{title_es}}'
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'testimony'}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
-      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}
+      - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false, required: false}
       - {label: "Título ES", name: title_es, widget: string}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
-  - name: 'publications'
+  - name: 'publicaciones'
     label: 'Publicaciones'
-    folder: '_publications/'
+    folder: '_publicaciones/'
     create: true
     slug: '{{title_es}}'
     editor:
@@ -123,15 +123,17 @@ collections:
         media_library:
           config:
             multiple: false
-  - name: 'news'
+  - name: 'noticias'
     label: 'Noticias'
-    folder: '_news/'
+    folder: '_noticias/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{title_es}}'
     editor:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'news'}
+      - {label: "Destacada en home - Large", name: active-l, widget: boolean}
+      - {label: "Destacada en home - Medium", name: active-m, widget: boolean}
       - {label: "Imagen thumbnail", name: image_thumbnail, widget: image}
       - {label: "Imagen hero", name: image_hero, widget: image}
       - {label: "Fecha", name: date, widget: datetime, date_format: 'DD MMMM', time_format: false}

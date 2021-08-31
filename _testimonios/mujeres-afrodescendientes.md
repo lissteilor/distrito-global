@@ -1,5 +1,5 @@
 ---
-layout: contribution
+layout: testimony
 image_thumbnail: /assets/uploads/logo_-pequeño-.png
 image_hero: /assets/uploads/afro-por-constitución-.jpeg
 date: 2021-08-31T02:30:46.948Z

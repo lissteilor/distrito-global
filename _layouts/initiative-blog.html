@@ -10,9 +10,9 @@ layout: default
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
     {% if site.lang == "es" %}
-      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
+      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/iniciativas">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
     {% elsif site.lang == "en" %}
-      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/initiatives">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/iniciativas">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
     {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">
@@ -26,18 +26,27 @@ layout: default
         </svg>
       </div>
       <div class="uk-text-justify">
-        {{page.content_block_es}}
+        {{page.content_block_es | markdownify }}
       </div>
     {% elsif site.lang == "en" %}
-      <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
-      <p class="font-lead">{{page.brief_en}}</p>
+      {% if {{page.title_en}} != null %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_en}}</h1>
+        <p class="font-lead">{{page.brief_en}}</p>
+        {% else %}
+        <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
+        <p class="font-lead">{{page.brief_es}}</p>
+      {% endif %}
       <div class="dash dash-black">
         <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="30" height="6" fill="none"/>
         </svg>
       </div>
       <div class="uk-text-justify">
-        {{page.content_block_en}}
+        {% if {{page.title_en}} != null %}
+            {{page.content_block_en | markdownify }}
+          {% else %}
+            {{page.content_block_es | markdownify }}
+        {% endif %}
       </div>
     {% endif %}
     </article>
@@ -56,7 +65,7 @@ layout: default
       <div class="uk-flex uk-flex-center" uk-grid>
         <div class="uk-width-5-6@m">
           <div class="uk-flex" uk-grid>
-            {% for a in site.contributions %}
+            {% for a in site.testimonios %}
             <!-- 3 col -->
             <div class="uk-width-1-3@m">
               <!-- Image -->
