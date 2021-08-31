@@ -3,10 +3,13 @@ layout: contribution
 image_thumbnail: /assets/uploads/logo-opcion-png.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T01:55:34.657Z
-title_es: ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de
-  las mujeres en Chile en relación al tema DESCA?
+title_es: Corporación Opción
 content_block_es: >-
-  **Bárbara Salazar
+  ## ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de las
+  mujeres en Chile en relación al tema DESCA?
+
+
+  #### **Bárbara Salazar
 
   13 años**
 
