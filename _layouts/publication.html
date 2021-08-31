@@ -9,9 +9,13 @@ layout: default
 <div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container" style="margin-bottom: 50px;">
     {% if site.lang == "es" %}
-      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/publicaciones">{% t publications.breadcrumb %}</a> > {{page.title_es}}</p>
+    <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/publicaciones">{% t publications.breadcrumb %}</a> > {{page.title_es}}</p>
     {% elsif site.lang == "en" %}
+      {% if {{page.title_en}} != null %}
       <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/publicaciones">{% t publications.breadcrumb %}</a> > {{page.title_en}}</p>
+        {% else %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/publicaciones">{% t publications.breadcrumb %}</a> > {{page.title_es}}</p>
+      {% endif %}
     {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">

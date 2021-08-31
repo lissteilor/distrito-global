@@ -1,119 +1,121 @@
 navbar:
   language: ES
-  item_1: Somos
-  item_2: Iniciativas
-  item_3: Publicaciones
-  item_4: Noticias
-  item_5: Contacto
-  item_6: Escríbenos
-  item_7: Únete al equipo
+  item_1: We are
+  item_2: Initiatives
+  item_3: Publications
+  item_4: News
+  item_5: Contact
+  item_6: Write us
+  item_7: Join the team
 home:
   hero:
     title: Impulsamos los derechos económicos y sociales en el proceso constituyente chileno
-    subtitle: Distrito Global es un programa de GI-ESCR que documenta, monitorea e incide en el avance de los derechos económicos y sociales en el contexto chileno para escalar sus lecciones a nivel global.
+    subtitle: Distrito Global is a GI-ESCR programme that documents, monitors and influences the advancement of social rights in contexts of political and policy changes, to scale up the lessons learned globally.
   initiatives:
-    title: Nuestras iniciativas
+    title: Initiatives
     description: Impulsamos diversas iniciativas para promover los derechos económicos y sociales, en alianza con organizaciones de la sociedad civil a nivel local, nacional y global.
-    button: Ver todas las iniciativas
+    button: See all initiatives
   how_we_work:
-    title: Cómo trabajamos
-    description: Buscamos formas innovadoras de promover la justicia social y económica, la igualdad de género y la dignidad humana.
-    button: Saber más
-    action_1: Acción colectiva
-    action_2: Incidencia
-    action_3: Innovación y creatividad
+    title: How we work?
+    description: We are constantly seeking innovative ways to promote social and economic justice, gender equality, human dignity and coexistence with the environment.
+    button: Learn more
+    action_1: Collective action
+    action_2: Advocacy
+    action_3: Innovation and creativity
   publications:
-    title: Últimas publicaciones
+    title: Publications
     description: Contribuimos al desarrollo de conocimiento que aporte nuevas miradas al debate público sobre derechos económicos y sociales, con perspectiva de género y un enfoque socioambiental.
-    button: Ver todas
-    read: Leer publicación
-    download: Descargar
+    button: See all
+    read: Read publication
+    download: Download
   news:
-    title: Noticias
+    title: News
     description: ¿Quieres enterarte de las últimas novedades del Distrito Global? Aquí te contamos sobre eventos y actividades, apariciones en prensa y las noticias clave para la región y el mundo.
-    button: Ver más
+    button: See more
   alliances:
-    title: Alianzas
+    title: Alliances
     description: Colaboramos con un amplio rango de organizaciones a nivel local, nacional e internacional.
-    button: Ver todas
+    button: See all
   social_media:
-    title: Síguenos
+    title: Follow us
 about:
   description_1:
-    title: Somos la iniciativa Global por los Derechos Económicos, Sociales y Culturales (GI-ESCR)
-    par_1: La iniciativa Global por los Derechos Económicos, Sociales y Culturales (GI-ESCR por sus siglas en inglés) es una organización internacional no gubernamental que promueve cambios transformadores para acabar con los problemas endémicos de injusticia social y económico a través de un lente de derechos humanos.
-    par_2: Con un equipo multidisciplinario y ubicado en más de 10 países en el mundo, la iniciativa Global es la única organización internacional de derechos humanos trabajando por avanzar los derechos sociales y cambiar las narratias que impiden su desarrollo.
-    par_3: Conoce más sobre nuestra organización aquí.
+    title: Who is the Global Initiative for Economic, Social and Cultural Rights?
+    par_1: The Global Initiative for Economic, Social and Cultural Rights (GI-ESCR) is an international non-governmental organisation that promotes transformative changes to end the endemic problems of social and economic injustice through a human rights lens.
+    par_2: With a multidisciplinary team located in more than 10 countries around the world, the Global Initiative is the only international human rights organisation working to advance social rights and change the narratives that impede their development.
+    par_3: Find out more about our organisation here
   description_2:
-    title: ¿Qué es Distrito Global?
-    par: Distrito Global es un programa de la iniciativa Global por los Derechos Económicos, Sociales y Culturales, como un espacio para documentar, monitorear e incidir en el avance de los derechos económicos, sociales, culturales y ambientales en contextos de cambios sociales y normativos, y para escalar las lecciones aprendidas a nivel global.
+    title: What is Distrito Global?
+    par: Distrito Global is a GI-ESCR programme that documents, monitors and influences the advancement of social rights in contexts of political and policy changes, to scale up the lessons learned globally.
   how_we_work:
-    title: Cómo trabajamos
-    description: Buscamos constantemente formas innovadoras de promover la justicia social y económica, la igualdad de género, la dignidad humana y la convivencia con el medio ambiente.
+    title: How we work?
+    description: We are constantly seeking innovative ways to promote social and economic justice, gender equality, human dignity and coexistence with the environment.
     action_1:
-      title: Acción colectiva
-      description: Creamos espacios de asociación e intercambio, facilitando tanto sinergias entre sectores como la integración e interacción de personas, organizaciones y movimientos sociales que estén dispuestas a trabajar conjuntamente.
+      title: Collective action
+      description: We create spaces for association and dialogue, facilitating synergies between sectors and the integration and interaction of people, organisations and social movements that are willing to work together.
     action_2:
-      title: Incidencia
-      description: A través de la acción colectiva elaboramos propuestas y promovemos nuevas narrativas para incorporar el enfoque de derechos humanos en diversos espacios. Con ellas, incidimos en la discusión pública y en espacios claves de toma de decisiones.
+      title: Advocacy
+      description: Through collective action, we develop proposals and promote new narratives to incorporate the human rights approach in different spaces. We use them to influence public discussion and key decision-making spaces.
     action_3:
-      title: Innovación y creatividad
-      description: Desarrollamos herramientas innovadoras que nos permitan participar en los procesos de incidencia de manera inclusiva, informada y colaborativa. Aplicamos tácticas creativas y novedosas que nos permitan mostrar y conectar el mundo de los derechos humanos desde nuevos horizontes.
+      title: Innovation and creativity
+      description: We develop innovative tools that enable us to participate in advocacy processes in an inclusive, informed and collaborative way. We apply creative and original tactics that allow us to show, and connect [to], the world of human rights from new horizons.
 initiatives:
-  breadcrumb: Iniciativas
+  breadcrumb: Initiatives
   alliances: Proyecto realizado en conjunto con
-  publications: Publicaciones relacionadas
-  news: Noticias relacionadas
-  external_link: Visitar sitio
+  publications: Related publications
+  news: Related news
+  external_link: Visit site
+  juanitas: More than Juanitas
+  momento: Social rights and Chile’s constitutional moment
   chapters:
-      title_section: Capítulos
+      title_section: Chapters
       description_section:
-      download_all: Descarga el libro completo
-      chapter: Capítulo
-      read: Leer
-      download: Descargar
-      more_chapters: Todos los capítulos
-  contributions: Testimonios
-  more_contributions: Más testimonios
+      download_all: Download the full book
+      chapter: Chapter
+      read: Read
+      download: Download
+      more_chapters: All chapters
+  contributions: Testimonials
+  more_contributions: More testimonials
 publications:
-  breadcrumb: Publicaciones
-  read_index: Leer
-  download_index: Descargar
+  breadcrumb: Publications
+  read_index: Read
+  download_index: Download
   categories:
-    all: Todas
-    category_1: Constitución
-    category_2: Vivienda
-    category_3: Educación
-    category_4: Género
-    category_5: Política fiscal
+    all: All
+    category_1: Constitution
+    category_2: Housing
+    category_3: Education
+    category_4: Gender
+    category_5: Fiscal Policy
     pagination:
-      prev: Anterior
-      next: Siguiente
-  download: Descargar publicación
-  publications: Otras publicaciones
+      prev: Previous
+      next: Next
+  download: Download publication
+  publications: More publications
 news:
-  breadcrumb: Noticias
+  breadcrumb: News
   categories:
-    all: Todas
-    category_1: Noticias
-    category_2: Prensa
-    category_3: Eventos
+    all: All
+    category_1: News
+    category_2: Press
+    category_3: Events
     category_4: Global
   pagination:
-    prev: Anterior
-    next: Siguiente
-  news: Otras noticias
+    prev: Previous
+    next: Next
+  news: More news
 alliances:
   categories:
-    category_1: Internacionales
-    category_2: Nacionales
+    category_1: International
+    category_2: National
 join:
   title: ¿Quieres aportar al avance de los derechos económicos y sociales en Chile y América Latina?
   description: Recibimos solicitudes de prácticas, pasantías y voluntariados todo el año para apoyarnos en tareas de investigación, diseño y comunicaciones. Para cargos remunerados las postulaciones sólo se realizarán al momento de abrir nuevas convocatorias. Si te interesa conocer sobre futuras oportunidades laborales en GI-ESCR, completa este formulario.
 footer:
   suscription:
-    title: Suscríbete a nuestro Newsletter
-    button: Suscribirme
-  giescr: Distrito Global es un programa de
-  osf: Con el apoyo de
-  social_media: Síguenos
+    title: Join our mailing list
+    button: Submit
+  giescr: Distrito Global is a GI-ESCR programme
+  osf: With the support of
+  social_media: Follow us

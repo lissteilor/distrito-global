@@ -12,7 +12,11 @@ layout: default
     {% if site.lang == "es" %}
       <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/iniciativas">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
     {% elsif site.lang == "en" %}
-      <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/iniciativas">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+      {% if {{page.title_en}} != null %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/iniciativas">{% t initiatives.breadcrumb %}</a> > {{page.title_en}}</p>
+        {% else %}
+        <p class="font-label-grey"><a class="underline" href="{{ site.baseurl }}/iniciativas">{% t initiatives.breadcrumb %}</a> > {{page.title_es}}</p>
+      {% endif %}
     {% endif %}
   </div>
   <div class="uk-container uk-width-2-3@m">
