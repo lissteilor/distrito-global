@@ -3,16 +3,14 @@ layout: contribution
 image_thumbnail: /assets/uploads/logo_fundaciónovo.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T01:51:18.399Z
-title_es: ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de
-  las mujeres chilenas en relación al tema derechos sexuales y reproductivos o
-  al derecho a la salud?
+title_es: Fundación OVO Chile
 content_block_es: >-
-  Como Fundación Observatorio de Violencia Obstétrica de Chile (OVO) creemos que
-  es fundamental que la nueva constitución garantice la autonomía sexual y
-  reproductiva, como un derecho autónomo para todas las personas que viven en
-  nuestro territorio. Es importante que se resguarde y priorice una atención de
-  salud basada en el respeto, con especial protección a grupos vulnerables, como
-  mujeres, adolescentes, migrantes y disidencias sexuales.
+  ## ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de las
+  mujeres chilenas en relación al tema derechos sexuales y reproductivos o al
+  derecho a la salud?
+
+
+  Como Fundación Observatorio de Violencia Obstétrica de Chile (OVO) creemos que es fundamental que la nueva constitución garantice la autonomía sexual y reproductiva, como un derecho autónomo para todas las personas que viven en nuestro territorio. Es importante que se resguarde y priorice una atención de salud basada en el respeto, con especial protección a grupos vulnerables, como mujeres, adolescentes, migrantes y disidencias sexuales.
 
 
   Se debe establecer plena autonomía de decisión sobre la salud sexual y reproductiva tanto para mujeres y disidencias, incluyendo una atención respetuosa y humanizada en las etapas de gestación, parto, puerperio y aborto. Junto con ello se debe considerar y resguardar que la maternidad sea una elección consciente y no impuesta, pues la maternidad será deseada o no será.
