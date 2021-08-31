@@ -1,9 +1,9 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/la-morada.png
+image_thumbnail: /assets/uploads/logo-morada-bg.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T02:17:10.596Z
 title_es: "Vida y Aborto: en torno a la violencia de la penalización"
+authors: Francisca Pérez Prado  
 content_block_es: >-
   #### Francisca Pérez Prado
 

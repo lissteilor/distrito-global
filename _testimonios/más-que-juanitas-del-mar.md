@@ -2,8 +2,8 @@
 layout: testimony
 image_thumbnail: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T02:41:55.232Z
 title_es: Más que Juanitas del Mar
+authors: Valentina Muñoz Farías
 content_block_es: >-
   #### Valentina Muñoz Farías
 

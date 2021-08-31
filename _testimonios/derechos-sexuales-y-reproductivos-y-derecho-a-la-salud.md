@@ -1,8 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/ovochile.png
+image_thumbnail: /assets/uploads/logo-ovo-bg.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T01:51:18.399Z
 title_es: Derechos sexuales y reproductivos y derecho a la salud
 authors: Fundación Observatorio de Violencia Obstétrica de Chile (OVO)
 content_block_es: >-

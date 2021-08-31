@@ -1,8 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/logo_-pequeño-.png
+image_thumbnail: /assets/uploads/logo-luanda-bg.png
 image_hero: /assets/uploads/afro-por-constitución-.jpeg
-date: 2021-08-31T02:30:46.948Z
 title_es: Mujeres afrodescendientes
 content_block_es: >-
   ![](/assets/uploads/dscf8566.jpg)

@@ -24,9 +24,9 @@ content_block_es: >-
 
   <p>Por eso, muchas organizaciones con largos años de experiencia en feminismos o derechos sociales, se han sumado al Distrito Global para compartir relatos de mujeres chilenas en torno a la forma en que la nueva Constitución puede cambiar sus experiencias de vida . Con ellas, esta iniciativa pretende identificar los elementos clave para hacer transversal el enfoque de género en todos los derechos sociales, para contribuir a transformar las formas en que se entienden y protegen estos derechos.</p>
 alliance_1_org: Corporación La Morada
-alliance_1_logo: /assets/uploads/logo-default.png
+alliance_1_logo: /assets/uploads/logo-morada.png
 alliance_2_org: Corporación Opción
-alliance_2_logo: /assets/uploads/logo-default.png
+alliance_2_logo: /assets/uploads/logo-opcion.png
 alliance_3_org: Fundación OVO Chile
-alliance_3_logo: /assets/uploads/logo-default.png
+alliance_3_logo: /assets/uploads/logo-ovo.png
 ---

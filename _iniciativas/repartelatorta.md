@@ -25,11 +25,11 @@ content_block_es: >-
 
   </ul>
 alliance_1_org: Espacio Público
-alliance_1_logo: /assets/uploads/logo-default.png
+alliance_1_logo: /assets/uploads/logo-espacio.png
 alliance_2_org: Ciudadanía Inteligente
-alliance_2_logo: /assets/uploads/logo-default.png
+alliance_2_logo: /assets/uploads/logo-fci.png
 alliance_3_org: Oxfam
-alliance_3_logo: /assets/uploads/logo-default.png
+alliance_3_logo: /assets/uploads/logo-oxfam.png
 alliance_4_org: Centro Contribuye
-alliance_4_logo: /assets/uploads/logo-default.png
+alliance_4_logo: /assets/uploads/logo-contribuye.png
 ---

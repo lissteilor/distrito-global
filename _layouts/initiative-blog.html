@@ -57,7 +57,7 @@ layout: default
   </div>
 </div>
 
-<!--contributions-->
+<!--Testiomonials-->
 <div class="bg-grey-soft uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
   <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div>
@@ -83,19 +83,19 @@ layout: default
                 <!-- Card body -->
                 <div class="uk-card-body">
                   <!-- Content -->
-                  <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t initiatives.contribution_author %} {{page.authors}}</p>
+                  <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t initiatives.contribution_author %} {{a.authors}}</p>
                   {% if site.lang == "es" %}
                     <div class="dash dash-purple">
                       <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="30" height="6" fill="none"/>
                       </svg>
                     </div>
-                    <h3 class="link-highlighted"><span><a href="{{n.url}}">{{a.title_es}}</a></span></h3>
+                    <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
                     {% elsif site.lang == "en" %}
                       {% if {{n.title_en}} != null %}
-                        <h3 class="link-highlighted"><span><a href="{{n.url}}">{{a.title_en}}</a></span></h3>
+                        <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_en}}</a></span></h3>
                         {% else %}
-                        <h3 class="link-highlighted"><span><a href="{{n.url}}">{{a.title_es}}</a></span></h3>
+                        <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
                       {% endif %}
                     {% endif %}
                 </div><!-- End card body -->

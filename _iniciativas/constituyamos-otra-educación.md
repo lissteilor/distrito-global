@@ -35,7 +35,7 @@ content_block_en: >-
   Además, estamos trabajando en el desarrollo de una propuesta sobre cómo incorporar adecuadamente este derecho en la nueva constitución.
 external_link: https://www.gi-escr.org/activities-chile/constituyamos-otra-educacin-campaa-por-el-derecho-a-la-educacin-en-el-proceso-constituyente-en-chile
 alliance_1_org: SUMMA
-alliance_1_logo: /assets/uploads/logo-default.png
+alliance_1_logo: /assets/uploads/logo-summa.png
 alliance_2_org: Right to education Initiative
-alliance_2_logo: /assets/uploads/logo-default.png
+alliance_2_logo: /assets/uploads/logo-right.png
 ---

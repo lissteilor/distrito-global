@@ -1,10 +1,10 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/logo-muzosare.jpg
+image_thumbnail: /assets/uploads/logo-muzosare-bg.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T02:25:46.334Z
 title_es: "Mujeres de Zonas de Sacrificio en Resistencia de Quintero y
   Puchuncaví: reflexiones y propuestas"
+authors: Anita Peña Saavedra  
 content_block_es: >-
   #### Por Anita Peña Saavedra
 

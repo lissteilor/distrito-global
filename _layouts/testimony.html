@@ -69,35 +69,37 @@ layout: default
       <div class="uk-width-5-6@m">
         <div class="uk-flex uk-flex-center" uk-grid>
           {% for a in site.testimonios offset: 0 limit: 3  %}
-          <!-- 3 col -->
           <div class="uk-width-1-3@m">
-            <!-- Image -->
-            <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
-              <a href="{{a.url}}">
-                <img data-src="{{a.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
-              </a>
+            <!-- Card -->
+            <div class="uk-card uk-card-default uk-card-small">
+              <!-- Image -->
+              <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+                <a href="{{a.url}}">
+                  <img data-src="{{a.image_thumbnail}}" class="uk-transition-scale-up uk-transition-opaque" alt="" uk-img>
+                </a>
+              </div>
+              <!-- End card image -->
+              <!-- Card body -->
+              <div class="uk-card-body">
+                <!-- Content -->
+                <p class="font-label-black-soft" style="margin: 0 0 -20px;">{% t initiatives.contribution_author %} {{a.authors}}</p>
+                {% if site.lang == "es" %}
+                  <div class="dash dash-purple">
+                    <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <rect width="30" height="6" fill="none"/>
+                    </svg>
+                  </div>
+                  <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
+                  {% elsif site.lang == "en" %}
+                    {% if {{n.title_en}} != null %}
+                      <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_en}}</a></span></h3>
+                      {% else %}
+                      <h3 class="link-highlighted"><span><a href="{{a.url}}">{{a.title_es}}</a></span></h3>
+                    {% endif %}
+                  {% endif %}
+              </div><!-- End card body -->
+            </div><!-- End card -->
             </div>
-            <!-- Content -->
-            {% if site.lang == "es" %}
-              <div class="dash dash-black">
-                <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <rect width="30" height="6" fill="none"/>
-                </svg>
-              </div>
-              <h3 class="link-highlighted"><span><a href="{{n.url}}">{{a.title_es}}</a></span></h3>
-            {% elsif site.lang == "en" %}
-              <div class="dash dash-black">
-                <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <rect width="30" height="6" fill="none"/>
-                </svg>
-              </div>
-              {% if {{a.title_en}} != null %}
-                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{a.title_en}}</a></span></h3>
-                {% else %}
-                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{a.title_es}}</a></span></h3>
-              {% endif %}
-            {% endif %}
-          </div><!-- End 3 col -->
           {% endfor %}
         </div><!-- End flex -->
       </div>

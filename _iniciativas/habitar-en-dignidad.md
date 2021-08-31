@@ -22,9 +22,9 @@ content_block_es: >-
 content_block_en: ""
 external_link: https://ceschile.org/wp-content/uploads/2020/11/Habitar-en-dignidad.pdf
 alliance_1_org: TECHO-Chile
-alliance_1_logo: /assets/uploads/logo-default.png
+alliance_1_logo: /assets/uploads/logo-techo.png
 alliance_2_org: Fundación Vivienda
-alliance_2_logo: /assets/uploads/logo-default.png
+alliance_2_logo: /assets/uploads/logo-vivienda.png
 alliance_3_org: CES Chile
-alliance_3_logo: /assets/uploads/logo-default.png
+alliance_3_logo: /assets/uploads/logo-ces.png
 ---

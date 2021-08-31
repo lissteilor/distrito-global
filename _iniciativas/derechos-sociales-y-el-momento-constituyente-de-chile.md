@@ -28,7 +28,7 @@ content_block_es: >-
 
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, chilenos y de Chile y un variado número de países, incluyendo Argentina, Brasil, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 alliance_1_org: Universidad de Concepción
-alliance_1_logo: /assets/uploads/logo-default.png
+alliance_1_logo: /assets/uploads/logo-dacc.png
 alliance_2_org: Centro de Derechos Humanos de la Universidad de Essex
-alliance_2_logo: /assets/uploads/logo-default.png
+alliance_2_logo: /assets/uploads/logo-essex.png
 ---

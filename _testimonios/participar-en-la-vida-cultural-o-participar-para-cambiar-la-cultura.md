@@ -1,9 +1,9 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/la-morada.png
+image_thumbnail: /assets/uploads/logo-morada-bg.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T02:21:23.186Z
 title_es: Participar en la vida cultural, o participar para cambiar la cultura
+authors: Loreto Bravo Fernández
 content_block_es: >-
   #### Loreto Bravo Fernández
 

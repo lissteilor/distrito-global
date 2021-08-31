@@ -2,8 +2,8 @@
 layout: testimony
 image_thumbnail: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T02:24:33.745Z
 title_es: Teletrabajo e inequidades de género
+authors: Laura Liliana Matus Ortega
 content_block_es: >-
   #### **Laura Liliana Matus Ortega**
 

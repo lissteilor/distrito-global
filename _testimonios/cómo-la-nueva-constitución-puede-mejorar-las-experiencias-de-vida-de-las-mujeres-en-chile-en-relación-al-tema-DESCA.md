@@ -1,12 +1,47 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/logo-opcion-png.png
+image_thumbnail: /assets/uploads/logo-opcion-bg.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-date: 2021-08-31T02:00:54.621Z
-title_es: Trabajo
+title_es: '¿Cómo la nueva Constitución puede mejorar las experiencias de vida de las
+mujeres en Chile en relación al tema DESCA?'
+authors: Bárbara Salazar, Paz Ignacia Ortega López, Karina Flores Silva
 content_block_es: >-
-  ## ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de las
-  mujeres en Chile en relación al tema DESCA?
+
+
+  #### Bárbara Salazar
+
+  13 años
+
+  Debería haber equidad entre hombres y mujeres. No necesariamente que la mujer sea mejor o esté por encima del hombre, sino que pueda estar a la par.
+
+
+  La nueva Constitución podría ayudar a las mujeres a tener la posibilidad de decidir sobre su cuerpo, en caso que quiera abortar, o no, pues hay mujeres que tienen a sus hijos e hijas, pero no los quieren. Después esos hijos sufren y andan en la calle.
+
+
+  Respecto a los derechos ambientales, pueden mejorar si la derecha no se mete, si los empresarios no se meten. Porque ellos nunca querrán dejar de explotar la tierra, las aguas, el mar... a ellos la plata los manda.
+
+
+  También, las mujeres deberían exigir un sueldo equitativo, igual al de los hombres si es el mismo trabajo. Y la salud no debería ser más cara para las mujeres, sólo por ser mujeres.
+
+
+  Pienso que la nueva Constitución puede ayudar en todo eso.
+
+
+  #### Paz Ignacia Ortega López
+
+  14 años
+
+
+  Uno de los factores influyentes para mejorar la vida de las mujeres en una nueva Constitución, es lograr la igualdad entre los géneros, generando de este modo, un ambiente sociocultural más seguro.
+
+
+  Paralelamente, es importante equiparar sueldos, destacar proyectos de grandes mujeres y restaurar una educación no sexista y feminista, para así garantizar a las futuras generaciones femeninas una vida con seguridad, igualdad y equidad en todo contexto.
+
+
+  Por otro lado, es fundamental cambiar el paradigma respecto al género femenino, queriendo decir que este no esté ligado constantemente a roles domésticos, debido a que mujeres se han sentido forzadas en el momento de optar por ciertas decisiones que, en muchos casos, son contra de su voluntad.
+
+
+  En conclusión, la nueva Constitución será esencial para mejorar la oportunidad de vida de las mujeres en Chile, en el ámbito social, cultural y ambiental.
 
 
   #### **Karina Flores Silva**

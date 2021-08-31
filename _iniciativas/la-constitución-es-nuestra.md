@@ -37,9 +37,9 @@ content_block_en: >-
   Podrás también encontrar toda la información relevante sobre la Constitución, el Proceso Constituyente, la Convención Constitucional y sus mecanismos de participación ciudadana en un formato claro y amigable, así como diversas herramientas para que puedas elaborar e impulsar tus propuestas.
 external_link: https://laconstitucionesnuestra.cl/
 alliance_1_org: FES (Chile)
-alliance_1_logo: /assets/uploads/logo-default.png
+alliance_1_logo: /assets/uploads/logo-fes.png
 alliance_2_org: Ciudadanía Inteligente
-alliance_2_logo: /assets/uploads/logo-default.png
+alliance_2_logo: /assets/uploads/logo-fci.png
 alliance_3_org: Constitu+yo
-alliance_3_logo: /assets/uploads/logo-default.png
+alliance_3_logo: /assets/uploads/logo-constituyo.png
 ---
