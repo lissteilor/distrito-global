@@ -21,7 +21,7 @@ content_block_es: >-
   <p>Además, estamos trabajando en el desarrollo de una propuesta sobre cómo incorporar adecuadamente este derecho en la nueva constitución.</p>
 
 
-  <div id="Container" style="padding-bottom:56.25%; position:relative; display:block; width: 100%"><iframe width="100%" height="100%" src="<https://www.youtube.com/embed/soOvuXmwsjM?rel=0&showinfo=0&autohide=1&modestbranding=1>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute; top:0; left: 0"></iframe></div>
+  <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%"><iframe width="100%" height="100%" src="<https://www.youtube.com/embed/soOvuXmwsjM?rel=0&showinfo=0&autohide=1&modestbranding=1>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute; top:0; left: 0"></iframe></div>
 title_en: Let’s Provide Another Education
 content_block_en: >
   Together with SUMMA (the Education, Research and Innovation Laboratory for
