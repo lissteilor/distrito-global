@@ -3,7 +3,9 @@ layout: contribution
 image_thumbnail: /assets/uploads/logo_fundaciónovo.png
 image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
 date: 2021-08-31T01:51:18.399Z
-title_es: Derechos sexuales y reproductivos y derecho a la salud
+title_es: ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de
+  las mujeres chilenas en relación al tema derechos sexuales y reproductivos o
+  al derecho a la salud?
 content_block_es: >-
   Como Fundación Observatorio de Violencia Obstétrica de Chile (OVO) creemos que
   es fundamental que la nueva constitución garantice la autonomía sexual y
@@ -19,7 +21,7 @@ content_block_es: >-
   La Organización Mundial de las Naciones Unidas (ONU) en el año 2019, en su informe acerca de un enfoque basado en los derechos humanos del maltrato y la violencia contra la mujer en los servicios de salud reproductiva, con especial hincapié en la atención del parto y la violencia obstétrica, instó a los estados a hacerse cargo de este tipo de violencia contra la mujer, tan normalizado, para darle una solución en el corto plazo. Por eso creemos que es fundamental que la nueva Constitución garantice educación sexual y autonomía para todos y todas.
 
 
-  Según información recopilada en un comparativo de constituciones a nivel mundial, realizado por la Biblioteca del Congreso, la única Constitución del mundo que incluye el concepto de salud sexual y reproductiva es la de Ecuador del año 2008. Esta señala en el ámbito de Derecho a la Salud, que el Estado garantizará este derecho mediante políticas económicas, sociales, culturales, educativas y ambientales; y el acceso permanente, oportuno y sin exclusión a programas, acciones y servicios de promoción y atención integral de salud, salud sexual y salud reproductiva.  Además, en el Artículo 363 en los puntos 4, 5 y 6 aborda lo siguiente, que nos parece muy atingente y creemos que se debería incluir en la constitución chilena: 
+  Según información recopilada en un comparativo de constituciones a nivel mundial, realizado por la Biblioteca del Congreso, la única Constitución del mundo que incluye el concepto de salud sexual y reproductiva es la de Ecuador del año 2008. Ésta señala en el ámbito de Derecho a la Salud, que el Estado garantizará este derecho mediante políticas económicas, sociales, culturales, educativas y ambientales; y el acceso permanente, oportuno y sin exclusión a programas, acciones y servicios de promoción y atención integral de salud, salud sexual y salud reproductiva.  Además, en el Artículo 363 en los puntos 4, 5 y 6 aborda lo siguiente, que nos parece muy atingente y creemos que se debería incluir en la constitución chilena: 
 
 
   * 4.Garantizar las prácticas de salud ancestral y alternativa mediante el reconocimiento, respeto y promoción del uso de sus conocimientos, medicinas e instrumentos. 
