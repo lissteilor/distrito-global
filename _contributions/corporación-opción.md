@@ -11,8 +11,8 @@ content_block_es: >-
 
   #### Paz Ignacia Ortega López
 
-  14 años
 
+  #### 14 años
 
 
   Uno de los factores influyentes para mejorar la vida de las mujeres en una nueva Constitución, es lograr la igualdad entre los géneros, generando de este modo, un ambiente sociocultural más seguro.
