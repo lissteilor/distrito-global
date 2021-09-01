@@ -1,7 +1,7 @@
 ---
 layout: initiative-basic
 active: false
-image_thumbnail: /assets/uploads/thumb-3-.jpg
+image_thumbnail: /assets/uploads/thumb-7-.jpg
 image_hero: /assets/uploads/hero-1-.jpg
 title_es: Constituyamos otra Educación
 brief_es: Por el derecho a la educación en la nueva Constitución
