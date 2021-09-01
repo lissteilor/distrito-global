@@ -3,10 +3,10 @@ layout: initiative-basic
 active: false
 image_thumbnail: /assets/uploads/thumb-green.jpg
 image_hero: /assets/uploads/hero-green.jpg
-title_es: "#ReparteLaTorta"
+title_es: "Política Fiscal"
 brief_es: Por una política fiscal con enfoque de derechos
 content_block_es: >-
-  <p>#ReparteLaTorta es un proyecto de incidencia que busca promover una
+  <p>Política Fiscal es un proyecto de incidencia que busca promover una
   política fiscal con enfoque de derechos en el marco del proceso constituyente
   en Chile. Esto significa que las decisiones en torno a cómo el estado recauda
   y gasta sus recursos estén orientadas hacia  la satisfacción de los derechos
