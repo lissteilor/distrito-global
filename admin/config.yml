@@ -81,6 +81,13 @@ collections:
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
       - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - label: "PDF Documento"
+        name: "pdf_document"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: false
   - name: 'publicaciones'
     label: 'Publicaciones'
     folder: '_publicaciones/'

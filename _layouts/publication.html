@@ -24,19 +24,19 @@ layout: default
       <p class="font-label-black-soft">{{page.category_es}}</p>
       <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
       <p class="font-lead">{{page.brief_es}}</p>
+      {% if {{page.pdf_publication}} != null %}
+      <div class="uk-flex">
+        <div class="uk-with-1-1">
+          <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+        </div>
+      </div>
+      {% endif %}
       <div class="dash {{page.color}}">
         <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="30" height="6" fill="none"/>
         </svg>
       </div>
       <div class="uk-text-justify">
-        {% if {{page.pdf_publication}} != null %}
-        <div class="uk-flex"
-          <div class="uk-with-1-1">
-            <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
-          </div>
-        </div>
-        {% endif %}
         {{page.content_block_es | markdownify }}
       </div>
     {% elsif site.lang == "en" %}
@@ -64,7 +64,7 @@ layout: default
         {% if {{page.pdf_publication}} != null %}
         <div class="uk-flex"
           <div class="uk-with-1-1">
-            <a href="{{page.pdf_publication}}" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+            <a href="{{page.pdf_publication}}" target="_blank" class="uk-button button-bg-black">{% t publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
           </div>
         </div>
         {% endif %}
