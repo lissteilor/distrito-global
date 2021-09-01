@@ -1,21 +1,33 @@
 <!--Description-->
-<div class="uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
-  <div class="uk-container uk-width-2-3@m uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
-    <div class="uk-flex uk-flex-center" uk-grid>
-      <div class="uk-width-1-1">
+<div class="bg-grey-soft uk-section animate__animated animate__fadeIn animate__delay-2s animate__fast">
+  <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+      <div class="uk-width-2-3@m">
         <h2 class="font-black">{% t join.title %}</h2>
         <p>{% t join.description %}</p>
       </div>
     </div>
-  </div>
-</div>
-
-<!--Form-->
-<div class="uk-section animate__animated animate__fadeIn">
-  <div class="uk-container uk-width-2-3@m uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div class="uk-flex uk-flex-center" uk-grid>
-      <div class="uk-width-1-1">
-        Form
+      <div class="uk-width-1-2@m">
+        <form action="https://formspree.io/f/meqvvgvj" method="POST">
+          <div class="uk-width-1-1">
+            <label class="form-label">{% t forms.contact.name %}*</label>
+            <input type="text" name="name" class="form-input" placeholder="{% t forms.contact.name %}" tabindex="1" required>
+          </div>
+          <div class="uk-width-1-1">
+            <label class="form-label">{% t forms.contact.email %}*</label>
+            <input type="email" name="_replyto" class="form-input" placeholder="{% t forms.contact.email %}" tabindex="1" required>
+          </div>
+          <div class="uk-width-1-1">
+            <label class="form-label">{% t forms.contact.subject %}*</label>
+            <input type="text" name="subject" class="form-input" placeholder="{% t forms.contact.subject %}" tabindex="1" required>
+          </div>
+          <div class="uk-width-1-1">
+            <label class="form-label">{% t forms.contact.message %}*</label>
+            <textarea name="message" class="form-input" placeholder="{% t forms.contact.message %}" tabindex="6" required></textarea>
+          </div>
+          <button type="submit" class="uk-button uk-button-small button-line-black">{% t forms.contact.submit %}</button>
+        </form>
       </div>
     </div>
   </div>

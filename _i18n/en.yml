@@ -114,6 +114,20 @@ alliances:
 join:
   title: Would you like to contribute to the advancement of economic and social rights in Chile and Latin America?
   description: We welcome applications for internships and volunteer positions throughout the whole year to support us in research, communications and design. For paid positions, applications will only be considered at the time of new openings. If you are interested about future job opportunities at GI-ESCR, please complete this form.
+forms:
+  contact:
+    name: Name
+    email: Email
+    organization: Organization
+    subject: Subjetc
+    message: Message
+    submit: Submit
+  join:
+    name: Name
+    email: Email
+    subject: Subjetc
+    message: Message
+    submit: Submit
 footer:
   suscription:
     title: Join our mailing list
