@@ -46,8 +46,12 @@ content_block_en: >-
 
 
   To this end, we have invited more than 50 experts (men and women), \[people living in, and from, Chile] and a number of \[other] countries, including Argentina, Brazil, Colombia, Scotland, the United States, England, Ireland and South Africa. They have written more than 30 essays that seek to provide an international and comparative view of models for the constitutional recognition of socio-economic and environmental rights, together with a diverse analysis of the possible articulation of socio-economic and environmental rights within the Chilean legal framework.
-alliance_1_org: Universidad de Concepción
-alliance_1_logo: /assets/uploads/logo-dacc.png
-alliance_2_org: Centro de Derechos Humanos de la Universidad de Essex
-alliance_2_logo: /assets/uploads/logo-essex.png
+alliance_1_org: Centro de Derechos Humanos de la Universidad de Essex
+alliance_1_logo: /assets/uploads/logo-essex.png
+alliance_2_org: Universidad de Concepción
+alliance_2_logo: /assets/uploads/logo-udec-1-.png
+alliance_3_org: Programa en Derecho, Ambiente y Cambio Climático (UdeC)
+alliance_3_logo: /assets/uploads/logo-dacc.png
+alliance_4_org: Programa de Estudios Europeos (UdeC)
+alliance_4_logo: /assets/uploads/logo-pee.png
 ---
