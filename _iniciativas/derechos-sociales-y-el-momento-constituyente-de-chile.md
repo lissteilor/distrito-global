@@ -1,8 +1,8 @@
 ---
 layout: initiative-book
 active: true
-image_thumbnail: /assets/uploads/thumb-green.jpg
-image_hero: /assets/uploads/hero-green.jpg
+image_thumbnail: /assets/uploads/thumb-ensayos.jpg
+image_hero: /assets/uploads/hero-ensayos.jpg
 title_es: Derechos sociales y el momento constituyente de Chile
 summary_es: "Convocamos a más de 50 expertos y expertas a nivel global a
   contribuir con reflexiones interdisciplinares sobre la garantía de los
