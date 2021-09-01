@@ -477,6 +477,26 @@ header.uk-sticky {
   width: 4%; }
 
 /**
+ * Forms
+ */
+label.form-label {
+  display: block; }
+
+input.form-input {
+  background-color: white;
+  border: none;
+  height: 30px;
+  width: 100%;
+  margin-bottom: 20px; }
+
+textarea.form-input {
+  background-color: white;
+  border: none;
+  height: 120px;
+  width: 100%;
+  margin-bottom: 20px; }
+
+/**
  * Footer
  */
 footer {

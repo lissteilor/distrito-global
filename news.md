@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /noticias/
-hero_desktop: hero-desktop.jpg
+hero_desktop: hero-noticias.jpg
 hero_mobile: hero-mobile.jpg
 title_en: News
 title_es: Noticias

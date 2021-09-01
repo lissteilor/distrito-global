@@ -110,18 +110,18 @@ collections:
       - label: "Categoría ES"
         name: "category_es"
         widget: "select"
-        options: ["Constitución", "Vivienda", "Educación", "Género", "Política Fiscal"]
+        options: ["Constitución", "Internacional", "DESCA", "Género", "Política Fiscal"]
       - label: "Categoría EN"
         name: "category_en"
         widget: "select"
-        options: ["Constitution", "Housing", "Education", "Gender", "Fiscal Policy"]
+        options: ["Constitution", "International", "DESCA", "Gender", "Fiscal Policy"]
       - label: "Repetir categoría"
         name: "color"
         widget: "select"
         options:
           - { label: "Constitución", value: "dash-pink bg-pink" }
-          - { label: "Vivienda", value: "dash-green bg-green" }
-          - { label: "Educación", value: "dash-blue bg-blue" }
+          - { label: "Internacional", value: "dash-green bg-green" }
+          - { label: "DESCA", value: "dash-blue bg-blue" }
           - { label: "Género", value: "dash-purple bg-purple" }
           - { label: "Política Fiscal", value: "dash-orange bg-orange" }
       - label: "PDF Publicación"
@@ -178,6 +178,8 @@ collections:
             widget: "list"
             fields:
               - {label: Nombre, name: name, widget: string}
+              - {label: "Destacada en home", name: active, widget: boolean}
+              - {label: "Logo", name: logo, widget: image, required: false}
               - label: "Categoría"
                 name: "category_es"
                 widget: "select"
