@@ -25,7 +25,7 @@ content_block_es: >-
 
   </ul>
 alliance_1_org: Espacio Público
-alliance_1_logo: /assets/uploads/logo-espacio.png
+alliance_1_logo: /assets/uploads/logo-ep.png
 alliance_2_org: Ciudadanía Inteligente
 alliance_2_logo: /assets/uploads/logo-fci.png
 alliance_3_org: Oxfam

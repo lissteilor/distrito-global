@@ -178,6 +178,8 @@ collections:
             widget: "list"
             fields:
               - {label: Nombre, name: name, widget: string}
+              - {label: "Destacada en home", name: active, widget: boolean}
+              - {label: "Logo", name: logo, widget: image, required: false}
               - label: "Categoría"
                 name: "category_es"
                 widget: "select"

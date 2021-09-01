@@ -1,9 +1,115 @@
 items:
-  - name: Name
+  - name: Universidad de Concepción
+    active: true
+    logo: /assets/uploads/logo-dacc.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Centro de Derechos Humanos de la Universidad de Essex
+    active: true
+    logo: /assets/uploads/logo-essex.png
     category_es: Internacionales
     category_en: International
     color: dash-pink
-  - name: Name
+  - name: FES (Chile)
+    active: true
+    logo: /assets/uploads/logo-fes.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Ciudadanía Inteligente
+    active: true
+    logo: /assets/uploads/logo-fci.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Constitu+yo
+    active: true
+    logo: /assets/uploads/logo-constituyo.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Corporación La Morada
+    active: true
+    logo: /assets/uploads/logo-morada.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Corporación Opción
+    active: true
+    logo: /assets/uploads/logo-opcion.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Fundación OVO Chile
+    active: true
+    logo: /assets/uploads/logo-ovo.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: SUMMA
+    active: true
+    logo: /assets/uploads/logo-summa.png
+    category_es: Internacionales
+    category_en: International
+    color: dash-pink
+  - name: Right to education Initiative
+    active: true
+    logo: /assets/uploads/logo-right.png
+    category_es: Internacionales
+    category_en: International
+    color: dash-pink
+  - name: Techo Chile
+    active: true
+    logo: /assets/uploads/logo-techo.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Fundación Vivienda
+    active: true
+    logo: /assets/uploads/logo-vivienda.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: CES Chile
+    active: true
+    logo: /assets/uploads/logo-ces.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Espacio Público
+    active: true
+    logo: /assets/uploads/logo-ep.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Oxfam
+    active: true
+    logo: /assets/uploads/logo-oxfam.png
+    category_es: Internacionales
+    category_en: International
+    color: dash-pink
+  - name: Centro Contribuye
+    active: false
+    logo: /assets/uploads/logo-constribuye.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Niñas valientes
+    active: true
+    logo: /assets/uploads/logo-valientes.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Colectiva Luanda
+    active: true
+    logo: /assets/uploads/logo-luanda.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Mujeres de Zona de Sacrificio
+    active: true
+    logo: /assets/uploads/logo-muzosare.png
     category_es: Nacionales
     category_en: National
     color: dash-green

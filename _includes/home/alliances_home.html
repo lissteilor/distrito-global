@@ -1,17 +1,28 @@
 <!--Alliances-->
 <div class="uk-section animate__animated animate__fadeIn">
-  <div class="uk-container uk-width-2-3@m uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
+  <div class="uk-container uk-width-1-1@m uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div>
     <div class="uk-flex uk-flex-center" uk-grid>
-      <div class="uk-width-1-1">
+      <div class="uk-width-2-3@m">
         <h2 class="font-black">{% t home.alliances.title %}</h2>
         <p class="font-lead">{% t home.alliances.description %}</p>
       </div>
     </div>
     <div class="uk-flex uk-flex-center" uk-grid>
-      Alianzas
+      <div class="uk-width-5-6@m">
+        <div class="uk-flex uk-flex-center" uk-grid>
+          {% assign active_alliances = site.data.alliances.items | where: "active", true %}
+          {% for a in active_alliances %}
+          <!-- 4 col -->
+          <div class="uk-width-1-2 uk-width-1-4@m">
+            <!-- Content -->
+            <img data-src="{{a.logo}}" title="{{a.name}}" uk-img>
+          </div><!-- End 4 col -->
+          {% endfor %}
+        </div><!-- End flex -->
+      </div>
     </div>
-    <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
+    <div class="uk-hidden uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-1-1">
         <a href="{{ site.baseurl }}/alliances" class="uk-button button-line-black">{% t home.alliances.button %}</a>
       </div>
