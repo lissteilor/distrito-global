@@ -1,2 +1,0 @@
-# distrito-global
-
