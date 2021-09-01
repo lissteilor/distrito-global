@@ -20,7 +20,7 @@ title_en: ""
 brief_en: ""
 content_block_en: ""
 category_es: Educación
-category_en: Housing
+category_en: Education
 color: dash-blue bg-blue
 pdf_publication: https://www.summaedu.org/wp-content/uploads/2020/10/CONSTITUYENTE-DOC_FINAL_PAG.pdf
 ---
