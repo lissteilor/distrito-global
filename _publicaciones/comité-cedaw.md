@@ -8,13 +8,13 @@ title_es: Comité CEDAW
 brief_es: Presentación conjunta para la recomendación sobre los derechos de las
   mujeres y niñas indígenas
 content_block_es: >-
-  <p>El 24 de junio de 2021, GI-DESC, junto con El Observatorio Ciudadano y
-  ProDESC, realizaron una presentación escrita al Comité para la Eliminación de
-  la Discriminación contra la Mujer (Comité CEDAW), en la discusión general que
-  el Comité organizó para iniciar el debate y recibir aportaes para una nueva
-  recomendación general sobre los derechos de las mujeres y niñas indígenas, con
-  el objetivo de promover los derechos de las mujeres y lograr una igualdad de
-  género sustantiva.</p>
+  <p>El 24 de junio de 2021, junto con El Observatorio Ciudadano y ProDESC,
+  realizamos una presentación escrita al Comité para la Eliminación de la
+  Discriminación contra la Mujer (Comité CEDAW), en la discusión general que
+  éste organizó para iniciar el debate y recibir aportes en el contexto de una
+  nueva recomendación general sobre los derechos de las mujeres y niñas
+  indígenas, con el objetivo de promover los derechos de las mujeres y lograr
+  una igualdad de género sustantiva.</p>
 
 
   <p>Esta presentación tuvo por objetivo resaltar la importancia crucial de la participación efectiva, la consulta y el consentimiento de las mujeres y niñas indígenas en las medidas y estrategias de mitigación del cambio climático. Asimismo, el informe destaca los efectos desproporcionados que no conducir estos procesos tiene sobre los derechos garantizados por la CEDAW a niñas y mujeres indígenas.</p>
