@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /somos/
-hero_desktop: hero-desktop.jpg
+hero_desktop: hero-somos.jpg
 hero_mobile: hero-mobile.jpg
 title_en: We are
 title_es: Somos

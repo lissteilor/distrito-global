@@ -52,7 +52,7 @@
         </div><!-- End flex -->
         <div class="uk-flex" uk-grid>
           {% assign active_news-m = site.noticias | where: "active-m", true %}
-          {% for n in active_news-m limit: 3 %}
+          {% for n in active_news-m reversed limit: 3 %}
           <!-- 3 col -->
           <div class="uk-width-1-3@m">
             <!-- Image -->

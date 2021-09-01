@@ -55,8 +55,9 @@ h3{
   font-size: 1rem;
   font-weight: 600;
   color: white;
-  line-height: 1.5;
+  line-height: 1.7;
 }
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -374,9 +375,14 @@ cite {
      box-shadow: none;
  }
 
+ .card-height{
+   min-height: 300px;
+ }
+
  .featured-news{
    margin: 0 0 -20px;
  }
+
 
  /**
   * Filters
