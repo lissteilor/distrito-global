@@ -6,7 +6,7 @@ image_thumbnail: /assets/uploads/thumb-7-.jpg
 image_hero: /assets/uploads/hero-1-.jpg
 title_es: Constituyamos Otra Educación... Una Mejor Sociedad es Posible
 brief_es: 10 nudos constitucionales en educación y experiencias internacionales
-  destacadas
+  destacadas para inspirar el debate nacional
 content_block_es: >-
   <p>En el plano de la educación, estamos frente a una oportunidad única para
   redefinir el rol del sistema educativo en la construcción social, expandiendo
