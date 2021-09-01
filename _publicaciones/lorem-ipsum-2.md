@@ -2,8 +2,8 @@
 layout: publication
 active: true
 image_slider: /assets/uploads/slider-reglamento-1-.jpg
-image_thumbnail: /assets/uploads/thumb-reglamento-1-.jpg
-image_hero: /assets/uploads/hero-reglamento-1-.jpg
+image_thumbnail: /assets/uploads/thumb-reglamento-2-.jpg
+image_hero: /assets/uploads/hero-reglamento-2-.jpg
 title_es: "Por un reglamento
   feminista                                                                                                                           \
   "
