@@ -254,6 +254,14 @@ strong {
   margin-top: -10px;
   line-height: 100%; }
 
+.font-color {
+  color: #6738EB; }
+
+.font-resource {
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: #8A969C; }
+
 /**
  * Article
  */

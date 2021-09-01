@@ -52,6 +52,13 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
+    {% if {{page.pdf_document}} != null %}
+    <div class="uk-flex uk-flex-right" style="margin-top: 50px">
+      <div class="uk-with-1-1">
+        <a href="{{page.pdf_document}}" target="_blank" class="uk-button button-bg-black">{% t initiatives.contributions_pdf %} <i class="uil uil-external-link-alt"></i></a>
+      </div>
+    </div>
+    {% endif %}
     </article>
   </div>
 </div>
