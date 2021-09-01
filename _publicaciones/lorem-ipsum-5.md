@@ -1,7 +1,7 @@
 ---
 layout: publication
 active: true
-image_slider: /assets/uploads/thumb-6-.jpg
+image_slider: /assets/uploads/destacados.jpg
 image_thumbnail: /assets/uploads/thumb-6-.jpg
 image_hero: /assets/uploads/hero-1-.jpg
 title_es: Constituyamos Otra Educación... Una Mejor Sociedad es Posible
