@@ -1,13 +1,13 @@
 ---
 layout: publication
 active: true
-image_slider: /assets/uploads/slider-reglamento.jpg
-image_thumbnail: /assets/uploads/thumb-reglamento.jpg
-image_hero: /assets/uploads/hero-reglamento.jpg
+image_slider: /assets/uploads/slider-reglamento-1-.jpg
+image_thumbnail: /assets/uploads/thumb-reglamento-1-.jpg
+image_hero: /assets/uploads/hero-reglamento-1-.jpg
 title_es: Por un reglamento feminista
-brief_es: "Articulación Territorial Feminista Elena Ca\x1farena"
+brief_es: Articulación Territorial Feminista Elena Caffarena
 content_block_es: >-
-  <p>La articulación territorial Elena Caffarena, que agrupa a un total de 21
+  <p>La articulación territorial Elena Caffarena, que agrupa a más de 21
   organizaciones de la sociedad civil chilena -entre ellas la Iniciativa Global
   por los Derechos Económicos, Sociales y Culturales (GI-ESCR)-, elaboró y
   presentó una propuesta para incluir el enfoque de género en el reglamento que
