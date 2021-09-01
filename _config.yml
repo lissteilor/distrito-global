@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Distrito Global
-email:
-description: >- # this means to ignore newlines until "baseurl:"
+email: distritoglobal@gi-escr.org
+description: Impulsamos los derechos económicos, sociales, culturales y ambientales en el proceso constituyente chileno
+# this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+twitter_username: GIESCR_LatAm
 
 # Build settings
 markdown: kramdown
