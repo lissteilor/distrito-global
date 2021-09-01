@@ -4,7 +4,9 @@ active: true
 image_slider: /assets/uploads/slider-reglamento-1-.jpg
 image_thumbnail: /assets/uploads/thumb-reglamento-1-.jpg
 image_hero: /assets/uploads/hero-reglamento-1-.jpg
-title_es: Por un reglamento feminista
+title_es: "Por un reglamento
+  feminista                                                                                                                           \
+  "
 brief_es: Articulación Territorial Feminista Elena Caffarena
 content_block_es: >-
   <p>La articulación territorial Elena Caffarena, que agrupa a más de 21
