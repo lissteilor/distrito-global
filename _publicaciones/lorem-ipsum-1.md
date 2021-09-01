@@ -1,9 +1,9 @@
 ---
 layout: publication
 active: true
-image_slider: /assets/uploads/slider-techo.jpg
-image_thumbnail: /assets/uploads/thumb-techo.jpg
-image_hero: /assets/uploads/hero-techo.jpg
+image_slider: /assets/uploads/slider-techo-1-.jpg
+image_thumbnail: /assets/uploads/thumb-techo-1-.jpg
+image_hero: /assets/uploads/hero-techo-1-.jpg
 title_es: Habitar en dignidad
 brief_es: Hacia el derecho a la vivienda en la Nueva Constitución
 content_block_es: >-
