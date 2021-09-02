@@ -30,22 +30,24 @@ content_block_es: >-
 title_en: Social rights and Chile’s constitutional moment
 button_en: Read the chapters
 content_block_en: >-
-  At a global level, there is a link between levels of inequality and \[the
-  degree to which] socio-economic and environmental rights \[are protected]. In
-  general, the less these rights are protected, the greater the inequality, and
-  vice versa. It is for this reason that citizens' demands in Chile have focused
-  on access to these rights, including education, health, pensions and housing,
-  for decades. These demands have only intensified with the social unrest and
-  the disastrous effect of the pandemic.
+  At a global level, there is a link between levels of inequality and the degree
+  to which socio-economic and environmental rights are protected. In general,
+  the less these rights are protected, the greater the inequality, and vice
+  versa. It is for this reason that citizens' demands in Chile have focused on
+  access to these rights, including education, health, pensions and housing, for
+  decades. These demands have only intensified with the social unrest and the
+  disastrous effect of the pandemic.
 
 
-  This is why Chile is experiencing a \[period] of hope and potential transformation today that puts it at the centre of the world’s attention. It is a historic opportunity to take socio-economic and environmental rights seriously within a participative political process that leaves no one behind.
+  This is why Chile is experiencing a period of hope and potential transformation today that puts it at the centre of the world’s attention. It is a historic opportunity to take socio-economic and environmental rights seriously within a participative political process that leaves no one behind.
 
 
-  At Distrito Global, we are looking to put forward new points of view and ideas that contribute to enriching the debate in the Constitutional Convention with arguments and proposals in favour of the protection of economic, social, cultural and environmental rights.
+
+  At Distrito Global, we are looking to put forward new points of view and ideas that contribute to enriching the debate in the Constitutional Convention from an economic and social rights lens.
 
 
-  To this end, we have invited more than 50 experts (men and women), \[people living in, and from, Chile] and a number of \[other] countries, including Argentina, Brazil, Colombia, Scotland, the United States, England, Ireland and South Africa. They have written more than 30 essays that seek to provide an international and comparative view of models for the constitutional recognition of socio-economic and environmental rights, together with a diverse analysis of the possible articulation of socio-economic and environmental rights within the Chilean legal framework.
+
+  To this end, we have invited more than 50 national and international experts (men and women), including Argentina, Brazil, Colombia, Scotland, the United States, England, Ireland and South Africa. They have written more than 30 essays that seek to provide an international and comparative perspective for the constitutional recognition and implementation of socio-economic and environmental rights.
 alliance_1_org: Centro de Derechos Humanos de la Universidad de Essex
 alliance_1_logo: /assets/uploads/logo-essex.png
 alliance_2_org: Universidad de Concepción
