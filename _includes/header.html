@@ -74,10 +74,10 @@
               <li>
                 {% if site.lang == "es" %}
                   {% capture link_en %}{{ site.baseurl_root }}/en{{ page.url }}{% endcapture %}
-                  <a class="font-menu" href="{{ link_en }}">EN</a>
+                  <a class="font-menu" href="{{ link_en }}"><i>EN</i></a>
                 {% elsif site.lang == "en" %}
                   {% capture link_es %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
-                  <a class="font-menu" href="{{ link_es }}">ES</a>
+                  <a class="font-menu" href="{{ link_es }}"><i>ES</i></a>
                 {% endif %}
               </li>
             </ul>
