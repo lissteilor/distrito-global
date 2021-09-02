@@ -499,6 +499,18 @@ textarea.form-input {
   width: 100%;
   margin-bottom: 20px; }
 
+#mc_embed_signup div.mce_inline_error {
+  background-color: transparent !important;
+  padding: 0 !important;
+  font-weight: 400 !important;
+  font-size: 0.7rem; }
+
+#mce-success-response {
+  color: white !important;
+  padding: 0 !important;
+  font-weight: 400 !important;
+  font-size: 0.7rem; }
+
 /**
  * Footer
  */
