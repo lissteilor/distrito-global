@@ -1,7 +1,7 @@
 ---
 layout: publication
 active: false
-image_slider: /assets/uploads/slider-cedaw1.jpg
+image_slider: /assets/uploads/slider-cedaw1-1-.jpg
 image_thumbnail: /assets/uploads/thumb-cedaw1-1-.jpg
 image_hero: /assets/uploads/hero-cedaw1-1-.jpg
 title_es: Comité CEDAW
