@@ -24,6 +24,22 @@ content_block_es: >-
   <li>Poner a disposición de la Convención Constitucional alternativas normativas para la consagración de principios e instituciones que garanticen una política fiscal con enfoque de derechos.</li>
 
   </ul>
+title_en: Fiscal policy
+content_block_en: >-
+  Our advocacy project on fiscal policy that seeks to promote a rights-based
+  approach to fiscal policy within the framework of the constitutional process
+  in Chile. This means that decisions around how the state collects and spends
+  its resources are geared towards satisfying the social rights of all.
+
+
+  Some of the objectives of the project are: 
+
+
+  * To create spaces for reflection and debate on international standards and comparative best practices
+
+  * To create links between civil society organisations on matters of tax policy and social rights.
+
+  * To promote alternative policies for the enshrinement of principles and institutions that guarantee a rights-based approach to fiscal policy in the constitutional debate.
 alliance_1_org: Espacio Público
 alliance_1_logo: /assets/uploads/logo-ep.png
 alliance_2_org: Ciudadanía Inteligente
