@@ -60,7 +60,7 @@ content_block_en: >-
   * **[Read the interview of Marcos Orellana on La Tercera’s website](https://www.latercera.com/que-pasa/noticia/marcos-orellana-relator-de-la-onu-sobre-productos-toxicos-la-tragedia-sufrida-por-las-victimas-de-arica-revela-que-el-mero-reconocimiento-constitucional-del-derecho-a-vivir-en-un-ambiente-sano-no-es-garantia-suficiente/OGXKSZUQWZA7RD3XYEHJ4WVO5E/?outputType=amp)**
 
   * **[Read Marcos Orellana’s op-ed El Mostrador’s website](https://www.elmostrador.cl/destacado/2021/05/30/inclumplimiento-toxico-hace-22-anos-la-corte-suprema-ordeno-retirar-las-20-mil-toneladas-de-desechos-quimicos-suecos-de-arica-pero-siguen-ahi/)**
-category_es: Noticias
-category_en: News
-color: dash-pink
+category_es: Prensa
+category_en: Press
+color: dash-green
 ---
