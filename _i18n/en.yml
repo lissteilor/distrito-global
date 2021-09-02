@@ -10,27 +10,27 @@ navbar:
 home:
   hero:
     title: We promote economic, social, cultural and environmental rights in the Chilean constitutional process
-    subtitle: Distrito Global is a GI-ESCR programme that documents, monitors and influences the advancement of social rights in contexts of political and policy changes, to scale up the lessons learned globally.
+    subtitle: Distrito Global is a GI-ESCR programme that documents, monitors and influences the advancement of social rights in contexts of political and policy changes, to scale up the lessons learned globally
   initiatives:
     title: Initiatives
-    description: We promote a wide range of initiatives to promote economic and social rights, in alliance with civil society organizations at the local, national and global level.
+    description: We promote a wide range of initiatives to promote economic and social rights, in alliance with civil society organizations at the local, national and global level
     button: See all initiatives
   how_we_work:
     title: How we work?
-    description: We are constantly seeking innovative ways to promote social and economic justice, gender equality, human dignity and coexistence with the environment.
+    description: We are constantly seeking innovative ways to promote social and economic justice, gender equality, human dignity and coexistence with the environment
     button: Learn more
     action_1: Collective action
     action_2: Advocacy
     action_3: Innovation and creativity
   publications:
     title: Publications
-    description: We contribute with new perspectives to the public debate on economic and social rights, with a gender perspective and a socio-environmental approach.
+    description: We contribute with new perspectives to the public debate on economic and social rights, with a gender perspective and a socio-environmental approach
     button: See all
     read: Read publication
     download: Download
   news:
     title: News
-    description: Would you like to know the latest news of Distrito Global? Here you can see our events, activities, press releases and key news for the region and the rest of the world.
+    description: Would you like to know the latest news of Distrito Global? Here you can see our events, activities, press releases and key news for the region and the rest of the world
     button: See more
   alliances:
     title: Alliances
@@ -46,7 +46,7 @@ about:
     par_3: Find out more about our organisation here
   description_2:
     title: What is Distrito Global?
-    par: Distrito Global is a GI-ESCR programme that documents, monitors and influences the advancement of social rights in contexts of political and policy changes, to scale up the lessons learned globally.
+    par: Distrito Global is a GI-ESCR programme that documents, monitors and influences the advancement of social rights in contexts of political and policy changes, to scale up the lessons learned globally
   how_we_work:
     title: How we work?
     description: We are constantly seeking innovative ways to promote social and economic justice, gender equality, human dignity and coexistence with the environment.
