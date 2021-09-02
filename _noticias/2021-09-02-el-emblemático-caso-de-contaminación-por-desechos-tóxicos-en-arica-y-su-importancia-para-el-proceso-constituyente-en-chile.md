@@ -39,6 +39,27 @@ content_block_es: >-
 title_en: "20,000 tonnes of toxic waste in Arica: the environmental crime that
   neither Sweden nor Chile is taking responsibility for | Read op-ed by Marco
   Orellanas and interview"
+content_block_en: >-
+  
+
+  **This 31 May, Marcos Orellanas, Special Rapporteur on toxics and human rights and GI-ESCR Board member signed an op-ed on the case of a community in Arica, in Northern Chile, affected by the deposit of toxic waste exported by Sweden in the 1980s, which shows that the recognition of the right to live in a healthy environment is not a sufficent guarantee to prevent such tragedies to happen. The current constituent process in Chile is an opportunity to address the issue and ensure that this case never happens again.**
+
+
+  ![Marcos (2).jpg](https://images.squarespace-cdn.com/content/v1/5a6e0958f6576ebde0e78c18/1612862662936-G28DZK3339FPDXEBL3VX/Marcos+%282%29.jpg?format=500w)
+
+
+  The case of the contaminated inhabitants of Arica has reached the United Nations. The Special Rapporteur on Hazardous Substances and Wastes says in this interview that this case can be explained by "extreme negligence or perhaps corruption". He also points out that the tragedy suffered by the victims calls into question what is contained in the current Constitution on environmental matters: "Here the Chilean Constitutional Convention has a great challenge and opportunity", he says.
+
+
+  This is a long-standing story. In the 1980s, the Chilean government authorised the company Promel to bring more than 20,000 tonnes of toxic waste from Sweden to Arica, which was abandoned on a piece of land that at the time had no residential use. The waste was supposedly harmless, but in fact contained large quantities of lead and arsenic. In the 1990s, the authorities allowed towns to be built in close proximity to the dumped material. The result? Nearly 12,000 people have been exposed to contamination from this waste.
+
+
+  Marcos Orellanas’s wrote an op-ed and gave an interview, published in two of the most prominent media in Chile:
+
+
+  * **[Read the interview of Marcos Orellana on La Tercera’s website](https://www.latercera.com/que-pasa/noticia/marcos-orellana-relator-de-la-onu-sobre-productos-toxicos-la-tragedia-sufrida-por-las-victimas-de-arica-revela-que-el-mero-reconocimiento-constitucional-del-derecho-a-vivir-en-un-ambiente-sano-no-es-garantia-suficiente/OGXKSZUQWZA7RD3XYEHJ4WVO5E/?outputType=amp)**
+
+  * **[Read Marcos Orellana’s op-ed El Mostrador’s website](https://www.elmostrador.cl/destacado/2021/05/30/inclumplimiento-toxico-hace-22-anos-la-corte-suprema-ordeno-retirar-las-20-mil-toneladas-de-desechos-quimicos-suecos-de-arica-pero-siguen-ahi/)**
 category_es: Noticias
 category_en: News
 color: dash-pink
