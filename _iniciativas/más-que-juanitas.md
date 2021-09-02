@@ -10,7 +10,8 @@ summary_es: Construimos una bitácora feminista de elaboración colectiva, que
   las formas en que la nueva Constitución puede mejorar sus experiencias de
   vida.
 brief_es: Derechos sociales con enfoque de género
-button_es: Revisa las últimas publicaciones
+button_es: Revisa los testimonios
+button_en: Read the testimonials
 content_block_es: >-
   <p>“La señora Juanita” es una metáfora asentada en el inconsciente colectivo
   chileno. Representa una universalización de la experiencia política femenina

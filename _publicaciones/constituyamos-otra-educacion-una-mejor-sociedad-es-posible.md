@@ -16,11 +16,8 @@ content_block_es: >-
   justa, libre, igualitaria, inclusiva y fraterna.</p>
 
   <p>¿Cómo informar y apoyar este proceso histórico? Con esta pregunta, este documento sintetiza sucintamente los principales hallazgos y conclusiones del estudio sobre experiencias constitucionales destacadas en educación, elaborado por los mismos autores y disponible desde diciembre 2020 en SUMMA y la Iniciativa Global para los Derechos Económicos, Sociales y Culturales. Dicho estudio tiene como objetivo realizar un profundo análisis crítico y constructivo del derecho a la educación en la constitución actual, identificando aquellos elementos fundamentales que hoy se omiten, están incluidos de manera insuficiente o deben ser modificados. A partir de las falencias identificadas se analizan alternativas constitucionales, considerando los estándares internacionales de derechos humanos y aprovechando las lecciones que se desprenden de la experiencia internacional comparada. Esta última es clave pues permite verificar e ilustrar concretamente cómo otros países han logrado encarnar y traducir los principios de libertad, igualdad, fraternidad e inclusión en sus constituciones y sistemas educativos.</p>
-title_en: ""
-brief_en: ""
-content_block_en: ""
-category_es: Educación
-category_en: Education
+category_es: DESCA
+category_en: DESCA
 color: dash-blue bg-blue
 pdf_publication: https://www.summaedu.org/wp-content/uploads/2020/10/CONSTITUYENTE-DOC_FINAL_PAG.pdf
 ---

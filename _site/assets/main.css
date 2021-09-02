@@ -155,6 +155,9 @@ a.underline-black:hover::after, a.underline-black:focus::after, a.underline-blac
 .bg-white {
   background: white; }
 
+.bg-green {
+  background: #51CB7B; }
+
 #hero-page.uk-height-viewport {
   min-height: 60vh; }
 

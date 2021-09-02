@@ -62,9 +62,6 @@
               {% if site.lang == "es" %}
                 <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
                 <p style="line-height: 1.8">{{n.brief_es}}</p>
-                {% if {{n.button_es}} != null %}
-                <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_es}}</a>
-                {% endif %}
               {% elsif site.lang == "en" %}
                 {% if {{n.title_en}} != null %}
                   <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_en}}</a></span></h3>
@@ -75,11 +72,6 @@
                   <p style="line-height: 1.8">{{n.brief_en}}</p>
                   {% else %}
                   <p style="line-height: 1.8">{{n.brief_es}}</p>
-                {% endif %}
-                {% if {{n.button_en}} != null %}
-                  <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_en}}</a>
-                  {% else %}
-                  <a href="{{n.url}}" class="uk-button uk-button-small button-line-black">{{n.button_es}}</a>
                 {% endif %}
               {% endif %}
             </div>

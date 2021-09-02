@@ -9,6 +9,7 @@ summary_es: "Desarrollamos una plataforma digital abierta y colaborativa que
   Convención Constitucional. "
 brief_es: Para que la voz ciudadana se escuche en la Convención
 button_es: Conoce el proyecto
+button_en: Learn more
 content_block_es: >-
   <p>La participación efectiva de la ciudadanía en la creación de la nueva
   Constitución es uno de los grandes desafíos de este proceso. ¿Cómo podemos
