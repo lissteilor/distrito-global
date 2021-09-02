@@ -34,6 +34,25 @@ h3{
   margin: 10px 0;
 }
 
+h3.link-highlighted {
+  text-transform: none;
+}
+
+h3.link-highlighted a{
+  background-image: linear-gradient(180deg,transparent 94%,$black 0);
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: background-size .4s ease;
+  color: $black;
+}
+
+h3.link-highlighted a:hover, a:focus, a:active{
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+
+
 
 .welcome-home-title span{
   background-image: linear-gradient(180deg, transparent 65%, white 0);
@@ -146,10 +165,6 @@ a.underline-black:hover::after, a.underline-black:focus::after, a.underline-blac
   transform: scaleX(1);
   transform-origin: left;
 }
-
-
-
-
 
 
 /**
@@ -581,6 +596,20 @@ textarea.form-input{
   height: 120px;
   width: 100%;
   margin-bottom: 20px;
+}
+
+#mc_embed_signup div.mce_inline_error{
+  background-color: transparent !important;
+  padding: 0 !important;
+  font-weight: 400 !important;
+  font-size: 0.7rem;
+}
+
+#mce-success-response {
+    color: white !important;
+    padding: 0 !important;
+    font-weight: 400 !important;
+    font-size: 0.7rem;
 }
 
 /**
