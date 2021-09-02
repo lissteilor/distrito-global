@@ -28,8 +28,8 @@ content_block_es: >-
 
 
   <p>Firma este compromiso [aquí](https://docs.google.com/forms/d/1dyg0zcGdFHeUwCbUGpB6APPIZKt3WkqYdhoDSxG0qwE/viewform?edit_requested=true).</p>
-category_es: Internacional
-category_en: International
-color: dash-green bg-green
+category_es: DESCA
+category_en: DESCA
+color: dash-blue bg-blue
 pdf_publication: https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/60c24aa82b38c8023a0121e3/1623345834592/Compromiso+Habitar+Dignidad+VFF.pdf
 ---
