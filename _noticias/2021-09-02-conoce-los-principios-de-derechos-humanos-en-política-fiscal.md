@@ -54,6 +54,7 @@ content_block_es: >-
   14. Los actores no estatales, incluidas las empresas y los intermediarios, tienen responsabilidades en materia de derechos humanos en relación con su comportamiento fiscal.
 
   15. Los Estados deben prevenir y reparar adecuadamente las vulneraciones a los derechos humanos, sean estos civiles, políticos, económicos, sociales, culturales o ambientales, relacionadas con la política fiscal.
+title_en: GI-ESCR promotes the Principles for Human Rights in Fiscal Policy for Chile
 content_block_en: >-
   
 
