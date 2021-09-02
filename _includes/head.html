@@ -21,7 +21,12 @@
   <meta name="twitter:creator" content="@">
   <meta name="twitter:image" content="{{ site.baseurl_root }}/assets/images/og-img.png">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  {% if site.lang == "es" %}
+    <title>{{ site.title }}{% if page.title_tab_es %} | {{ page.title_tab_es }}{% endif %}</title>
+  {% elsif site.lang == "en" %}
+    <title>{{ site.title }}{% if page.title_tab_en %} | {{ page.title_tab_en }}{% endif %}</title>
+  {% endif %}
   <link rel="canonical" href="{{ site.baseurl_root }}" />
   <link rel="shortcut icon" href="{{ site.baseurl_root }}/assets/images/favicon.ico">
 
