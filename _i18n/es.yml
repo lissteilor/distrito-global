@@ -10,27 +10,27 @@ navbar:
 home:
   hero:
     title: Impulsamos los derechos económicos, sociales, culturales y ambientales en el proceso constituyente chileno
-    subtitle: Distrito Global es un programa de GI-ESCR que documenta, monitorea e incide en el avance de los derechos económicos y sociales en el contexto chileno para escalar sus lecciones a nivel global.
+    subtitle: Distrito Global es un programa de GI-ESCR que documenta, monitorea e incide en el avance de los derechos económicos y sociales en el contexto chileno para escalar sus lecciones a nivel global
   initiatives:
     title: Nuestras iniciativas
-    description: Impulsamos diversas iniciativas para promover los derechos económicos y sociales, en alianza con organizaciones de la sociedad civil a nivel local, nacional y global.
+    description: Impulsamos diversas iniciativas para promover los derechos económicos y sociales, en alianza con organizaciones de la sociedad civil a nivel local, nacional y global
     button: Ver todas las iniciativas
   how_we_work:
     title: Cómo trabajamos
-    description: Buscamos formas innovadoras de promover la justicia social y económica, la igualdad de género y la dignidad humana.
+    description: Buscamos formas innovadoras de promover la justicia social y económica, la igualdad de género y la dignidad humana
     button: Saber más
     action_1: Acción colectiva
     action_2: Incidencia
     action_3: Innovación y creatividad
   publications:
     title: Últimas publicaciones
-    description: Contribuimos al desarrollo de conocimiento que aporte nuevas miradas al debate público sobre derechos económicos y sociales, con perspectiva de género y un enfoque socioambiental.
+    description: Contribuimos al desarrollo de conocimiento que aporte nuevas miradas al debate público sobre derechos económicos y sociales, con perspectiva de género y un enfoque socioambiental
     button: Ver todas
     read: Leer publicación
     download: Descargar
   news:
     title: Noticias
-    description: ¿Quieres enterarte de las últimas novedades del Distrito Global? Aquí te contamos sobre eventos y actividades, apariciones en prensa y las noticias clave para la región y el mundo.
+    description: ¿Quieres enterarte de las últimas novedades del Distrito Global? Aquí te contamos sobre eventos y actividades, apariciones en prensa y las noticias clave para la región y el mundo
     button: Ver más
   alliances:
     title: Alianzas
@@ -43,13 +43,13 @@ about:
     title: Somos la iniciativa Global por los Derechos Económicos, Sociales y Culturales (GI-ESCR)
     par_1: La iniciativa Global por los Derechos Económicos, Sociales y Culturales (GI-ESCR por sus siglas en inglés) es una organización internacional no gubernamental que promueve cambios transformadores para acabar con los problemas endémicos de injusticia social y económico a través de un lente de derechos humanos.
     par_2: Con un equipo multidisciplinario y ubicado en más de 10 países en el mundo, la iniciativa Global es la única organización internacional de derechos humanos trabajando por avanzar los derechos sociales y cambiar las narratias que impiden su desarrollo.
-    par_3: Conoce más sobre nuestra organización aquí.
+    par_3: Conoce más sobre nuestra organización aquí
   description_2:
     title: ¿Qué es Distrito Global?
-    par: Distrito Global es un programa de la iniciativa Global por los Derechos Económicos, Sociales y Culturales, como un espacio para documentar, monitorear e incidir en el avance de los derechos económicos, sociales, culturales y ambientales en contextos de cambios sociales y normativos, y para escalar las lecciones aprendidas a nivel global.
+    par: Distrito Global es un programa de la iniciativa Global por los Derechos Económicos, Sociales y Culturales, como un espacio para documentar, monitorear e incidir en el avance de los derechos económicos, sociales, culturales y ambientales en contextos de cambios sociales y normativos, y para escalar las lecciones aprendidas a nivel global
   how_we_work:
     title: Cómo trabajamos
-    description: Buscamos constantemente formas innovadoras de promover la justicia social y económica, la igualdad de género, la dignidad humana y la convivencia con el medio ambiente.
+    description: Buscamos constantemente formas innovadoras de promover la justicia social y económica, la igualdad de género, la dignidad humana y la convivencia con el medio ambiente
     action_1:
       title: Acción colectiva
       description: Creamos espacios de asociación e intercambio, facilitando tanto sinergias entre sectores como la integración e interacción de personas, organizaciones y movimientos sociales que estén dispuestas a trabajar conjuntamente.
