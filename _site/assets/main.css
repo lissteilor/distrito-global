@@ -86,7 +86,8 @@ a {
   color: #6738EB;
   text-decoration: none; }
   a:hover, a:focus {
-    text-decoration: none; }
+    text-decoration: none;
+    color: #08141A; }
 
 h3.link-highlighted > span > a {
   color: #08141A; }
@@ -155,7 +156,7 @@ a.underline-black:hover::after, a.underline-black:focus::after, a.underline-blac
 .bg-white {
   background: white; }
 
-.bg-green {
+.bg-green-chapter {
   background: #51CB7B; }
 
 #hero-page.uk-height-viewport {

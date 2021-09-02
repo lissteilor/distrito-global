@@ -147,7 +147,7 @@ collections:
       - {label: "Título ES", name: title_es, widget: string}
       - {label: "Contenido ES", name: content_block_es, widget: markdown}
       - {label: "Título EN", name: title_en, widget: string, required: false}
-      - {label: "Bajada EN", name: brief_en, widget: string, required: false}
+      - {label: "Contenido EN", name: content_block_en, widget: markdown, required: false}
       - label: "Categoría ES"
         name: "category_es"
         widget: "select"
