@@ -56,9 +56,11 @@ content_block_es: >-
   15. Los Estados deben prevenir y reparar adecuadamente las vulneraciones a los derechos humanos, sean estos civiles, políticos, económicos, sociales, culturales o ambientales, relacionadas con la política fiscal.
 title_en: GI-ESCR promotes the Principles for Human Rights in Fiscal Policy for Chile
 content_block_en: >-
-  
-
-  **Magdalena Sepúlveda Carmona, GI-ESCR’s Executive Director, was part of the committee of experts convened by seven Latin-American civil society organisations, in consultation with social movements and regional actors, to draft the 15 Principles for Human Rights in Fiscal Policy. These Principles are now available!**
+  **Magdalena Sepúlveda Carmona, GI-ESCR’s Executive Director, was part of the
+  committee of experts convened by seven Latin-American civil society
+  organisations, in consultation with social movements and regional actors, to
+  draft the 15 Principles for Human Rights in Fiscal Policy. These Principles
+  are now available!**
 
 
   ![grafica politica fiscal.jpg](https://images.squarespace-cdn.com/content/v1/5a6e0958f6576ebde0e78c18/1621877854174-9FUGJ4BBK8330D8H5WUT/grafica+politica+fiscal.jpg?format=500w)
