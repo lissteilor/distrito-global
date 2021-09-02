@@ -58,14 +58,15 @@ layout: default
 </div>
 
 <!--Chapters-->
-<div class="uk-section bg-green-chapter animate__animated animate__fadeIn">
+<div class="uk-section bg-grey-soft animate__animated animate__fadeIn">
   <div class="uk-container uk-width-1-1" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 200; repeat: false">
     <div>
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-2-3@m">
         <h2 class="font-black">{% t initiatives.chapters.title_section %}</h2>
         <p class="font-lead">{% t initiatives.chapters.description_section %}</p>
-        <a href="#" class="uk-button button-bg-black">{% t initiatives.chapters.download_all %} <i class="uil uil-arrow-to-bottom"></i></a>
+        <a href="#" class="uk-hidden uk-button button-bg-black">{% t initiatives.chapters.download_all %} <i class="uil uil-arrow-to-bottom"></i></a>
+        <p>Próximamente</p>
       </div>
     </div>
     <div class="uk-flex uk-flex-center" uk-grid>
@@ -73,7 +74,7 @@ layout: default
         <div class="uk-flex uk-flex-center" uk-grid>
           {% for c in site.capitulos %}
           <div class="uk-width-1-2@m">
-              <div class="bg-black-soft  uk-card uk-card-default uk-grid-collapse uk-margin uk-flex uk-flex-center uk-flex-middle" uk-grid>
+              <div class="bg-green-chapter uk-card uk-card-default uk-grid-collapse uk-margin uk-flex uk-flex-center uk-flex-middle" uk-grid>
                   <div class="uk-width-1-4 uk-text-center">
                       <p class="font-label-white">{% t initiatives.chapters.chapter %}</p>
                       <p class="font-white font-number-xl">{{c.number}}</p>
@@ -108,9 +109,8 @@ layout: default
     <div class="uk-flex uk-flex-center uk-text-center" uk-grid>
       <div class="uk-width-2-3@m">
         <h3 class="font-black">{% t initiatives.alliances %}</h3>
-        <p>Próximamente</p>
       </div>
-      <div class="uk-hidden uk-width-3-4 uk-width-1-2@m">
+      <div class="uk-width-3-4 uk-width-1-2@m">
         <div uk-slider>
           <div class="uk-position-relative">
             <div class="uk-slider-container uk-light">
