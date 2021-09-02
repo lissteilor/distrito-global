@@ -54,6 +54,65 @@ content_block_es: >-
   14. Los actores no estatales, incluidas las empresas y los intermediarios, tienen responsabilidades en materia de derechos humanos en relación con su comportamiento fiscal.
 
   15. Los Estados deben prevenir y reparar adecuadamente las vulneraciones a los derechos humanos, sean estos civiles, políticos, económicos, sociales, culturales o ambientales, relacionadas con la política fiscal.
+content_block_en: >-
+  
+
+  **Magdalena Sepúlveda Carmona, GI-ESCR’s Executive Director, was part of the committee of experts convened by seven Latin-American civil society organisations, in consultation with social movements and regional actors, to draft the 15 Principles for Human Rights in Fiscal Policy. These Principles are now available!**
+
+
+  ![grafica politica fiscal.jpg](https://images.squarespace-cdn.com/content/v1/5a6e0958f6576ebde0e78c18/1621877854174-9FUGJ4BBK8330D8H5WUT/grafica+politica+fiscal.jpg?format=500w)
+
+
+  The demand for dignity has a precise meaning for the Chilean people. Recent opinion surveys showed that the main priority of the New Constitution for Chileans is that it guarantees the rights to education, health and social security.
+
+
+  However, the inclusion of these rights in the new Constitution will not be enough for their enjoyment. The Chilean State needs economic resources to implement policies that ensure these rights.  
+
+
+  Fiscal policy has a key role to play here. Fiscal policy refers to a set of guidelines about public income and expenditure, which determines the State’s resources and how to invest them. In Chile, fairer fiscal policies are needed to fulfil people’s needs related to economic, social and cultural rights.  
+
+
+  In dialogue with social movements and regional actors, seven Latin-American civil society organisations convened a [committee of experts](https://derechosypoliticafiscal.org/en/the-project#comite-expert), which includes GI-ESCR’s Executive Director Magdalena Sepúlveda Carmona, to draft the 15 Principles for Human Rights in Fiscal Policy.
+
+
+  **[Meet the Committee of Experts](https://derechosypoliticafiscal.org/en/the-project#comite-expert)**
+
+
+  ### The Principles for Human Right in Fiscal Policy
+
+
+  The Principles for Human Right in Fiscal Policy are the following: 
+
+
+  1. The realization of human rights must be a fundamental objective of fiscal policy. 
+
+  2. National and international obligations to respect, protect and fulfil human rights impose limits on the discretion of States in relation to fiscal policy. 
+
+  3. States must ensure that their fiscal policy is in line with the pursuit of social justice. 
+
+  4. States must ensure their fiscal policy is environmentally sustainable. 
+
+  5. States must eliminate structural discrimination and promote substantive equality through their fiscal policy. In the design and implementation of fiscal policies, States must incorporate the perspectives of groups who suffer from discrimination, and implement affirmative actions when necessary. 
+
+  6. States must promote substantive gender equality and intersectionality through their fiscal policy. 
+
+  7. Fiscal policy must be transparent, participatory and accountable. People have a right to fiscal information. 
+
+  8. States must adopt all the necessary financial and fiscal measures to realize human rights, within a sustainable fiscal framework. 
+
+  9. States must guarantee minimum essential levels of economic, social, and cultural rights in their fiscal policy as a matter of priority. 
+
+  10. States must, by means of their fiscal policy, mobilize the maximum of available resources to achieve progressively the full realization of economic, social, cultural, and environmental rights. 
+
+  11. States must ensure their fiscal policy does not generate unjustified regression in protection of economic, social, and cultural rights, even in contexts of economic crisis . 
+
+  12. States are empowered, and on occasions obliged, to encourage or discourage certain conducts and correct externalities through specific fiscal policy instruments in order to guarantee human rights. 
+
+  13. States, and the international institutions of which they are members, must offer international assistance and cooperation in fiscal matters, and create an enabling environment of global governance, with the aim of achieving the full realization of human rights. 
+
+  14. Non-state actors, including companies and their intermediaries, have human rights responsibilities in relation to their fiscal conduct. 
+
+  15. States must establish appropriate remedies for human rights violations related to fiscal policy, irrespective of whether the rights violated are civil, political, social, economic or cultural rights.
 category_es: Noticias
 category_en: News
 color: dash-pink
