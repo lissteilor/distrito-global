@@ -29,6 +29,21 @@ h1 {
 h3 {
   margin: 10px 0; }
 
+h3.link-highlighted {
+  text-transform: none; }
+
+h3.link-highlighted a {
+  background-image: linear-gradient(180deg, transparent 94%, #08141A 0);
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: background-size .4s ease;
+  color: #08141A; }
+
+h3.link-highlighted a:hover, a:focus, a:active {
+  background-size: 100% 100%;
+  cursor: pointer; }
+
 .welcome-home-title span {
   background-image: linear-gradient(180deg, transparent 65%, white 0);
   background-size: 100% 180%;
