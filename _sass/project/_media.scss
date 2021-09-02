@@ -7,6 +7,7 @@
   }
   h3{
     font-size: 1rem;
+    margin-bottom: -10px;
   }
   h4{
     font-size: 0.9rem;
@@ -29,6 +30,17 @@
   }
   .card-height{
     min-height: 240px;
+  }
+  .welcome-home-title span {
+    background-image: linear-gradient(180deg, transparent 65%, white 0);
+    background-size: 100% 220%;
+    background-repeat: no-repeat;
+    color: #08141A;
+    background-position-y: -47px;
+  }
+  .welcome-home-subtitle{
+    font-size: 1rem;
+    margin: 10px 0 30px;
   }
   /**
    * Navbar
@@ -69,8 +81,12 @@
   /**
    * Hero
    */
+
+   #hero > .uk-height-viewport{
+      min-height: 80vh;
+   }
   .icon-hero>svg{
-      width: 10%;
+      width: 8%;
   }
   .logo-giescr{
     width: 60%;

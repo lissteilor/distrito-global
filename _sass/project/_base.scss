@@ -64,7 +64,7 @@ h3.link-highlighted a:hover, a:focus, a:active{
 
 .welcome-home-subtitle{
   font-size: 1.3rem;
-  margin: 20px 0 40px;
+  margin: 50px 0 30px;
   font-weight: 600;
   color: white;
   line-height: 1.5;
@@ -183,6 +183,7 @@ a.underline-black:hover::after, a.underline-black:focus::after, a.underline-blac
 .bg-green-chapter{
  background: $green;
 }
+
 
 
 #hero-page {
@@ -390,6 +391,9 @@ cite {
  /**
   * Cards
   */
+.card-margin {
+  margin-bottom: 20px;
+}
  .uk-card-default {
      box-shadow: none;
  }
