@@ -105,6 +105,7 @@ a {
   text-decoration: none;
   &:hover, &:focus{
     text-decoration: none;
+    color: $black;
   }
 }
 
@@ -179,7 +180,7 @@ a.underline-black:hover::after, a.underline-black:focus::after, a.underline-blac
 .bg-white{
  background: white;
 }
-.bg-green{
+.bg-green-chapter{
  background: $green;
 }
 
