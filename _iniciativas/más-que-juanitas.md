@@ -11,7 +11,6 @@ summary_es: Construimos una bitácora feminista de elaboración colectiva, que
   vida.
 brief_es: Derechos sociales con enfoque de género
 button_es: Revisa los testimonios
-button_en: Read the testimonials
 content_block_es: >-
   <p>“La señora Juanita” es una metáfora asentada en el inconsciente colectivo
   chileno. Representa una universalización de la experiencia política femenina
@@ -24,6 +23,20 @@ content_block_es: >-
 
 
   <p>Por eso, muchas organizaciones con largos años de experiencia en feminismos o derechos sociales, se han sumado al Distrito Global para compartir relatos de mujeres chilenas en torno a la forma en que la nueva Constitución puede cambiar sus experiencias de vida . Con ellas, esta iniciativa pretende identificar los elementos clave para hacer transversal el enfoque de género en todos los derechos sociales, para contribuir a transformar las formas en que se entienden y protegen estos derechos.</p>
+title_en: More than Juanitas
+button_en: Read the testimonials
+content_block_en: >-
+  “La señora Juanita” is a deep-rooted metaphor in the collective Chilean
+  unconscious. It represents a universalization of women’s political experience
+  in Chile: a visible and sexist image of the Chilean woman on which norms,
+  policies and programs of "social aid" are based, and on which the political
+  imaginary of all sectors is often centred.
+
+
+  Given the huge risk that conceptual figures like this could taint the constitutional debate, addressing this issue from a perspective that integrates gender, the constitution and ESCE offers an opportunity and a transformative space to deal with the endemic problems of social and economic injustice that affect women and a wide range of people in Chile, with a view to creating a constitutional text with a gender focus.
+
+
+  For this reason, various organisations with many years of experience in feminism or social rights have joined Distrito Global to share stories from Chilean women about how the new Constitution can change their life experiences. With their help, this initiative aims to identify the key elements to making the gender approach universal when it comes to all social rights, to help transform the ways in which these rights are understood and protected.
 alliance_1_org: Corporación La Morada
 alliance_1_logo: /assets/uploads/logo-morada.png
 alliance_2_org: Corporación Opción
