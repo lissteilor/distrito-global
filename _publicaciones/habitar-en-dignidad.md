@@ -18,8 +18,8 @@ content_block_es: >-
 
 
   <p>En este contexto, TECHO-Chile, Fundación Vivienda y la Iniciativa Global para los Derechos Económicos, Sociales y Culturales han elaborado este informe con el objetivo de examinar la experiencia constitucional en materia de vivienda y ciudad en base a los principales desafíos urbano-habitacionales del país, la voz y mirada de las comunidades, los estándares internacionales de derechos humanos y la revisión comparada de otras constituciones a nivel mundial. Las preguntas que motivan este análisis son las siguientes: ¿Cuáles son los desafíos más apremiantes que enfrentamos en materia de vivienda y ciudad en Chile? ¿La actual Constitución permite realizar plenamente el derecho a la vivienda en nuestro país? En caso de no serlo, ¿cuáles son las principales problemáticas para asegurar el derecho a la vivienda en el actual marco constitucional? ¿Qué nos dice la experiencia comparada al respecto? ¿Qué diferencia hace la consagración de la vivienda como un derecho constitucional? y, ¿Qué elementos podría contener este derecho en una futura Constitución?</p>
-category_es: Internacional
-category_en: International
-color: dash-green bg-green
+category_es: DESCA
+category_en: DESCA
+color: dash-blue bg-blue
 pdf_publication: https://ceschile.org/wp-content/uploads/2020/11/Habitar-en-dignidad.pdf
 ---
