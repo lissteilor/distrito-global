@@ -1,7 +1,7 @@
 ---
 layout: news
 active-l: false
-active-m: false
+active-m: true
 image_thumbnail: /assets/uploads/thumb-5.jpg
 image_hero: /assets/uploads/hero-5.jpg
 date: 2021-06-30T04:01:07.829Z
