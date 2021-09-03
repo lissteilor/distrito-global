@@ -85,7 +85,7 @@ layout: default
             </div>
             <!-- Content -->
             {% if site.lang == "es" %}
-              <p class="font-label-grey">{{ n.date | date_to_string }} · </p><p class="font-label-black-soft" style="margin: 20px 0 -20px;">{{n.category_es}}</p>
+              <p class="font-label-grey" style="margin: 20px 0 -20px;">{{ n.date | date_to_string }} · <span class="font-label-black-soft">{{n.category_es}}</span></p>
               <div class="dash {{ n.color}}">
                 <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="30" height="6" fill="none"/>
@@ -94,9 +94,9 @@ layout: default
               <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
             {% elsif site.lang == "en" %}
               {% if {{n.category_en}} != null %}
-                <p class="font-label-black-soft" style="margin: 20px 0 -20px;">{{n.category_en}}</p>
+                <p class="font-label-grey" style="margin: 20px 0 -20px;">{{ n.date | date_to_string }} · <span class="font-label-black-soft">{{n.category_en}}</span></p>
                 {% else %}
-                <p class="font-label-black-soft" style="margin: 20px 0 -20px;">{{n.category_es}}</p>
+                <p class="font-label-grey" style="margin: 20px 0 -20px;">{{ n.date | date_to_string }} · <span class="font-label-black-soft">{{n.category_es}}</span></p>
               {% endif %}
               <div class="dash {{ n.color}}">
                 <svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -104,9 +104,9 @@ layout: default
                 </svg>
               </div>
               {% if {{n.title_en}} != null %}
-                <p class="font-label-grey">{{ n.date | date_to_string }} · </p><h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_en}}</a></span></h3>
+                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_en}}</a></span></h3>
                 {% else %}
-                <p class="font-label-grey">{{ n.date | date_to_string }} · </p><h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
+                <h3 class="link-highlighted"><span><a href="{{n.url}}">{{n.title_es}}</a></span></h3>
               {% endif %}
             {% endif %}
             <p class="font-label-grey">{{ n.date | date_to_string }}</p>
