@@ -113,3 +113,15 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Programa de Estudios Europeos Universidad de Concepción
+    active: true
+    logo: /assets/uploads/logo-pee.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: Universidad de Concepción
+    active: true
+    logo: /assets/uploads/logo-udec-1-.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
