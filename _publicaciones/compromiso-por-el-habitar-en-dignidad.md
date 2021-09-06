@@ -1,7 +1,7 @@
 ---
 layout: publication
 active: false
-image_slider: /assets/uploads/slider-techo-1-.jpg
+image_slider: /assets/uploads/slider-techo.jpg
 image_thumbnail: /assets/uploads/thumb-techo-2-.jpg
 image_hero: /assets/uploads/hero-techo-2-.jpg
 title_es: Compromiso por el Habitar en Dignidad
