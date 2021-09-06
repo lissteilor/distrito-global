@@ -1,16 +1,15 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
-image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
+image_thumbnail: /assets/uploads/thumb-juanitas-teletrabajo-3-.jpg
+image_hero: /assets/uploads/hero-juanitas-teletrabajo.jpg
 title_es: Teletrabajo e inequidades de género
 authors: Laura Liliana Matus Ortega
 content_block_es: >-
-  #### **Laura Liliana Matus Ortega**
-
-
-
-
-  La situación sanitaria motivada por el COVID-19 ha implicado un gran cambio en nuestras vidas y costumbres, afectando algunos derechos, al restringir la libertad de desplazamiento por ejemplo, y modificando el ejercicio de otros, como ocurre con el trabajo, implicando para muchas personas un cambio en la modalidad de desempeñar sus labores, irrumpiendo con fuerza el teletrabajo. 
+  La situación sanitaria motivada por el COVID-19 ha implicado un gran cambio en
+  nuestras vidas y costumbres, afectando algunos derechos, al restringir la
+  libertad de desplazamiento por ejemplo, y modificando el ejercicio de otros,
+  como ocurre con el trabajo, implicando para muchas personas un cambio en la
+  modalidad de desempeñar sus labores, irrumpiendo con fuerza el teletrabajo. 
 
 
   El medio ambiente de trabajo dice relación con el lugar donde se lleva a cabo la actividad, noción que comprende no sólo la infraestructura del recinto laboral, sino también el entorno en que se realiza el trabajo, y, que en el caso de las teletrabajadoras es el hogar. El medio ambiente de trabajo puede constituir un factor de riesgo con injerencia en la salud ocupacional cuando las condiciones para desempeñar el trabajo no son las óptimas. Es del caso que tratándose del hogar, si bien pudiese parecer un medio ambiente ideal, la experiencia ha demostrado que tratándose de las mujeres, representa más bien una fuente de estrés y sobrecarga laboral. Nuestra sociedad encarga a las mujeres las labores de cuidado, de los/as hijos/as, adultos/as mayores y personas enfermas, además de labores propias del hogar, tales como aseo, orden, compras de víveres y cocinar, lo que históricamente ha traido aparejada una doble jornada de trabajo para las mujeres, situación que no ha hecho sino exacerbar el teletrabajo.  A ello se suma una situación particularmente compleja en Chile, la educación a distancia e imposibilidad de los/as niños, niñas y adolescentes, de asistir a clases presenciales, lo que ha requerido un apoyo de los padres y en particular de las madres, en la actividad escolar. 
@@ -41,4 +40,9 @@ content_block_es: >-
 
 
   **El enfoque tradicional de la salud y seguridad en el trabajo abordaba los problemas de higiene, seguridad y medicina ocupacional desde un punto de vista reactivo, es decir, como una respuesta al hecho dañoso. Más que adoptar medidas de prevención frente a un accidente del trabajo o una enfermedad profesional, buscaba la compensación de las mismas a través de indemnizaciones monetarias. Hoy en día esta concepción ha variado, poniendo el énfasis en la prevención de riesgos laborales, relevando las condiciones del trabajo y el medio ambiente en que este se realiza, como factores de incidencia en accidentes y enfermedades profesionales. De allí la importancia del Convenio 155 y su Recomendación 164, ambos instrumentos buscan aplicar una política centrada en la prevención de los riesgos laborales, más que en la reacción ante sus consecuencias. En atención a lo expuesto, el abordaje del teletrabajo con enfoque de género e identificando los riesgos que acarrea para la mujer, puede contribuir a disminuirlos y prevenir enfermedades profesionales.**
+
+
+
+
+  ###### **Laura Liliana Matus Ortega**
 ---
