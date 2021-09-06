@@ -3,22 +3,58 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-juanitas-mayasawuri2.jpg
 image_hero: /assets/uploads/hero-juanitas-mayasawuri2.jpg
 title_es: "Mujeres de Maya Sawuri: Únicas tejedoras. Un oficio multigeneracional"
-authors: Barbarita Vilches Chamaca
+authors: Mujeres de Maya Sawuri
 content_block_es: >-
-  En el norte del país hay una gran cantidad de aymaras tanto de Perú y Bolivia
-  donde la lengua materna es aimara o quechua dependiendo del sector donde se
-  encuentre. La diferencia que se tiene en la actualidad es casi nula, pues se
-  tiene las mismas costumbres y tradiciones, <mark>es por eso mismo que nos
-  consideramos un pueblo plurinacional.<mark/>
+  La señora Pilar Quispe Mamani, artesana aymara, cuenta con una trayectoria de
+  43 años en la textilería, radicada en la  localidad de Pozo Almonte, región de
+  Tarapacá. Para ella, la importancia de una nueva constitución implica
+  reconocimiento y respeto por parte de todo un país, que se materializa en que
+  la palabra paisana en la actualidad sea de orgullo. <mark>Pilar nos cuenta que
+  espera de la nueva constitución por fin ser reconocidas como parte de un
+  pueblo plurinacional que garantice las autonomías territoriales. La nueva
+  constitución hace “que uno tenga esperanzas de reconocimiento y que por fin se
+  sienten libre de expresarse, tanto en los rituales y tradiciones a nuestra
+  Pachamama, como a nuestra tierra madre”.</mark>
 
 
-  Nuestra madre y abuela Barbarita Vilches Chamaca, artesana aimara de la localidad de Enquelga, comuna de Colchane, región de Tarapacá, tras tratar de responder esta pregunta sobre la Constitución, señala que <strong>no conoce y no sabe los posibles cambios que puedan existir a futuro. Señala que por su larga edad será difícil verlos y que sólo recuerda que cuando era adolescente, vivía de los ingresos de las ventas de tejidos a turistas sin un sistema de regulación comercial.</strong>
+
+
+  ![](/assets/uploads/photoroom-20210810_234347.png)
+
+
+  <small>Pilar Quispe Mamani</small>
+
+
+
+
+  En el norte del país hay una gran cantidad de aymaras –tanto de Perú y Bolivia– donde la lengua materna es aimara o quechua dependiendo del sector donde se encuentre. La diferencia que se tiene en la actualidad es casi nula, pues se tiene las mismas costumbres y tradiciones, <mark>es por eso mismo que nos consideramos un pueblo plurinacional.<mark/>
+
+
+  Nuestra madre y abuela Barbarita Vilches Chamaca, artesana aimara de la localidad de Enquelga, comuna de Colchane, región de Tarapacá, tras tratar de responder esta pregunta sobre la Constitución, señala que <samp>no conoce y no sabe los posibles cambios que puedan existir a futuro. Señala que por su larga edad será difícil verlos y que sólo recuerda que cuando era adolescente, vivía de los ingresos de las ventas de tejidos a turistas sin un sistema de regulación comercial.</samp>
 
 
   ![](/assets/uploads/dsc_0338.jpg)
 
 
   <small>Barbarita Vilches Chamaca</small>
+
+
+
+
+  Yo Gabriela López Quispe nieta e hija de la cultura aymara, aprendiz de la textilería aymara, de la localidad de alto hospicio, Región de Tarapacá, <mark>creo que la nueva constitución generará un gran cambio para nuestro pueblo, para ser reconocido y poder reparar el daño histórico que le ha causado el gobierno de Chile.</mark>
+
+
+  ![](/assets/uploads/20180503_153052-1-.jpg)
+
+
+  <small>Gabriela López Quispe</small>
+
+
+
+
+  Es bien sabido que la incorporación de los pueblos originarios a la asamblea constituyente podría traer consecuencias económicas para el país, dado que muchos pueblos han sido arrebatados por estos distintos sectores económicos, específicamente, aquí en el norte pasa con las mineras y el agua. La injusticia del poder del Estado, de apropiarse de terrenos ancestrales y el hecho de ser entregada a empresas mineras, produciendo el empobrecimiento de nuestras tierras, <mark>ha generado un aislamiento de nuestras costumbres y nuestra identidad.</mark> <samp>Tenemos esperanza que este nuevo proceso que se acompaña de 500 años de lucha por parte de las primeras naciones, reivindique los derechos de nuestros pueblos, la situación de la escasez del agua en el norte de nuestro país y el reconocimiento y visibilización de nuestro trabajo y cultura.</samp>
+
+
 
 
   **Documentación: Gloria Mancilla Ibacache**
