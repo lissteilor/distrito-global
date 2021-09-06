@@ -1,9 +1,9 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-niñas-1-.jpg
-image_hero: /assets/uploads/hero-niñas.jpg
-title_es: Mujeres y el sistema judicial
-authors: Karina Flores Silva
+image_thumbnail: /assets/uploads/thumb-justicia.jpg
+image_hero: /assets/uploads/hero-justicia.jpg
+title_es: Mujeres y sistema judicial
+authors: Karina Flores Silva (Corporación Opción)
 content_block_es: >-
   Esta nueva Constitución es el cambio que necesitábamos las mujeres de nuestro
   país para garantizar el cumplimiento de nuestros derechos, porque hoy en día
