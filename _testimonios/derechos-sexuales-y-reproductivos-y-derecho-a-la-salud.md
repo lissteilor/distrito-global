@@ -57,11 +57,6 @@ content_block_es: >-
 
 
 
-  ![](/assets/uploads/logo-ovo-bg.png)
-
-
-
-
 
 
   ## Nuestra experiencia como OVO Chile y la necesidad de regular y consagrar a nivel Constitucional los derechos sexuales y reproductivos
@@ -82,4 +77,9 @@ content_block_es: >-
 
 
   <mark>Como Fundación, proponemos garantizar la autonomía en materia de derechos sexuales y reproductivos, el poder de decisión y sobre todo erradicar toda forma de violencia contra las mujeres. Casos de trato deshumanizado en momentos de alta vulnerabilidad por dolor o falta de información, exceso de medicalización no justificada, patologización de procesos naturales del ciclo sexual y de la gestación, son formas de infantilización de la mujer y sobre todo son tipos de vulneración a los derechos de las mujeres y personas gestantes, pues niegan la autonomía sobre el propio cuerpo y sus deseos reproductivos.<m/mark> Lamentablemente, no se trata de casos aislados, por lo que un cambio real requiere del esfuerzo de todos, pero sobre todo requiere de acciones concretas por parte del Estado, siendo su reconocimiento a nivel Constitucional, un paso absolutamente necesario.
+
+
+
+
+  ![](/assets/uploads/logo-ovo-bg.png)
 ---
