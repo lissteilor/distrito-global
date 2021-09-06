@@ -5,13 +5,22 @@ image_hero: /assets/uploads/hero-juanitas-3-.jpg
 title_es: Participar en la vida cultural, o participar para cambiar la cultura
 authors: Loreto Bravo Fernández
 content_block_es: >-
-  #### Loreto Bravo Fernández
-
-
-  #### La Morada. Chile
-
-
-  Si asumimos que, con certeza, el sistema patriarcal es una hegemonía política, cultural, económica y espiritual, que se funda en  y se nutre de la subalteridad de las mujeres, el derecho a ‘participar en la vida cultural’ podría configurar una forma más de neutralización de su rebeldía, de su lucha colectiva; una lucha histórica  por cambiar no solo el orden del poder  y sus estrcturas  legales y políticas,  sino por algo más radical y definitivo: alterar las culturas que están a la base de ese orden y dar espacio a otras formas de ser y de hacer la vida en sociedad. En esa transformación habría que reformular nociones como las de participar de la vida cultural (una cultura misógena) por el derecho de todos y todas a participar en la construcción simbólica de lo común. Desde esta perspectiva, tomando los instrumentos disponibles sin eludir la duda política sobre su efectividad, que acompaña el analisis, haremos algunas proposiciones que se inspiran en una práctica feminista de casi 40 años. De esta práctica, imposible de resumir aquí, hemos seleccionado algunos hitos muy demostrativos de un ejercicio  de derechos culturales, entendidos en su acepción más amplia y consensuada. 
+  Si asumimos que, con certeza, el sistema patriarcal es una hegemonía política,
+  cultural, económica y espiritual, que se funda en  y se nutre de la
+  subalteridad de las mujeres, el derecho a ‘participar en la vida cultural’
+  podría configurar una forma más de neutralización de su rebeldía, de su lucha
+  colectiva; una lucha histórica  por cambiar no solo el orden del poder  y sus
+  estrcturas  legales y políticas,  sino por algo más radical y definitivo:
+  alterar las culturas que están a la base de ese orden y dar espacio a otras
+  formas de ser y de hacer la vida en sociedad. En esa transformación habría que
+  reformular nociones como las de participar de la vida cultural (una cultura
+  misógena) por el derecho de todos y todas a participar en la construcción
+  simbólica de lo común. Desde esta perspectiva, tomando los instrumentos
+  disponibles sin eludir la duda política sobre su efectividad, que acompaña el
+  analisis, haremos algunas proposiciones que se inspiran en una práctica
+  feminista de casi 40 años. De esta práctica, imposible de resumir aquí, hemos
+  seleccionado algunos hitos muy demostrativos de un ejercicio  de derechos
+  culturales, entendidos en su acepción más amplia y consensuada. 
 
 
   La fundación de La Casa de la Mujer La Morada en el año 1983 constituyó un hecho político, social y cultural de gran envergadura en la historia del feminismo en Chile. Su primer sello fue el activismo feminista, alojando en su seno al Movimiento Feminista entendido como una reanudación de luchas históricas que habían sido aplacadas por un sinfín de razones socio-políticas, pero también por la fuerza de la dictadura y su impronta extremadamente patriarcal y misógena. 
@@ -48,4 +57,12 @@ content_block_es: >-
 
 
   En las últimas décadas la conciencia de la diferencia discriminada,  de la subalteridad, del daño ecológico  ha sido muy productiva para el pensamiento y la acción política divergente. La mujeres, las disidencias sexuales, los/as indígenas, los/as pobres, los vulnerados  afearon la promesa neoliberal del progreso y develaron la inhumanidad de sus políticas. El palimcesto de los grafittis, el derribamiento de estatuas y monumentos, la degradación material como estética del cambio, el trastocamiento de palabras, significados y fonéticas, las hablas inconclusas e inconducentesde las redes sociales, lo inacabado como estado del ser (expresado en la palabra ‘líquido’) entre muchos ejemplos, pueden ser -hipotéticamente- una respuesta altanera a la dificultad que experimentan amplias mayorías de personas para ‘participar de la vida cultural’ tal como fue supuesta por quienes invocaron este derecho. El ejercicio pleno de los derechos culturales podría estar al servicio de una nueva forma de integración cultural, que sin solayar sus contradicciones, nos permita avanzar por fin a una vida social, justa, buena, libre y gratificante para todos y todas.
+
+
+
+
+  ###### Loreto Bravo Fernández
+
+
+  ###### La Morada. Chile
 ---
