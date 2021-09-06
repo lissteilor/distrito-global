@@ -5,10 +5,9 @@ image_hero: /assets/uploads/hero-juanitas-afro.jpg
 title_es: Mujeres afrodescendientes
 authors: Colectiva de mujeres afrodescendientes Luanda
 content_block_es: >-
-  ![](/assets/uploads/dscf8566.jpg)
-
-
-  ## Según las vivencias de su organización, y basándose en casos concretos, ¿cómo la nueva Constitución puede mejorar las experiencias de vida de las mujeres chilenas en relación al tema Mujeres Afrodescendientes?
+  ## Según las vivencias de su organización, y basándose en casos concretos,
+  ¿cómo la nueva Constitución puede mejorar las experiencias de vida de las
+  mujeres chilenas en relación al tema Mujeres Afrodescendientes?
 
 
   El momento constituyente que estamos viviendo en Chile es histórico, por primera vez los pueblos habitantes del territorio han salido a reclamar a las calles justicia, igualdad y la eliminación de la precarización de la vida. La revuelta social es sin duda un fenómeno que invocó desde el primer día la dignidad para la sociedad chilena, donde las mujeres del Pueblo Tribal Afrodescendiente se hicieron presente exigiendo lo que el Decenio Internacional de las Naciones Unidas para las personas afrodescendientes ha proclamado como “Reconocimiento, Justicia y Desarrollo”. 
@@ -36,4 +35,15 @@ content_block_es: >-
 
 
   Los desafíos que se presentan en este proceso constituyente son numerosos, existe una deuda por parte del país de garantizar de manera oportuna y efectiva los derechos económicos, sociales y culturales de la población y en especial del Pueblo Tribal Afrodescendiente Chileno por vivir aún en la invisibilización promovida por el propio Estado y la comunidad en su conjunto. Esta exclusión ha perpetuado la desigualdad que afecta la vida de las mujeres afrodescendientes, y la Nueva Constitución se transforma en la oportunidad de reparar y reformular cada uno de los elementos por los cuales se ha construido nuestro pacto social, para avanzar en una sociedad que respete, valore y promocione cada diferencia y contribuciones que han realizado las mujeres del pueblo tribal afrodescendiente desde la llegada de la primera ancestra esclavizada, hasta las sujetas políticas que actualmente luchan por la dignidad de nuestros pueblos y la eliminación del racismo, el sexismo, el patriarcado y la colonialidad que no nos permite ejercer la libertad que merecemos.
+
+
+
+
+  ![Fotos: Jorge García Sandoval](/assets/uploads/dscf8566.jpg)
+
+
+  ![Fotos: Jorge García Sandoval](/assets/uploads/dscf8636.jpg)
+
+
+  ![Fotos: Jorge García Sandoval](/assets/uploads/afro-por-constitución-.jpeg)
 ---
