@@ -19,6 +19,8 @@ content_block_es: >-
 
 
   <p>Además, estamos trabajando en el desarrollo de una propuesta sobre cómo incorporar adecuadamente este derecho en la nueva constitución.</p>
+
+
 title_en: Let’s Provide Another Education
 content_block_en: >-
   Together with SUMMA (the Education, Research and Innovation Laboratory for

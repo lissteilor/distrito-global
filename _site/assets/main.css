@@ -449,6 +449,15 @@ a.filter-blue {
   background-color: #8A969C; }
 
 /**
+ * video
+ */
+.video-responsive {
+  padding-bottom: 56.25%;
+  position: relative;
+  display: block;
+  width: 100%; }
+
+/**
  * Navbar
  */
 header.uk-sticky {
