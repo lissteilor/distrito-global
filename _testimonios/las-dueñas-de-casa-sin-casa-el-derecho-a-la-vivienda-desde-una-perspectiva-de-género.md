@@ -20,18 +20,19 @@ content_block_es: >-
   Primer Encuentro de las que Luchan (2018), cómo se fueron conformando y
   organizando los contenidos políticos que dieron paso a la primera huelga
   feminista de mujeres el 2019. En su relato, plantea una pregunta que en ese
-  entonces guio la discusión de las asambleas y que refleja muy bien la desigual
+  entonces guió la discusión de las asambleas y que refleja muy bien la desigual
   distribución de los derechos sociales y políticos de las mujeres en los
-  territorios, y es: <em>¿pueden hacer huelga las dueñas de casa SIN casa?</em>
+  territorios, y es: <mark>¿pueden hacer huelga las dueñas de casa SIN
+  casa?</mark>
 
 
-  La reflexión alude a que no era usual que las huelgas –un instrumento históricamente levantado por los y las trabajadores/as desde sus gremios– fuesen impulsadas desde los territorios y poblaciones. Cuenta Daniela, que en la discusión existía conciencia de que las mujeres eran trabajadoras fundamentales –y precarizadas– ya que “contribuyen y producen la economía, pues son quienes realizan las labores de cuidados, alimentación, higiene, educación, crianza, entre otras”, y desde ahí se movilizaron.
+  La reflexión alude a que no era usual que las huelgas –un instrumento históricamente levantado por los y las trabajadores/as desde sus gremios– fuesen impulsadas desde los territorios y poblaciones. Cuenta Daniela, que en la discusión existía conciencia de que las mujeres eran trabajadoras fundamentales –y precarizadas– ya que <cite>“contribuyen y producen la economía, pues son quienes realizan las labores de cuidados, alimentación, higiene, educación, crianza, entre otras”</cite>, y desde ahí se movilizaron.
 
 
-  Por eso, la huelga del 2019 fue en varios sentidos diferente: “Quisimos llegar a todas las mujeres: aquellas con una relación contractual que perciben un salario miserable por su fuerza laboral, aquellas sin relación contractual que se desempeñan en el ámbito informal sin derechos laborales, sin descansos, y aquellas que trabajan en el hogar, <em>las dueñas de casa sin casa</em> que generan plusvalía pura”. 
+  Por eso, la huelga del 2019 fue en varios sentidos diferente: <cite>“Quisimos llegar a todas las mujeres: aquellas con una relación contractual que perciben un salario miserable por su fuerza laboral, aquellas sin relación contractual que se desempeñan en el ámbito informal sin derechos laborales, sin descansos, y aquellas que trabajan en el hogar, <em>las dueñas de casa sin casa</em> que generan plusvalía pura”.</cite>
 
 
-  Pese a su importancia social y económica, el trabajo de cuidados en el hogar aún no está reconocido como tal y, por consiguiente, no se rige bajo las normas que regulan las condiciones laborales (como la remuneración, los tiempos de descanso, etc.) de los trabajos formales. Esto representa sin duda una parte de la desigualdad de género y es que sobre quienes –social y culturalmente– ha caído la responsabilidad de cuidar es en las mujeres. 
+  <em>Pese a su importancia social y económica, el trabajo de cuidados en el hogar aún no está reconocido como tal y, por consiguiente, no se rige bajo las normas que regulan las condiciones laborales (como la remuneración, los tiempos de descanso, etc.) de los trabajos formales.</em> Esto representa sin duda una parte de la desigualdad de género y es que sobre quienes –social y culturalmente– ha caído la responsabilidad de cuidar es en las mujeres. 
 
 
   Sabemos, desde nuestra experiencia con comunidades residentes en campamentos, que, en contextos de pobreza y exclusión social, el trabajo de cuidados que se desarrolla tanto en los barrios (en forma de organización comunitaria) como a escala de hogares (al interior de las viviendas) es liderado por mujeres. Sobre esto último, evidenciamos que el problema de “lo habitacional” -que tanto las políticas públicas estatales como la sociedad civil y las comunidades han buscado resolver incesantemente- está permeado por una cuestión estructural que lo define y tensiona: el acceso a la vivienda no es igual para todos y todas y en eso hay un componente de género que es fundamental comprender. Entonces, cuando nos preguntamos sobre el derecho (a huelga, a vivienda, etc.) “de las dueñas de casa sin casa” nos cuestionamos las posibilidades y oportunidades que tienen y/o han tenido las mujeres (de manera general y plural) de participar en el diseño y ejercicio de dichos derechos.
