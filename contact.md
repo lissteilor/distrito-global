@@ -2,7 +2,7 @@
 layout: page
 permalink: /contacto/
 hero_desktop: hero-escribenos.jpg
-hero_mobile: hero-mobile.jpg
+hero_mobile: hero-escribenos-mobile.jpg
 title_en: Write us
 title_es: Escríbenos
 title_tab_en: Write us

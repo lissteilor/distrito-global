@@ -2,7 +2,7 @@
 layout: page
 permalink: /iniciativas/
 hero_desktop: hero-iniciativas.jpg
-hero_mobile: hero-mobile.jpg
+hero_mobile: hero-iniciativas-mobile.jpg
 title_en: Initiatives
 title_es: Conoce nuestras iniciativas
 title_tab_en: Initiatives
