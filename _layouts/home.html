@@ -3,7 +3,25 @@ layout: default
 ---
 <!--Hero Desktop-->
 <div id="hero">
-  <div class="uk-height-viewport uk-flex uk-flex-center uk-inline uk-flex-middle uk-background-cover animate__animated animate__fadeIn animate__delay-2s fast" data-src="assets/images/hero/hero-home-desktop.jpg" uk-parallax="bgy: -100;" uk-img style="background-size:cover !important>">
+  <div class="uk-visible@m uk-height-viewport uk-flex uk-flex-center uk-inline uk-flex-middle uk-background-cover animate__animated animate__fadeIn animate__delay-2s fast" data-src="assets/images/hero/hero-home-desktop.jpg" uk-parallax="bgy: -100;" uk-img style="background-size:cover !important>">
+    <div class="uk-container uk-text-center uk-width-2-3@m">
+      <div>
+        <h1 class="welcome-home-title animate__animated animate__fadeInUp animate__delay-2s animate__fast"><span>{% t home.hero.title %}</span></h1>
+        <p class="welcome-home-subtitle animate__animated animate__fadeInUp animate__delay-2s animate__fast">{% t home.hero.subtitle %}</p>
+        <a class="icon-hero" href="#initiatives" uk-scroll>
+          <svg class="animate__animated animate__fadeInUp animate__delay-2s animate__fast" width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M8.25 1L8.25 17" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15.25 10L8.25 17L1.25 10" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Hero Desktop-->
+<div id="hero">
+  <div class="uk-hidden@m uk-height-viewport uk-flex uk-flex-center uk-inline uk-flex-middle uk-background-cover animate__animated animate__fadeIn animate__delay-2s fast" data-src="assets/images/hero/hero-home-mobile.jpg" uk-parallax="bgy: -100;" uk-img style="background-size:cover !important>">
     <div class="uk-container uk-text-center uk-width-2-3@m">
       <div>
         <h1 class="welcome-home-title animate__animated animate__fadeInUp animate__delay-2s animate__fast"><span>{% t home.hero.title %}</span></h1>

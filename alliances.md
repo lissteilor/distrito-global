@@ -2,7 +2,7 @@
 layout: page
 permalink: /alianzas/
 hero_desktop: hero-alianzas.jpg
-hero_mobile: hero-mobile.jpg
+hero_mobile: hero-alianzas-mobile.jpg
 title_en: Alliances
 title_es: Nuestras alianzas
 title_tab_en: Alliances
