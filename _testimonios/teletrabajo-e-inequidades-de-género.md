@@ -1,6 +1,6 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-juanitas-teletrabajo-3-.jpg
+image_thumbnail: /assets/uploads/thumb-juanitas-teletrabajo-4-.jpg
 image_hero: /assets/uploads/hero-juanitas-teletrabajo.jpg
 title_es: Teletrabajo e inequidades de género
 authors: Laura Liliana Matus Ortega
