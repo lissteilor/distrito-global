@@ -1,7 +1,7 @@
 ---
 layout: testimony
 image_thumbnail: /assets/uploads/logo-ces-bg.png
-image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
+image_hero: /assets/uploads/hero-juanitas-vivienda.jpg
 title_es: "Las dueñas de casa sin casa: El derecho a la vivienda desde una
   perspectiva de género"
 authors: Paz María Zúñiga
