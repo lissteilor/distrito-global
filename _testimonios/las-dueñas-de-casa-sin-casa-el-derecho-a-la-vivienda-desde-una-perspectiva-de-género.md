@@ -46,12 +46,6 @@ content_block_es: >-
 
 
 
-  ###### Paz María Zúñiga
-
-
-  ###### Centro de Estudios Socio-territoriales de Techo-Chile y Fundación Vivienda
-
-
   #### Referencias
 
 
