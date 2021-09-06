@@ -57,6 +57,11 @@ content_block_es: >-
 
 
 
+  ![](/assets/uploads/logo-ovo-bg.png)
+
+
+
+
   ## Nuestra experiencia como OVO Chile y la necesidad de regular y consagrar a nivel Constitucional los derechos sexuales y reproductivos.
 
 
