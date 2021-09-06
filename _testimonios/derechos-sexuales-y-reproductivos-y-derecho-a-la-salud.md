@@ -10,7 +10,7 @@ content_block_es: >-
   derecho a la salud?
 
 
-  Como Fundación Observatorio de Violencia Obstétrica de Chile (OVO) creemos que <pclass=“font-color”>es fundamental que la nueva constitución garantice la autonomía sexual y reproductiva, como un derecho autónomo para todas las personas que viven en nuestro territorio.</p> Es importante que se resguarde y priorice una atención de salud basada en el respeto, con especial protección a grupos vulnerables, como mujeres, adolescentes, migrantes y disidencias sexuales.
+  Como Fundación Observatorio de Violencia Obstétrica de Chile (OVO) creemos que <mark>es fundamental que la nueva constitución garantice la autonomía sexual y reproductiva, como un derecho autónomo para todas las personas que viven en nuestro territorio.</mark> Es importante que se resguarde y priorice una atención de salud basada en el respeto, con especial protección a grupos vulnerables, como mujeres, adolescentes, migrantes y disidencias sexuales.
 
 
   <p>Se debe establecer plena autonomía de decisión sobre la salud sexual y reproductiva tanto para mujeres y disidencias, incluyendo una atención respetuosa y humanizada en las etapas de gestación, parto, puerperio y aborto. Junto con ello se debe considerar y resguardar que la maternidad sea una elección consciente y no impuesta, pues la maternidad será deseada o no será.</p>
