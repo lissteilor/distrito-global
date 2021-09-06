@@ -62,7 +62,9 @@ content_block_es: >-
 
 
 
-  ## Nuestra experiencia como OVO Chile y la necesidad de regular y consagrar a nivel Constitucional los derechos sexuales y reproductivos.
+
+
+  ## Nuestra experiencia como OVO Chile y la necesidad de regular y consagrar a nivel Constitucional los derechos sexuales y reproductivos
 
 
 
