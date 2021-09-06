@@ -39,11 +39,11 @@ content_block_es: >-
 
 
 
-  ![Fotos: Jorge García Sandoval](/assets/uploads/dscf8566.jpg)
+  ![](/assets/uploads/dscf8566.jpg "Fotos: Jorge García Sandoval")
 
 
-  ![Fotos: Jorge García Sandoval](/assets/uploads/dscf8636.jpg)
+  ![](/assets/uploads/dscf8636.jpg "Fotos: Jorge García Sandoval")
 
 
-  ![Fotos: Jorge García Sandoval](/assets/uploads/afro-por-constitución-.jpeg)
+  ![](/assets/uploads/afro-por-constitución-.jpeg "Fotos: Jorge García Sandoval")
 ---
