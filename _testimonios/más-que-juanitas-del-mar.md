@@ -5,15 +5,12 @@ image_hero: /assets/uploads/hero-mujeresdemar.jpg
 title_es: Más que Juanitas del Mar
 authors: Valentina Muñoz Farías
 content_block_es: >-
-  #### Valentina Muñoz Farías
-
-
-  #### Fundación Mujeres de Mar
-
-
-
-
-  El sector pesquero en Chile tiene un reconocido aporte a la economía del país, entrega puestos de trabajo y es fundamental en términos de salud y seguridad alimentaria. A pesar de su importancia, los trabajos en la pesca artesanal suelen estar precarizados. Esto se agrava para las mujeres del rubro, para quienes las brechas de género han forjado un ambiente antagonista que genera grandes desventajas.
+  El sector pesquero en Chile tiene un reconocido aporte a la economía del país,
+  entrega puestos de trabajo y es fundamental en términos de salud y seguridad
+  alimentaria. A pesar de su importancia, los trabajos en la pesca artesanal
+  suelen estar precarizados. Esto se agrava para las mujeres del rubro, para
+  quienes las brechas de género han forjado un ambiente antagonista que genera
+  grandes desventajas.
 
 
   De acuerdo con Subpesca, en el año 2019 un total de 22.844 mujeres se encontraban inscritas en el Registro de Pesca Artesanal (RPA), lo que corresponde aproximadamente al 24% del total de personas registradas. Sin embargo, sabemos que el RPA no refleja la realidad de la participación de las mujeres en el sector pesquero del país.
@@ -59,4 +56,12 @@ content_block_es: >-
 
 
   Estas mujeres nos han entregado mucho, y les hemos devuelto nada o muy poco. Tenemos una gran deuda con ellas.
+
+
+
+
+  ###### Valentina Muñoz Farías
+
+
+  ###### Fundación Mujeres de Mar
 ---
