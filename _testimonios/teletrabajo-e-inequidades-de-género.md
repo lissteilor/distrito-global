@@ -1,6 +1,6 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-juanitas-teletrabajo-4-.jpg
+image_thumbnail: /assets/uploads/thumb-juanitas-teletrabajo-5-.jpg
 image_hero: /assets/uploads/hero-juanitas-teletrabajo.jpg
 title_es: Teletrabajo e inequidades de género
 authors: Laura Liliana Matus Ortega
@@ -12,19 +12,21 @@ content_block_es: >-
   modalidad de desempeñar sus labores, irrumpiendo con fuerza el teletrabajo. 
 
 
-  El medio ambiente de trabajo dice relación con el lugar donde se lleva a cabo la actividad, noción que comprende no sólo la infraestructura del recinto laboral, sino también el entorno en que se realiza el trabajo, y, que en el caso de las teletrabajadoras es el hogar. El medio ambiente de trabajo puede constituir un factor de riesgo con injerencia en la salud ocupacional cuando las condiciones para desempeñar el trabajo no son las óptimas. Es del caso que tratándose del hogar, si bien pudiese parecer un medio ambiente ideal, la experiencia ha demostrado que tratándose de las mujeres, representa más bien una fuente de estrés y sobrecarga laboral. Nuestra sociedad encarga a las mujeres las labores de cuidado, de los/as hijos/as, adultos/as mayores y personas enfermas, además de labores propias del hogar, tales como aseo, orden, compras de víveres y cocinar, lo que históricamente ha traido aparejada una doble jornada de trabajo para las mujeres, situación que no ha hecho sino exacerbar el teletrabajo.  A ello se suma una situación particularmente compleja en Chile, la educación a distancia e imposibilidad de los/as niños, niñas y adolescentes, de asistir a clases presenciales, lo que ha requerido un apoyo de los padres y en particular de las madres, en la actividad escolar. 
+  El medio ambiente de trabajo dice relación con el lugar donde se lleva a cabo la actividad, noción que comprende no sólo la infraestructura del recinto laboral, sino también el entorno en que se realiza el trabajo, y, que en el caso de las teletrabajadoras es el hogar. El medio ambiente de trabajo puede constituir un factor de riesgo con injerencia en la salud ocupacional cuando las condiciones para desempeñar el trabajo no son las óptimas. Es del caso que tratándose del hogar, si bien pudiese parecer un medio ambiente ideal, la experiencia ha demostrado que tratándose de las mujeres, representa más bien una fuente de estrés y sobrecarga laboral. <em>Nuestra sociedad encarga a las mujeres las labores de cuidado, de los/as hijos/as, adultos/as mayores y personas enfermas, además de labores propias del hogar, tales como aseo, orden, compras de víveres y cocinar, lo que históricamente ha traido aparejada una doble jornada de trabajo para las mujeres, situación que no ha hecho sino exacerbar el teletrabajo. A ello se suma una situación particularmente compleja en Chile, la educación a distancia e imposibilidad de los/as niños, niñas y adolescentes, de asistir a clases presenciales, lo que ha requerido un apoyo de los padres y en particular de las madres, en la actividad escolar.</em>
 
 
-  Una de las preocupaciones de la Organización Internacional del Trabajo (OIT) ha sido el trabajo decente, esto es, la oportunidad de acceder a un empleo productivo que genere un ingreso justo, la seguridad en el lugar de trabajo y la protección social para las familias, mejores perspectivas de desarrollo personal e integración social, libertad para que los individuos expresen sus opiniones, se organicen y participen en las decisiones que afectan sus vidas, y la igualdad de oportunidades y trato para todos, mujeres y hombres. La implementación del teletrabajo ha implicado una situación desigual entre teletrabajadores y teletrabajadoras por las circunstancias a las que se aludió en el párrafo anterior, de allí la importancia de tener presente los instrumentos dictados por la OIT que buscan eliminar las discriminaciones y romper la brecha de género en el trabajo:
+  Una de las preocupaciones de la Organización Internacional del Trabajo (OIT) ha sido el trabajo decente, esto es, <q>la oportunidad de acceder a un empleo productivo que genere un ingreso justo, la seguridad en el lugar de trabajo y la protección social para las familias, mejores perspectivas de desarrollo personal e integración social, libertad para que los individuos expresen sus opiniones, se organicen y participen en las decisiones que afectan sus vidas, y la igualdad de oportunidades y trato para todos, mujeres y hombres<q><sub>1</sub>. La implementación del teletrabajo ha implicado una situación desigual entre teletrabajadores y teletrabajadoras por las circunstancias a las que se aludió en el párrafo anterior, de allí la importancia de tener presente los instrumentos dictados por la OIT que buscan eliminar las discriminaciones y romper la brecha de género en el trabajo:
 
 
-  1.- Convenio 100 relativo a la igualdad de remuneración entre la mano de obra masculina y la mano de obra femenina por un trabajo de igual valor, adoptado en Ginebra con fecha 29 de junio de 1951, y con fecha de entrada en vigor, 23 de mayo de 1953.
+  > 1.- Convenio 100 relativo a la igualdad de remuneración entre la mano de obra masculina y la mano de obra femenina por un trabajo de igual valor, adoptado en Ginebra con fecha 29 de junio de 1951, y con fecha de entrada en vigor, 23 de mayo de 1953.
 
+  >
 
-  2.- Convenio 111 relativo a la discriminación en materia de empleo y ocupación, adoptado en Ginebra con fecha 25 de junio de 1958, y con fecha de entrada en vigor, 15 de junio de 1960. En virtud de este convenio debe entenderse por discriminación cualquier distinción, exclusión o preferencia cuyo objeto sea alterar la igualdad de oportunidades ya sea en el acceso al empleo, o bien en las condiciones de trabajo.
+  > 2.- Convenio 111 relativo a la discriminación en materia de empleo y ocupación, adoptado en Ginebra con fecha 25 de junio de 1958, y con fecha de entrada en vigor, 15 de junio de 1960. En virtud de este convenio debe entenderse por discriminación cualquier distinción, exclusión o preferencia cuyo objeto sea alterar la igualdad de oportunidades ya sea en el acceso al empleo, o bien en las condiciones de trabajo.
 
+  >
 
-  3.- Convenio 156 sobre trabajadores con responsabilidades familiares, adoptado en Ginebra con fecha 23 de junio de 1981, y con fecha de entrada en vigor 11 de agosto de 1983. Este instrumento busca que los Estados implementen medidas a efectos que las personas con responsabilidades familiares puedan trabajar sin ser objeto de discriminación y procurando compatibilizar sus deberes laborales y familiares.
+  > 3.- Convenio 156 sobre trabajadores con responsabilidades familiares, adoptado en Ginebra con fecha 23 de junio de 1981, y con fecha de entrada en vigor 11 de agosto de 1983. Este instrumento busca que los Estados implementen medidas a efectos que las personas con responsabilidades familiares puedan trabajar sin ser objeto de discriminación y procurando compatibilizar sus deberes laborales y familiares.
 
 
   Si bien la OIT no ha dictado un convenio específico sobre el teletrabajo, lo ha abordado en diversos artículos y publicaciones, especialmente con el auge del teletrabajo durante los años 2020 y 2021; asimismo, ha regulado el trabajo a domicilio, Convenio 177 y Recomendación 184, ambos de 1996. En una de estas publicaciones señala que: “El teletrabajo se define como el uso de tecnologías de la información y las comunicaciones –como teléfonos inteligentes, tabletas, computadoras portátiles y de escritorio– para trabajar fuera de las instalaciones del empleador (Eurofound y OIT, 2019). En otras palabras, el teletrabajo conlleva un trabajo realizado con la ayuda de las TIC, fuera de las instalaciones del empleador”.
@@ -44,5 +46,9 @@ content_block_es: >-
 
 
 
-  ###### **Laura Liliana Matus Ortega**
+
+
+
+
+  <small><sub>1</sub> OIT, Trabajo decente, disponible en http://www.ilo.org/global/topics/decent-work/lang--es/index.htm </small>
 ---
