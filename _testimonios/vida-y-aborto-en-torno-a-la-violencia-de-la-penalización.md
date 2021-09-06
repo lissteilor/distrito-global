@@ -1,19 +1,16 @@
 ---
 layout: testimony
 image_thumbnail: /assets/uploads/logo-morada-bg.png
-image_hero: /assets/uploads/jorge_donoso_shutterstock_1685130340.jpg
+image_hero: /assets/uploads/hero-juanitas-1-.jpg
 title_es: "Vida y Aborto: en torno a la violencia de la penalización"
-authors: Francisca Pérez Prado  
+authors: Francisca Pérez Prado
 content_block_es: >-
-  #### Francisca Pérez Prado
-
-
-  #### Agosto 2021
-
-
-
-
-  El aborto constituye una realidad que atraviesa la vida de muchas mujeres como experiencia directa y material. La mayoría de las veces esta materialidad toma la forma de precariedad sanitaria, afectiva y relacional; también se configura como experiencia fantasmática -es decir, emocional, psicológica- y, en algunas ocasiones, se radica en el cuerpo bajo el signo del temor, la angustia, la culpa.
+  El aborto constituye una realidad que atraviesa la vida de muchas mujeres como
+  experiencia directa y material. La mayoría de las veces esta materialidad toma
+  la forma de precariedad sanitaria, afectiva y relacional; también se configura
+  como experiencia fantasmática -es decir, emocional, psicológica- y, en algunas
+  ocasiones, se radica en el cuerpo bajo el signo del temor, la angustia, la
+  culpa.
 
 
   Desde hace décadas, los movimientos feministas, en Chile y en el mundo, han puesto de manifiesto la urgencia de despenalizar el aborto y de asegurar condiciones de seguridad para su realización, independientemente de la situación económica, social, cultural o contextual de las mujeres que deciden interrumpir un embarazo.
@@ -45,4 +42,12 @@ content_block_es: >-
 
 
   En síntesis: hoy urge legislar para la despenalización del aborto, sin restricción de causales, y asegurando la responsabilidad del estado para su implementación en condiciones de seguridad e igualdad para las mujeres, es decir, en condiciones que rompan las vías de reproducción de la violencia de género que, aún, cada día y en todos los espacios de la vida, quiere seguir sometiendo y expropiando los cuerpos de la mitad de la humanidad. Probablemente, sin embargo, esta legislación no será posible mientras no logremos conquistar el espacio instituyente de una subjetividad soberana de las mujeres, gesto que sólo la pluralidad de voces feministas que hoy comparecen en la escritura de un nuevo pacto social, puede realizar.
+
+
+
+
+  ###### Francisca Pérez Prado
+
+
+  ###### Agosto 2021
 ---
