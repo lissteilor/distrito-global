@@ -1,8 +1,9 @@
 ---
 layout: testimony
 image_thumbnail: /assets/uploads/logo-luanda-bg.png
-image_hero: /assets/uploads/afro-por-constitución-.jpeg
+image_hero: /assets/uploads/hero-juanitas-afro.jpg
 title_es: Mujeres afrodescendientes
+authors: Colectiva de mujeres afrodescendientes Luanda
 content_block_es: >-
   ![](/assets/uploads/dscf8566.jpg)
 
