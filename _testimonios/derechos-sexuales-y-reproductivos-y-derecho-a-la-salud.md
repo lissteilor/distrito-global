@@ -34,16 +34,16 @@ content_block_es: >-
   Sabemos que <em>el control de la sexualidad ha operado como un dispositivo histórico de dominación hacia las mujeres, al no permitirles decidir sobre su propio cuerpo,</em> cuestión que podemos ver, por ejemplo, en los osbtáculos para garantizar el aborto libre o las barreras históricas de acceso a metodos de anticoncepción, lo que se ha agravado con la pandemia.
 
 
-  Eso sumado a la poca educación sexual que existe en nuestro país, afectan de sobremanera el poder de las mujeres y disidencias de decidir sobre sus cuerpos, el primer territorio que  gobernamos.</p>
+  Eso sumado a la poca educación sexual que existe en nuestro país, afectan de sobremanera el poder de las mujeres y disidencias de decidir sobre sus cuerpos, el primer territorio que gobernamos.
 
 
-  <p>Por eso creemos que la autonomía sexual y reproductiva deberían ser garantizadas por la constitución, reconociendo además la diversidad existente en nuestro país. Es importante, en este sentido, que junto con ella se incluyan también ciertos principios y garantías como la igualdad y la no discriminación en cuanto al género y una educación no sexista, de la mano del derecho a las mujeres de una vida libre de violencia, incluyendo dentro de éstas aquella que ocurre en la atención gineco-obstétrica, donde se debe respetar ante todo, el poder de decisión y autonomía de cada ser humano.</p>
+  <mark>Por eso creemos que la autonomía sexual y reproductiva deberían ser garantizadas por la constitución, reconociendo además la diversidad existente en nuestro país. Es importante, en este sentido, que junto con ella se incluyan también ciertos principios y garantías como la igualdad y la no discriminación en cuanto al género y una educación no sexista, de la mano del derecho a las mujeres de una vida libre de violencia, incluyendo dentro de éstas aquella que ocurre en la atención gineco-obstétrica, donde se debe respetar ante todo, el poder de decisión y autonomía de cada ser humano.</mark>
 
 
-  <p>La nueva Constitución, debe asegurar los derechos sexuales y reproductivos de las mujeres, la autonomía y voluntad en la decisiones que se tengan que tomar durante las distintas etapas del ciclo reproductivo y sexual, además de garantizar un trato digno en toda atención de salud, sumando el respetar las prácticas ancestrales de los pueblos originarios, protegiendo la tradición y cultura de distintas formas de nacer.</p>
+  <em>La nueva Constitución, debe asegurar los derechos sexuales y reproductivos de las mujeres, la autonomía y voluntad en las decisiones que se tengan que tomar durante las distintas etapas del ciclo reproductivo y sexual, además de garantizar un trato digno en toda atención de salud, sumando el respetar las prácticas ancestrales de los pueblos originarios, protegiendo la tradición y cultura de distintas formas de nacer.</em>
 
 
-  <p>Actualmente, el único instrumento jurídico para resolver la mayoría de los casos de violencia gineco obstétrica en Chile es la ley de derechos y deberes del paciente, la cual es absolutamente insuficiente, porque al tener un enfoque general, no se hace cargo de manera adecuada de esta forma de violencia en toda su extensión y con todos sus matices. </p>
+  Actualmente, el único instrumento jurídico para resolver la mayoría de los casos de violencia gineco obstétrica en Chile es la ley de derechos y deberes del paciente, la cual es absolutamente insuficiente, porque al tener un enfoque general, no se hace cargo de manera adecuada de esta forma de violencia en toda su extensión y con todos sus matices.
 
 
   <p>En ese contexto, distintas organizaciones de la sociedad civil, agrupadas en la Mesa de Parto Respetado y la Coordinadora por los derechos del nacimiento, junto la diputada del Frente Amplio, Claudia Mix, impulsamos el proyecto de \[Ley Adriana](https://www.camara.cl/verDoc.aspx?prmTipo=SIAL&prmID=43268&formato=pdf), que nace por la experiencia de Adriana Palacios, quien en 2017, en Alto Hospicio, sufrió violencia obstétrica y una serie de negligencias médicas que provocaron que su hija Trinidad, naciera sin vida.</p>
