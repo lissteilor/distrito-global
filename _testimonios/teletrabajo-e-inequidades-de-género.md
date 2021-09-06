@@ -42,31 +42,31 @@ content_block_es: >-
 
 
 
-  #### **Referencias**
-
-
-  <small><sup>1</sup>OIT, Trabajo decente, disponible en http://www.ilo.org/global/topics/decent-work/lang--es/index.htm.</small>
-
-
-  <small><sup>2</sup>OIT, El teletrabajo durante la pandemia de COVID-19 y después de ella. Guía práctica, disponible en https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---travail/documents/publication/wcms_758007.pdf.</small>
-
-
-  <small><sup>3</sup>El mentado comité los ha definido como: “interacciones entre el trabajo, su medio ambiente, la satisfacción en el trabajo y las condiciones de su organización, por una parte y por la otra, las capacidades del trabajador, sus necesidades, su cultura y su situación personal fuera del trabajo, todo lo cual, a través de percepciones y experiencias, pueden influir en la salud y en el rendimiento y la satisfacción en el trabajo”. Véase OIT/OMS (1984) Factores psicosociales en el trabajo: Naturaleza, incidencia y prevención. Informe del comité mixto OIT/OMS sobre medicina del trabajo; Ginebra, Suiza. Disponible en https://es.slideshare.net/rojasmaury/factores-psicosociales-en-el-trabajo-oit-1984iafjsr.</small>
-
-
-  <small><sup>4</sup>Al respecto véase OIT, Salud y seguridad en el trabajo (SST). Aportes para una cultura de la prevención, disponible en http://www.ilo.org/wcmsp5/groups/public/@americas/@ro-lima/@ilo-buenos_aires/documents/publication/wcms_248685.pdf.</small>
-
-
-  <small><sup>5</sup>Valentina Forastieri aborda este aspecto del trabajo decente en Condiciones de trabajo, seguridad y salud, disponible en http://www.oit.org.pe/WDMS/bib/publ/libros/manual_buenas_practicas_td\[3].pdf.</small>
-
-
-  <small><sup>6</sup>OIT. C155 - Convenio sobre seguridad y salud de los trabajadores, 1981 (núm. 155), adoptado el 22 de junio de 1981. OIT. R164 - Recomendación sobre seguridad y salud de los trabajadores, 1981 (núm. 164), adoptado el 22 de junio de 1981.</small>
-
-
-
-
-  ###### Laura Liliana Matus Ortega
+  #### Laura Liliana Matus Ortega
 
 
   <small>Abogada, magíster en Derecho Laboral y Seguridad Social Universidad de Talca y Universidad de Valencia, alumna regular del Programa de Doctorado Intensivo de la Universidad de Buenos Aires (mención Derecho Laboral).</small>
+
+
+
+
+  #### **Referencias**
+
+
+  <small><sup>1</sup> OIT, Trabajo decente, disponible en http://www.ilo.org/global/topics/decent-work/lang--es/index.htm.</small>
+
+
+  <small><sup>2</sup> OIT, El teletrabajo durante la pandemia de COVID-19 y después de ella. Guía práctica, disponible en https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---travail/documents/publication/wcms_758007.pdf.</small>
+
+
+  <small><sup>3</sup> El mentado comité los ha definido como: “interacciones entre el trabajo, su medio ambiente, la satisfacción en el trabajo y las condiciones de su organización, por una parte y por la otra, las capacidades del trabajador, sus necesidades, su cultura y su situación personal fuera del trabajo, todo lo cual, a través de percepciones y experiencias, pueden influir en la salud y en el rendimiento y la satisfacción en el trabajo”. Véase OIT/OMS (1984) Factores psicosociales en el trabajo: Naturaleza, incidencia y prevención. Informe del comité mixto OIT/OMS sobre medicina del trabajo; Ginebra, Suiza. Disponible en https://es.slideshare.net/rojasmaury/factores-psicosociales-en-el-trabajo-oit-1984iafjsr.</small>
+
+
+  <small><sup>4</sup> Al respecto véase OIT, Salud y seguridad en el trabajo (SST). Aportes para una cultura de la prevención, disponible en http://www.ilo.org/wcmsp5/groups/public/@americas/@ro-lima/@ilo-buenos_aires/documents/publication/wcms_248685.pdf.</small>
+
+
+  <small><sup>5</sup> Valentina Forastieri aborda este aspecto del trabajo decente en Condiciones de trabajo, seguridad y salud, disponible en http://www.oit.org.pe/WDMS/bib/publ/libros/manual_buenas_practicas_td\[3].pdf.</small>
+
+
+  <small><sup>6</sup> OIT. C155 - Convenio sobre seguridad y salud de los trabajadores, 1981 (núm. 155), adoptado el 22 de junio de 1981. OIT. R164 - Recomendación sobre seguridad y salud de los trabajadores, 1981 (núm. 164), adoptado el 22 de junio de 1981.</small>
 ---
