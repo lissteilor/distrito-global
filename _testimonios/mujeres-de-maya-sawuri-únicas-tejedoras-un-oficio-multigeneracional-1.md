@@ -9,9 +9,9 @@ content_block_es: >-
   43 años en la textilería, radicada en la  localidad de Pozo Almonte, región de
   Tarapacá. Para ella, la importancia de una nueva constitución implica
   reconocimiento y respeto por parte de todo un país, que se materializa en que
-  la palabra paisana en la actualidad sea de orgullo. <em>Pilar nos cuenta que
+  la palabra paisana en la actualidad sea de orgullo. Pilar nos cuenta que
   espera de la nueva constitución por fin ser reconocidas como parte de un
-  pueblo plurinacional que garantice las autonomías territoriales. La nueva
+  pueblo plurinacional que garantice las autonomías territoriales. <em>La nueva
   constitución hace “que uno tenga esperanzas de reconocimiento y que por fin se
   sienten libre de expresarse, tanto en los rituales y tradiciones a nuestra
   Pachamama, como a nuestra tierra madre”.</em>
