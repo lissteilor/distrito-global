@@ -1,6 +1,6 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-juanitas-mayasawuri2.jpg
+image_thumbnail: /assets/uploads/thumb-juanitas-mayasawuri2-2-.jpg
 image_hero: /assets/uploads/hero-juanitas-mayasawuri2.jpg
 title_es: "Mujeres de Maya Sawuri: Únicas tejedoras. Un oficio multigeneracional"
 authors: Mujeres de Maya Sawuri
