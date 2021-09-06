@@ -2,7 +2,8 @@
 layout: testimony
 image_thumbnail: /assets/uploads/logo-opcion-bg.png
 image_hero: /assets/uploads/hero-juanitas.jpg
-title_es: Niñas y DESCA
+title_es: ¿Cómo la nueva Constitución puede mejorar las  experiencias de vida de
+  las mujeres en Chile en relación  al tema DESCA?
 authors: Bárbara Salazar
 content_block_es: >-
   Debería haber equidad entre hombres y mujeres. No necesariamente que la mujer 
