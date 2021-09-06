@@ -2,8 +2,7 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-niñas.jpg
 image_hero: /assets/uploads/hero-juanitas.jpg
-title_es: ¿Cómo la nueva Constitución puede mejorar las experiencias de vida de
-  las mujeres en Chile en relación al tema DESCA?
+title_es: La visión de niñas y adolescentes
 authors: Paz Ignacia Ortega López (Corporación Opción)
 content_block_es: >-
   Uno de los factores influyentes para mejorar la vida de las mujeres en una
