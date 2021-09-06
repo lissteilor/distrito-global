@@ -1,7 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-juanitas-mayasawuri-1-.jpg
-image_hero: /assets/uploads/hero-juanitas-mayasawuri-1-.jpg
+image_thumbnail: /assets/uploads/thumb-juanitas-mayasawuri1.jpg
+image_hero: /assets/uploads/hero-juanitas-mayasawuri1.jpg
 title_es: "Mujeres de Maya Sawuri: Únicas tejedoras. Un oficio multigeneracional"
 authors: Pilar Quispe Mamani
 content_block_es: >-
