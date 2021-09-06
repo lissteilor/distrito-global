@@ -17,28 +17,22 @@ content_block_es: >-
   Pachamama, como a nuestra tierra madre”.</mark>
 
 
-
-
   ![](/assets/uploads/photoroom-20210810_234347.png)
 
 
   <small>Pilar Quispe Mamani</small>
 
 
-
-
   En el norte del país hay una gran cantidad de aymaras –tanto de Perú y Bolivia– donde la lengua materna es aimara o quechua dependiendo del sector donde se encuentre. La diferencia que se tiene en la actualidad es casi nula, pues se tiene las mismas costumbres y tradiciones, <mark>es por eso mismo que nos consideramos un pueblo plurinacional.<mark/>
 
 
-  Nuestra madre y abuela Barbarita Vilches Chamaca, artesana aimara de la localidad de Enquelga, comuna de Colchane, región de Tarapacá, tras tratar de responder esta pregunta sobre la Constitución, señala que <samp>no conoce y no sabe los posibles cambios que puedan existir a futuro. Señala que por su larga edad será difícil verlos y que sólo recuerda que cuando era adolescente, vivía de los ingresos de las ventas de tejidos a turistas sin un sistema de regulación comercial.</samp>
+  Nuestra madre y abuela Barbarita Vilches Chamaca, artesana aimara de la localidad de Enquelga, comuna de Colchane, región de Tarapacá, tras tratar de responder esta pregunta sobre la Constitución, señala que <em>no conoce y no sabe los posibles cambios que puedan existir a futuro. Señala que por su larga edad será difícil verlos y que sólo recuerda que cuando era adolescente, vivía de los ingresos de las ventas de tejidos a turistas sin un sistema de regulación comercial.</em>
 
 
   ![](/assets/uploads/dsc_0338.jpg)
 
 
   <small>Barbarita Vilches Chamaca</small>
-
-
 
 
   Yo Gabriela López Quispe nieta e hija de la cultura aymara, aprendiz de la textilería aymara, de la localidad de alto hospicio, Región de Tarapacá, <mark>creo que la nueva constitución generará un gran cambio para nuestro pueblo, para ser reconocido y poder reparar el daño histórico que le ha causado el gobierno de Chile.</mark>
@@ -50,11 +44,7 @@ content_block_es: >-
   <small>Gabriela López Quispe</small>
 
 
-
-
-  Es bien sabido que la incorporación de los pueblos originarios a la asamblea constituyente podría traer consecuencias económicas para el país, dado que muchos pueblos han sido arrebatados por estos distintos sectores económicos, específicamente, aquí en el norte pasa con las mineras y el agua. La injusticia del poder del Estado, de apropiarse de terrenos ancestrales y el hecho de ser entregada a empresas mineras, produciendo el empobrecimiento de nuestras tierras, <mark>ha generado un aislamiento de nuestras costumbres y nuestra identidad.</mark> <samp>Tenemos esperanza que este nuevo proceso que se acompaña de 500 años de lucha por parte de las primeras naciones, reivindique los derechos de nuestros pueblos, la situación de la escasez del agua en el norte de nuestro país y el reconocimiento y visibilización de nuestro trabajo y cultura.</samp>
-
-
+  Es bien sabido que la incorporación de los pueblos originarios a la asamblea constituyente podría traer consecuencias económicas para el país, dado que muchos pueblos han sido arrebatados por estos distintos sectores económicos, específicamente, aquí en el norte pasa con las mineras y el agua. La injusticia del poder del Estado, de apropiarse de terrenos ancestrales y el hecho de ser entregada a empresas mineras, produciendo el empobrecimiento de nuestras tierras, <mark>ha generado un aislamiento de nuestras costumbres y nuestra identidad.</mark> <em>Tenemos esperanza que este nuevo proceso que se acompaña de 500 años de lucha por parte de las primeras naciones, reivindique los derechos de nuestros pueblos, la situación de la escasez del agua en el norte de nuestro país y el reconocimiento y visibilización de nuestro trabajo y cultura.</em>
 
 
   **Documentación: Gloria Mancilla Ibacache**
