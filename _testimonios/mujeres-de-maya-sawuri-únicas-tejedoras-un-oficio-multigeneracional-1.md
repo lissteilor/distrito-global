@@ -47,5 +47,13 @@ content_block_es: >-
   Es bien sabido que la incorporación de los pueblos originarios a la asamblea constituyente podría traer consecuencias económicas para el país, dado que muchos pueblos han sido arrebatados por estos distintos sectores económicos, específicamente, aquí en el norte pasa con las mineras y el agua. La injusticia del poder del Estado, de apropiarse de terrenos ancestrales y el hecho de ser entregada a empresas mineras, produciendo el empobrecimiento de nuestras tierras, <em>ha generado un aislamiento de nuestras costumbres y nuestra identidad.</em> <mark>Tenemos esperanza que este nuevo proceso que se acompaña de 500 años de lucha por parte de las primeras naciones, reivindique los derechos de nuestros pueblos, la situación de la escasez del agua en el norte de nuestro país y el reconocimiento y visibilización de nuestro trabajo y cultura.</mark>
 
 
-  **Documentación: Gloria Mancilla Ibacache**
+  ![](/assets/uploads/screenshot_20180722-165226.png)
+
+
+  <small>Gabriela López Quispe</small>
+
+
+
+
+  <p>**Documentación: Gloria Mancilla Ibacache**</p>
 ---
