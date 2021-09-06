@@ -56,7 +56,7 @@ content_block_es: >-
 
 
 
-  <small>
+  <p><small>
 
 
   <sup>1</sup> El libro se titula “La Huelga General Feminista ¡Va! Historias de un proceso en curso”. Coordinadora Feminista 8 de marzo, Tiempo Robado editoras (comp. y eds.). Santiago: Tiempo Robado editoras, 2021.
@@ -68,7 +68,7 @@ content_block_es: >-
   <sup>3</sup> Ciertamente el trabajo de cuidados no se limita a un solo espacio (el hogar), sino que abarca la combinación de al menos tres esferas (el Mercado, el sector público y los hogares) que son atravesadas constantemente tanto por las personas cuidadas como las cuidadoras.
 
 
-  </small> 
+  </small></p>
 
 
   ![](/assets/uploads/logo-ces-bg.png)
