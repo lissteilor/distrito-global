@@ -11,7 +11,7 @@ content_block_es: >-
   este modo, un ambiente sociocultural más seguro.</em>
 
 
-  Paralelamente, es importante <mark>equiparar sueldos, destacar proyectos de grandes mujeres y restaurar una educación no sexista y feminista, para así garantizar a las  futuras generaciones femeninas una vida con seguridad, igualdad y equidad en todo contexto.</mark>
+  Paralelamente, es importante <em>equiparar sueldos, destacar proyectos de grandes mujeres y restaurar una educación no sexista y feminista, para así garantizar a las  futuras generaciones femeninas una vida con seguridad, igualdad y equidad en todo contexto.</em>
 
 
   Por otro lado, es fundamental <em>cambiar el paradigma respecto al género femenino, queriendo decir que este no esté ligado constantemente a roles domésticos,</em> debido a que mujeres se han sentido forzadas en el momento de optar por ciertas decisiones que, en muchos casos, son contra de su voluntad.  
