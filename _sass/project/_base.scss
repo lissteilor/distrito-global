@@ -517,6 +517,19 @@ a.filter-blue{
 .uk-dotnav > .uk-active > *{
   background-color: $grey;
 }
+
+
+/**
+ * video
+ */
+ .video-responsive{
+   padding-bottom: 56.25%;
+   position:relative;
+   display: block;
+   width: 100%;
+ }
+
+
 /**
  * Navbar
  */
