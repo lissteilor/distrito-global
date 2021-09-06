@@ -1,7 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-niñas.jpg
-image_hero: /assets/uploads/hero-juanitas.jpg
+image_thumbnail: /assets/uploads/thumb-niñas-1-.jpg
+image_hero: /assets/uploads/hero-niñas.jpg
 title_es: La visión de niñas y adolescentes
 authors: Paz Ignacia Ortega López (Corporación Opción)
 content_block_es: >-
