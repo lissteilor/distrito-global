@@ -56,13 +56,13 @@ content_block_es: >-
 
 
 
-  <p><small><sup>1</sup> El libro se titula “La Huelga General Feminista ¡Va! Historias de un proceso en curso”. Coordinadora Feminista 8 de marzo, Tiempo Robado editoras (comp. y eds.). Santiago: Tiempo Robado editoras, 2021.</small></p>
+  <small><sup>1</sup> El libro se titula “La Huelga General Feminista ¡Va! Historias de un proceso en curso”. Coordinadora Feminista 8 de marzo, Tiempo Robado editoras (comp. y eds.). Santiago: Tiempo Robado editoras, 2021.</small>
 
 
-  <p><small><sup>2</sup> Algunas organizaciones han trabajado por intentar cuantificar el costo social y económico de esto. Tal es su relevancia, que según estimaciones del Banco Central (2021), la participación del trabajo doméstico no remunerado sobre el producto interno bruto representaba hacia el 2020 el 25,6% del PIB ampliado.</small></p>
+  <small><sup>2</sup> Algunas organizaciones han trabajado por intentar cuantificar el costo social y económico de esto. Tal es su relevancia, que según estimaciones del Banco Central (2021), la participación del trabajo doméstico no remunerado sobre el producto interno bruto representaba hacia el 2020 el 25,6% del PIB ampliado.</small>
 
 
-  <p><small><sup>3</sup> Ciertamente el trabajo de cuidados no se limita a un solo espacio (el hogar), sino que abarca la combinación de al menos tres esferas (el Mercado, el sector público y los hogares) que son atravesadas constantemente tanto por las personas cuidadas como las cuidadoras.</small></p>
+  <small><sup>3</sup> Ciertamente el trabajo de cuidados no se limita a un solo espacio (el hogar), sino que abarca la combinación de al menos tres esferas (el Mercado, el sector público y los hogares) que son atravesadas constantemente tanto por las personas cuidadas como las cuidadoras.</small>
 
 
 
