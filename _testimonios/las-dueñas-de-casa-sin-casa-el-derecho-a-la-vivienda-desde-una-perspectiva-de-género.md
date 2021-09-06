@@ -52,8 +52,7 @@ content_block_es: >-
   ###### Centro de Estudios Socio-territoriales de Techo-Chile y Fundación Vivienda
 
 
-
-
+  #### Referencias
 
 
   <small><sup>1</sup> El libro se titula “La Huelga General Feminista ¡Va! Historias de un proceso en curso”. Coordinadora Feminista 8 de marzo, Tiempo Robado editoras (comp. y eds.). Santiago: Tiempo Robado editoras, 2021.</small>
