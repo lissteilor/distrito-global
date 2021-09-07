@@ -19,8 +19,8 @@ content_block_es: >-
 
 
   <p>#TodasPorUnReglamentoFeminista</p>
-category_es: Constitución
-category_en: Constitution
-color: dash-pink bg-pink
+category_es: Género
+category_en: Gender
+color: dash-purple bg-purple
 pdf_publication: https://nadasinnosotras.cl/wp-content/uploads/2019/08/Reglamento-Feminista.3.0.pdf
 ---
