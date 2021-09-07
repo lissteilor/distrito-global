@@ -25,7 +25,7 @@ content_block_es: >-
   <p>Por eso, muchas organizaciones con largos años de experiencia en feminismos o derechos sociales, se han sumado al Distrito Global para compartir relatos de mujeres en Chile, con el objetivo de identificar los elementos clave para transversalizar el enfoque de género en todos los derechos sociales, contribuyendo así a  la transformación de las formas en que se entienden y protegen estos derechos.</p>
 
 
-  <p><em>Los testimonios que se presentan a continuación responden a la pregunta: ¿Cómo la nueva Constitución puede cambiar las experiencias de vida de las mujeres en Chile</em></p>
+  <p><em>Los testimonios que se presentan a continuación responden a la pregunta: ¿Cómo la nueva Constitución puede cambiar las experiencias de vida de las mujeres en Chile?</em></p>
 title_en: More than Juanitas
 button_en: Read the testimonials
 content_block_en: >-
