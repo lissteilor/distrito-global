@@ -46,10 +46,10 @@ content_block_es: >-
   Dado el auge del empoderamiento femenino y la precarización del trabajo de las mujeres de la pesca artesanal en Chile, en 2019, un grupo de dirigentas lideradas por Sara Garrido (Coliumo) propuso un proyecto de ley que modifica la Ley General de Pesca y Acuicultura (LGPA) para incorporar el enfoque de género y reconocer las actividades conexas. El presente año se aprobó la modificación de la LGPA, por lo que se reconocerán –al menos políticamente– a las mujeres que trabajan en la mar.
 
 
-  Desde el estereotipo, las mujeres de mar son típicamente señoras Juanitas. Tienen entre 30 y 60 años; habitan zonas costeras generalmente rurales; muchas son de bajo nivel socioeconómico y pocas de ellas tienen escolaridad completa. Realizan labores y trabajos que requieren grandes esfuerzos y sacrificios físicos, mentales, familiares, sociales y económicos. Muy comúnmente se iniciaron en los oficios de pesca artesanal por necesidades económicas y de subsistencia. Adquirieron los conocimientos para realizar estos oficios como herencia de sus comunidades, familiares, padres y madres que encontraron anteriormente en la mar sustento para ellos y sus familias.
+  <em>Desde el estereotipo, las mujeres de mar son típicamente señoras Juanitas.</em> Tienen entre 30 y 60 años; habitan zonas costeras generalmente rurales; muchas son de bajo nivel socioeconómico y pocas de ellas tienen escolaridad completa. Realizan labores y trabajos que requieren grandes esfuerzos y sacrificios físicos, mentales, familiares, sociales y económicos. Muy comúnmente se iniciaron en los oficios de pesca artesanal por necesidades económicas y de subsistencia. Adquirieron los conocimientos para realizar estos oficios como herencia de sus comunidades, familiares, padres y madres que encontraron anteriormente en la mar sustento para ellos y sus familias.
 
 
-  Desde la –reciente– experiencia de la Fundación Mujeres de Mar, podemos decir que estas mujeres son mucho más que Juanitas. Traen consigo la fuerza y potencia del mar con la que son capaces de levantar varios kilos sobre sus hombros, caminar por aguas gélidas a pies descalzos y, con sus manos desnudas, mover piedras y recolectar recursos que luego transforman productos de gran valor. Son apasionadas por su trabajo y tienen un gran apego y conexión con la mar. Han sido capaces de organizarse, reconocer problemas y buscar y encontrar soluciones, a nivel individual o colectivo, para sus familias e incluso sus comunidades.
+  Desde la –reciente– experiencia de la Fundación Mujeres de Mar, podemos decir que <mark>estas mujeres son mucho más que Juanitas. Traen consigo la fuerza y potencia del mar con la que son capaces de levantar varios kilos sobre sus hombros, caminar por aguas gélidas a pies descalzos y, con sus manos desnudas, mover piedras y recolectar recursos que luego transforman productos de gran valor. Son apasionadas por su trabajo y tienen un gran apego y conexión con la mar. Han sido capaces de organizarse, reconocer problemas y buscar y encontrar soluciones, a nivel individual o colectivo, para sus familias e incluso sus comunidades.</mark>
 
 
   Pese a ser invisibilizadas, las mujeres de mar han demostrado ser imprescindibles, capaces, pensantes, emprendedoras e innovadoras. Poseen saberes y conocimientos tradicionales de gran valor histórico, patrimonial y ecológico. Son la señorita Viviana, Josefa, Bárbara, Carolina. Son la señora Roxana, Soledad, Rina, Margarita, Vanessa, Gisella, Cecilia, María… Tantos nombres más que Juanita. Cada una de ellas tiene una historia que contar y vivencias personales. Experiencias únicas y valorables por su implacable espíritu de lucha y fuerza innata. Son madres, jefas de hogar, administradoras, dirigentas y lideresas sumamente trabajadoras y esforzadas que pocas veces son reconocidas y que han tenido que enfrentarse a las situaciones más hostiles y adversas, arriesgando sus vidas y poniendo en juego su dignidad, salud y bienestar.
@@ -58,8 +58,5 @@ content_block_es: >-
   Estas mujeres nos han entregado mucho, y les hemos devuelto nada o muy poco. Tenemos una gran deuda con ellas.
 
 
-  ###### Valentina Muñoz Farías
-
-
-  ###### Fundación Mujeres de Mar
+  ![](/assets/uploads/logo-mujeresdemar-bg.png)
 ---
