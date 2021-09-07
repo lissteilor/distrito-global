@@ -9,7 +9,7 @@ summary_es: Construimos una bitácora feminista de elaboración colectiva, que
   sociales, culturales y ambientales por parte de las mujeres chilenas, asi como
   las formas en que la nueva Constitución puede mejorar sus experiencias de
   vida.
-brief_es: Derechos sociales con enfoque de género
+brief_es: Derechos sociales con enfoque de género en la nueva constitución
 button_es: Revisa los testimonios
 content_block_es: >-
   <p>“La señora Juanita” es una metáfora asentada en el inconsciente colectivo
@@ -26,6 +26,9 @@ content_block_es: >-
 
 
   <p><em>Los testimonios que se presentan a continuación responden a la pregunta: ¿Cómo la nueva Constitución puede cambiar las experiencias de vida de las mujeres en Chile?</em></p>
+
+
+  <p>Porque juntas, somos <em>#MásQueJuanitas</em></p>
 title_en: More than Juanitas
 button_en: Read the testimonials
 content_block_en: >-
