@@ -49,4 +49,10 @@ alliance_2_org: Corporación Opción
 alliance_2_logo: /assets/uploads/logo-opcion.png
 alliance_3_org: Fundación OVO Chile
 alliance_3_logo: /assets/uploads/logo-ovo.png
+alliance_4_org: Centro de Estudios Socioterritoriales - Techo - Fundación Vivienda
+alliance_4_logo: /assets/uploads/logo-ces-bg-1-.png
+alliance_5_org: Fundación Niñas Valientes
+alliance_5_logo: /assets/uploads/logo-valientes-bg-1-.png
+alliance_6_org: Colectiva de Mujeres Afrodescendientes Luanda
+alliance_6_logo: /assets/uploads/logo-luanda-bg-2-.png
 ---
