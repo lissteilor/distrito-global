@@ -12,8 +12,6 @@ content_block_es: >-
   derechos sociales, y entre ellos podras encontrar:
 
 
-
-
   Nº 1: ¿Qué es y para qué sirve la Constitución?
 
 
@@ -33,8 +31,6 @@ content_block_es: >-
 
 
   Nº 7: Derecho al disfrute del más alto nivel posible de salud
-
-
 
 
   ¡Descarga, comparte y dialoga!
