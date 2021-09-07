@@ -1,9 +1,9 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/logo-mujeresdemar-bg.png
+image_thumbnail: /assets/uploads/thumb-pescadoras.jpg
 image_hero: /assets/uploads/hero-mujeresdemar.jpg
 title_es: Más que Juanitas del Mar
-authors: Valentina Muñoz Farías
+authors: Valentina Muñoz Farías (Mujeres de Mar)
 content_block_es: >-
   El sector pesquero en Chile tiene un reconocido aporte a la economía del país,
   entrega puestos de trabajo y es fundamental en términos de salud y seguridad
