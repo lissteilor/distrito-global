@@ -21,10 +21,26 @@ content_block_es: >-
   Sin perjuicio de lo anterior, pudimos evidenciar que <em>el avance normativo, la sensibilización cultural y la incidencia política, no ha sido suficiente para terminar con los efectos de la colonización y el racismo que se encuentran instalados en nuestro país. Tanto, en las articulaciones sociales como en las negociaciones con el Estado, el Pueblo Tribal Afrodescendiente Chileno ha sido excluido sistemáticamente de todo el proceso constitucional.</em> Prueba de aquello, fue la negación por parte del Congreso Nacional de un escaño reservado en igualdad de condiciones que los pueblos indígenas para la participación efectiva en la Convención Constitucional del pueblo afrochileno. Proceso parlamentario que concluyó en discriminaciones arbitrarias, sin contemplar en ningún momento, el principio de igualdad y no discriminación consagrado en nuestro ordenamiento jurídico vigente –contando con todas las justificaciones técnicas para esta incorporación– restringiendo, en definitiva, los derechos de participación en los espacios de decisión política que se consagran en el sistema de protección para el pueblo tribal. 
 
 
-  En un contexto de total negacionismo y vulneración a los derechos humanos del Pueblo Tribal Afrodescendiente Chileno, se instala la Convención Constitucional como el órgano encargado de elaborar la nueva carta fundamental y reformular el pacto social para nuestro país, sin la población históricamente excluida como el pueblo negro, comunidad LGTBIQ+, personas en situación en discapacidad, población migrante, entre otras. 
+  ![](/assets/uploads/dscf8636.jpg "Fotos: Jorge García Sandoval")
 
 
-  A pesar del contexto adverso y perjudicial para el pueblo afrochileno en este momento constituyente, las mujeres afrodescendientes que integran [está sujeta colectiva](https://www.instagram.com/colectiva.luanda/), hemos traído al escenario político la resistencia que han tenido nuestras ancestras a lo largo de la historia y hemos visto este contexto, como la oportunidad de seguir instalando la reivindicación y exigibilidad de los derechos humanos generales y específicos que tenemos como mujeres racializadas y como sujetos/as colectivos parte de un pueblo étnico del país. 
+  <small>Fotos: Jorge García Sandoval</small>
+
+
+
+
+  En un contexto de total negacionismo y vulneración a los derechos humanos del Pueblo Tribal Afrodescendiente Chileno, se instala la Convención Constitucional como el órgano encargado de elaborar la nueva carta fundamental y reformular el pacto social para nuestro país, sin la población históricamente excluida como el pueblo negro, comunidad LGTBIQ+, personas en situación en discapacidad, población migrante, entre otras.
+
+
+  A pesar del contexto adverso y perjudicial para el pueblo afrochileno en este momento constituyente, las mujeres afrodescendientes que integran [está sujeta colectiva](https://www.instagram.com/colectiva.luanda/), hemos traído al escenario político la resistencia que han tenido nuestras ancestras a lo largo de la historia y hemos visto este contexto, como la oportunidad de seguir instalando la reivindicación y exigibilidad de los derechos humanos generales y específicos que tenemos como mujeres racializadas y como sujetos/as colectivos parte de un pueblo étnico del país.
+
+
+  ![](/assets/uploads/dscf8566.jpg)
+
+
+  <small>Fotos: Jorge García Sandoval</small>
+
+
 
 
   <em>Para poner en valor las experiencias de vidas de las mujeres negras que habitamos el territorio, y mejorar la calidad de vida de esta población, es necesario que el Estado avance en el reconocimiento constitucional del Pueblo Tribal Afrodescendiente, superando lo establecido en la Ley N° 21.151 y para esto el mecanismo que mejor recoge esta solicitud es la Plurinacionalidad.</em> Esta forma de organización del Estado permite garantizar los derechos económicos, sociales y culturales, ya que permitirá ejercer de manera diferenciada los derechos humanos relacionados con la seguridad social, los accesos a servicios básicos, la participación en la vida cultural, la educación y la autonomía propia para el desarrollo de los pueblos. 
@@ -36,23 +52,18 @@ content_block_es: >-
   <mark>Prevenir, sancionar y erradicar las acciones racistas dentro del territorio a través de la carta magna que consagre materialmente los principios de igualdad y no discriminación, permitirá mejorar las experiencias de vida de las mujeres afrodescendientes, debido a que nuestras historias, aportes y necesidades serán abordadas de maneras diferenciadas. En especial, considerando las diversas realidades y procesos por los cuales atravesamos las mujeres negras, propiciando una mirada interseccional de las causas de opresión y sus múltiples efectos.</mark> Estas perspectivas permitirán diseñar y ejecutar políticas públicas que disminuyan la precarización de la vida de las mujeres racializadas, considerando, por cierto, la participación de las mismas en la elaboración de las acciones, dejando de ver-nos como simples beneficiarias, sino más bien como creadoras de propuestas políticas.
 
 
-  Los desafíos que se presentan en este proceso constituyente son numerosos, existe una deuda por parte del país de garantizar de manera oportuna y efectiva los derechos económicos, sociales y culturales de la población y en especial del Pueblo Tribal Afrodescendiente Chileno por vivir aún en la invisibilización promovida por el propio Estado y la comunidad en su conjunto. Esta exclusión ha perpetuado la desigualdad que afecta la vida de las mujeres afrodescendientes, <mark>y la Nueva Constitución se transforma en la oportunidad de reparar y reformular cada uno de los elementos por los cuales se ha construido nuestro pacto social, para avanzar en una sociedad que respete, valore y promocione cada diferencia y contribuciones que han realizado las mujeres del pueblo tribal afrodescendiente desde la llegada de la primera ancestra esclavizada, hasta las sujetas políticas que actualmente luchan por la dignidad de nuestros pueblos y la eliminación del racismo, el sexismo, el patriarcado y la colonialidad que no nos permite ejercer la libertad que merecemos.</mark>
-
-
-  ![](/assets/uploads/dscf8566.jpg)
-
-
-  <small>Fotos: Jorge García Sandoval</small>
-
-
-  ![](/assets/uploads/dscf8636.jpg "Fotos: Jorge García Sandoval")
-
-
-  <small>Fotos: Jorge García Sandoval</small>
 
 
   ![](/assets/uploads/afro-por-constitución-.jpeg "Fotos: Jorge García Sandoval")
 
 
   <small>Fotos: Jorge García Sandoval</small>
+
+
+  Los desafíos que se presentan en este proceso constituyente son numerosos, existe una deuda por parte del país de garantizar de manera oportuna y efectiva los derechos económicos, sociales y culturales de la población y en especial del Pueblo Tribal Afrodescendiente Chileno por vivir aún en la invisibilización promovida por el propio Estado y la comunidad en su conjunto. Esta exclusión ha perpetuado la desigualdad que afecta la vida de las mujeres afrodescendientes, <mark>y la Nueva Constitución se transforma en la oportunidad de reparar y reformular cada uno de los elementos por los cuales se ha construido nuestro pacto social, para avanzar en una sociedad que respete, valore y promocione cada diferencia y contribuciones que han realizado las mujeres del pueblo tribal afrodescendiente desde la llegada de la primera ancestra esclavizada, hasta las sujetas políticas que actualmente luchan por la dignidad de nuestros pueblos y la eliminación del racismo, el sexismo, el patriarcado y la colonialidad que no nos permite ejercer la libertad que merecemos.</mark>
+
+
+
+
+  ![](/assets/uploads/logo-luanda-bg.png)
 ---
