@@ -40,4 +40,9 @@ content_block_es: >-
 
 
   <mark>En síntesis: hoy urge legislar para la despenalización del aborto, sin restricción de causales, y asegurando la responsabilidad del estado para su implementación en condiciones de seguridad e igualdad para las mujeres, es decir, en condiciones que rompan las vías de reproducción de la violencia de género que, aún, cada día y en todos los espacios de la vida, quiere seguir sometiendo y expropiando los cuerpos de la mitad de la humanidad. Probablemente, sin embargo, esta legislación no será posible mientras no logremos conquistar el espacio instituyente de una subjetividad soberana de las mujeres, gesto que sólo la pluralidad de voces feministas que hoy comparecen en la escritura de un nuevo pacto social, puede realizar.</mark>
+
+
+
+
+  ![](/assets/uploads/logo-morada-bg.png)
 ---
