@@ -46,5 +46,16 @@ content_block_es: >-
 
 
 
+  #### Referencias
+
+
+  <small><sup>1</sup> Ver mayores antecedentes del conflicto socioambiental en nuestro libro “Feminismo popular y territorios en Resistencia: la luchas de las mujeres en la zona de Sacrificio de Quintero y Puchuncaví” 2019, página 13.</small>
+
+
+  <small><sup>2</sup> Ídem op. cite, página 17.</small>
+
+
+
+
   ![](/assets/uploads/logo-muzosare-bg.png)
 ---
