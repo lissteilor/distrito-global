@@ -125,3 +125,15 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Observatorio Ciudadano
+    logo: /assets/uploads/logo-observatorio.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+    active: false
+  - name: Fundación Mujeres de Mar
+    logo: /assets/uploads/logo-mujeresdemar-bg-1-.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+    active: false
