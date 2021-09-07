@@ -1,7 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/logo-opcion-bg.png
-image_hero: /assets/uploads/hero-juanitas.jpg
+image_thumbnail: /assets/uploads/thumb-niñas-1-.jpg
+image_hero: /assets/uploads/hero-niñas.jpg
 title_es: Mujeres y DESC
 authors: Corporación Opción
 content_block_es: '<div class="video-responsive"><iframe width="100%"
