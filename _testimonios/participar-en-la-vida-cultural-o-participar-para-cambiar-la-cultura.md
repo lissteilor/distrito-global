@@ -1,7 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-cultura.jpg
-image_hero: /assets/uploads/hero-juanitas-3-.jpg
+image_thumbnail: /assets/uploads/thumb-cultura-1-.jpg
+image_hero: /assets/uploads/hero-cultura.jpg
 title_es: Participar en la vida cultural, o participar para cambiar la cultura
 authors: Loreto Bravo Fernández (Corporación La Morada)
 content_block_es: >-
