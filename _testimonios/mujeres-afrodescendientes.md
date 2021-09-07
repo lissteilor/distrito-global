@@ -2,7 +2,7 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-juanitas-afro-3-.jpg
 image_hero: /assets/uploads/hero-juanitas-afro.jpg
-title_es: La visiónde las mujeres afrodescendientes
+title_es: La visión de las mujeres afrodescendientes
 authors: Colectiva de mujeres afrodescendientes Luanda
 content_block_es: >-
   El momento constituyente que estamos viviendo en Chile es histórico, por
