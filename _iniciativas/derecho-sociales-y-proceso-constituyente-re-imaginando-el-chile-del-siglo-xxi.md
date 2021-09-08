@@ -54,17 +54,27 @@ content_block_es: "<p>En 2020 Chile se encontraba en un momento crucial en su
 
 
   <p>* Primer conversatorio: “Derechos sociales en Chile: obstáculos y
-  oportunidades constitucionales” (6 agosto 2020, 18.00 hrs.)</p>
+  oportunidades constitucionales” (6 agosto 2020)</p>
 
   \r
 
-  <p>* </p>
+  <p>* Segundo conversatorio: \"Justicia tributaria y proceso constituyente:
+  Hacia la construcción de un nuevo pacto fiscal\" (12 agosto 2020)</p>\ 
 
-  <p>* </p>
+  <p>* Tercer conversatorio: \"Protección social y proceso
+  constituyente: Desafíos presentes y futuros para la inclusión social en
+  Chile\" (19 julio 2020)</p>
 
-  <p>* </p>
+  <p>* Cuarto conversatorio: \"Servicios públicos, Rol del Estado y
+  Constitución: Perspectivas desde el derecho a la educación y el derecho a la
+  salud\" (26 agosto 2020) </p>
 
-  <p>* </p>"
+  <p>* Quinto conversatorio: \"Derecho al medioambiente, participación
+  ciudadana y proceso constituyente\" (3 septiembre 2020) </p>
+
+  <p>* Sexto conversatorio: \"Derecho a la vivienda adecuada, ciudad y
+  Constitución: Hacia la construcción de una sociedad más justa e integrada\" (9
+  septiembre 2020)</p>"
 alliance_1_org: Ahora Nos Toca Participar (ANTP)
 alliance_1_logo: /assets/uploads/logo-antp.png
 alliance_2_org: Plataforma Contexto
