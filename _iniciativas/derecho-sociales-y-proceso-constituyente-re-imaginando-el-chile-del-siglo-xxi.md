@@ -1,5 +1,5 @@
 ---
-layout: initiative-blog
+layout: initiative-basic
 active: false
 image_thumbnail: /assets/uploads/thumb-seminarios-1-.jpg
 image_hero: /assets/uploads/hero-seminarios-1-.jpg
