@@ -14,4 +14,10 @@ content_block_es: generar espacios de diálogo a nivel global y nacional, con un
   participación inclusiva desde diferentes sectores de nuestra sociedad, sobre
   la necesidad de construir un pacto social con enfoque de derechos, de género y
   ambientalmente sustentable.
+alliance_1_org: Ahora Nos Toca Participar (ANTP)
+alliance_1_logo: /assets/uploads/logo-antp.png
+alliance_2_org: Plataforma Contexto
+alliance_2_logo: /assets/uploads/logo-contexto.png
+alliance_3_org: Fundación Avina
+alliance_3_logo: /assets/uploads/logo-avina.png
 ---
