@@ -19,10 +19,6 @@ content_block_es: >-
   En conclusión, <mark>la nueva Constitución será esencial para mejorar la oportunidad de  vida de las mujeres en Chile, en el ámbito social, cultural y ambiental.</mark>
 
 
-  ###### Paz Ignacia Ortega López 
-
-
-  ###### 14 años
 
 
   ![](/assets/uploads/logo-opcion-bg.png)
