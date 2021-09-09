@@ -56,7 +56,9 @@
                                         {% endif %}
                                     {% endif %}
                                       <a href="{{p.url}}" class="uk-button uk-button-small button-line-white" style="margin-bottom: 10px">{% t home.publications.read %} <i class="uil uil-arrow-right"></i></a>
+                                      {% if {{p.pdf_publication}} != null %}
                                       <a href="{{p.pdf_publication}}" target="_blank" class="uk-button uk-button-small button-line-white" style="margin-bottom: 10px">{% t home.publications.download %} <i class="uil uil-arrow-to-bottom"></i></a>
+                                      {% endif %}
                                   </div>
                               </div>
                           </div>
