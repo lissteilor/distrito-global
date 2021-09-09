@@ -58,5 +58,30 @@ content_block_es: >-
   Estas mujeres nos han entregado mucho, y les hemos devuelto nada o muy poco. Tenemos una gran deuda con ellas.
 
 
+
+
+  #### Referencias
+
+
+  <small><sup>1</sup> Falta de participación en espacios de tomas de decisiones; trabajos informales; brechas en sueldos; desigualdades laborales; falta de oportunidades; falta de reconocimiento; violencia de género; dependencia económica; problemas económicos; entre otros.</small>
+
+
+  <small><sup>2</sup> Instrumento estatal que permite la inscripción formal de armadores, pescadores artesanales, recolectores de orilla y buzos mariscadores para acceder a cuotas y permisos de pesca. Cabe señalar que es uno de los pocos -sino el único- instrumento que permite obtener datos estadísticos sobre quienes trabajan en pesca artesanal.</small>
+
+
+  <small><sup>3</sup> Godoy, M., Bolbarán, D., Rejas, R. M., Correa, V., Pérez, R. & Contzen, C. (2020). MUJERES Y HOMBRES En el Sector Pesquero y Acuicultor de Chile 2020. Edición N° 14 de 2020. Subpesca, Sernapesca y Dirección de Obras Portuarias. Valparaíso, Chile.</small>
+
+
+  <small><sup>4</sup> FAO (2020). The State of World Fisheries and Aquaculture 2020. Sustainability in Action. Rome: Food and Agriculture Organization of the United Nations.</small>
+
+
+  <small><sup>5</sup> Ver https://www.mujeresdemar.cl/oficios-de-mar/.</small>
+
+
+  <small><sup>6</sup> WSI (2020). Let’s Acknowledge Invisible, Ignored and Unrecognized (IIU) Women in the Seafood Industry. Jacksonville, FL: FIS.</small>
+
+
+
+
   ![](/assets/uploads/logo-mujeresdemar-bg.png)
 ---
