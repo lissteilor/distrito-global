@@ -26,21 +26,32 @@ content_block_es: >-
 
   <p>En este ciclo de charlas se discutió sobre las posibilidades de dotar de contenido a un nuevo pacto social en el contexto del COVID-19 tratando una gran diversidad de temas claves para el futuro del país, tales como el derecho a la seguridad social, el derecho a la vivienda, el derecho a la salud, el medio ambiente, el enfoque de género y los pueblos indígenas.</p>
 
+
   <p>Revive las conversaciones aquí:</p>
 
 
-  <p>* [Primer conversatorio: “Derechos sociales en Chile: obstáculos y oportunidades constitucionales”](https://www.distritoglobal.org/publicaciones/derecho-sociales-y-proceso-constituyente-re-imaginando-el-chile-del-siglo-xxi.html) (6 agosto 2020)</p>
+  <small><p>* 1er conversatorio: ["Derechos sociales en Chile: obstáculos y oportunidades constitucionales"](https://www.distritoglobal.org/publicaciones/derecho-sociales-y-proceso-constituyente-re-imaginando-el-chile-del-siglo-xxi.html)</p></small>
 
 
-  <p>* Segundo conversatorio: "Justicia tributaria y proceso constituyente: Hacia la construcción de un nuevo pacto fiscal" (12 agosto 2020)</p> 
+  <small><p>* 2o conversatorio: ["Justicia tributaria y proceso constituyente: Hacia la construcción de un nuevo pacto fiscal"](https://www.distritoglobal.org/publicaciones/derecho-sociales-y-proceso-constituyente-re-imaginando-el-chile-del-siglo-xxi-1.html)</p></small>
 
-  <p>* Tercer conversatorio: "Protección social y proceso constituyente: Desafíos presentes y futuros para la inclusión social en Chile" (19 julio 2020)</p>
 
-  <p>* Cuarto conversatorio: "Servicios públicos, Rol del Estado y Constitución: Perspectivas desde el derecho a la educación y el derecho a la salud" (26 agosto 2020) </p>
+  <small><p>* 3er conversatorio: ["Seguridad social y proceso constituyente: hacia un pacto social inclusivo"](https://www.distritoglobal.org/publicaciones/conversatorio-protecci%C3%B3n-social-y-proceso-constituyente-%E2%80%AFdesaf%C3%ADos-presentes-y-futuros-para-la-inclusi%C3%B3n-social-en-chile.html)</p></small>
 
-  <p>* Quinto conversatorio: "Derecho al medioambiente, participación ciudadana y proceso constituyente" (3 septiembre 2020) </p>
 
-  <p>* Sexto conversatorio: "Derecho a la vivienda adecuada, ciudad y Constitución: Hacia la construcción de una sociedad más justa e integrada" (9 septiembre 2020)</p>
+  <small><p>* 4o conversatorio: ["Derechos sociales, rol del estado y el valor de lo publico"](https://www.distritoglobal.org/publicaciones/conversatorio-servicios-p%C3%BAblicos-rol-del-estado-y-constituci%C3%B3n-perspectivas-desde-el-derecho-a-la-educaci%C3%B3n-y-el-derecho-a-la-salud.html)</p></small>
+
+
+  <small><p>* 5o conversatorio: ["Crisis climática y proceso constituyente: Hacia un pacto social sustentable"](https://www.distritoglobal.org/publicaciones/conversatorio-derecho-al-medioambiente-participaci%C3%B3n-ciudadana-y-proceso-constituyente.html)</p></small>
+
+
+  <small><p>* 6o conversatorio: ["Pueblos originarios, participación política y oportunidades constitucionales"](https://www.distritoglobal.org/publicaciones/6o-conversatorio-pueblos-originarios-participaci%C3%B3n-pol%C3%ADtica-y-oportunidades-constitucionales.html)</p></small>
+
+
+  <small><p>* 7o conversatorio: "Perspectiva de género en la nueva Constitución: obstáculos y desafíos para el proceso constitucional"</p></small>
+
+
+  <small><p>* 8o conversatorio: ["Derecho a la vivienda adecuada: claves y desafíos para el proceso constituyente"](https://www.distritoglobal.org/publicaciones/conversatorio-derecho-a-la-vivienda-adecuada-ciudad-y-constituci%C3%B3n-hacia-la-construcci%C3%B3n-de-una-sociedad-m%C3%A1s-justa-e-integrada.html)</p></small>
 alliance_1_org: Ahora Nos Toca Participar (ANTP)
 alliance_1_logo: /assets/uploads/logo-antp.png
 alliance_2_org: Plataforma Contexto
