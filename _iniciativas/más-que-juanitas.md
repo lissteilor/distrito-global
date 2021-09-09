@@ -31,7 +31,7 @@ content_block_es: >-
   <p>Porque juntas, somos <em>#MásQueJuanitas</em></p>
 
 
-  <small><p>¿Quieres participar de Más que Juanitas? Contáctanos [aquí](https://www.distritoglobal.org/contacto/)</p></small>
+  <small>¿Quieres participar de Más que Juanitas? Contáctanos [aquí](https://www.distritoglobal.org/contacto/)</small>
 title_en: More than Juanitas
 button_en: Read the testimonials
 content_block_en: >-
