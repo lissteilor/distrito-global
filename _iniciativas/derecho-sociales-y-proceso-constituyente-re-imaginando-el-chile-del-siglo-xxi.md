@@ -27,8 +27,6 @@ content_block_es: >-
   <p>En este ciclo de charlas se discutió sobre las posibilidades de dotar de contenido a un nuevo pacto social en el contexto del COVID-19 tratando una gran diversidad de temas claves para el futuro del país, tales como el derecho a la seguridad social, el derecho a la vivienda, el derecho a la salud, el medio ambiente, el enfoque de género y los pueblos indígenas.</p>
 
 
-
-
   #### Revive las conversaciones aquí:
 
 
@@ -50,10 +48,7 @@ content_block_es: >-
   6º conversatorio: ["Pueblos originarios, participación política y oportunidades constitucionales"](https://www.distritoglobal.org/publicaciones/6o-conversatorio-pueblos-originarios-participaci%C3%B3n-pol%C3%ADtica-y-oportunidades-constitucionales.html)
 
 
-  7º conversatorio: "Perspectiva de género en la nueva Constitución: obstáculos y desafíos para el proceso constitucional"
-
-
-  8º conversatorio: ["Derecho a la vivienda adecuada: claves y desafíos para el proceso constituyente"](https://www.distritoglobal.org/publicaciones/conversatorio-derecho-a-la-vivienda-adecuada-ciudad-y-constituci%C3%B3n-hacia-la-construcci%C3%B3n-de-una-sociedad-m%C3%A1s-justa-e-integrada.html)
+  7º conversatorio: ["Derecho a la vivienda adecuada: claves y desafíos para el proceso constituyente"](https://www.distritoglobal.org/publicaciones/conversatorio-derecho-a-la-vivienda-adecuada-ciudad-y-constituci%C3%B3n-hacia-la-construcci%C3%B3n-de-una-sociedad-m%C3%A1s-justa-e-integrada.html)
 alliance_1_org: Ahora Nos Toca Participar (ANTP)
 alliance_1_logo: /assets/uploads/logo-antp.png
 alliance_2_org: Plataforma Contexto
