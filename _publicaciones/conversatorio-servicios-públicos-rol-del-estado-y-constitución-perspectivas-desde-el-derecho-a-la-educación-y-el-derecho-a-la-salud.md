@@ -4,8 +4,8 @@ active: false
 image_slider: /assets/uploads/slider-seminarios.jpg
 image_thumbnail: /assets/uploads/thumb-seminarios.jpg
 image_hero: /assets/uploads/hero-seminarios.jpg
-title_es: 'Conversatorio: "Servicios públicos, Rol del Estado y Constitución:
-  Perspectivas desde el derecho a la educación y el derecho a la salud"'
+title_es: '4o conversatorio: "Derechos sociales, rol del estado y el valor de lo
+  publico"'
 brief_es: "Derecho sociales y proceso constituyente: (re)imaginando el Chile del
   siglo XXI"
 content_block_es: '<div class="video-responsive"><iframe width="100%"
