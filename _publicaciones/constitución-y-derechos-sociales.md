@@ -37,5 +37,5 @@ content_block_es: >-
 category_es: Constitución
 category_en: Constitution
 color: dash-pink bg-pink
-pdf_publication: /assets/uploads/minutas-constitución-y-derechos-sociales2.pdf
+pdf_publication: ""
 ---
