@@ -137,7 +137,9 @@ layout: default
                     <p style="margin-bottom:30px;">{{p.brief_es}}</p>
                   {% endif %}
                   <a class="uk-button uk-button-small button-line-black" href="{{p.url}}">{% t publications.read_index %} <i class="uil uil-arrow-right"></i></a>
+                  {% if {{page.pdf_publication}} != null %}
                   <a class="uk-button uk-button-small button-line-black" target="_blank" href="{{p.pdf_publication}}">{% t publications.download_index %} <i class="uil uil-arrow-to-bottom"></i></a>
+                  {% endif %}
                 {% endif %}
               </div><!-- End card body -->
             </div><!-- End card -->
