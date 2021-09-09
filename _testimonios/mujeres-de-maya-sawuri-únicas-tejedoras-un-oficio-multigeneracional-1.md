@@ -53,5 +53,5 @@ content_block_es: >-
   <small>Gabriela López Quispe</small>
 
 
-  ###### <p>Documentación: Gloria Mancilla Ibacache</p>
+  ###### Documentación: Gloria Mancilla Ibacache
 ---
