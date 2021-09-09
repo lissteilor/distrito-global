@@ -58,4 +58,9 @@ content_block_es: >-
 
 
   <small><sup>2</sup> Tras 10 años de lucha: Un triunfo jurídico de las comunidades que defienden el río Pilmaiken. En: https://www.eldesconcierto.cl/opinion/2020/02/05/tras-10-anos-de-lucha-un-triunfo-juridico-de-las-comunidades-que-defienden-el-rio-pilmaiken.html.</small>
+
+
+
+
+  ![](/assets/uploads/logo-observatorio-bg.png)
 ---
