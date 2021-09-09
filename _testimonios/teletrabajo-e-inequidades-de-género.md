@@ -40,16 +40,6 @@ content_block_es: >-
   El enfoque tradicional de la salud y seguridad en el trabajo abordaba los problemas de higiene, seguridad y medicina ocupacional desde un punto de vista reactivo, es decir, como una respuesta al hecho dañoso. Más que adoptar medidas de prevención frente a un accidente del trabajo o una enfermedad profesional, buscaba la compensación de las mismas a través de indemnizaciones monetarias. Hoy en día esta concepción ha variado, poniendo el énfasis en la prevención de riesgos laborales, relevando las condiciones del trabajo y el medio ambiente en que este se realiza, como factores de incidencia en accidentes y enfermedades profesionales. De allí la importancia del Convenio 155 y su Recomendación 164, ambos instrumentos buscan aplicar una política centrada en la prevención de los riesgos laborales, más que en la reacción ante sus consecuencias<sup>6</sup>. <mark>En atención a lo expuesto, el abordaje del teletrabajo con enfoque de género e identificando los riesgos que acarrea para la mujer, puede contribuir a disminuirlos y prevenir enfermedades profesionales.</mark>
 
 
-
-
-  #### Laura Liliana Matus Ortega
-
-
-  <small>Abogada, magíster en Derecho Laboral y Seguridad Social Universidad de Talca y Universidad de Valencia, alumna regular del Programa de Doctorado Intensivo de la Universidad de Buenos Aires (mención Derecho Laboral).</small>
-
-
-
-
   #### **Referencias**
 
 
@@ -69,4 +59,12 @@ content_block_es: >-
 
 
   <small><sup>6</sup> OIT. C155 - Convenio sobre seguridad y salud de los trabajadores, 1981 (núm. 155), adoptado el 22 de junio de 1981. OIT. R164 - Recomendación sobre seguridad y salud de los trabajadores, 1981 (núm. 164), adoptado el 22 de junio de 1981.</small>
+
+
+
+
+  #### Laura Liliana Matus Ortega
+
+
+  <small>Abogada, magíster en Derecho Laboral y Seguridad Social Universidad de Talca y Universidad de Valencia, alumna regular del Programa de Doctorado Intensivo de la Universidad de Buenos Aires (mención Derecho Laboral).</small>
 ---
