@@ -4,8 +4,8 @@ active: false
 image_slider: /assets/uploads/slider-seminarios.jpg
 image_thumbnail: /assets/uploads/thumb-seminarios.jpg
 image_hero: /assets/uploads/hero-seminarios.jpg
-title_es: 'Conversatorio: "Protección social y proceso constituyente: Desafíos
-  presentes y futuros para la inclusión social en Chile"'
+title_es: '3er conversatorio: "Seguridad social y proceso constituyente: hacia
+  un pacto social inclusivo"'
 brief_es: "Derecho sociales y proceso constituyente: (re)imaginando el Chile del
   siglo XXI"
 content_block_es: '<div class="video-responsive"><iframe width="100%"
