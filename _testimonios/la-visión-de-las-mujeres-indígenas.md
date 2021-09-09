@@ -25,7 +25,7 @@ content_block_es: >-
   <em>En este sentido, es importante resaltar el rol fundamental de las mujeres indígenas en el desarrollo social, político y cultural de sus pueblos y naciones,</em> ya sea desde su rol en la transmisión de sus saberes tradicionales, en la revitalización de sus idiomas, en su aporte a la soberanía alimentaria y el cuidado de las semillas, como en el rol que desempeñan en el contexto actual de pandemia, donde aportan sus conocimientos en salud y en el uso de las plantas medicinales, así como la activación de redes para el trueque e intercambios solidarios de sus productos.
 
 
-  <em>Las mujeres indígenas también cumplen un rol importante en la defensa del medio ambiente y sus territorios; son activas defensoras del territorio.</em> Por ejemplo, Ercilia Araya, lideresa Colla, que ha sido criminalizada y hostigada por defender los derechos de su comunidad frente al daño ambiental de diversas mineras canadienses en la región de Atacama, o Machi Millaray, líder espiritual mapuche que viene luchando por la protección del Río Pilmaiken, estrechamente relacionado al Complejo Natural Ceremonial Ngen Mapu Kintuante, ubicado en el sector rural de Maihue –Caramallín– región de Los Lagos y región de Los Ríos, que se encuentra amenazado por la construcción de dos proyectos hidroeléctricos (proyecto hidroeléctrico Osorno y Los Lagos), los cuales fueron autorizados sin un proceso de consulta y sin obtener el consentimiento de las comunidades afectadas.
+  <em>Las mujeres indígenas también cumplen un rol importante en la defensa del medio ambiente y sus territorios; son activas defensoras del territorio.</em> Por ejemplo, Ercilia Araya, lideresa Colla, que ha sido criminalizada y hostigada por defender los derechos de su comunidad frente al daño ambiental de diversas mineras canadienses en la región de Atacama<sup>1</sup>, o Machi Millaray, líder espiritual mapuche que viene luchando por la protección del Río Pilmaiken, estrechamente relacionado al Complejo Natural Ceremonial Ngen Mapu Kintuante, ubicado en el sector rural de Maihue –Caramallín– región de Los Lagos y región de Los Ríos, que se encuentra amenazado por la construcción de dos proyectos hidroeléctricos (proyecto hidroeléctrico Osorno y Los Lagos), los cuales fueron autorizados sin un proceso de consulta y sin obtener el consentimiento de las comunidades afectadas<sup>2</sup>.
 
 
   Asimismo, frente a las amenazas del cambio climático, como las grandes sequías o invernadas extremas en los territorios, <em>las mujeres indígenas realizan aportes importantes a la lucha contra el cambio climático, a través de sus conocimientos tradicionales, respecto al manejo y conservación de los bienes comunes o recursos naturales,</em> para adaptar sus cultivos a situaciones adversas a fin de asegurar la soberanía alimentaria, o aportar a la protección de la biodiversidad del planeta en su rol de guardianas de las semillas. 
@@ -47,4 +47,15 @@ content_block_es: >-
 
 
   <mark>Es por ello que la nueva Constitución para Chile, que ya se empieza a escribir, con la participación directa de estas mujeres y recogiendo sus propuestas, saberes, historias de vida y aspiraciones de sus pueblos, sin duda será un hito fundamental para avanzar en superar las brechas que enfrentan y para garantizar los derechos de sus pueblos y de las mujeres indígenas de acuerdo con los estándares del derecho internacional de los pueblos indígenas y los estándares del derecho internacional sobre la mujer. Así como a aportar en general a la construcción de un nuevo país, porque avanzar hacia el buen vivir para todos los pueblos no puede concebirse sin el bienestar de todas las mujeres.</mark>
+
+
+
+
+  #### Referencias
+
+
+  <small><sup>1</sup> Ercilia Araya: la lideresa Pai- Ote Criminalizada por luchar contra las mineras canadienses en Chile. En: https://observatorio.cl/ercilia-araya-la-lideresa-pai-ote-criminalizada-por-luchar-contra-las-mineras-canadienses-en-chile/.</small>
+
+
+  <small><sup>2</sup> Tras 10 años de lucha: Un triunfo jurídico de las comunidades que defienden el río Pilmaiken. En: https://www.eldesconcierto.cl/opinion/2020/02/05/tras-10-anos-de-lucha-un-triunfo-juridico-de-las-comunidades-que-defienden-el-rio-pilmaiken.html.</small>
 ---
