@@ -4,7 +4,7 @@ active: false
 image_slider: /assets/uploads/slider-seminarios.jpg
 image_thumbnail: /assets/uploads/thumb-seminarios.jpg
 image_hero: /assets/uploads/hero-seminarios.jpg
-title_es: '8o conversatorio: "Derecho a la vivienda adecuada: claves y desafíos
+title_es: '7o conversatorio: "Derecho a la vivienda adecuada: claves y desafíos
   para el proceso constituyente"'
 brief_es: "Derecho sociales y proceso constituyente: (re)imaginando el Chile del
   siglo XXI"
