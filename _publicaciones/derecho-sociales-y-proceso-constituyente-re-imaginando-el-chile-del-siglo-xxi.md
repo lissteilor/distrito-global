@@ -4,7 +4,7 @@ active: false
 image_slider: /assets/uploads/slider-seminarios.jpg
 image_thumbnail: /assets/uploads/thumb-seminarios.jpg
 image_hero: /assets/uploads/hero-seminarios.jpg
-title_es: 'Conversatorio: "Derechos sociales en Chile: obstáculos y
+title_es: '1er conversatorio: "Derechos sociales en Chile: obstáculos y
   oportunidades constitucionales"'
 brief_es: "Derecho sociales y proceso constituyente: (re)imaginando el Chile del
   siglo XXI"
