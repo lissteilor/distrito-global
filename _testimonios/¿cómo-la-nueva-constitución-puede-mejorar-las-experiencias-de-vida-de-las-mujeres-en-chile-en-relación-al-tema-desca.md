@@ -33,13 +33,6 @@ content_block_es: >-
 
 
 
-  ###### Karina Flores Silva
-
-
-  ###### Adulta a cargo usuario, Programa Coporación Opción
-
-
-
 
   ![](/assets/uploads/logo-opcion-bg.png)
 ---
