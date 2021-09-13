@@ -23,4 +23,5 @@ content_block_es: >-
 category_es: Género
 category_en: Gender
 color: dash-purple bg-purple
+pdf_publication: https://youtu.be/8aWF7KvG4rs
 ---
