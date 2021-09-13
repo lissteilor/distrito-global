@@ -2,8 +2,8 @@
 layout: publication
 active: true
 image_slider: /assets/uploads/slider-webinar-juanitas-1-.jpg
-image_thumbnail: /assets/uploads/thumb-juanitas.jpg
-image_hero: /assets/uploads/hero-juanitas-1-.jpg
+image_thumbnail: /assets/uploads/thumb-juanitas-color-.jpg
+image_hero: /assets/uploads/hero-juanitas-color.jpg
 title_es: Mujeres y DESCA. Miradas desde la interseccionalidad
 brief_es: Webinar Más que Juanitas
 content_block_es: >-
