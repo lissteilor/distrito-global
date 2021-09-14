@@ -3,7 +3,7 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-niñas-1-.jpg
 image_hero: /assets/uploads/hero-niñas.jpg
 title_es: La visión de niñas y adolescentes
-authors: Paz Ignacia Ortega López, 14 años (Corporación Opción)
+authors: Paz, 14 años (Corporación Opción)
 content_block_es: >-
   Uno de los factores influyentes para mejorar la vida de las mujeres en una
   nueva Constitución, es <em>lograr la igualdad entre los géneros, generando de
