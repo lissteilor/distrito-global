@@ -21,5 +21,5 @@ content_block_es: >-
   <mark>Pienso que la nueva Constitución puede ayudar en todo eso.</mark>
 
 
-  ![](/assets/uploads/logo-opcion-bg.png)
+  ![](/assets/uploads/logonor-opcion-bg.png)
 ---
