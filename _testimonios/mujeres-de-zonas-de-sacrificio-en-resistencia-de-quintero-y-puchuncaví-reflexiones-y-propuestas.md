@@ -44,8 +44,6 @@ content_block_es: >-
   Para finalizar este texto, reflexionamos que la nueva constitución no es un fin sino una apertura hacia el proceso refundacional que implica repensarnos como sociedad en relación con la naturaleza. <mark>Por ello, proponemos que la constitución reconozca nuestro derecho a defender derechos,</mark> pues toda persona que defiende la vida, la tierra y los ecosistemas, debe ser protegida y no ser sujeta de violencia y criminalización por parte de los agentes del Estado y grupos civiles armados como ocurre actualmente en Chile. Este derecho a defender derechos para nosotras es un eje fundamental de nuestra lucha, nos moviliza a tejer acuerpamientos y resistencias.
 
 
-
-
   #### Referencias
 
 
@@ -55,7 +53,5 @@ content_block_es: >-
   <small><sup>2</sup> Ídem op. cite, página 17.</small>
 
 
-
-
-  ![](/assets/uploads/logo-muzosare-bg.png)
+  ![](/assets/uploads/logonor-muzosare-bg.png)
 ---
