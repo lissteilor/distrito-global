@@ -55,13 +55,7 @@ content_block_es: >-
   Una regulación como esta supone un reconocimiento simbólico y una validación social de los miles de testimonios y experiencias de mujeres que han sido violentadas en sus partos en nuestro país, sin embargo no es suficiente. <em>Necesitamos que además de la regulación legal, exista en Chile un reconocimiento de rango Constitucional que posibilite la promoción y resguardo efectivo de los derechos de las mujeres y personas gestantes a la luz de lo que existe a nivel internacional.</em>
 
 
-
-
-
-
   ## Nuestra experiencia como OVO Chile y la necesidad de regular y consagrar a nivel Constitucional los derechos sexuales y reproductivos
-
-
 
 
   [OVO Chile](http://ovochile.cl/) es una fundación creada en el año 2017, que busca educar en temas relacionados al nacimiento en nuestro país y América Latina. Dentro de los objetivos centrales de la institución, está el entregar información actualizada sobre el nacimiento con el fin de prevenir casos de violencia obstétrica, brindar acompañamiento psicológico y jurídico a mujeres que hayan sufrido este tipo de violencia.
@@ -79,7 +73,5 @@ content_block_es: >-
   <mark>Como Fundación, proponemos garantizar la autonomía en materia de derechos sexuales y reproductivos, el poder de decisión y sobre todo erradicar toda forma de violencia contra las mujeres. Casos de trato deshumanizado en momentos de alta vulnerabilidad por dolor o falta de información, exceso de medicalización no justificada, patologización de procesos naturales del ciclo sexual y de la gestación, son formas de infantilización de la mujer y sobre todo son tipos de vulneración a los derechos de las mujeres y personas gestantes, pues niegan la autonomía sobre el propio cuerpo y sus deseos reproductivos.<m/mark> Lamentablemente, no se trata de casos aislados, por lo que un cambio real requiere del esfuerzo de todos, pero sobre todo requiere de acciones concretas por parte del Estado, siendo su reconocimiento a nivel Constitucional, un paso absolutamente necesario.
 
 
-
-
-  ![](/assets/uploads/logo-ovo-bg.png)
+  ![](/assets/uploads/logonor-ovo-bg.png)
 ---
