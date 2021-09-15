@@ -57,8 +57,6 @@ content_block_es: >-
   Los desafíos que se presentan en este proceso constituyente son numerosos, existe una deuda por parte del país de garantizar de manera oportuna y efectiva los derechos económicos, sociales y culturales de la población y en especial del Pueblo Tribal Afrodescendiente Chileno por vivir aún en la invisibilización promovida por el propio Estado y la comunidad en su conjunto. Esta exclusión ha perpetuado la desigualdad que afecta la vida de las mujeres afrodescendientes, <mark>y la Nueva Constitución se transforma en la oportunidad de reparar y reformular cada uno de los elementos por los cuales se ha construido nuestro pacto social, para avanzar en una sociedad que respete, valore y promocione cada diferencia y contribuciones que han realizado las mujeres del pueblo tribal afrodescendiente desde la llegada de la primera ancestra esclavizada, hasta las sujetas políticas que actualmente luchan por la dignidad de nuestros pueblos y la eliminación del racismo, el sexismo, el patriarcado y la colonialidad que no nos permite ejercer la libertad que merecemos.</mark>
 
 
-
-
   #### Referencias
 
 
@@ -71,5 +69,5 @@ content_block_es: >-
   <small><sup>3</sup> Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (2018). Preguntas frecuentes sobre los Derechos Económicos, Sociales y Culturales. Folleto informativo N° 33. Disponible en: <https://acnudh.org/36328/>.</small>
 
 
-  ![](/assets/uploads/logo-luanda-bg.png)
+  ![](/assets/uploads/logonor-luanda-bg.png)
 ---
