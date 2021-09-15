@@ -45,6 +45,11 @@ content_block_es: >-
   <em>Se requiere potenciar sistemas agroalimentarios sostenibles, es decir, competitivos, inclusivos y resilientes, y la agricultura familiar puede contribuir a potenciarlos,</em> además de ser capaz de reforzar el desarrollo equilibrado de los territorios rurales, reconociendo y potenciando el papel protagónico de las mujeres en estas cadenas –como productoras y comercializadoras– y el rol que juegan en la preservación de especies, de la cultura y las identidades locales, mostrando en muchas ocasiones un alto grado de adaptación y mitigación del cambio climático.
 
 
+
+
+  #### Decálogo constituyente
+
+
   ![](/assets/uploads/decalogo-constitucion-general1.jpg)
 
 
