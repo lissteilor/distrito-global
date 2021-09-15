@@ -31,8 +31,5 @@ content_block_es: >-
   <mark>Más protección e igualdad para nuestras mujeres.</mark>
 
 
-
-
-
-  ![](/assets/uploads/logo-opcion-bg.png)
+  ![](/assets/uploads/logonor-opcion-bg.png)
 ---
