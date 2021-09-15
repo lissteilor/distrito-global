@@ -16,8 +16,6 @@ content_block_es: >-
   Los derechos sexuales y reproductivos buscan asegurar una vida libre para decidir sobre la vida sexual y reproductiva, sin ninguna forma de coacción o violencia y con plena autonomía. Hoy sabemos que muchos de estos derechos como el derecho a una educación sexual laica y no sexista, una vida libre de violencias en todas sus formas, el acceso a métodos de anticoncepción oportuno y asequibles, la posibilidad de que el Estado ofrezca las condiciones materiales y de protección para una interrupción del embarazo en condiciones de dignidad y respeto, el resguardo a todo el ciclo reproductivo de las mujeres y las disidencias, entre otros derechos, se encuentra severamente amenazado por la falta de consagración de principios de autonomía, dignidad, respeto y libertad en la toma de decisiones en la constitución política chilena.
 
 
-
-
   ![](/assets/uploads/socias-ong.jpg)
 
 
@@ -42,9 +40,7 @@ content_block_es: >-
   A partir de nuestro trabajo con mujeres y disidencias en contextos amplios del ámbito del trabajo, la salud u otros contextos como el espacio público o los ambientes escolares, hemos observado con preocupación y dolor como la violencia se hace presente de las más variadas formas y manifestaciones y cómo la actual ley de violencia con las modificaciones recibidas el año 2017 sigue siendo insuficiente. Una declaración más explícita de formas de violencia sutiles como la violencia simbólica (como la desarrollada por medios de comunicación sexista) o la violencia estructural institucional, se vuelven escenarios urgentes para considerar el principio de no discriminación en todo contexto y lugar. Fue a partir de las movilizaciones feministas del año 2018 que el reclamo por la educación en la diversidad y no sexista en las universidades se hizo evidente para un sistema que históricamente vio con sus propios ojos el acoso en relaciones de evidente asimetría de poder. Fue a partir del trabajo de varios años de la coordinadora por los derechos del nacimiento en que junto a varias organizaciones de la sociedad civil la ONG Matria Fecunda viene desarrollando acciones de visibilización, sensibilización, advocacy, incidencia política y otras acciones para sancionar la violencia gineco-obstétrica y promover el parto respetado, facilitando sacando adelante una legislación que constituye un grito en la memoria histórica de las mujeres, sus partos y nacimientos. Adicionalmente hoy también tenemos participación en el movimiento postnatal 12 meses, que busca asegurar condiciones de vida dignas velando por la diada materno infantil y el derecho a la conciliación, el cuidado compartido y el interés superior del niño, la niña y la madre en escenarios de protección y seguridad emocional, permitiendo asegurar lactancia materna prolongada y el bienestar de madres e hijos como una garantía universal. 
 
 
-  La nueva constitución debe asegurar la libertad, autonomía y respeto a las vidas y los cuerpos de las mujeres, las niñas y las disidencias porque se trata del cuidado a la sostenibilidad de la vida, la dignidad y el reconocimiento histórico a un conjunto de derechos negados.
-
-
+  <mark>La nueva constitución debe asegurar la libertad, autonomía y respeto a las vidas y los cuerpos de las mujeres, las niñas y las disidencias porque se trata del cuidado a la sostenibilidad de la vida, la dignidad y el reconocimiento histórico a un conjunto de derechos negados.</mark>
 
 
   ![](/assets/uploads/logonor-matriafecunda.png)
