@@ -57,5 +57,5 @@ content_block_es: >-
   En las últimas décadas la conciencia de la diferencia discriminada, de la subalteridad, del daño ecológico, ha sido muy productiva para el pensamiento y la acción política divergente. La mujeres, las disidencias sexuales, los/as indígenas, los/as pobres, los vulnerados, afearon la promesa neoliberal del progreso y develaron la inhumanidad de sus políticas. El palimcesto de los grafittis, el derribamiento de estatuas y monumentos, la degradación material como estética del cambio, el trastocamiento de palabras, significados y fonéticas, las hablas inconclusas e inconducentes de las redes sociales, lo inacabado como estado del ser (expresado en la palabra "líquido") entre muchos ejemplos, pueden ser –hipotéticamente– una respuesta altanera a la dificultad que experimentan amplias mayorías de personas para "participar de la vida cultural" tal como fue supuesta por quienes invocaron este derecho. <mark>El ejercicio pleno de los derechos culturales podría estar al servicio de una nueva forma de integración cultural, que sin solayar sus contradicciones, nos permita avanzar por fin a una vida social, justa, buena, libre y gratificante para todos y todas.</mark>
 
 
-  ![](/assets/uploads/logo-morada-bg.png)
+  ![](/assets/uploads/logonor-morada-bg.png)
 ---
