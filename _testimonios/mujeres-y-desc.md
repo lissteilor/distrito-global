@@ -12,7 +12,5 @@ content_block_es: >-
   allowfullscreen style="position:absolute; top:0; left: 0"></iframe></div>
 
 
-
-
-  ![](/assets/uploads/logo-opcion-bg.png)
+  ![](/assets/uploads/logonor-opcion-bg.png)
 ---
