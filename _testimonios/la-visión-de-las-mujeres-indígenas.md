@@ -2,7 +2,8 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-indígenas.jpg
 image_hero: /assets/uploads/hero-indígenas.jpg
-title_es: La visión de las mujeres indígenas
+title_es: El rol de las mujeres indígenas en el desarrollo social, político y
+  cultural de sus pueblos y en la construcción de un nuevo Chile
 authors: Karina Vargas Hernández (Observatorio Ciudadano)
 content_block_es: >-
   El proceso constituyente en desarrollo es una oportunidad para repensar el
@@ -62,5 +63,13 @@ content_block_es: >-
 
 
 
-  ![](/assets/uploads/logo-observatorio-bg.png)
+  ###### Conoce más en:
+
+
+  [Situación de las mujeres indígenas rurales en Chile: la lucha por los territorios ancestrales](https://observatorio.cl/situacion-de-las-mujeres-indigenas-rurales-en-chile-la-lucha-por-los-territorios-ancestrales/)
+
+
+
+
+  ![](/assets/uploads/logonor-observatorio.png)
 ---
