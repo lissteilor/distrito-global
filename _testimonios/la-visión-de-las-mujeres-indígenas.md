@@ -59,10 +59,10 @@ content_block_es: >-
   <small><sup>2</sup> Tras 10 años de lucha: Un triunfo jurídico de las comunidades que defienden el río Pilmaiken. En: https://www.eldesconcierto.cl/opinion/2020/02/05/tras-10-anos-de-lucha-un-triunfo-juridico-de-las-comunidades-que-defienden-el-rio-pilmaiken.html.</small>
 
 
-  #### Conoce más en:
+  #### Conoce más
 
 
-  [Situación de las mujeres indígenas rurales en Chile: la lucha por los territorios ancestrales](https://observatorio.cl/situacion-de-las-mujeres-indigenas-rurales-en-chile-la-lucha-por-los-territorios-ancestrales/)
+  [Informe "Situación de las mujeres indígenas rurales en Chile: la lucha por los territorios ancestrales"](https://observatorio.cl/situacion-de-las-mujeres-indigenas-rurales-en-chile-la-lucha-por-los-territorios-ancestrales/)
 
 
   ![](/assets/uploads/logonor-observatorio.png)
