@@ -1,5 +1,5 @@
 ---
-layout: initiative-basic
+layout: initiative-book
 active: true
 image_thumbnail: /assets/uploads/thumb-ensayos-1-.jpg
 image_hero: /assets/uploads/hero-ensayos-1-.jpg
