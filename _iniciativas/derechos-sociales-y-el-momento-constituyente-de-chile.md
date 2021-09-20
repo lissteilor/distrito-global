@@ -29,8 +29,6 @@ content_block_es: >-
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 
 
-
-
   #### Tomo I: Chile, desigualdad y derechos sociales
 
 
@@ -38,8 +36,6 @@ content_block_es: >-
 
 
   <p>En una segunda parte, este tomo <em>conceptualiza a los derechos sociales dentro de un espectro más amplio de los derechos humanos</em>, enfatizando la indivisibilidad e interdependencia que existe entre todos ellos (y por consiguiente desmitificando su comprensión como derechos de segunda generación) y la necesidad de adoptar medidas afirmativas en algunos casos para lograr la igualdad sustantiva. Además, esta sección resalta algunas particularidades de los derechos sociales como la posibilidad de implementación progresiva de aquellas partes de los derechos que no corresponden al contenido mínimo (de ejecución inmediata), la prohibición de regresividad en los sucesivas reformas que se orienten a garantizar derechos sociales y el rol fundamental que juega la política fiscal en la protección de estos derechos en el contexto constitucional.</p>
-
-
 
 
   #### Tomo II: Mecanismos de garantía de los derechos sociales
@@ -51,8 +47,6 @@ content_block_es: >-
   La segunda sección se centra específicamente en el rol de los tribunales –tanto regionales como nacionales– en la garantía de los derechos sociales: la denominada “justiciabilidad”. Aquí se presentan diversas posturas sobre el rol que los jueces pueden y deben tener en el respeto, protección y garantía de los derechos sociales, y los impactos que las diversas formas de incorporación del derecho internacional en la Constitución pueden tener sobre la función judicial.
 
 
-
-
   #### Tomo III: Los derechos económicos, sociales, culturales y ambientales
 
 
@@ -62,8 +56,6 @@ content_block_es: >-
   Adentrándose en derechos como la seguridad social, el trabajo, el estándar más alto de salud posible, la vivienda desde una perspectiva de un estándar de vida adecuado y la ciudad en el contexto de los DESCA, el tomo indaga en la utilización de nuevos instrumentos o enfoques para abordar el derecho a la educación, el derecho humano al agua y el saneamiento y el derecho a un medio ambiente sano, explorando incluso los aspectos de derechos humanos para hacer frente al cambio climático.
 
 
-
-
   #### Tomo IV: Grupos de especial protección
 
 
@@ -71,8 +63,6 @@ content_block_es: >-
 
 
   Comenzando con la exploración de las formas que las constituciones de diferentes países utilizan para fomentar la igualdad de derechos en sus países, este tomo presenta reflexiones en torno al rol de la Constitución en la garantía de los derechos sociales de pueblos indígenas, mujeres; niños, niñas y adolescentes; personas con discapacidad y personas adultas mayores.
-
-
 
 
   #### Tomo V: Procesos constituyentes y lecciones aprendidas
