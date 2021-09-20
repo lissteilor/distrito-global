@@ -51,9 +51,9 @@ content_block_es: >-
   La segunda sección se centra específicamente en el rol de los tribunales –tanto regionales como nacionales– en la garantía de los derechos sociales: la denominada “justiciabilidad”. Aquí se presentan diversas posturas sobre el rol que los jueces pueden y deben tener en el respeto, protección y garantía de los derechos sociales, y los impactos que las diversas formas de incorporación del derecho internacional en la Constitución pueden tener sobre la función judicial.
 
 
-  #### \
 
-  Tomo III: Los derechos económicos, sociales, culturales y ambientales
+
+  #### Tomo III: Los derechos económicos, sociales, culturales y ambientales
 
 
   Este tomo profundiza en la <em>importancia y las implicancias de incorporar los derechos económicos, sociales, culturales y ambientales dentro de la Constitución, para avanzar en la proposición de ciertos elementos esenciales que el proceso constituyente chileno debe tener en mente a lo largo de su desarrollo</em>, siempre con cautela del carácter sistémico de las constituciones y la interdependencia de los derechos humanos.
