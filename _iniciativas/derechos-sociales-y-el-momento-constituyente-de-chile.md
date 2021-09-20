@@ -94,12 +94,10 @@ content_block_en: >-
   This is why Chile is experiencing a period of hope and potential transformation today that puts it at the centre of the world’s attention. It is a historic opportunity to take socio-economic and environmental rights seriously within a participative political process that leaves no one behind.
 
 
-
   At Distrito Global, we are looking to put forward new points of view and ideas that contribute to enriching the debate in the Constitutional Convention from an economic and social rights lens.
 
 
-
-  To this end, we have invited more than 50 national and international experts (men and women), including Argentina, Brazil, Colombia, Scotland, the United States, England, Ireland and South Africa. They have written more than 30 essays that seek to provide an international and comparative perspective for the constitutional recognition and implementation of socio-economic and environmental rights.
+  To this end, we have invited more than 50 national and international experts (men and women), including Argentina, Colombia, Scotland, the United States, England, Ireland and South Africa. They have written more than 30 essays that seek to provide an international and comparative perspective for the constitutional recognition and implementation of socio-economic and environmental rights.
 alliance_1_org: Centro de Derechos Humanos de la Universidad de Essex
 alliance_1_logo: /assets/uploads/logo-essex.png
 alliance_2_org: Universidad de Concepción
