@@ -42,7 +42,7 @@ content_block_es: >-
 
 
 
-  #### Tomo II: **Mecanismos de garantía de los derechos sociales**
+  #### Tomo II: Mecanismos de garantía de los derechos sociales
 
 
   Este tomo <em>explora las distintas herramientas que los sistemas regionales de derechos humanos utilizan para garantizar los derechos sociales.</em> Iniciando con un mapa ilustrativo de las formas en que los DESCA pueden transformar los modos en que las constituciones estructuran la política de un país, la primera sección recorre el camino que el sistema interamericano y el sistema europeo han transitado en los últimos años para proteger estos derechos.
@@ -53,7 +53,7 @@ content_block_es: >-
 
   #### \
 
-  Tomo III: **Los derechos económicos, sociales, culturales y ambientales**
+  Tomo III: Los derechos económicos, sociales, culturales y ambientales
 
 
   Este tomo profundiza en la <em>importancia y las implicancias de incorporar los derechos económicos, sociales, culturales y ambientales dentro de la Constitución, para avanzar en la proposición de ciertos elementos esenciales que el proceso constituyente chileno debe tener en mente a lo largo de su desarrollo</em>, siempre con cautela del carácter sistémico de las constituciones y la interdependencia de los derechos humanos.
@@ -64,7 +64,7 @@ content_block_es: >-
 
 
 
-  #### Tomo IV: **Grupos de especial protección**
+  #### Tomo IV: Grupos de especial protección
 
 
   Este tomo presta atención y profundiza en la <em>situación de diversos grupos que requieren especial protección de cara a la garantía real y sustantiva de los derechos sociales</em>, poniendo a disposición de quienes leen, una serie de elementos, argumentos y herramientas para incluir estos grupos dentro de la discusión sobre derechos sociales.
@@ -75,7 +75,7 @@ content_block_es: >-
 
 
 
-  #### Tomo V: **Procesos constituyentes y lecciones aprendidas**
+  #### Tomo V: Procesos constituyentes y lecciones aprendidas
 
 
   Por último, este tomo presenta los casos de los procesos constituyentes de Sudáfrica y Colombia, donde los derechos sociales jugaron un rol preponderante en la discusión constituyente. De ambos casos se extraen lecciones en primera persona que demuestran la importancia de deliberar sobre los derechos en sede constitucional y los aprendizajes obtenidos en ambos procesos, que pueden iluminar y facilitar la experiencia del proceso constituyente que Chile atraviesa.
