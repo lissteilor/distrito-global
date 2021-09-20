@@ -23,10 +23,10 @@ content_block_es: >-
   <p>Es por eso que hoy Chile vive un momento de esperanza y de potencial transformación que le pone en el foco de atención mundial, pues es una oportunidad histórica de tomarse los derechos socioeconómicos y medioambientales en serio en un proceso político participativo que no deje a nadie atrás.</p>
 
 
-  <p>Desde Distrito Global buscamos aportar nuevos puntos de vista e ideas que contribuyan a enriquecer el debate en la Convención Constitucional con argumentos y propuestas a favor de la protección de los derechos económicos, sociales, culturales y ambientales.</p>
+  <p>Por eso, desde la Iniciativa Global por los Derechos Económicos, Sociales y Culturales, buscamos aportar nuevos puntos de vista e ideas que contribuyan a <em>enriquecer el debate en la Convención Constitucional</em> con argumentos y propuestas que fortalezcan la protección de los derechos económicos, sociales, culturales y ambientales.</p>
 
 
-  <p>Para ello, hemos invitado a más de 50 expertos y expertas, chilenos y de Chile y un variado número de países, incluyendo Argentina, Brasil, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
+  <p>Para ello, hemos invitado a más de 50 expertos y expertas, chilenos y de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 title_en: Social rights and Chile’s constitutional moment
 button_en: Read the chapters
 content_block_en: >-
