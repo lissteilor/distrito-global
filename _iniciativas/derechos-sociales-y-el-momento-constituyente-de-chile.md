@@ -29,15 +29,6 @@ content_block_es: >-
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 
 
-  #### Tomo II: Mecanismos de garantía de los derechos sociales
-
-
-  Este tomo <em>explora las distintas herramientas que los sistemas regionales de derechos humanos utilizan para garantizar los derechos sociales.</em> Iniciando con un mapa ilustrativo de las formas en que los DESCA pueden transformar los modos en que las constituciones estructuran la política de un país, la primera sección recorre el camino que el sistema interamericano y el sistema europeo han transitado en los últimos años para proteger estos derechos.
-
-
-  La segunda sección se centra específicamente en el rol de los tribunales –tanto regionales como nacionales– en la garantía de los derechos sociales: la denominada “justiciabilidad”. Aquí se presentan diversas posturas sobre el rol que los jueces pueden y deben tener en el respeto, protección y garantía de los derechos sociales, y los impactos que las diversas formas de incorporación del derecho internacional en la Constitución pueden tener sobre la función judicial.
-
-
   #### Tomo III: Los derechos económicos, sociales, culturales y ambientales
 
 
