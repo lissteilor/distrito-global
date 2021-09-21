@@ -1,6 +1,6 @@
 ---
 layout: chapter
-image_hero: /assets/uploads/hero-libro-tomo2.jpg
+image_hero: /assets/uploads/hero-libro-tomo2-1-.jpg
 number: 2
 title_es: Mecanismos de garantía de los derechos sociales
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
