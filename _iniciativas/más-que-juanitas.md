@@ -34,7 +34,7 @@ content_block_es: >-
   #### Revive las conversaciones:
 
 
-  * [Mujeres y derechos económicos, sociales, culturales y ambientales: Miradas desde la interseccionalidad](https://distrito-global.netlify.app/publicaciones/mujeres-y-desca-miradas-desde-la-interseccionalidad.html)
+  * [Mujeres y derechos económicos, sociales, culturales y ambientales: Miradas desde la interseccionalidad](https://distritoglobal.org/publicaciones/mujeres-y-desca-miradas-desde-la-interseccionalidad.html)
 
 
   <small>¿Quieres participar de Más que Juanitas? Contáctanos [aquí](https://www.distritoglobal.org/contacto/)</small>

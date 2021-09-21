@@ -27,7 +27,7 @@ layout: default
       <h1 class="font-black" style="margin: 0 0 10px;">{{page.title_es}}</h1>
       <p class="font-lead">{{page.brief_es}}</p>
       {% if {{page.pdf_chapter}} != null %}
-      <div class="uk-flex"
+      <div class="uk-flex">
         <div class="uk-with-1-1">
           <a href="{{page.pdf_chapter}}" target="_blank"class="uk-button button-bg-black">{% t initiatives.chapters.download %} <i class="uil uil-arrow-to-bottom"></i></a>
         </div>
@@ -59,7 +59,7 @@ layout: default
       </div>
       <div class="uk-text-justify">
         {% if {{page.pdf_chapter}} != null %}
-        <div class="uk-flex"
+        <div class="uk-flex">
           <div class="uk-with-1-1">
             <a href="{{page.pdf_chapter}}" target="_blank" class="uk-button button-bg-black">{% t initiatives.chapters.download %} <i class="uil uil-arrow-to-bottom"></i></a>
           </div>
@@ -87,16 +87,16 @@ layout: default
       </div>
     </div>
     <div class="uk-flex uk-flex-center" uk-grid>
-      <div class="uk-width-5-6@m">
-        <div class="uk-flex uk-flex-center" uk-grid>
+      <div class="uk-width-2-3@m">
+        <div class="uk-flex" uk-grid>
           {% for c in site.capitulos %}
-          <div class="uk-width-1-2@m">
-              <div class="bg-black-soft  uk-card uk-card-default uk-grid-collapse uk-margin uk-flex uk-flex-center uk-flex-middle" uk-grid>
-                  <div class="uk-width-1-4 uk-text-center">
+          <div class="uk-width-1-1@m">
+              <div class="bg-green-chapter  uk-card uk-card-default uk-grid-collapse uk-margin uk-flex uk-flex-center uk-flex-middle" uk-grid>
+                  <div class="uk-width-1-5 uk-text-center">
                       <p class="font-label-white">{% t initiatives.chapters.chapter %}</p>
                       <p class="font-white font-number-xl">{{c.number}}</p>
                   </div>
-                  <div class="uk-width-3-4">
+                  <div class="uk-width-4-5">
                       <div class="uk-card-body bg-white">
                             <p class="font-label-grey" style="margin: 0 0 -20px;">{{c.authors}}</p>
                             <div class="dash dash-black">

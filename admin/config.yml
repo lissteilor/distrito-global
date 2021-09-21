@@ -45,7 +45,7 @@ collections:
     label: 'Capítulos Libro'
     folder: '_capitulos/'
     create: true
-    slug: '{{title_es}}'
+    slug: '{{number}}-{{title_es}}'
     editor:
       preview: false
     fields:
