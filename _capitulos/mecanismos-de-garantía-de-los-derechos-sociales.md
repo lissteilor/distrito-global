@@ -42,5 +42,5 @@ content_block_es: >-
      *Beatríz Larraín Martínez*
   6. Modelos de incorporación de los derechos económicos, sociales, culturales y ambientales: Aprendizajes para el proceso constituyente chileno
      *Katie Boyle, Vicente Silva y Valentina Contreras Orrego*
-pdf_chapter: /assets/uploads/tomo-ii-mecanismos-de-garantía.pdf
+pdf_chapter: /assets/uploads/tomo_2_mecanismos_de_garantía.pdf
 ---
