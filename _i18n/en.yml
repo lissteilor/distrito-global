@@ -68,16 +68,16 @@ initiatives:
   juanitas: More than Juanitas
   momento: Social rights and Chile’s constitutional moment
   chapters:
-      title_section: Chapters
+      title_section: Volumes
       description_section:
-      download_all: Download the full book
-      chapter: Chapter
+      download_all: Download the full volume
+      chapter: Volume
       read: Read
       download: Download
-      more_chapters: All chapters
-  contributions: Testimonials
-  contribution_author: Words by
-  more_contributions: More testimonials
+      more_chapters: All volumes
+  contributions: Reflections
+  contribution_author: Reflection by
+  more_contributions: More reflections
   contributions_pdf: Read the document
 publications:
   breadcrumb: Publications
