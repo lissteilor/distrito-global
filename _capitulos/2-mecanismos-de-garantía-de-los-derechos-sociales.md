@@ -1,6 +1,6 @@
 ---
 layout: chapter
-image_hero: /assets/uploads/hero-libro-tomo2-1-.jpg
+image_hero: /assets/uploads/hero-libro-tomo2.jpg
 number: 2
 title_es: Mecanismos de garantía de los derechos sociales
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
@@ -30,8 +30,6 @@ content_block_es: >-
      *Isaac de Paz González*
   3. Derechos sociales en Europa
      *Colm O’Cinneide*
-
-
 
   #### Sección B: Justiciabilidad de los derechos sociales
 
