@@ -21,22 +21,40 @@ content_block_es: >-
 
 
   1. [Diez puntos sobre el cambio constitucional en Chile](https://www.distritoglobal.org/assets/uploads/gargarella_diez_puntos_sobre_el_cambio_constitucional.pdf)
-     *Roberto Gargarella*
+
+  *Roberto Gargarella*
+
+
   2. [Los cómplices de ayer, los beneficios de hoy – El nudo de la desigualdad impuesta por la dictadura](https://www.distritoglobal.org/assets/uploads/bohoslavsky_los_complices_de_ayer_los_beneficios_de_hoy.pdf)
-     *Juan Pablo Bohoslavsky, Karinna Fernández y Sebastián Smart*
+
+  *Juan Pablo Bohoslavsky, Karinna Fernández y Sebastián Smart*
+
+
   3. [¿Tiene límites la Convención Constitucional?](https://www.distritoglobal.org/assets/uploads/astroza_tiene_limites_la_convencion_constitucional.pdf)
-     *Dra. Paulina Astroza Suárez y Dr. Carlos Maturana Toledo*
+
+  *Dra. Paulina Astroza Suárez y Dr. Carlos Maturana Toledo*
+
 
   #### Sección B: Los derechos sociales son derechos humanos
 
 
   4. [La interdependencia de los derechos humanos](https://www.distritoglobal.org/assets/uploads/porter_la_interdependencia_de_los_derechos_humanos.pdf)
-     *Bruce Porter*
+
+  *Bruce Porter*
+
+
   5. [Constitución, Igualdad y Acciones Afirmativas](https://www.distritoglobal.org/assets/uploads/saba_constitucion_igualdad_y_acciones_afirmativas.pdf)
-     *Roberto P. Saba*
+
+  *Roberto P. Saba*
+
+
   6. [La prohibición de regresividad en materia de derechos sociales: apuntes introductorios](https://www.distritoglobal.org/assets/uploads/courtis_la_prohibicion_de_regresividad_en_materia_de_derechos_sociales.pdf)
-     *Christian Courtis*
+
+  *Christian Courtis*
+
+
   7. [Política económica y derechos humanos](https://www.distritoglobal.org/assets/uploads/moya_politica_economica_y_derechos_humanos.pdf)
-     *Francisca Moya y Constanza Salgado*
+
+  *Francisca Moya y Constanza Salgado*
 pdf_chapter: /assets/uploads/tomo_1_chile_desigualdad_y_derechos_sociales.pdf
 ---
