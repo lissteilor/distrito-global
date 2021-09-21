@@ -29,15 +29,6 @@ content_block_es: >-
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 
 
-  #### Tomo IV: Grupos de especial protección
-
-
-  Este tomo presta atención y profundiza en la <em>situación de diversos grupos que requieren especial protección de cara a la garantía real y sustantiva de los derechos sociales</em>, poniendo a disposición de quienes leen, una serie de elementos, argumentos y herramientas para incluir estos grupos dentro de la discusión sobre derechos sociales.
-
-
-  Comenzando con la exploración de las formas que las constituciones de diferentes países utilizan para fomentar la igualdad de derechos en sus países, este tomo presenta reflexiones en torno al rol de la Constitución en la garantía de los derechos sociales de pueblos indígenas, mujeres; niños, niñas y adolescentes; personas con discapacidad y personas adultas mayores.
-
-
   #### Tomo V: Procesos constituyentes y lecciones aprendidas
 
 
