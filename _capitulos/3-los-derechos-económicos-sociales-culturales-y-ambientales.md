@@ -1,6 +1,6 @@
 ---
 layout: chapter
-image_hero: /assets/uploads/hero-ensayos-1-.jpg
+image_hero: /assets/uploads/hero-libro-tomo3.jpg
 number: 3
 title_es: Los derechos económicos, sociales, culturales y ambientales
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
