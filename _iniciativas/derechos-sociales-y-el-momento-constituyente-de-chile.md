@@ -9,7 +9,7 @@ summary_es: "Convocamos a más de 50 expertos y expertas a nivel global a
   derechos económicos, sociales, culturales y ambientales en la nueva
   Constitución de Chile. "
 brief_es: Perspectivas globales y locales para el debate constitucional
-button_es: Revisa los capítulos
+button_es: Revisa los tomos
 content_block_es: >-
   <p>A nivel global, existe un vínculo entre los niveles de desigualdad y los de
   protección de derechos socioeconómicos y medioambientales: en general, a menor
