@@ -1,6 +1,6 @@
 ---
 layout: chapter
-image_hero: /assets/uploads/hero-ensayos-1-.jpg
+image_hero: /assets/uploads/hero-libro-tomo4.jpg
 number: 4
 title_es: Grupos de especial protección
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
