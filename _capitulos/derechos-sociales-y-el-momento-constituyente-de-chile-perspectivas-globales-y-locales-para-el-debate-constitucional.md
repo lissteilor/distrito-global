@@ -60,5 +60,5 @@ content_block_es: >-
   7. Política económica y derechos humanos
 
   *Francisca Moya y Constanza Salgado*
-pdf_chapter: /assets/uploads/tomo-i-chile-desigualdad-y-derechos-sociales.pdf
+pdf_chapter: /assets/uploads/tomo_1_chile_desigualdad_y_derechos_sociales.pdf
 ---
