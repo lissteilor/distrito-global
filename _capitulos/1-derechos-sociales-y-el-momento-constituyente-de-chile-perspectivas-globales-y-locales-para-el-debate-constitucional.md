@@ -1,6 +1,6 @@
 ---
 layout: chapter
-image_hero: /assets/uploads/hero-libro-tomo1-1-.jpg
+image_hero: /assets/uploads/hero-libro-tomo1.jpg
 number: 1
 title_es: Chile, desigualdad y derechos sociales
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
