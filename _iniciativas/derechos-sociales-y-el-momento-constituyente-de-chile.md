@@ -29,15 +29,6 @@ content_block_es: >-
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 
 
-  #### Tomo I: Chile, desigualdad y derechos sociales
-
-
-  <p>Este tomo <em>contextualiza política e históricamente el proceso constituyente en Chile</em>, enmarcando el estado de los derechos sociales tanto dentro de América Latina como del Chile post-dictadura, para luego identificar los eventuales límites del trabajo de la Convención Constituyente.</p>
-
-
-  <p>En una segunda parte, este tomo <em>conceptualiza a los derechos sociales dentro de un espectro más amplio de los derechos humanos</em>, enfatizando la indivisibilidad e interdependencia que existe entre todos ellos (y por consiguiente desmitificando su comprensión como derechos de segunda generación) y la necesidad de adoptar medidas afirmativas en algunos casos para lograr la igualdad sustantiva. Además, esta sección resalta algunas particularidades de los derechos sociales como la posibilidad de implementación progresiva de aquellas partes de los derechos que no corresponden al contenido mínimo (de ejecución inmediata), la prohibición de regresividad en los sucesivas reformas que se orienten a garantizar derechos sociales y el rol fundamental que juega la política fiscal en la protección de estos derechos en el contexto constitucional.</p>
-
-
   #### Tomo II: Mecanismos de garantía de los derechos sociales
 
 
