@@ -1,6 +1,6 @@
 ---
 layout: chapter
-image_hero: /assets/uploads/hero-ensayos-1-.jpg
+image_hero: /assets/uploads/hero-libro-tomo5.jpg
 number: 5
 title_es: Procesos constituyentes y lecciones aprendidas
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
