@@ -27,14 +27,8 @@ content_block_es: >-
 
 
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
-
-
-  #### Tomo V: Procesos constituyentes y lecciones aprendidas
-
-
-  Por último, este tomo presenta los casos de los procesos constituyentes de Sudáfrica y Colombia, donde los derechos sociales jugaron un rol preponderante en la discusión constituyente. De ambos casos se extraen lecciones en primera persona que demuestran la importancia de deliberar sobre los derechos en sede constitucional y los aprendizajes obtenidos en ambos procesos, que pueden iluminar y facilitar la experiencia del proceso constituyente que Chile atraviesa.
 title_en: Social rights and Chile’s constitutional moment
-button_en: Read the chapters
+button_en: Read the volumes
 content_block_en: >-
   At a global level, there is a link between levels of inequality and the degree
   to which socio-economic and environmental rights are protected. In general,
