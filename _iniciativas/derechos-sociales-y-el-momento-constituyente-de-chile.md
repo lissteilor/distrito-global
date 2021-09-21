@@ -29,15 +29,6 @@ content_block_es: >-
   <p>Para ello, hemos invitado a más de 50 expertos y expertas, de Chile y un variado número de países, incluyendo Argentina, Colombia, Escocia, Estados Unidos, Inglaterra, Irlanda y Sudáfrica, quienes han escrito más de una treintena de ensayos que pretenden aportar una mirada internacional y comparada a modelos de reconocimiento constitucional de los derechos socioeconómicos y medioambientales, junto con un análisis plural sobre la posible articulación de los derechos socioeconómicos y medioambientales en el marco jurídico chileno.</p>
 
 
-  #### Tomo III: Los derechos económicos, sociales, culturales y ambientales
-
-
-  Este tomo profundiza en la <em>importancia y las implicancias de incorporar los derechos económicos, sociales, culturales y ambientales dentro de la Constitución, para avanzar en la proposición de ciertos elementos esenciales que el proceso constituyente chileno debe tener en mente a lo largo de su desarrollo</em>, siempre con cautela del carácter sistémico de las constituciones y la interdependencia de los derechos humanos.
-
-
-  Adentrándose en derechos como la seguridad social, el trabajo, el estándar más alto de salud posible, la vivienda desde una perspectiva de un estándar de vida adecuado y la ciudad en el contexto de los DESCA, el tomo indaga en la utilización de nuevos instrumentos o enfoques para abordar el derecho a la educación, el derecho humano al agua y el saneamiento y el derecho a un medio ambiente sano, explorando incluso los aspectos de derechos humanos para hacer frente al cambio climático.
-
-
   #### Tomo IV: Grupos de especial protección
 
 
