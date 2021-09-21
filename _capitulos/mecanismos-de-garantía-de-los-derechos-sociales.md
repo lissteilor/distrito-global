@@ -25,19 +25,11 @@ content_block_es: >-
 
 
   1. Los derechos económicos, sociales y culturales en Chile ¿Asignatura pendiente?
-
-  *Daniel M. Brinks*
-
-
+     *Daniel M. Brinks*
   2. Las nuevas dimensiones de los DESCA en el sistema Interamericano: Vectores imprescindibles para el proceso constituyente de Chile 2021
-
-  *Isaac de Paz González*
-
-
+     *Isaac de Paz González*
   3. Derechos sociales en Europa
-
-  *Colm O’Cinneide*
-
+     *Colm O’Cinneide*
 
 
 
@@ -45,17 +37,10 @@ content_block_es: >-
 
 
   4. El camino de la Corte Interamericana de Derechos Humanos hacia la justiciabilidad directa de los DESCA y su impacto en los ordenamientos jurídicos nacionales
-
-  *Julieta Rossi*
-
-
+     *Julieta Rossi*
   5. El rol de los jueces en relación con los derechos económicos y sociales
-
-  *Beatríz Larraín Martínez*
-
-
+     *Beatríz Larraín Martínez*
   6. Modelos de incorporación de los derechos económicos, sociales, culturales y ambientales: Aprendizajes para el proceso constituyente chileno
-
-  *Katie Boyle, Vicente Silva y Valentina Contreras Orrego*
+     *Katie Boyle, Vicente Silva y Valentina Contreras Orrego*
 pdf_chapter: /assets/uploads/tomo-ii-mecanismos-de-garantía.pdf
 ---
