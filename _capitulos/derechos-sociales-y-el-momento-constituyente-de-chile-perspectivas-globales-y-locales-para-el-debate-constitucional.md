@@ -2,7 +2,7 @@
 layout: chapter
 image_hero: /assets/uploads/hero-ensayos-1-.jpg
 number: 1
-title_es: Chile, desigualdad y derechos sociales
+title_es: Chile, Desigualdad y Derechos Sociales
 authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
 brief_es: "Derechos sociales y el momento constituyente de Chile: Perspectivas
   globales y locales para el debate constitucional"
