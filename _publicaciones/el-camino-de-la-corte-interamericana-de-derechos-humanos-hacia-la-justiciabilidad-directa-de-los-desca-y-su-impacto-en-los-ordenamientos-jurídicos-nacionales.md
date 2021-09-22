@@ -17,6 +17,8 @@ content_block_es: >-
   han transitado en los últimos años para proteger estos derechos.
 
 
+
+
   La segunda sección se centra específicamente en el rol de los tribunales –tanto regionales como nacionales– en la garantía de los derechos sociales: la denominada “justiciabilidad”. Aquí se presentan diversas posturas sobre el rol que los jueces pueden y deben tener en el respeto, protección y garantía de los derechos sociales, y los impactos que las diversas formas de incorporación del derecho internacional en la Constitución pueden tener sobre la función judicial.
 category_es: Constitución
 category_en: Constitution
