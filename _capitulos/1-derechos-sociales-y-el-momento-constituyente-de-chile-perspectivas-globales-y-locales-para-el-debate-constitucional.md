@@ -67,7 +67,7 @@ content_block_es: >-
   <br>
 
 
-  ###### <small>Cita sugerida:</small>
+  ###### Cita sugerida
 
 
   <small>Global Initiative for Economic, Social and Cultural Rights, Centro de Derechos Humanos de la Universidad de Essex y Universidad de Concepción (2021) Derechos sociales y el momento constituyente de Chile: Perspectivas globales y locales para el debate constitucional. Tomo I: Chile, desigualdad y derechos sociales. Santiago, Chile: Global Initiative for Economic, Social and Cultural Rights. DOI: 10.53110/BVOF9600.</small>
