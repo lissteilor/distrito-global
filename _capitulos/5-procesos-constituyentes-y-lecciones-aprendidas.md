@@ -7,34 +7,42 @@ authors: GI-ESCR, HRC University of Essex y Universidad de Concepción
 brief_es: "Derechos sociales y el momento constituyente de Chile: Perspectivas
   globales y locales para el debate constitucional"
 content_block_es: >-
-  Por último, este tomo presenta los casos de los procesos constituyentes de
-  Sudáfrica y Colombia, donde los derechos sociales jugaron un rol preponderante
-  en la discusión constituyente. De ambos casos se extraen lecciones en primera
-  persona que demuestran la importancia de deliberar sobre los derechos en sede
-  constitucional y los aprendizajes obtenidos en ambos procesos, que pueden
-  iluminar y facilitar la experiencia del proceso constituyente que Chile
-  atraviesa.
+  <br>
 
 
+  Por último, este tomo presenta los casos de los procesos constituyentes de Sudáfrica y Colombia, donde los derechos sociales jugaron un rol preponderante en la discusión constituyente. De ambos casos se extraen lecciones en primera persona que demuestran la importancia de deliberar sobre los derechos en sede constitucional y los aprendizajes obtenidos en ambos procesos, que pueden iluminar y facilitar la experiencia del proceso constituyente que Chile atraviesa.
+
+
+  <br>
+
+
+  ### Capítulos
 
 
   #### Sección A: Sudáfrica
 
 
-  1. Derechos socioeconómicos en la Constitución Sudafricana: Metas, logros, decepciones y lecciones
+  1 Derechos socioeconómicos en la Constitución Sudafricana: Metas, logros, decepciones y lecciones.
 
 
-  *Sandra Liebenberg*
-
-
+  Sandra Liebenberg
 
 
   #### Sección B: Colombia
 
 
-  2. Publicidad y Estado Social de Derecho: El acceso a la información pública como derecho fundamental e instrumental para los derechos económicos y sociales en la Constitución Política de Colombia
+  2 Publicidad y Estado Social de Derecho: El acceso a la información pública como derecho fundamental e instrumental para los derechos económicos y sociales en la Constitución Política de Colombia.
 
 
-  *Vivian Newman*
+  Vivian Newman
+
+
+  <br>
+
+
+  ###### Cita sugerida
+
+
+  <small>Global Initiative for Economic, Social and Cultural Rights, Centro de Derechos Humanos de la Universidad de Essex y Universidad de Concepción (2021) Derechos sociales y el momento constituyene de Chile: Perspectivas globales y locales para el debate constitucional. Tomo V: Procesos constituyentes y lecciones aprendidas. Santiago, Chile: Global Initiative for Economic, Social and Cultural Rights. DOI: 10.53110/ZLQV6402.</small>
 pdf_chapter: /assets/uploads/tomo-ii-mecanismos-de-garantía.pdf
 ---
