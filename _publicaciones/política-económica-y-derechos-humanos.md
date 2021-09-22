@@ -2,7 +2,7 @@
 layout: publication
 active: false
 image_slider: /assets/uploads/slider-libro-tomo1.jpg
-image_thumbnail: /assets/uploads/thumb-libro-tomo1.jpg
+image_thumbnail: /assets/uploads/thumb-libro-1-.jpg
 image_hero: /assets/uploads/hero-libro-tomo1.jpg
 title_es: Política económica y derechos humanos
 brief_es: Francisca Moya y Constanza Salgado
