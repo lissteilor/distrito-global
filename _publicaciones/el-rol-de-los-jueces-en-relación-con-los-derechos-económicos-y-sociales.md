@@ -1,8 +1,8 @@
 ---
 layout: publication
 active: false
-image_slider: /assets/uploads/slider-libro.jpg
-image_thumbnail: /assets/uploads/thumb-libro-tomo2.jpg
+image_slider: /assets/uploads/slider-libro-tomo2.jpg
+image_thumbnail: /assets/uploads/thumb-libro-1-.jpg
 image_hero: /assets/uploads/hero-libro-tomo2.jpg
 title_es: El rol de los jueces en relación con los derechos económicos y sociales
 brief_es: Beatriz Larraín Martínez
