@@ -10,7 +10,7 @@ content_block_es: >-
   <br>
 
 
-  Por último, este tomo presenta los casos de los procesos constituyentes de Sudáfrica y Colombia, donde los derechos sociales jugaron un rol preponderante en la discusión constituyente. De ambos casos se extraen lecciones en primera persona que demuestran la importancia de deliberar sobre los derechos en sede constitucional y los aprendizajes obtenidos en ambos procesos, que pueden iluminar y facilitar la experiencia del proceso constituyente que Chile atraviesa.
+  Este tomo presenta los casos de los procesos constituyentes de Sudáfrica y Colombia, donde los derechos sociales jugaron un rol preponderante en la discusión constituyente. De ambos casos se extraen lecciones en primera persona que demuestran la importancia de deliberar sobre los derechos en sede constitucional y los aprendizajes obtenidos en ambos procesos, que pueden iluminar y facilitar la experiencia del proceso constituyente que Chile atraviesa.
 
 
   <br>
