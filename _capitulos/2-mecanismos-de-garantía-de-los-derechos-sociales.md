@@ -19,6 +19,9 @@ content_block_es: >-
   La segunda sección se centra específicamente en el rol de los tribunales –tanto regionales como nacionales– en la garantía de los derechos sociales: la denominada “justiciabilidad”. Aquí se presentan diversas posturas sobre el rol que los jueces pueden y deben tener en el respeto, protección y garantía de los derechos sociales, y los impactos que las diversas formas de incorporación del derecho internacional en la Constitución pueden tener sobre la función judicial.
 
 
+  <br>
+
+
   ## Capítulos
 
 
@@ -58,7 +61,10 @@ content_block_es: >-
   Katie Boyle, Vicente Silva y Valentina Contreras Orrego
 
 
-  ###### <small>Cita sugerida:</small>
+  <br>
+
+
+  ###### Cita sugerida
 
 
   <small>Global Initiative for Economic, Social and Cultural Rights, Centro de Derechos Humanos de la Universidad de Essex y Universidad de Concepción (2021) Derechos sociales y el momento constituyente de Chile: Perspectivas globales y locales para el debate constitucional. Tomo II: Mecanismos de garantía de los derechos sociales. Santiago, Chile: Global Initiative for Economic, Social and Cultural Rights. DOI: 10.53110/AVTV1058.</small>
