@@ -12,5 +12,8 @@ content_block_es: >-
   allowfullscreen style="position:absolute; top:0; left: 0"></iframe></div>
 
 
+  <br>
+
+
   ![](/assets/uploads/logonor-valientes-bg.png)
 ---
