@@ -116,5 +116,5 @@ content_block_es: >-
 
 
   <small>Global Initiative for Economic, Social and Cultural Rights, Centro de Derechos Humanos de la Universidad de Essex y Universidad de Concepción (2021) Derechos sociales y el momento constituyente de Chile: Perspectivas globales y locales para el debate constitucional. Tomo III: Los derechos económicos, sociales, culturales y ambientales. Santiago, Chile: Global Initiative for Economic, Social and Cultural Rights. DOI: 10.53110/MWKB2533.</small>
-pdf_chapter: /assets/uploads/tomo-ii-mecanismos-de-garantía.pdf
+pdf_chapter: /assets/uploads/tomo-3-desca.pdf
 ---
