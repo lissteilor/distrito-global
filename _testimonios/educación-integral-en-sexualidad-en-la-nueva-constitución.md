@@ -62,7 +62,7 @@ content_block_es: >-
   De allí que la consagración de los derechos sexuales y reproductivos sea una necesidad, que se ve un más tensionada cuando hablamos de educación integral en sexualidad. Las múltiples dimensiones que involucra este derecho, junto con un contexto de sociedad adultocentrista, genera que en la práctica los niños, niñas y adolescentes no son reconocidos como sujetos titulares de este derecho y el acceso sea limitado. 
 
 
-  Es por ello que <mark>ante la oportunidad de consagrar el derecho a la educación sexual en la nueva constitución, logremos identificar al menos tres cuestiones clave:</mark>
+  <mark>Es por ello que ante la oportunidad de consagrar el derecho a la educación sexual en la nueva constitución, logremos identificar al menos tres cuestiones clave:</mark>
 
 
   1. <mark>La titularidad de niños, niñas y adolescentes, como aquella población principalmente afectada por las barreras de acceso y la obligatoriedad en todo el ciclo educativo, en el entendido de que somos seres complejos y sexuados.</mark>
