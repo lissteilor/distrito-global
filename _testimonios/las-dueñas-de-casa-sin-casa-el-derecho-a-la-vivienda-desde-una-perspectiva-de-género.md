@@ -44,6 +44,9 @@ content_block_es: >-
   Nuestra experiencia nos muestra a diario como aún hay personas que quedan excluidas del acceso a la vivienda –ya sea por medio de la adjudicación de programas estatales o a través de métodos bancarios– y, <mark>en ese sentido, es primordial no sólo que el derecho sea garantizado por igual para todos y todas, sino que junto a él exista un sistema social robusto que resguarde y vele porque nadie más quede marginado o marginada.</mark> Sin duda la inclusión del Derecho a la Vivienda en la Constitución es una oportunidad para mejorar la vida de las personas, pero para lograrlo se requiere de la participación de todos y todas en su proceso y de las mujeres en particular, en tanto las involucre –a todas, independiente de sus diferencias sociales– como actoras claves en la definición del derecho, tomando, por supuesto los criterios y estándares internacionales, pero esencialmente sus propias definiciones de lo que, en adelante, entenderemos por digno y adecuado.
 
 
+  <br>
+
+
   #### Referencias
 
 
@@ -54,6 +57,9 @@ content_block_es: >-
 
 
   <small><sup>3</sup> Ciertamente el trabajo de cuidados no se limita a un solo espacio (el hogar), sino que abarca la combinación de al menos tres esferas (el Mercado, el sector público y los hogares) que son atravesadas constantemente tanto por las personas cuidadas como las cuidadoras.</small>
+
+
+  <br>
 
 
   ![](/assets/uploads/logonor-ces-bg.png)
