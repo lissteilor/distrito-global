@@ -49,7 +49,7 @@ content_block_es: >-
   5 [Tomando el derecho a una vivienda adecuada en serio en la próxima constitución chilena: Un derecho en construcción desde cero](https://www.distritoglobal.org/assets/uploads/casla_tomando_el_derecho_a_una_vivienda_adecuada_en_serio_en_la_proxima_constitucion_chilena.pdf). Dr. Koldo Casla y Verónica Valenzuela
 
 
-  6 La ciudad y los DESCA. Ana Sugranyes Bickel y Maricarmen Tapia Gómez
+  6 [La ciudad y los DESCA](https://www.distritoglobal.org/assets/uploads/sugranyes_la_ciudad_y_los_desca.pdf). Ana Sugranyes Bickel y Maricarmen Tapia Gómez
 
 
   #### Sección E: Educación
@@ -64,7 +64,7 @@ content_block_es: >-
   #### Sección F: Agua y saneamiento
 
 
-  9 El derecho humano al agua y saneamiento: La priorización del uso ecosistémico como un presupuesto necesario. Verónica Delgado Schneider y Juan Francisco Zapata Hassi
+  9 [El derecho humano al agua y saneamiento: La priorización del uso ecosistémico como un presupuesto necesario](https://www.distritoglobal.org/assets/uploads/delgado_el_derecho_humano_al_agua_y_al_saneamiento.pdf). Verónica Delgado Schneider y Juan Francisco Zapata Hassi
 
 
   #### Sección G: Medio ambiente sano
@@ -73,7 +73,7 @@ content_block_es: >-
   10 [Nueva Constitución y Medio Ambiente](https://www.distritoglobal.org/assets/uploads/delgado_nueva_constitucion_y_medio_ambiente.pdf). Verónica Delgado y Dominique Hervé
 
 
-  11 Derechos humanos para la incorporación del cambio climático en la Nueva constitución. Pedro Cisterna y Ezio Costa
+  11 [Derechos humanos para la incorporación del cambio climático en la Nueva constitución](https://www.distritoglobal.org/assets/uploads/cisterna_derechos_humanos_para_la_incorporacion_del_cambio_climatico_en_la_nueva_constitucion.pdf). Pedro Cisterna y Ezio Costa
 
 
   <br>
