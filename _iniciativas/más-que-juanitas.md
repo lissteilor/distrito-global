@@ -31,10 +31,19 @@ content_block_es: >-
   <p>Porque juntas, somos <em>#MásQueJuanitas</em></p>
 
 
+  <br>
+
+
   #### Revive las conversaciones:
 
 
   * [Mujeres y derechos económicos, sociales, culturales y ambientales: Miradas desde la interseccionalidad](https://distritoglobal.org/publicaciones/mujeres-y-desca-miradas-desde-la-interseccionalidad.html)
+
+
+  <br>
+
+
+  <br>
 
 
   <small>¿Quieres participar de Más que Juanitas? Contáctanos [aquí](https://www.distritoglobal.org/contacto/)</small>
