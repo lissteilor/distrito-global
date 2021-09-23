@@ -2,8 +2,8 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-ambiente.jpg
 image_hero: /assets/uploads/hero-ambiente.jpg
-title_es: Reflexiones a partir de la experiencias de cinco mujeres en la defensa
-  de sus territorios
+title_es: Reflexiones a partir de las experiencias de cinco mujeres en la
+  defensa de sus territorios
 authors: Macarena Martinic (ONG FIMA)
 content_block_es: >-
   En el marco de la invitación realizada por del proyecto “Más que Juanitas” de
@@ -37,7 +37,10 @@ content_block_es: >-
   <em>Verónica</em>. Dirigenta vecinal histórica de zona de Cerro Chuño en Arica. Comenzó su lucha exigiendo una vivienda digna. Con el tiempo ello se transformó en una lucha por justicia y por la erradicación de los residuos tóxicos alrededor de los cuales el Estado construyó casas de vivienda social en las que habitó junto a 879 familias afectadas. Es madre de cuatro hijos y producto de la contaminación por polimetales hoy posee miastenia gravis; una enfermedad degenerativa. 
 
 
-  <em>Leticia</em>. Es integrante de las Comunidades Kawésqar por la Defensa del Mar, agrupación que reúne, a su vez, a tres agrupaciones de familiares Kawésqar quienes reivindican sus saberes ancestrales y defienden su territorio histórico en Magallanes. Su principal amenaza es el avance de la salmonicultura. Es madre de un hijo. <br>
+  <em>Leticia</em>. Es integrante de las Comunidades Kawésqar por la Defensa del Mar, agrupación que reúne, a su vez, a tres agrupaciones de familiares Kawésqar quienes reivindican sus saberes ancestrales y defienden su territorio histórico en Magallanes. Su principal amenaza es el avance de la salmonicultura. Es madre de un hijo. 
+
+
+  <br>
 
 
   #### El cuidado como motivo para la defensa del territorio
