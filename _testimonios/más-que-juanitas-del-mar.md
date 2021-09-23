@@ -58,6 +58,9 @@ content_block_es: >-
   Estas mujeres nos han entregado mucho, y les hemos devuelto nada o muy poco. Tenemos una gran deuda con ellas.
 
 
+  <br>
+
+
   #### Referencias
 
 
@@ -77,6 +80,9 @@ content_block_es: >-
 
 
   <small><sup>6</sup> WSI (2020). Let’s Acknowledge Invisible, Ignored and Unrecognized (IIU) Women in the Seafood Industry. Jacksonville, FL: FIS.</small>
+
+
+  <br>
 
 
   ![](/assets/uploads/logonor-mujeresdemar-bg.png)
