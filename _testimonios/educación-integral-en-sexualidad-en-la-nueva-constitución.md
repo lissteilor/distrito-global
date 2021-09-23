@@ -62,14 +62,14 @@ content_block_es: >-
   De allí que la consagración de los derechos sexuales y reproductivos sea una necesidad, que se ve un más tensionada cuando hablamos de educación integral en sexualidad. Las múltiples dimensiones que involucra este derecho, junto con un contexto de sociedad adultocentrista, genera que en la práctica los niños, niñas y adolescentes no son reconocidos como sujetos titulares de este derecho y el acceso sea limitado. 
 
 
-  Es por ello que <mark>ante la oportunidad de consagrar el derecho a la educación sexual en la nueva constitución, logremos identificar al menos tres cuestiones clave:
+  Es por ello que <mark>ante la oportunidad de consagrar el derecho a la educación sexual en la nueva constitución, logremos identificar al menos tres cuestiones clave:</mark>
 
 
-  1. La titularidad de niños, niñas y adolescentes, como aquella población principalmente afectada por las barreras de acceso y la obligatoriedad en todo el ciclo educativo, en el entendido de que somos seres complejos y sexuados.
+  1. <mark>La titularidad de niños, niñas y adolescentes, como aquella población principalmente afectada por las barreras de acceso y la obligatoriedad en todo el ciclo educativo, en el entendido de que somos seres complejos y sexuados.</mark>
 
-  2. La integralidad de la misma, acompañada de laicidad y no sexismo. Aquí sale a relucir la necesidad de incorporar educación integral, libre de sesgos, con contenidos pertinentes y objetivos de acuerdo al grado de madurez del niño, niña y adolescente. 
+  2. <mark>La integralidad de la misma, acompañada de laicidad y no sexismo. Aquí sale a relucir la necesidad de incorporar educación integral, libre de sesgos, con contenidos pertinentes y objetivos de acuerdo al grado de madurez del niño, niña y adolescente.</mark>
 
-  3. La necesidad de incorporar la educación integral en sexualidad en la formación docente.</mark>
+  3. <mark>La necesidad de incorporar la educación integral en sexualidad en la formación docente.</mark>
 
 
   Hablar del reconocimiento de los derechos sexuales y reproductivos implica una <em>amplitud de aspectos y cuestiones tales como la facultad de decidir libre y responsablemente si tener o no relaciones sexuales, de tenerlas en forma segura, si se quiere tener hijos o no, el número de estos o de protegerse de embarazos no deseados y de infecciones de transmisión sexual, entre otros.</em> Sin embargo, la facultad de decidir y ejercer la autonomía sobre nuestros cuerpos, se presenta como un hilo conductor entre la mayoría de los aspectos que involucran los derechos sexuales y reproductivos. La educación integral en sexualidad se presenta como una herramienta para que el ejercicio de la autonomía sea real, libre y responsable, de manera tal de contribuir al desarrollo integral de todas las personas.
