@@ -25,88 +25,55 @@ content_block_es: >-
   #### Sección A: Seguridad social
 
 
-  1 [La consagración del derecho a la seguridad social en la constitución: implicancias y oportunidades](https://www.distritoglobal.org/assets/uploads/barrantes_la_consagracio%CC%81n_del_derecho_a_la_seguridad_social_en_la_constitucion.pdf).
-
-
-  Alexandra Barrantes
+  1 [La consagración del derecho a la seguridad social en la constitución: implicancias y oportunidades](https://www.distritoglobal.org/assets/uploads/barrantes_la_consagracio%CC%81n_del_derecho_a_la_seguridad_social_en_la_constitucion.pdf). Alexandra Barrantes
 
 
   #### Sección B: Trabajo
 
 
-  2 [Trabajo y Constitución: Análisis, crítica y propuestas al modelo constitucional laboral chileno](https://www.distritoglobal.org/assets/uploads/domi%CC%81nguez_trabajo_y_constitucion.pdf).
-
-
-  Álvaro Domínguez Montoya
+  2 [Trabajo y Constitución: Análisis, crítica y propuestas al modelo constitucional laboral chileno](https://www.distritoglobal.org/assets/uploads/domi%CC%81nguez_trabajo_y_constitucion.pdf). Álvaro Domínguez Montoya
 
 
   #### Sección C: Salud
 
 
-  3 [Constitucionalizando el derecho a la salud para todos](https://www.distritoglobal.org/assets/uploads/bueno_de_mesquita_constitucionalizando_el_derecho_a_la_salud_para_todos.pdf).
+  3 [Constitucionalizando el derecho a la salud para todos](https://www.distritoglobal.org/assets/uploads/bueno_de_mesquita_constitucionalizando_el_derecho_a_la_salud_para_todos.pdf). Judith Bueno de Mesquita y Octávio Luiz Motta Ferraz
 
 
-  Judith Bueno de Mesquita y Octávio Luiz Motta Ferraz
-
-
-  4 [Una propuesta de adjudicación de recursos sanitarios para la Nueva Constitución chilena](https://www.distritoglobal.org/assets/uploads/zuniga_una_propuesta_de_adjudicacio%CC%81n_de_recursos_sanitarios_para_la_nueva_constitucion_chilena.pdf).
-
-
-  Alejandra Zúñiga Fajuri
+  4 [Una propuesta de adjudicación de recursos sanitarios para la Nueva Constitución chilena](https://www.distritoglobal.org/assets/uploads/zuniga_una_propuesta_de_adjudicacio%CC%81n_de_recursos_sanitarios_para_la_nueva_constitucion_chilena.pdf). Alejandra Zúñiga Fajuri
 
 
   #### Sección D: Vivienda como estándar de vida adecuado
 
 
-  5 [Tomando el derecho a una vivienda adecuada en serio en la próxima constitución chilena: Un derecho en construcción desde cero](https://www.distritoglobal.org/assets/uploads/casla_tomando_el_derecho_a_una_vivienda_adecuada_en_serio_en_la_proxima_constitucion_chilena.pdf).
+  5 [Tomando el derecho a una vivienda adecuada en serio en la próxima constitución chilena: Un derecho en construcción desde cero](https://www.distritoglobal.org/assets/uploads/casla_tomando_el_derecho_a_una_vivienda_adecuada_en_serio_en_la_proxima_constitucion_chilena.pdf). Dr. Koldo Casla y Verónica Valenzuela
 
 
-  Dr. Koldo Casla y Verónica Valenzuela
-
-
-  6 La ciudad y los DESCA.
-
-
-  Ana Sugranyes Bickel y Maricarmen Tapia Gómez
+  6 La ciudad y los DESCA. Ana Sugranyes Bickel y Maricarmen Tapia Gómez
 
 
   #### Sección E: Educación
 
 
-  7 [El derecho a la educación: evolución, nudos críticos y perspectivas de futuro](https://www.distritoglobal.org/assets/uploads/henri%CC%81quez_el_derecho_a_la_educacio%CC%81n_evolucion_nudos_criticos_y_perspectivas_de_futuro.pdf).
+  7 [El derecho a la educación: evolución, nudos críticos y perspectivas de futuro](https://www.distritoglobal.org/assets/uploads/henri%CC%81quez_el_derecho_a_la_educacio%CC%81n_evolucion_nudos_criticos_y_perspectivas_de_futuro.pdf). Alfonso Henríquez R.
 
 
-  Alfonso Henríquez R.
-
-
-  8 [Constitucionalizando los Principios de Abiyán sobre el derecho a la educación: Claves para el proceso chileno](https://www.distritoglobal.org/assets/uploads/contreras_constitucionalizando_los_principios_de_abiya%CC%81n.pdf).
-
-
-  Valentina Contreras Orrego, Vicente Silva y Delphine Dorsi
+  8 [Constitucionalizando los Principios de Abiyán sobre el derecho a la educación: Claves para el proceso chileno](https://www.distritoglobal.org/assets/uploads/contreras_constitucionalizando_los_principios_de_abiya%CC%81n.pdf). Valentina Contreras Orrego, Vicente Silva y Delphine Dorsi
 
 
   #### Sección F: Agua y saneamiento
 
 
-  9 El derecho humano al agua y saneamiento: La priorización del uso ecosistémico como un presupuesto necesario.
-
-
-  Verónica Delgado Schneider y Juan Francisco Zapata Hassi
+  9 El derecho humano al agua y saneamiento: La priorización del uso ecosistémico como un presupuesto necesario. Verónica Delgado Schneider y Juan Francisco Zapata Hassi
 
 
   #### Sección G: Medio ambiente sano
 
 
-  10 [Nueva Constitución y Medio Ambiente](https://www.distritoglobal.org/assets/uploads/delgado_nueva_constitucion_y_medio_ambiente.pdf).
+  10 [Nueva Constitución y Medio Ambiente](https://www.distritoglobal.org/assets/uploads/delgado_nueva_constitucion_y_medio_ambiente.pdf). Verónica Delgado y Dominique Hervé
 
 
-  Verónica Delgado y Dominique Hervé
-
-
-  11 Derechos humanos para la incorporación del cambio climático en la Nueva constitución.
-
-
-  Pedro Cisterna y Ezio Costa
+  11 Derechos humanos para la incorporación del cambio climático en la Nueva constitución. Pedro Cisterna y Ezio Costa
 
 
   <br>
