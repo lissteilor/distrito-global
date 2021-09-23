@@ -16,7 +16,13 @@ content_block_es: >-
   Los derechos sexuales y reproductivos buscan asegurar una vida libre para decidir sobre la vida sexual y reproductiva, sin ninguna forma de coacción o violencia y con plena autonomía. Hoy sabemos que muchos de estos derechos como el derecho a una educación sexual laica y no sexista, una vida libre de violencias en todas sus formas, el acceso a métodos de anticoncepción oportuno y asequibles, la posibilidad de que el Estado ofrezca las condiciones materiales y de protección para una interrupción del embarazo en condiciones de dignidad y respeto, el resguardo a todo el ciclo reproductivo de las mujeres y las disidencias, entre otros derechos, se encuentra severamente amenazado por la falta de consagración de principios de autonomía, dignidad, respeto y libertad en la toma de decisiones en la constitución política chilena.
 
 
+  <br>
+
+
   ![](/assets/uploads/socias-ong.jpg)
+
+
+  <br>
 
 
   <em>Desde el espacio regional, invisible a los ojos de un Chile centralizado, las mujeres seguimos estando ausentes en los discursos de las estrategias de desarrollo regional. Como ONG hemos ido instalando espacios de sensibilización, investigación, acompañamiento terapéutico e incidencia política local de la mano de un profundo compromiso humano y sororo con las mujeres desplazadas por las políticas neoliberales que siempre han puesto el cuidado y la sostenibilidad de la vida en una segunda categoría.</em>
@@ -41,6 +47,9 @@ content_block_es: >-
 
 
   <mark>La nueva constitución debe asegurar la libertad, autonomía y respeto a las vidas y los cuerpos de las mujeres, las niñas y las disidencias porque se trata del cuidado a la sostenibilidad de la vida, la dignidad y el reconocimiento histórico a un conjunto de derechos negados.</mark>
+
+
+  <br>
 
 
   ![](/assets/uploads/logonor-matriafecunda.png)
