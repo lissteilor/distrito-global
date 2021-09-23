@@ -50,6 +50,9 @@ content_block_es: >-
   <mark>Es por ello que la nueva Constitución para Chile, que ya se empieza a escribir, con la participación directa de estas mujeres y recogiendo sus propuestas, saberes, historias de vida y aspiraciones de sus pueblos, sin duda será un hito fundamental para avanzar en superar las brechas que enfrentan y para garantizar los derechos de sus pueblos y de las mujeres indígenas de acuerdo con los estándares del derecho internacional de los pueblos indígenas y los estándares del derecho internacional sobre la mujer. Así como a aportar en general a la construcción de un nuevo país, porque avanzar hacia el buen vivir para todos los pueblos no puede concebirse sin el bienestar de todas las mujeres.</mark>
 
 
+  <br>
+
+
   #### Referencias
 
 
@@ -59,10 +62,16 @@ content_block_es: >-
   <small><sup>2</sup> Tras 10 años de lucha: Un triunfo jurídico de las comunidades que defienden el río Pilmaiken. En: https://www.eldesconcierto.cl/opinion/2020/02/05/tras-10-anos-de-lucha-un-triunfo-juridico-de-las-comunidades-que-defienden-el-rio-pilmaiken.html.</small>
 
 
+  <br>
+
+
   #### Conoce más
 
 
   [Informe "Situación de las mujeres indígenas rurales en Chile: la lucha por los territorios ancestrales"](https://observatorio.cl/situacion-de-las-mujeres-indigenas-rurales-en-chile-la-lucha-por-los-territorios-ancestrales/)
+
+
+  <br>
 
 
   ![](/assets/uploads/logonor-observatorio.png)
