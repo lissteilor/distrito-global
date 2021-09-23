@@ -4,8 +4,8 @@ active: false
 image_slider: /assets/uploads/slider-libro-tomo3.jpg
 image_thumbnail: /assets/uploads/thumb-libro-1-.jpg
 image_hero: /assets/uploads/hero-libro-tomo3.jpg
-title_es: La ciudad y los DESCA
-brief_es: Ana Sugranyes Bickel y Maricarmen Tapia Gómez
+title_es: "El derecho a la educación: evolución, nudos críticos y perspectivas de futuro"
+brief_es: Alfonso Henríquez R.
 content_block_es: >-
   Este tomo profundiza en la *importancia y las implicancias de incorporar los
   derechos económicos, sociales, culturales y ambientales dentro de la
@@ -19,5 +19,5 @@ content_block_es: >-
 category_es: Constitución
 category_en: Constitution
 color: dash-pink bg-pink
-pdf_publication: /assets/uploads/sugranyes_la_ciudad_y_los_desca.pdf
+pdf_publication: /assets/uploads/henríquez_el_derecho_a_la_educación_evolucion_nudos_criticos_y_perspectivas_de_futuro.pdf
 ---
