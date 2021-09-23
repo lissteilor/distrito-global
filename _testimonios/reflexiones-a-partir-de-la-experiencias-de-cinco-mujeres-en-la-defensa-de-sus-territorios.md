@@ -112,6 +112,7 @@ content_block_es: >-
   <mark>En este contexto se propone, en primer lugar, el reconocimiento de las labores de cuidados que realizan mujeres y de la labor de protección ambiental de defensoras ambientales. En segundo lugar, un sistema sólido de derechos que tienda a fortalecer la autonomía de las mujeres, que garantice su participación en la toma de decisiones y una vida libre de violencia. En tercer lugar, el establecimiento de garantías que aseguren el carácter intrínseco de la naturaleza en tanto sujeto de derechos y el respeto por las futuras generaciones, son fundamentales para avanzar en una nueva relación de igualdad e interdependencia entre las personas, y de estas con la naturaleza. Finalmente, es fundamental el reconocimiento de los derechos de pueblos indígenas que aseguran la autonomía y subsistencia de sus cosmovisiones, así como la vinculación con sus territorios.</mark>
 
 
+  <br>
 
 
   #### Referencias
