@@ -27,6 +27,9 @@ content_block_es: >-
   <p>En este ciclo de charlas se discutió sobre las posibilidades de dotar de contenido a un nuevo pacto social en el contexto del COVID-19 tratando una gran diversidad de temas claves para el futuro del país, tales como el derecho a la seguridad social, el derecho a la vivienda, el derecho a la salud, el medio ambiente, el enfoque de género y los pueblos indígenas.</p>
 
 
+  <br>
+
+
   #### Revive las conversaciones aquí:
 
 
