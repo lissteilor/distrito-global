@@ -142,7 +142,7 @@ content_block_es: >-
   <small><sup>7</sup> Castillo Gallardo, Mayarí. Desigualdades socioecológicas y sufrimiento ambiental en el conflicto “Polimetales” en Arica. Convergencia. Revista de Ciencias Sociales, vol. 23, núm. 72, septiembre-diciembre, 2016, pp. 89-114 Universidad Autónoma del Estado de México Toluca, México, pp. 95.</small>
 
 
-  <small><sup>8</sup> Según un estudio realizado por Carmen Valls, las mujeres son más vulnerables y acumuladoras de agentes tóxicos y existe una relación entre estos y el aumento del cáncer de mama , pudiendo concluir entonces que este tipo de situaciones asentuan la desigualdad subyacente en las mujeres que viven en los territorios impactados. Ver en: [<https://www.ecologistasenaccion.org/162572/video-ecofeminismo-salud-ambiental-y-genero/>].</small>
+  <small><sup>8</sup> Según un estudio realizado por Carmen Valls, las mujeres son más vulnerables y acumuladoras de agentes tóxicos y existe una relación entre estos y el aumento del cáncer de mama , pudiendo concluir entonces que este tipo de situaciones asentuan la desigualdad subyacente en las mujeres que viven en los territorios impactados. Ver en: \[<https://www.ecologistasenaccion.org/162572/video-ecofeminismo-salud-ambiental-y-genero/>].</small>
 
 
   <small><sup>9</sup> En las zonas impactadas por la crisis climática y ecológica existen labores o cargas que han recaído y recaen hasta desigualmente en mujeres. Un ejemplo de estas labores se da en el caso del agua y de la provisión de esta a las familias, donde según datos las Naciones Unidas [una de cada tres personas no tiene acceso a agua potable salubre](https://www.who.int/news-room/detail/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who),  siendo las mujeres y niñas quienes pasan la mayor cantidad de tiempo desplazándose en búsqueda de agua. Ver en línea: [](about:blank) <https://www.acnur.org/5c93e4c34.pdf> \[última revisión: 20/09/2021].</small>
@@ -154,5 +154,11 @@ content_block_es: >-
   <small><sup>11</sup> Ibíd.</small>
 
 
-  <small><sup>12</sup> Puleo, Alicia. ¿Qué es el ecofeminiso? Revista crítica. Enero 2007, Nº 941,. pp. 52.</small>
+  <small><sup>12</sup> Puleo, Alicia. ¿Qué es el ecofeminismo? Revista crítica. Enero 2007, Nº 941,. pp. 52.</small>
+
+
+  <br>
+
+
+  ![](/assets/uploads/logonor-fima-color.png)
 ---
