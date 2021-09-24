@@ -1,6 +1,6 @@
 ---
 layout: publication
-active: true
+active: false
 image_slider: /assets/uploads/slider-techo-compromiso-1-.jpg
 image_thumbnail: /assets/uploads/thumb-techo-compromiso-1-.jpg
 image_hero: /assets/uploads/hero-techo-compromiso-1-.jpg
