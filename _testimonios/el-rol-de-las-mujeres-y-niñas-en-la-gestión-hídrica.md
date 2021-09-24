@@ -5,6 +5,9 @@ image_hero: /assets/uploads/hero-aguas.jpg
 title_es: El rol de las mujeres y niñas en la gestión hídrica
 authors: Victoria Cruz Amigo y Eloisa Parra Marin (Fundación Newenko)
 content_block_es: >-
+  <br>
+
+
   #### Introducción
 
 
