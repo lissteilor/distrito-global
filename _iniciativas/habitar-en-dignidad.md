@@ -24,6 +24,12 @@ content_block_es: >-
   <br>
 
 
+  ![](/assets/uploads/thumb-techo-compromiso-2-.jpg)
+
+
+  <br>
+
+
   #### Conoce todos componentes de esta iniciativa
 
 
