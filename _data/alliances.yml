@@ -137,3 +137,9 @@ items:
     category_en: National
     color: dash-green
     active: false
+  - name: ABOFEM
+    logo: /assets/uploads/logo-abofem-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+    active: false
