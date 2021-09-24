@@ -62,7 +62,7 @@ content_block_en: >-
 
   For this reason, various organisations with many years of experience in feminism or social rights have joined Distrito Global to share stories from Chilean women about how the new Constitution can change their life experiences. With their help, this initiative aims to identify the key elements to making the gender approach universal when it comes to all social rights, to help transform the ways in which these rights are understood and protected.
 alliance_1_org: Corporación La Morada
-alliance_1_logo: /assets/uploads/logo-morada.png
+alliance_1_logo: /assets/uploads/logo-abofem-gris.png
 alliance_2_org: Corporación Opción
 alliance_2_logo: /assets/uploads/logo-opcion.png
 alliance_3_org: Observatorio Ciudadano
