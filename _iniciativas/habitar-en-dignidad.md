@@ -27,7 +27,7 @@ content_block_es: >-
   ### Conoce todos componentes de esta iniciativa aquí:
 
 
-  * ##### [Habitar en Dignidad. Hacia el derecho a la vivienda en la Nueva Constitución](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad.html)
+  * ##### [Habitar en Dignidad: Hacia el derecho a la vivienda en la Nueva Constitución](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad.html)
 
   * ##### [Compromiso por el Habitar en Dignidad](https://www.distritoglobal.org/publicaciones/compromiso-por-el-habitar-en-dignidad.html)
 
