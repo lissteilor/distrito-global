@@ -143,3 +143,9 @@ items:
     category_en: National
     color: dash-green
     active: false
+  - name: Centro Latinoamericano para el Desarrollo Rural (RIMISP)
+    active: false
+    logo: /assets/uploads/logonor-rimisp-bn.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
