@@ -35,7 +35,7 @@ content_block_es: >-
 
   * ##### [Habitar en Dignidad. Hacia el derecho a la vivienda en la Nueva Constitución](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad.html)
 
-  * ##### [Compromiso por el Habita en Dignidad](https://www.distritoglobal.org/publicaciones/compromiso-por-el-habitar-en-dignidad.html)
+  * ##### [Compromiso por el Habitar en Dignidad](https://www.distritoglobal.org/publicaciones/compromiso-por-el-habitar-en-dignidad.html)
 
   * ##### [Habitar en Dignidad: Propuestas Constitucionales](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad-1.html)
 brief_en: Towards the right to housing in the new Constitution
