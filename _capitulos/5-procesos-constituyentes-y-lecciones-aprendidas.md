@@ -44,5 +44,5 @@ content_block_es: >-
 
 
   <small>Global Initiative for Economic, Social and Cultural Rights, Centro de Derechos Humanos de la Universidad de Essex y Universidad de Concepción (2021) Derechos sociales y el momento constituyene de Chile: Perspectivas globales y locales para el debate constitucional. Tomo V: Procesos constituyentes y lecciones aprendidas. Santiago, Chile: Global Initiative for Economic, Social and Cultural Rights. DOI: 10.53110/ZLQV6402.</small>
-pdf_chapter: /assets/uploads/tomo-ii-mecanismos-de-garantía.pdf
+pdf_chapter: /assets/uploads/tomo_5_leciones_aprendidas.pdf
 ---
