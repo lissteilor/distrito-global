@@ -83,7 +83,7 @@ content_block_es: >-
   El Segundo foro de la Haya concluyó que “la participación de la mujer mejoraría el sistema de gestión. Como las mujeres soportan la parte principal de la carga de la mala gestión, se las podría potenciar con una participación mayor y más eficaz”<sup>5</sup>, y esta es justamente una problemática evidenciada en el ODS número 5, correspondiente a la "igualdad de género". Así, una de las metas de este objetivo consiste en “Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública” (PNUD). 
 
 
-  <em>Existen estudios que destacan el efecto positivo que se consigue en los proyectos cuando se adoptan planteamientos basados en la participación y que tengan en cuenta las cuestiones de género. </em>Es más probable que las instalaciones sean técnicamente apropiadas, estén convenientemente situadas y se utilicen y mantengan de forma adecuada cuando se consulta tanto a las mujeres como a los hombres<small>6</small>.
+  <em>Existen estudios que destacan el efecto positivo que se consigue en los proyectos cuando se adoptan planteamientos basados en la participación y que tengan en cuenta las cuestiones de género. </em>Es más probable que las instalaciones sean técnicamente apropiadas, estén convenientemente situadas y se utilicen y mantengan de forma adecuada cuando se consulta tanto a las mujeres como a los hombres<sup>6</sup>.
 
 
   <br>
