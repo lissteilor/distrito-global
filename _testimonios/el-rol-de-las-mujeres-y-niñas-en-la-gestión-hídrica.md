@@ -107,7 +107,7 @@ content_block_es: >-
   #### Referencias
 
 
-  <small><sup>1</sup>ONU (2020), p. 9.</small>
+  <small><sup>1</sup> ONU (2020), p. 9.</small>
 
 
   <small><sup>2</sup> Id., p. 41.</small>
