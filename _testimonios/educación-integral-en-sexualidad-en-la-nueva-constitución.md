@@ -97,4 +97,10 @@ content_block_es: >-
 
 
   <small><sup>5</sup> Ídem. Párr. 18.</small>
+
+
+  <br>
+
+
+  ![](/assets/uploads/logonor-abofem-color.png)
 ---
