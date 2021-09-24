@@ -20,5 +20,5 @@ content_block_es: >-
 category_es: Constitución
 category_en: Constitution
 color: dash-pink bg-pink
-pdf_publication: /assets/uploads/contreras_constitucionalizando_los_principios_de_abiyán.pdf
+pdf_publication: /assets/uploads/contreras_constitucionalizando_los_principios_deabiyan.pdf
 ---
