@@ -30,7 +30,7 @@ content_block_es: >-
   <br>
 
 
-  [Firma el compromiso aquí](https://docs.google.com/forms/d/1dyg0zcGdFHeUwCbUGpB6APPIZKt3WkqYdhoDSxG0qwE/viewform?edit_requested=true)
+  #### [Firma el compromiso aquí](https://docs.google.com/forms/d/1dyg0zcGdFHeUwCbUGpB6APPIZKt3WkqYdhoDSxG0qwE/viewform?edit_requested=true)
 category_es: DESCA
 category_en: DESCA
 color: dash-blue bg-blue
