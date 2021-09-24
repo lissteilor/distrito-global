@@ -30,14 +30,14 @@ content_block_es: >-
   <br>
 
 
-  #### Conoce todos componentes de esta iniciativa
+  ### Conoce todos componentes de esta iniciativa
 
 
-  * [Habitar en Dignidad. Hacia el derecho a la vivienda en la Nueva Constitución](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad.html)
+  * ##### [Habitar en Dignidad. Hacia el derecho a la vivienda en la Nueva Constitución](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad.html)
 
-  * [Compromiso por el Habita en Dignidad](https://www.distritoglobal.org/publicaciones/compromiso-por-el-habitar-en-dignidad.html)
+  * ##### [Compromiso por el Habita en Dignidad](https://www.distritoglobal.org/publicaciones/compromiso-por-el-habitar-en-dignidad.html)
 
-  * [Habitar en Dignidad: Propuestas Constitucionales](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad-1.html)
+  * ##### [Habitar en Dignidad: Propuestas Constitucionales](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad-1.html)
 brief_en: Towards the right to housing in the new Constitution
 content_block_en: >-
   Although Chilean people have been demanding access to decent housing and the
@@ -53,7 +53,7 @@ content_block_en: >-
 
 
   Within this context, this initiative aims to examine the constitutional experience regarding housing and cities based on the country’s main urban housing challenges, the voice and perspective of local communities, international human rights standards, and a comparative review of other constitutions worldwide. This will enable the proposal of the foundations for housing policies from a human rights perspective, with a view to a constituent discussion.
-external_link: ""
+external_link: https://ceschile.org/constitucion/
 alliance_1_org: TECHO-Chile
 alliance_1_logo: /assets/uploads/logo-techo.png
 alliance_2_org: Fundación Vivienda
