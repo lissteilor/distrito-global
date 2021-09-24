@@ -23,6 +23,15 @@ content_block_es: >-
 
 
   Por último, es necesario recalcar la importancia de los espacios de diálogos que hemos sostenido con las comunidades con quienes trabajamos y las diversas organizaciones territoriales con las cuales nos hemos vinculado durante este proceso. Las múltiples conversaciones en encuentros, talleres y entrevistas con dirigentes y dirigentas, reafirman la necesidad de ubicar el derecho a una vivienda adecuada y un hábitat digno en el centro de la nueva Constitución.
+
+
+  <br>
+
+
+  #### Revive la presentación aquí:
+
+
+  <div class="video-responsive"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Wbu-ALA5W5Y?rel=0&showinfo=0&autohide=1&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute; top:0; left: 0"></iframe></div>
 category_es: DESCA
 category_en: DESCA
 color: dash-blue bg-blue
