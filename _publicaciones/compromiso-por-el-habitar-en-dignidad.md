@@ -27,9 +27,6 @@ content_block_es: >-
   <p>Invitamos a todas las personas, organizaciones de pobladores e instituciones a que apoyen el compromiso por el #habitarendignidad, el cual incorpora a la ciudad y a la vivienda como ejes estructurantes de un amplio pacto político.</p>
 
 
-  <br>
-
-
   #### [Súmate al compromiso aquí](https://docs.google.com/forms/d/1dyg0zcGdFHeUwCbUGpB6APPIZKt3WkqYdhoDSxG0qwE/viewform?edit_requested=true)
 category_es: DESCA
 category_en: DESCA
