@@ -22,19 +22,13 @@ content_block_es: >-
   #### Sección A: Sudáfrica
 
 
-  1 Derechos socioeconómicos en la Constitución Sudafricana: Metas, logros, decepciones y lecciones.
-
-
-  Sandra Liebenberg
+  1 [Derechos socioeconómicos en la Constitución Sudafricana: Metas, logros, decepciones y lecciones](https://www.distritoglobal.org/assets/uploads/liebenberg_derechos_socioecono%CC%81micos_en_la_constitucio%CC%81n_sudafricana.pdf). Sandra Liebenberg
 
 
   #### Sección B: Colombia
 
 
-  2 Publicidad y Estado Social de Derecho: El acceso a la información pública como derecho fundamental e instrumental para los derechos económicos y sociales en la Constitución Política de Colombia.
-
-
-  Vivian Newman
+  2 [Publicidad y Estado Social de Derecho: El acceso a la información pública como derecho fundamental e instrumental para los derechos económicos y sociales en la Constitución Política de Colombia](https://www.distritoglobal.org/assets/uploads/newman_publicidad_y_estado_social_de_derecho.pdf). Vivian Newman
 
 
   <br>
