@@ -24,12 +24,6 @@ content_block_es: >-
   <br>
 
 
-  ![](/assets/uploads/thumb-techo-compromiso-2-.jpg)
-
-
-  <br>
-
-
   ### Conoce todos componentes de esta iniciativa
 
 
@@ -38,6 +32,12 @@ content_block_es: >-
   * ##### [Compromiso por el Habitar en Dignidad](https://www.distritoglobal.org/publicaciones/compromiso-por-el-habitar-en-dignidad.html)
 
   * ##### [Habitar en Dignidad: Propuestas Constitucionales](https://www.distritoglobal.org/publicaciones/habitar-en-dignidad-1.html)
+
+
+  <br>
+
+
+  ![](/assets/uploads/thumb-techo-compromiso-2-.jpg)
 brief_en: Towards the right to housing in the new Constitution
 content_block_en: >-
   Although Chilean people have been demanding access to decent housing and the
