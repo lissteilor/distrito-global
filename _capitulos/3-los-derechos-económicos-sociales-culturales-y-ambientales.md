@@ -58,7 +58,7 @@ content_block_es: >-
   7 [El derecho a la educación: evolución, nudos críticos y perspectivas de futuro](https://www.distritoglobal.org/assets/uploads/henri%CC%81quez_el_derecho_a_la_educacio%CC%81n_evolucion_nudos_criticos_y_perspectivas_de_futuro.pdf). Alfonso Henríquez R.
 
 
-  8 [Constitucionalizando los Principios de Abiyán sobre el derecho a la educación: Claves para el proceso chileno](https://www.distritoglobal.org/assets/uploads/contreras_constitucionalizando_los_principios_de_abiya%CC%81n.pdf). Valentina Contreras Orrego, Vicente Silva y Delphine Dorsi
+  8 [Constitucionalizando los Principios de Abiyán sobre el derecho a la educación: Claves para el proceso chileno](https://www.distritoglobal.org/assets/uploads/contreras_constitucionalizando_los_principios_deabiyan.pdf). Valentina Contreras Orrego, Vicente Silva y Delphine Dorsi
 
 
   #### Sección F: Agua y saneamiento
