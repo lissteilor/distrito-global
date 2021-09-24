@@ -1,9 +1,9 @@
 ---
 layout: publication
 active: false
-image_slider: /assets/uploads/slider-techo.jpg
-image_thumbnail: /assets/uploads/thumb-techo-2-.jpg
-image_hero: /assets/uploads/hero-techo-2-.jpg
+image_slider: /assets/uploads/slider-techo-compromiso.jpg
+image_thumbnail: /assets/uploads/thumb-techo-compromiso.jpg
+image_hero: /assets/uploads/hero-techo-compromiso.jpg
 title_es: Compromiso por el Habitar en Dignidad
 brief_es: Lineamientos para el debate sobre el derecho a una vivienda adecuada
 content_block_es: >-
