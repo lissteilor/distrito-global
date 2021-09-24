@@ -155,3 +155,9 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: ONG FIMA
+    active: false
+    logo: /assets/uploads/logo-fima-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
