@@ -52,10 +52,7 @@ content_block_es: >-
   5 [Disposiciones constitucionales sobre los derechos de las personas con discapacidad: Enfoques nacionales y contexto internacional](https://www.distritoglobal.org/assets/uploads/moreno_disposiciones_constitucionales_sobre_los_derechos_de_las_personas_con_discapacidad.pdf). Gonzalo Moreno, Michael Ashley Stein y Jody Heymann
 
 
-  6 Hacia un proceso constituyente inclusivo de las personas con discapacidad.
-
-
-  Pablo Marshall, Viviana Ponce de León y Eduardo Marchant
+  6 [Hacia un proceso constituyente inclusivo de las personas con discapacidad](https://www.distritoglobal.org/assets/uploads/marshall_hacia_un_proceso_constituyente_inclusivo_de_las_personas_con_discapacidad.pdf). Pablo Marshall, Viviana Ponce de León y Eduardo Marchant
 
 
   #### Sección F: Adultos mayores
