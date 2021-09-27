@@ -4,7 +4,7 @@ active: false
 image_slider: /assets/uploads/slider-libro-tomo1.jpg
 image_thumbnail: /assets/uploads/thumb-libro-1-.jpg
 image_hero: /assets/uploads/hero-libro-tomo1.jpg
-title_es: Los cómplices de ayer, los beneficios de hoy – El nudo de la
+title_es: Los cómplices de ayer, los beneficiarios de hoy – El nudo de la
   desigualdad impuesta por la dictadura
 brief_es: Juan Pablo Bohoslavsky, Karinna Fernández y Sebastián Smart
 content_block_es: >-
@@ -20,5 +20,5 @@ content_block_es: >-
 category_es: Constitución
 category_en: Constitution
 color: dash-pink bg-pink
-pdf_publication: /assets/uploads/bohoslavsky_los_complices_de_ayer_los_beneficios_de_hoy.pdf
+pdf_publication: /assets/uploads/bohoslavsky_los_complices_de_ayer_los_beneficiarios_de_hoy.pdf
 ---
