@@ -89,5 +89,5 @@ content_block_es: >-
 
 
   <small>Global Initiative for Economic, Social and Cultural Rights, Centro de Derechos Humanos de la Universidad de Essex y Universidad de Concepción (2021) Derechos sociales y el momento constituyente de Chile: Perspectivas globales y locales para el debate constitucional. Tomo IV: Grupos de especial protección. Santiago, Chile: Global Initiative for Economic, Social and Cultural Rights. DOI: 10.53110/ZOIT6415.</small>
-pdf_chapter: /assets/uploads/tomo-ii-mecanismos-de-garantía.pdf
+pdf_chapter: /assets/uploads/tomo_4_grupos_de_especial_proteccion.pdf
 ---
