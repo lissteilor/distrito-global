@@ -14,6 +14,8 @@ content_block_es: >-
   discusión sobre derechos sociales.
 
 
+
+
   Comenzando con la exploración de las formas que las constituciones de diferentes países utilizan para fomentar la igualdad de derechos en sus países, este tomo presenta reflexiones en torno al rol de la Constitución en la garantía de los derechos sociales de pueblos indígenas, mujeres; niños, niñas y adolescentes; personas con discapacidad y personas adultas mayores.
 category_es: Constitución
 category_en: Constitution
