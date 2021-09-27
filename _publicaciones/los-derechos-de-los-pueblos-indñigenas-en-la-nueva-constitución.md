@@ -4,7 +4,7 @@ active: false
 image_slider: /assets/uploads/slider-libro-tomo4.jpg
 image_thumbnail: /assets/uploads/thumb-libro-1-.jpg
 image_hero: /assets/uploads/hero-libro-tomo4-1-.jpg
-title_es: Los derechos de los pueblos indñigenas en la nueva Constitución
+title_es: Los derechos de los pueblos indígenas en la nueva Constitución
 brief_es: José Aylwin
 content_block_es: >-
   Este tomo presta atención y profundiza en la *situación de diversos grupos que
