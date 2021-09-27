@@ -25,46 +25,31 @@ content_block_es: >-
   #### Sección A: Igualdad
 
 
-  1 Fomentando la igualdad de derechos en las constituciones: 193 países en perspectiva.
-
-
-  Aleta Sprague, Pam Stek, Amy Raub y Jody Heymann
+  1 [Fomentando la igualdad de derechos en las constituciones: 193 países en perspectiva](https://www.distritoglobal.org/assets/uploads/sprague_fomentando_la_igualdad_de_derechos_en_las_constituciones.pdf). Aleta Sprague, Pam Stek, Amy Raub y Jody Heymann
 
 
   #### Sección B: Pueblos indígenas
 
 
-  2 Los derechos de los pueblos indñigenas en la nueva Constitución.
-
-
-  José Aylwin
+  2 [Los derechos de los pueblos indñigenas en la nueva Constitución](https://www.distritoglobal.org/assets/uploads/aylwin_los_derechos_de_pueblos_indigenas_en_la_nueva_constitucion.pdf). José Aylwin
 
 
   #### Sección C: Mujeres
 
 
-  3 El derecho constitucional de las mujeres a la igualdad: Una perspectiva comparada.
-
-
-  Meghan Campbell
+  3 [El derecho constitucional de las mujeres a la igualdad: Una perspectiva comparada](https://www.distritoglobal.org/assets/uploads/campbell_el_derecho_constitucional_de_las_mujeres_a_la_igualdad.pdf). Meghan Campbell
 
 
   #### Sección D: Niños, niñas y adolescentes
 
 
-  4 Los niños y las constituciones.
-
-
-  Aoife Nolan y Conor O'Mahony
+  4 [Los niños y las constituciones](https://www.distritoglobal.org/assets/uploads/nolan_los_ninos_y_las_constituciones.pdf). Aoife Nolan y Conor O'Mahony
 
 
   #### Sección E: Personas con discapacidad
 
 
-  5 Disposiciones constitucionales sobre los derechos de las personas con discapacidad: Enfoques nacionales y contexto internacional.
-
-
-  Gonzalo Moreno, Michael Ashley Stein y Jody Heymann
+  5 [Disposiciones constitucionales sobre los derechos de las personas con discapacidad: Enfoques nacionales y contexto internacional](https://www.distritoglobal.org/assets/uploads/moreno_disposiciones_constitucionales_sobre_los_derechos_de_las_personas_con_discapacidad.pdf). Gonzalo Moreno, Michael Ashley Stein y Jody Heymann
 
 
   6 Hacia un proceso constituyente inclusivo de las personas con discapacidad.
@@ -76,10 +61,7 @@ content_block_es: >-
   #### Sección F: Adultos mayores
 
 
-  7 La constitucionalización de los derechos de las personas mayores: Una práctica emergente.
-
-
-  Frederic Megret y Alexander Agnello
+  7 [La constitucionalización de los derechos de las personas mayores: Una práctica emergente](https://www.distritoglobal.org/assets/uploads/megret_la_constitucionalizacion_de_los_derechos_de_las_personas_mayores.pdf). Frederic Megret y Alexander Agnello
 
 
   <br>
