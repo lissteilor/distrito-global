@@ -14,8 +14,6 @@ content_block_es: >-
   límites del trabajo de la Convención Constituyente.
 
 
-
-
   En una segunda parte, este tomo *conceptualiza a los derechos sociales dentro de un espectro más amplio de los derechos humanos*, enfatizando la indivisibilidad e interdependencia que existe entre todos ellos (y por consiguiente desmitificando su comprensión como derechos de segunda generación) y la necesidad de adoptar medidas afirmativas en algunos casos para lograr la igualdad sustantiva. Además, esta sección resalta algunas particularidades de los derechos sociales como la posibilidad de implementación progresiva de aquellas partes de los derechos que no corresponden al contenido mínimo (de ejecución inmediata), la prohibición de regresividad en los sucesivas reformas que se orienten a garantizar derechos sociales y el rol fundamental que juega la política fiscal en la protección de estos derechos en el contexto constitucional.
 category_es: Constitución
 category_en: Constitution
