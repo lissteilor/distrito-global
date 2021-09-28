@@ -30,7 +30,7 @@ content_block_es: >-
   Roberto Gargarella
 
 
-  2 [Los cómplices de ayer, los beneficiarios de hoy – El nudo de la desigualdad impuesta por la dictadura](https://www.distritoglobal.org/assets/uploads/bohoslavsky_los_complices_de_ayer_los_beneficios_de_hoy.pdf).
+  2 [Los cómplices de ayer, los beneficiarios de hoy – El nudo de la desigualdad impuesta por la dictadura](https://www.distritoglobal.org/assets/uploads/bohoslavsky_los_complices_de_ayer.pdf).
 
   Juan Pablo Bohoslavsky, Karinna Fernández y Sebastián Smart
 
