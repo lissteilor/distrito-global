@@ -161,3 +161,9 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - active: false
+    name: Corporación Miles
+    logo: /assets/uploads/logo-miles-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
