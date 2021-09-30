@@ -173,3 +173,9 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Red de Defensoras de Derechos Humanos
+    active: false
+    logo: /assets/uploads/logo-reddefensoras-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
