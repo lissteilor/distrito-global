@@ -17,9 +17,11 @@ content_block_es: >-
 
   <small>Video-performance colaborativa por el Día de Acción Global por un aborto legal y seguro.\
 
-  Colectivo LASTESIS / Valparaíso, 2020</small>\
+  Colectivo LASTESIS / Valparaíso, 2020</small>
 
-  <br>\
+
+  <br>
+
 
   Tener el derecho humano a un aborto legal y seguro es de suma urgencia en nuestros territorios. Es imperativo que las políticas públicas reflejen las exigencias que desde las bases feministas se han enunciado hace décadas. No podemos seguir viviendo sin este derecho, y sin políticas que aseguren una educación sexual integral y nuestros derechos reproductivos.
 
