@@ -22,4 +22,10 @@ content_block_es: >-
   <br>\
 
   Tener el derecho humano a un aborto legal y seguro es de suma urgencia en nuestros territorios. Es imperativo que las políticas públicas reflejen las exigencias que desde las bases feministas se han enunciado hace décadas. No podemos seguir viviendo sin este derecho, y sin políticas que aseguren una educación sexual integral y nuestros derechos reproductivos.
+
+
+  <br>
+
+
+  ![](/assets/uploads/logonor-lastesis-color.png)
 ---
