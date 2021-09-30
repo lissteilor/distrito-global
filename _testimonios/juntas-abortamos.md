@@ -15,9 +15,9 @@ content_block_es: >-
   <br>
 
 
-  Video-performance colaborativa por el Día de Acción Global por un aborto legal y seguro.\
+  <small>Video-performance colaborativa por el Día de Acción Global por un aborto legal y seguro.\
 
-  Colectivo LASTESIS / Valparaíso, 2020.\
+  Colectivo LASTESIS / Valparaíso, 2020</small>\
 
   <br>\
 
