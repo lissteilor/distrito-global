@@ -5,14 +5,10 @@ image_hero: /assets/uploads/hero-salud.jpg
 title_es: Mujeres, salud y patologización del ciclo vital
 authors: ONG Madre Nativa
 content_block_es: >-
-  [Madre Nativa](https://www.instagram.com/madrenativa/?hl=en) es una
-  organización autónoma y feminista, sostenida desde Arica, en el extremo norte
-  de Chile. Trabajamos promoviendo la protección de los derechos sexuales
-  reproductivos y no reproductivos de las mujeres y disidencias. Desde aquí
-  hemos levantado la lucha por partos respetados y la erradicación de la
-  violencia gineco–obstétrica en todo el ciclo vital, proponiendo la autogestión
-  en salud y la justicia reproductiva como herramientas para exigir nuestros
-  derechos.
+  <br>
+
+
+  [Madre Nativa](https://www.instagram.com/madrenativa/?hl=en) es una organización autónoma y feminista, sostenida desde Arica, en el extremo norte de Chile. Trabajamos promoviendo la protección de los derechos sexuales reproductivos y no reproductivos de las mujeres y disidencias. Desde aquí hemos levantado la lucha por partos respetados y la erradicación de la violencia gineco–obstétrica en todo el ciclo vital, proponiendo la autogestión en salud y la justicia reproductiva como herramientas para exigir nuestros derechos.
 
 
   <em>Aunque la violencia gineco-obstétrica es un tipo de violencia de género en espacios de atención biomédica, es preciso comprender el problema desde la interseccionalidad que atraviesa nuestras vidas y nuestra salud.</em> En este sentido, no sólo considera el derecho a la salud, sino también el derecho al agua, la alimentación, el saneamiento, el trabajo, la vivienda, el derecho a vivir la propia cultura, educación, información, a vivir en un ambiente libre de contaminación, sin discriminación. Es un problema que involucra la desprotección de nuestra salud durante toda la vida y en todos los aspectos de ella. 
