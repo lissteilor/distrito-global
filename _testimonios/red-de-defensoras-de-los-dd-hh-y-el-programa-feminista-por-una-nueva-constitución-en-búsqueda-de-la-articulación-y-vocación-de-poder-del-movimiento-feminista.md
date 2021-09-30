@@ -23,9 +23,6 @@ content_block_es: >-
   La realización de encuentros nacionales<sup>5</sup>, propuestas progamaticas, tensión y quiebres  dentro de los partidos, ha permitido una acumulación de madurez política de la sujeta que  
 
 
-   
-
-
   1 Carla Marín y María José Navarrete. (2016). #Niunamenos, el día después: el cambio en la conciencia  colectiva sobre la desigualdad de género. 28 de septiembre 2021, de El Mostrador Sitio web:  https://www.elmostrador.cl/noticias/pais/2016/10/20/niunamenos-el-dia-despues-el-cambio-en-la conciencia-colectiva-sobre-la-desigualdad-de-genero/ 
 
 
@@ -60,9 +57,6 @@ content_block_es: >-
 
 
   Es así como en respuesta al abuso del gobierno de Sebastián Piñera y gracias a la  maduración de reflexiones sobre el quehacer político, es que en mayo del 2020 un grupo  de feministas a lo largo del país decidió articular y crear la Red de Defensoras de los  Derechos Humanos, convocada por la histórica casa de la mujer La Morada y organizada  inicialmente, por Colectiva La Olla revuelta (Curico), Legatarias – Organización Feminista  por la liberación (Bío Bío), Acción Feminista Ovolucionaria (Talca) y desarrollada hasta el  día de hoy por La Monche – Centro Cultural por la memoria (Concepción), Cueca Sola  
-
-
-    
 
 
   https://www.diarioconcepcion.cl/politica/2018/06/06/hasta-quinientas-asistentes-se-esperan-para encuentro-nacional-de-movilizadas-en-ubb.html 
@@ -104,8 +98,11 @@ content_block_es: >-
   Los desafíos que se propone la Red de defensoras de los derechos humanos es crecer en  articulación, visibilizar el trabajo realizado y socializar el programa de manera que pueda  concretarse la idea de instrumento base que permita una primera punta pie de consulta o  marco de discusión para otras feministas.  
 
 
-   
-
-
   i Paloma H.Lahr. (2020). El importante rol de los y las estudiantes secundarias en el camino que culminó con  el Apruebo Convención Constitucional. 28 septiembre 2021, de El Mostrador Sitio web:  https://www.elmostrador.cl/braga/2020/10/30/el-importante-rol-de-los-y-las-estudiantes-secundarias-en el-camino-que-culmino-con-el-apruebo-convencion-constitucional/
+
+
+  <br>
+
+
+  ![](/assets/uploads/logonor-reddefensoras-color.png)
 ---
