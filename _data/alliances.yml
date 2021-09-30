@@ -167,3 +167,9 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Colectivo Las Tesis
+    active: false
+    logo: /assets/uploads/logo-lastesis-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
