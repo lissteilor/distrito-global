@@ -15,9 +15,7 @@ content_block_es: >-
   <br>
 
 
-  JUNTAS ABORTAMOS\
-
-  video-performance colaborativa por el Día de Acción Global por un aborto legal y seguro.\
+  Video-performance colaborativa por el Día de Acción Global por un aborto legal y seguro.\
 
   Colectivo LASTESIS / Valparaíso, 2020.\
 
