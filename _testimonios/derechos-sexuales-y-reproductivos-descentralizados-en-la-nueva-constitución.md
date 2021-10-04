@@ -7,10 +7,10 @@ authors: ONG Matria Fecunda
 content_block_es: >-
   La [ONG Matria Fecunda](https://www.instagram.com/matriafecundaong/?hl=en)
   trabaja desde el año 2015 promoviendo derechos sexuales y reproductivos en un
-  contexto territorial y descentralizado de la Región del Maule.
+  contexto territorial, desigual y descentralizado de la Región del Maule.
 
 
-  La vivencia y la historia organizacional nos han llevado por el camino de las reivindicaciones de derechos de mujeres, adolescentes, niñas y disidencias sexuales/género en 4 ámbitos donde la legislación en derechos sexuales y reproductivos es insuficiente o ausente, como son el acompañamiento terapéutico en aborto, salud mental perinatal, violencia gineco-obstétrica y violencia de género. Estos focos temáticos se han materializado en ejes de acción en activismo, incidencia política, formación, redes, investigación y acompañamiento terapéutico. 
+  La vivencia y la historia organizacional nos han llevado por el camino de las reivindicaciones de derechos de mujeres, adolescentes, niñas y disidencias sexuales/género en 4 ámbitos donde la legislación en derechos sexuales y reproductivos es insuficiente o ausente. El acompañamiento terapéutico en aborto sin causales, salud mental perinatal, violencia gineco-obstétrica y primera acogida en violencia de género son insuficientes en las legislaciones en materia de violencia, amenazando derechos humanos elementales: derecho a la salud, a la integridad, derecho a no recibir tratos indignos, crueles o inhumanos, privacidad e intimidad, no discriminación y dignidad.
 
 
   Los derechos sexuales y reproductivos buscan asegurar una vida libre para decidir sobre la vida sexual y reproductiva, sin ninguna forma de coacción o violencia y con plena autonomía. Hoy sabemos que muchos de estos derechos como el derecho a una educación sexual laica y no sexista, una vida libre de violencias en todas sus formas, el acceso a métodos de anticoncepción oportuno y asequibles, la posibilidad de que el Estado ofrezca las condiciones materiales y de protección para una interrupción del embarazo en condiciones de dignidad y respeto, el resguardo a todo el ciclo reproductivo de las mujeres y las disidencias, entre otros derechos, se encuentra severamente amenazado por la falta de consagración de principios de autonomía, dignidad, respeto y libertad en la toma de decisiones en la constitución política chilena.
