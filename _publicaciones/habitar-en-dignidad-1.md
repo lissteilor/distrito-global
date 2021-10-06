@@ -35,5 +35,5 @@ content_block_es: >-
 category_es: DESCA
 category_en: DESCA
 color: dash-blue bg-blue
-pdf_publication: https://ceschile.org/wp-content/uploads/2021/09/Propuestas-Constitucionales3.pdf
+pdf_publication: https://ceschile.org/wp-content/uploads/2021/10/Habitar-en-Dignidad-Propuestas-Constitucionales.pdf
 ---
