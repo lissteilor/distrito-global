@@ -1,8 +1,8 @@
 ---
 layout: initiative-basic
 active: false
-image_thumbnail: /assets/uploads/thumb-purple-2.jpg
-image_hero: /assets/uploads/hero-purple.jpg
+image_thumbnail: /assets/uploads/thumb-pf.jpg
+image_hero: /assets/uploads/hero-pf.jpg
 title_es: Política Fiscal
 brief_es: Por una política fiscal con enfoque de derechos
 content_block_es: >-
@@ -30,7 +30,7 @@ content_block_es: >-
   #### Revive las conversaciones aquí:
 
 
-  * Nueva Constitución y Modelo Económico
+  * [Nueva Constitución y Modelo Económico](https://www.distritoglobal.org/publicaciones/nueva-constituci%C3%B3n-y-modelo-econ%C3%B3mico.html)
 title_en: Fiscal policy
 content_block_en: >-
   Our advocacy project on fiscal policy that seeks to promote a rights-based
