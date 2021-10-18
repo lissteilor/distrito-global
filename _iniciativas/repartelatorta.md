@@ -30,7 +30,7 @@ content_block_es: >-
   #### Revive las conversaciones aquí:
 
 
-  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FGIESCR%2Fvideos%2F295897502044562%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+  * Nueva Constitución y Modelo Económico
 title_en: Fiscal policy
 content_block_en: >-
   Our advocacy project on fiscal policy that seeks to promote a rights-based
