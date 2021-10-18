@@ -31,28 +31,16 @@ content_block_es: >-
   **Nicolás Eyzaguirre**, Economista, ex Ministro de Hacienda (2000-2006)
 
 
-  Javiera Martinez, Ingeniera Civil InsdusdsddJJ
+  **Javiera Martinez**, Ingeniera Civil Industrial, Presidenta de Rumbo Colectivo
 
 
   **Horacio Corti**, Abogado, profesor en la Universidad de Buenos Aires
 
 
-  **Rodrigo Uprimny**, miembro del Comité de Derechos Económicos y Sociales ONU
+  **Andrés Costa Mejía**, Académico, King's College London
 
 
-  **Olivia Minatta,** Center for Economic and Social Rights
-
-
-  *Modera:* **Paula Comandari**, periodista de Tele13 Radio
-
-
-  <br>
-
-
-  #### Revívelo aquí:
-
-
-  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FGIESCR%2Fvideos%2F295897502044562%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+  *Modera:* **Pía Mundaca**, Directora Ejecutiva, Espacio Público
 category_es: Política Fiscal
 category_en: Fiscal Policy
 color: dash-orange bg-orange
