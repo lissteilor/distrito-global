@@ -15,6 +15,7 @@ content_block_es: >-
 
   Algunos de los objetivos de la campaña son:
 
+
   <ul>
 
   <li>Generar espacios de reflexión y debate sobre  los estándares internacionales y mejores prácticas comparadas en materia de principios constitucionales para una política fiscal con enfoque de derechos.</li>
@@ -24,6 +25,12 @@ content_block_es: >-
   <li>Poner a disposición de la Convención Constitucional alternativas normativas para la consagración de principios e instituciones que garanticen una política fiscal con enfoque de derechos.</li>
 
   </ul>
+
+
+  #### Revive las conversaciones aquí:
+
+
+  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FGIESCR%2Fvideos%2F295897502044562%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 title_en: Fiscal policy
 content_block_en: >-
   Our advocacy project on fiscal policy that seeks to promote a rights-based
