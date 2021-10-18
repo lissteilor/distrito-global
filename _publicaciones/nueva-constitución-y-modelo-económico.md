@@ -2,8 +2,8 @@
 layout: publication
 active: false
 image_slider: /assets/uploads/slider-pf.jpg
-image_thumbnail: /assets/uploads/thumb-pf.jpg
-image_hero: /assets/uploads/hero-pf.jpg
+image_thumbnail: /assets/uploads/thumb-pf-1-.jpg
+image_hero: /assets/uploads/hero-pf-1-.jpg
 title_es: Nueva Constitución y Modelo Económico
 brief_es: "Ciclo de diálogos #SinRecursosNoHayDerechos"
 content_block_es: >-
