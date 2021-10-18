@@ -5,7 +5,7 @@ image_slider: /assets/uploads/slider-pf.jpg
 image_thumbnail: /assets/uploads/thumb-pf.jpg
 image_hero: /assets/uploads/hero-pf.jpg
 title_es: Nueva Constitución y Modelo Económico
-brief_es: 'Ciclo de seminarios: "Sin Recursos no hay Derechos"'
+brief_es: "Ciclo de diálogos #SinRecursosNoHayDerechos"
 content_block_es: >-
   ![](/assets/uploads/fa894vsvkauux74-1-.jpeg)
 
