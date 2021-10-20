@@ -3,7 +3,7 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-eis.jpg
 image_hero: /assets/uploads/hero-eis.jpg
 title_es: Educación integral en sexualidad en la nueva constitución
-authors: Danitza Pérez Cáceres (ABOFEM)
+authors: Danitza Pérez Cáceres, ABOFEM
 content_block_es: >-
   Con el “apruebo” del 25 de octubre de 2020, la ciudadanía decidió tener la
   oportunidad de reescribir una nueva constitución. Esta deliberación ocurre en
