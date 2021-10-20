@@ -3,37 +3,37 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-cuidados.jpg
 image_hero: /assets/uploads/hero-cuidados.jpg
 title_es: Derecho al trabajo remunerado
-authors: Paula Poblete Maureira (Comunidad Mujer)
+authors: Paula Poblete Maureira (Directora de Estudios, Comunidad Mujer)
 content_block_es: >-
-  En Chile hemos normalizado una serie de injusticias. No nos sorprende que
-  alguien que vive en el norte o en el sur del país tenga menos oportunidades
-  (de todo tipo) que alguien que vive en la capital; no nos parece insólito que
-  por el hecho de tener dinero alguien pueda acceder a servicios de salud y
-  educación de buena calidad y que ocurra lo contrario cuando el dinero escasea;
-  no nos resulta fuera de toda lógica que una comunidad se quede sin agua porque
-  un proyecto empresarial compró todos los derechos de aprovechamiento y la
-  acapara con el fin de asegurar su negocio. De igual modo, hemos normalizado
-  que sean las mujeres las que tienen que hacer malabares para conciliar la vida
-  familiar y laboral o que, si no lo consiguen, simplemente no se inserten en el
-  mercado laboral.
+  <em>En Chile hemos normalizado una serie de injusticias.</em> No nos sorprende
+  que alguien que vive en el norte o en el sur del país tenga menos
+  oportunidades (de todo tipo) que alguien que vive en la capital; no nos parece
+  insólito que por el hecho de tener dinero alguien pueda acceder a servicios de
+  salud y educación de buena calidad y que ocurra lo contrario cuando el dinero
+  escasea; no nos resulta fuera de toda lógica que una comunidad se quede sin
+  agua porque un proyecto empresarial compró todos los derechos de
+  aprovechamiento y la acapara con el fin de asegurar su negocio. <em>De igual
+  modo, hemos normalizado que sean las mujeres las que tienen que hacer
+  malabares para conciliar la vida familiar y laboral o que, si no lo consiguen,
+  simplemente no se inserten en el mercado laboral.</em>
 
 
   Nos parece casi natural que sean ellas las principales responsables de cuidar a quienes tienen algún nivel de dependencia, niñas, niños, personas adultas mayores, enfermas y/o discapacitadas y que, por lo tanto, sus posibilidades de desarrollarse en el espacio laboral o de lograr la autonomía económica, estén supeditadas a no tener este tipo de responsabilidades o a conseguir delegarlas (generalmente en otra mujer).
 
 
-  Sin embargo, el que ellas estén asociadas a la responsabilidad del cuidado es una construcción social, no es algo inherente, determinado por la biología o la naturaleza. Su sexo no define que tengan una mayor habilidad para el cuidado. Como tantas otras, la adquieren en el proceso de socialización, la aprenden porque se les enseña. Es la sociedad —cada una en su contexto, variable según el momento y el lugar— la que ha ido definiendo qué es lo permitido para las mujeres, lo deseable y lo valorable en ellas. Y de modo análogo con los hombres.
+  Sin embargo, <em>el que ellas estén asociadas a la responsabilidad del cuidado es una construcción social,</em> no es algo inherente, determinado por la biología o la naturaleza. Su sexo no define que tengan una mayor habilidad para el cuidado. Como tantas otras, la adquieren en el proceso de socialización, la aprenden porque se les enseña. Es la sociedad —cada una en su contexto, variable según el momento y el lugar— la que ha ido definiendo qué es lo permitido para las mujeres, lo deseable y lo valorable en ellas. Y de modo análogo con los hombres.
 
 
-  Estos procesos culturales se han visto reforzados por la institucionalidad, las leyes y los diversos programas públicos. Por ejemplo, en el Código del Trabajo chileno, las responsables de la familia son las mujeres. Las únicas titulares de los diferentes derechos a cuidar son las madres trabajadoras: del pre y posnatal, posnatal parental, fuero maternal, derecho de alimentación, sala cuna y licencia por enfermedad grave del niño/a menor de un año. En Chile, los padres trabajadores no tienen derecho a cuidar (ni deber). Solo si la madre renuncia a su derecho y se lo traspasa al padre, él puede ejercerlo, pero no en todos los casos, solo en el posnatal parental, el derecho de alimentación y la licencia por enfermedad grave del niño/a menor de un año. 
+  <em>Estos procesos culturales se han visto reforzados por la institucionalidad, las leyes y los diversos programas públicos.</em> Por ejemplo, en el Código del Trabajo chileno, las responsables de la familia son las mujeres. Las únicas titulares de los diferentes derechos a cuidar son las madres trabajadoras: del pre y posnatal, posnatal parental, fuero maternal, derecho de alimentación, sala cuna y licencia por enfermedad grave del niño/a menor de un año. En Chile, los padres trabajadores no tienen derecho a cuidar (ni el deber). Sólo si la madre renuncia a su derecho y se lo traspasa al padre, él puede ejercerlo, pero no en todos los casos, sólo en el posnatal parental, el derecho de alimentación y la licencia por enfermedad grave del niño/a menor de un año. 
 
 
-  Este tipo de normativas no solo refuerza los roles estereotipados entre hombres y mujeres, sino que establece costos de contratación distintos. Así, las mujeres son comparativamente más caras que los hombres y eso se traduce en barreras para obtener un trabajo remunerado o se expresa en menores salarios. Esto es injusto y debe cambiar.
+  <em>Este tipo de normativas no sólo refuerza los roles estereotipados entre hombres y mujeres, sino que establece costos de contratación distintos.</em> Así, las mujeres son comparativamente más caras que los hombres y eso se traduce en barreras para obtener un trabajo remunerado o se expresa en menores salarios. Esto es injusto y debe cambiar.
 
 
   El proceso constituyente precisamente es fruto del cuestionamiento que hicimos sobre nuestra normalidad. Hubo desigualdades que se nos hicieron intolerables. Así, la deliberación colectiva y, en definitiva, la nueva Constitución, como la más evidente materialización de un nuevo pacto social, ofrecen una tremenda oportunidad para mejorar las experiencias de vida de las mujeres en relación con el trabajo remunerado. Por diversas vías se puede avanzar para que las mujeres tengan el mismo derecho que los hombres a este trabajo, es decir, en igualdad de condiciones y que las responsabilidades sobre el cuidado no se transformen en una desventaja para ellas. Son múltiples los compromisos nacionales e internacionales que Chile ha asumido en esta materia y que es urgente hacerlos realidad.
 
 
-  Si se logra consagrar como principios rectores de una sociedad justa e igualitaria aquel que establece la igualdad sustantiva y la no discriminación por razones de sexo (entre otras) y el de la corresponsabilidad social de los cuidados, se estará allanado el camino para instaurar el derecho al trabajo remunerado y a la igualdad salarial entre hombres y mujeres.
+  Si se logra <mark>consagrar como principios rectores de una sociedad justa e igualitaria aquel que establece la igualdad sustantiva y la no discriminación por razones de sexo (entre otras) y el de la corresponsabilidad social de los cuidados</mark>, se estará allanado el camino para instaurar el derecho al trabajo remunerado y a la igualdad salarial entre hombres y mujeres.
 
 
   Bajo el marco de una Constitución de este tipo, será posible impulsar medidas afirmativas que se traduzcan en resultados concretos. Este es el caso de las políticas que favorecen la corresponsabilidad de los cuidados entre mujeres y hombres, como la sala cuna universal, el postnatal parental de uso exclusivo para padres y la ampliación de la cobertura del Subsistema Nacional de Apoyos y Cuidados, que contribuyen a equiparar las oportunidades de acceso al mercado laboral y a reducir las fuentes de la brecha salarial de género. 
@@ -52,8 +52,6 @@ content_block_es: >-
 
 
   Es crucial materializar la corresponsabilidad entre el Estado, la sociedad y las comunidades locales para desfamiliarizar el rol de los cuidados y, así lograr desfeminizarlos. Solo así avanzaremos en que el derecho al trabajo remunerado de hombres y mujeres en igualdad de condiciones sea una realidad.
-
-
 
 
   ![](/assets/uploads/logonor-comunidadmujer-color.png)
