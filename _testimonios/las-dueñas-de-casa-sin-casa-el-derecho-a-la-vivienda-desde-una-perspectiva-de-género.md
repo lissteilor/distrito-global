@@ -4,8 +4,8 @@ image_thumbnail: /assets/uploads/thumb-vivienda.jpg
 image_hero: /assets/uploads/hero-vivienda.jpg
 title_es: "Las dueñas de casa sin casa: El derecho a la vivienda desde una
   perspectiva de género"
-authors: Paz María Zúñiga (Centro de Estudios Socio-territoriales de Techo-Chile
-  y Fundación Vivienda)
+authors: Paz María Zúñiga, Centro de Estudios Socio-territoriales de Techo-Chile
+  y Fundación Vivienda
 content_block_es: >-
   Este año la coordinadora feminista 8M, en conjunto con otras organizaciones,
   publicó un libro<sup>1</sup> que relata, a modo de memoria, el extenso, arduo
