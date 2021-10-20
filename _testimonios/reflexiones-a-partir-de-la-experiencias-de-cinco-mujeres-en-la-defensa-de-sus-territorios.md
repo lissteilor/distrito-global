@@ -4,7 +4,7 @@ image_thumbnail: /assets/uploads/thumb-ambiente.jpg
 image_hero: /assets/uploads/hero-ambiente.jpg
 title_es: Reflexiones a partir de las experiencias de cinco mujeres en la
   defensa de sus territorios
-authors: Macarena Martinic (ONG FIMA)
+authors: Macarena Martinic, ONG FIMA
 content_block_es: >-
   En el marco de la invitación realizada por del proyecto “Más que Juanitas” de
   la Iniciativa Global por los Derechos Económicos, Sociales y Culturales,
