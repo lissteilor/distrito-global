@@ -3,7 +3,7 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-niñas-1-.jpg
 image_hero: /assets/uploads/hero-juanitas.jpg
 title_es: La visión de niñas y adolescentes
-authors: Bárbara, 13 años (Corporación Opción)
+authors: Bárbara, 13 años, Corporación Opción
 content_block_es: >-
   Debería haber equidad entre hombres y mujeres. No necesariamente que la
   mujer sea mejor o esté por encima del hombre, sino que pueda estar a la par. 
