@@ -79,5 +79,5 @@ content_block_es: >-
 
 
   ![](/assets/uploads/logonor-comunidadmujer-color.png)
-pdf_document: https://www.comunidadmujer.cl/biblioteca-publicaciones/wp-content/uploads/2021/04/Una-Constituci%C3%B3n-para-la-Igualdad-2021.pdf
+pdf_document: ""
 ---
