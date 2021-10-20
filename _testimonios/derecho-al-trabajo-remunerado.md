@@ -3,7 +3,7 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-juanitas-teletrabajo-5-.jpg
 image_hero: /assets/uploads/hero-juanitas-teletrabajo.jpg
 title_es: Derecho al trabajo remunerado
-authors: Paula Poblete Maureira, Comunidad Mujer
+authors: Paula Poblete Maureira, ComunidadMujer
 content_block_es: >-
   <em>En Chile hemos normalizado una serie de injusticias.</em> No nos sorprende
   que alguien que vive en el norte o en el sur del país tenga menos
