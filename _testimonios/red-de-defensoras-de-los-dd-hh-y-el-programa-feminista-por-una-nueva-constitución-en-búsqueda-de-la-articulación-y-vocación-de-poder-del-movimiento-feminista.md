@@ -5,7 +5,7 @@ image_hero: /assets/uploads/hero-desca.jpg
 title_es: "Red de Defensoras de los DD.HH. y el Programa Feminista por una nueva
   constitución: En búsqueda de la articulación y vocación de poder del
   movimiento feminista"
-authors: Karen Espinoza Sobarzo (Red de Defensoras de los Derechos Humanos)
+authors: Karen Espinoza Sobarzo, Red de Defensoras de los Derechos Humanos
 content_block_es: >-
   <br>
 
