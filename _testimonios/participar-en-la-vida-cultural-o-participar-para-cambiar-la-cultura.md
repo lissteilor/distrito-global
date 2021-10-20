@@ -3,7 +3,7 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-cultura-1-.jpg
 image_hero: /assets/uploads/hero-cultura.jpg
 title_es: Participar en la vida cultural, o participar para cambiar la cultura
-authors: Loreto Bravo Fernández (Corporación La Morada)
+authors: Loreto Bravo Fernández, Corporación La Morada
 content_block_es: >-
   Si asumimos que, con certeza, el sistema patriarcal es una hegemonía política,
   cultural, económica y espiritual, que se funda en, y se nutre de la
