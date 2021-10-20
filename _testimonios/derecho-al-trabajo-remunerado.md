@@ -54,8 +54,6 @@ content_block_es: >-
   <mark>Es crucial materializar la corresponsabilidad entre el Estado, la sociedad y las comunidades locales para desfamiliarizar el rol de los cuidados y, así lograr desfeminizarlos.</mark> Solo así avanzaremos en que el derecho al trabajo remunerado de hombres y mujeres en igualdad de condiciones sea una realidad.
 
 
-
-
   #### Propuestas
 
 
@@ -72,6 +70,9 @@ content_block_es: >-
 
 
   <mark>Como principios rectores, ComunidadMujer recomienda establecer el principio de igualdad sustantiva y no discriminación y el principio de corresponsabilidad social de los cuidados. Entre los derechos fundamentales de las mujeres, sugiere integrar el derecho a la igualdad sustantiva y a la no discriminación; el derecho a una vida libre de violencia; el derecho al trabajo remunerado y a la igualdad salarial; y el derecho a una educación no sexista. Finalmente, insta al Estado a reconocer el trabajo de cuidados no remunerado como actividad productiva y a garantizar la participación paritaria de mujeres y hombres en la vida política, contemplando la necesidad de introducir normas de equidad de género en la composición de sus órganos.</mark>
+
+
+  ##### [Revisa el documento de propuestas aquí](https://www.comunidadmujer.cl/biblioteca-publicaciones/wp-content/uploads/2021/04/Una-Constituci%C3%B3n-para-la-Igualdad-2021.pdf)
 
 
   <br>
