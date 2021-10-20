@@ -4,7 +4,7 @@ image_thumbnail: /assets/uploads/thumb-indígenas.jpg
 image_hero: /assets/uploads/hero-indígenas.jpg
 title_es: El rol de las mujeres indígenas en el desarrollo social, político y
   cultural de sus pueblos y en la construcción de un nuevo Chile
-authors: Karina Vargas Hernández (Observatorio Ciudadano)
+authors: Karina Vargas Hernández, Observatorio Ciudadano
 content_block_es: >-
   El proceso constituyente en desarrollo es una oportunidad para repensar el
   país en que vivimos y establecer nuevas formas de convivencia entre las
