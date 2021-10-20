@@ -4,7 +4,7 @@ image_thumbnail: /assets/uploads/thumb-zdes.jpg
 image_hero: /assets/uploads/hero-juanitas-ambiente.jpg
 title_es: "Mujeres de Zonas de Sacrificio en Resistencia de Quintero y
   Puchuncaví: reflexiones y propuestas"
-authors: Anita Peña Saavedra (Mujeres de Zona de Sacrificio)
+authors: Anita Peña Saavedra, Mujeres de Zona de Sacrificio en Resistencia
 content_block_es: >-
   <em>Nuestro territorio es una zona de sacrificio.</em> Quintero y Puchuncaví
   son comunas de la provincia de Valparaíso, ubicada en la zona central de
