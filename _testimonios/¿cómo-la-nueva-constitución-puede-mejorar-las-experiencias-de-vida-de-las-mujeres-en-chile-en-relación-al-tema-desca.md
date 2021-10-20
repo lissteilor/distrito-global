@@ -3,7 +3,7 @@ layout: testimony
 image_thumbnail: /assets/uploads/thumb-justicia.jpg
 image_hero: /assets/uploads/hero-justicia.jpg
 title_es: Mujeres y sistema judicial
-authors: Karina, adulta (Corporación Opción)
+authors: Karina, adulta
 content_block_es: >-
   Esta nueva Constitución es el cambio que necesitábamos las mujeres de nuestro
   país para garantizar el cumplimiento de nuestros derechos, porque hoy en día
