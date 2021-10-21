@@ -73,7 +73,10 @@ content_block_es: >-
   Se espera que el programa sea un instrumento guía, que permita el avance, contenido y diálogo que contribuya al sustento de las transformaciones urgentes que requiere nuestro país pensado del cuerpo y experiencia vital de mujeres del sur de Chile.  
 
 
-  Los desafíos que se propone la Red de Defensoras de los Derechos Humanos es crecer en  articulación, visibilizar el trabajo realizado y socializar el programa de manera que pueda concretarse la idea de instrumento base que permita un primer puntapié de consulta o marco de discusión para otras feministas. 
+  Los desafíos que se propone la Red de Defensoras de los Derechos Humanos es crecer en  articulación, visibilizar el trabajo realizado y socializar el programa de manera que pueda concretarse la idea de instrumento base que permita un primer puntapié de consulta o marco de discusión para otras feministas.
+
+
+  ##### [Conoce el Programa Feminista por una Nueva Constitución aquí](https://issuu.com/reddefensorasddhh/docs/programa_feminista_por_una_nueva_constituci_n_red_)
 
 
   <br>
