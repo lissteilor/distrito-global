@@ -179,3 +179,21 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Cooperativa Desbordada
+    active: false
+    logo: /assets/uploads/logo-desbordada-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: ComunidadMujer
+    active: false
+    logo: /assets/uploads/logo-comunidadmujer-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
+  - name: ONG Madre Nativa
+    active: false
+    logo: /assets/uploads/logo-madrenativa-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
