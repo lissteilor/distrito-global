@@ -47,4 +47,10 @@ content_block_es: >-
   * Devolver la soberanía sanitaria y recuperar el conocimiento médico de los pueblos originarios, feministas y populares. 
 
   * Educar en la autoexploración y reconocimiento de nuestra biología, cuerpos, salud, como un territorio de identidad y conocimiento propio, sin prejuicios, tabúes ni discriminación.
+
+
+  <br>
+
+
+  ![](/assets/uploads/logonor-madrenativa-color.png)
 ---
