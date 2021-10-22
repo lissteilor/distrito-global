@@ -1,7 +1,7 @@
 ---
 layout: testimony
-image_thumbnail: /assets/uploads/thumb-juanitas-1-.jpg
-image_hero: /assets/uploads/hero-juanitas-5-.jpg
+image_thumbnail: /assets/uploads/thumb-migrantes.jpg
+image_hero: /assets/uploads/hero-migrantes.jpg
 title_es: Mujeres y migración
 authors: Catalina Bosch Carcuro, Coordinadora Nacional de Inmigrantes /
   Plataforma Chile Migra
