@@ -197,3 +197,9 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Coordinadora Nacional de Inmigrantes
+    active: false
+    logo: /assets/uploads/logo-migrantes-gris-1-.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
