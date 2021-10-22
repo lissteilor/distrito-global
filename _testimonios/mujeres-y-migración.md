@@ -25,4 +25,10 @@ content_block_es: >-
 
 
   #### [También descarga la Cartilla "Movilidad Humana y Nueva Constitución" aquí](https://observatorio.cl/wp-content/uploads/2021/10/cartilla-movilidad-humana-y-nueva-constitucin.pdf)
+
+
+  <br>
+
+
+  ![](/assets/uploads/logonor-migrantes-color.png)
 ---
