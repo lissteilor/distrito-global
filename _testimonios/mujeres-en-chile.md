@@ -2,7 +2,7 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-desca.jpg
 image_hero: /assets/uploads/hero-desca.jpg
-title_es: Mujeres en Chile
+title_es: Las mujeres en Chile
 authors: Mariela Infante Erazo, Corporación Humanas
 content_block_es: '<div class="video-responsive"><iframe width="100%"
   height="100%"
