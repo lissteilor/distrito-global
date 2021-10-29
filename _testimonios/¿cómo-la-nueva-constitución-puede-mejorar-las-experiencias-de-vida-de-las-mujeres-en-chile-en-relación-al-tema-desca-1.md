@@ -2,7 +2,7 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-niñas-1-.jpg
 image_hero: /assets/uploads/hero-niñas.jpg
-title_es: La visión de niñas y adolescentes
+title_es: Nueva Constitución, niñas y adolescentes
 authors: Paz, 14 años
 content_block_es: >-
   Uno de los factores influyentes para mejorar la vida de las mujeres en una
