@@ -2,7 +2,7 @@
 layout: testimony
 image_thumbnail: /assets/uploads/thumb-dsr.jpg
 image_hero: /assets/uploads/hero-juanitas-4-.jpg
-title_es: Derechos sexuales y reproductivos y derecho a la salud
+title_es: Salud y autonomía sexual y reproductiva
 authors: Fundación Observatorio de Violencia Obstétrica de Chile (OVO Chile)
 content_block_es: >-
   Como Fundación Observatorio de Violencia Obstétrica de Chile (OVO) creemos que
