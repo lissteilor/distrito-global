@@ -203,3 +203,9 @@ items:
     category_es: Nacionales
     category_en: National
     color: dash-green
+  - name: Corporación Humanas
+    active: true
+    logo: /assets/uploads/logo-humanas-gris.png
+    category_es: Nacionales
+    category_en: National
+    color: dash-green
