@@ -43,6 +43,22 @@ content_block_es: >-
   <br>
 
 
+  #### Mas que Juanitas en los medios:
+
+
+  * [Más que Juanitas](https://www.elmostrador.cl/braga/2021/09/06/mas-que-juanitas/)
+
+  * [Las dueñas de casa sin casa: el derecho a la vivienda desde una perspectiva de género](https://www.elmostrador.cl/braga/2021/09/27/las-duenas-de-casa-sin-casa-el-derecho-a-la-vivienda-desde-una-perspectiva-de-genero/)
+
+  * [El rol de las mujeres indígenas en el desarrollo social, político y cultural de sus pueblos y en la construcción de un nuevo Chile](https://www.elmostrador.cl/braga/2021/10/12/el-rol-de-las-mujeres-indigenas-en-el-desarrollo-social-politico-y-cultural-de-sus-pueblos-y-en-la-construccion-de-un-nuevo-chile/)
+
+  * [La visión de las mujeres afrodescendientes](https://www.elmostrador.cl/braga/2021/10/18/la-vision-de-las-mujeres-afrodescendientes/)
+
+  * [Enfoque de género en el proceso constituyente chileno](https://www.rimisp.org/noticia/enfoque-de-genero-en-el-proceso-constituyente-chileno/)
+
+  * [Derechos sexuales y reproductivos descentralizados en la Nueva Constitución](https://www.elmostrador.cl/braga/2021/11/01/derechos-sexuales-y-reproductivos-descentralizados-en-la-nueva-constitucion/)
+
+
   <br>
 
 
