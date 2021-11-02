@@ -1,7 +1,7 @@
 ---
 layout: initiative-book
 active: true
-image_thumbnail: /assets/uploads/slider-ensayos-natural-1-.jpg
+image_thumbnail: /assets/uploads/thumb-libro.jpg
 image_hero: /assets/uploads/hero-libro-color.jpg
 title_es: Derechos sociales y el momento constituyente de Chile
 summary_es: "Convocamos a más de 50 expertos y expertas a nivel global a
@@ -11,13 +11,10 @@ summary_es: "Convocamos a más de 50 expertos y expertas a nivel global a
 brief_es: Perspectivas globales y locales para el debate constitucional
 button_es: Revisa los tomos
 content_block_es: >-
-  <p>A nivel global, existe un vínculo entre los niveles de desigualdad y los de
-  protección de derechos socioeconómicos y medioambientales: en general, a menor
-  protección de estos derechos, mayor tiende a ser la desigualdad, y viceversa.
-  Por ello desde hace décadas, las demandadas ciudadanas en Chile se hayan
-  centrado en el acceso a estos derechos, incluyendo educación, salud, pensiones
-  y vivienda, las que sólo se agudizaron con el estallido social y el impacto
-  desastroso de la pandemia.</p>
+  <br>
+
+
+  <p>A nivel global, existe un vínculo entre los niveles de desigualdad y los de protección de derechos socioeconómicos y medioambientales: en general, a menor protección de estos derechos, mayor tiende a ser la desigualdad, y viceversa. Por ello desde hace décadas, las demandadas ciudadanas en Chile se hayan centrado en el acceso a estos derechos, incluyendo educación, salud, pensiones y vivienda, las que sólo se agudizaron con el estallido social y el impacto desastroso de la pandemia.</p>
 
 
   <p>Es por eso que hoy Chile vive un momento de esperanza y de potencial transformación que le pone en el foco de atención mundial, pues es una oportunidad histórica de tomarse los derechos socioeconómicos y medioambientales en serio en un proceso político participativo que no deje a nadie atrás.</p>
