@@ -1,7 +1,7 @@
 ---
 layout: initiative-basic
 active: true
-image_thumbnail: /assets/uploads/thumb-lcen.jpg
+image_thumbnail: /assets/uploads/thumb-lcen-1-.jpg
 image_hero: /assets/uploads/hero-lcen.jpg
 title_es: La Constitución es Nuestra
 summary_es: "Desarrollamos una plataforma digital abierta y colaborativa que
