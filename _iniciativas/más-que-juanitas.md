@@ -58,6 +58,8 @@ content_block_es: >-
 
   * [Derechos sexuales y reproductivos descentralizados en la Nueva Constitución](https://www.elmostrador.cl/braga/2021/11/01/derechos-sexuales-y-reproductivos-descentralizados-en-la-nueva-constitucion/)
 
+  * [El rol de las mujeres y niñas en la gestión hídrica](https://www.elmostrador.cl/braga/2021/11/04/el-rol-de-las-mujeres-y-ninas-en-la-gestion-hidrica/)
+
 
   <br>
 
