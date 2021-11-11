@@ -60,9 +60,9 @@ content_block_es: >-
 
   * [El rol de las mujeres y niñas en la gestión hídrica](https://www.elmostrador.cl/braga/2021/11/04/el-rol-de-las-mujeres-y-ninas-en-la-gestion-hidrica/)
 
+  * [Teletrabajo e inequidades de género: "Durante la crisis sanitaria no ha sido voluntario ni gradual, esto ha traído una sobre exigencia a las mujeres"](https://www.elmostrador.cl/braga/2021/11/10/teletrabajo-e-inequidades-de-genero-en-el-contexto-de-la-crisis-sanitaria-no-ha-sido-voluntario-ni-gradual-lo-que-ha-traido-aparejado-una-sobre-exigencia-a-las-mujeres/)
 
-  <br>
-
+    <brA
 
   <small>¿Quieres participar de Más que Juanitas? Contáctanos [aquí](https://www.distritoglobal.org/contacto/)</small>
 title_en: More than Juanitas
