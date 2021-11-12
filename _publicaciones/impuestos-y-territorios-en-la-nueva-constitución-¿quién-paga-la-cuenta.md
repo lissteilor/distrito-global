@@ -46,7 +46,7 @@ content_block_es: >-
   #### Revívelo aquí:
 
 
-  <div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fhttps://www.facebook.com/GIESCR/videos/457587502460150%2F&amp;show_text=false&amp;width=560&amp;t=0" style="position:absolute; top:0; left: 0" scrolling="no" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" width="100%" height="100%" frameborder="0"></iframe></div>
+  <div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fhttps://www.facebook.com%GIESCR%videos%457587502460150%2F&amp;show_text=false&amp;width=560&amp;t=0" style="position:absolute; top:0; left: 0" scrolling="no" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" width="100%" height="100%" frameborder="0"></iframe></div>
 category_es: Política Fiscal
 category_en: Fiscal Policy
 color: dash-orange bg-orange
