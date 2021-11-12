@@ -33,6 +33,8 @@ content_block_es: >-
   * Diálogo #1: [Nueva Constitución y Modelo Económico](https://www.distritoglobal.org/publicaciones/nueva-constituci%C3%B3n-y-modelo-econ%C3%B3mico.html)
 
   * Diálogo #2: [Régimen Político y Constitución Financiera](https://www.distritoglobal.org/publicaciones/r%C3%A9gimen-pol%C3%ADtico-y-constituci%C3%B3n-financiera.html)
+
+  * Diálogo #3: Impuestos y territoriosen la Nueva Constitución, ¿quién paga la cuenta?
 title_en: Fiscal policy
 content_block_en: >-
   Our advocacy project on fiscal policy that seeks to promote a rights-based
