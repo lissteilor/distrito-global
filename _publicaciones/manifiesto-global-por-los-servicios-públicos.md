@@ -42,8 +42,8 @@ content_block_en: >-
 
 
   <br>
-category_es: DESCA
-category_en: DESCA
-color: dash-blue bg-blue
+category_es: Internacional
+category_en: International
+color: dash-green bg-green
 pdf_publication: /assets/uploads/el-futuro-es-publico-manifiesto-global-por-los-servicios-publicos.pdf
 ---
