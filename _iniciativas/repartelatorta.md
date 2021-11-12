@@ -1,6 +1,6 @@
 ---
 layout: initiative-basic
-active: false
+active: true
 image_thumbnail: /assets/uploads/thumb-pf.jpg
 image_hero: /assets/uploads/hero-pf.jpg
 title_es: Política Fiscal
