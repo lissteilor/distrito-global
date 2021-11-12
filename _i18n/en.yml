@@ -85,11 +85,11 @@ publications:
   download_index: Download
   categories:
     all: All
-    category_1: Fiscal Policy
+    category_1: Constitution
     category_2: Public Services
     category_3: ESCR
     category_4: Gender
-    category_5: Constitution
+    category_5: Fiscal Policy
     pagination:
       prev: Previous
       next: Next
