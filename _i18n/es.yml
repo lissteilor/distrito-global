@@ -85,11 +85,11 @@ publications:
   download_index: Descargar
   categories:
     all: Todas
-    category_1: Constitución
+    category_1: Política Fiscal
     category_2: Servicios Públicos
     category_3: DESCA
     category_4: Género
-    category_5: Política fiscal
+    category_5: Constitución
     pagination:
       prev: Anterior
       next: Siguiente
