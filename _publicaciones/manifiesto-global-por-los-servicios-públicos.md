@@ -22,6 +22,12 @@ content_block_es: >-
   <br>
 
 
+  ##### [Conoce el Manifiesto aquí](https://futureispublic.org/wp-content/uploads/2021/10/El-futuro-es-publico-Manifiesto-global-por-los-servicios-publicos.pdf)
+
+
+  <br>
+
+
   ##### [Firma el Manifiesto Global por los Servicios Públicos aquí](https://docs.google.com/forms/d/e/1FAIpQLSdR7wGA3AWHl7LQVurN8jHv1CXlJJbnCY3ZxOCxbbJ18OBJ7w/viewform)
 title_en: "Enough is Enough: The future is public"
 brief_en: Manifesto for public services
