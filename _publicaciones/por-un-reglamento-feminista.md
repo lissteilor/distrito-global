@@ -1,6 +1,6 @@
 ---
 layout: publication
-active: true
+active: false
 image_slider: /assets/uploads/slider-reglamento.jpg
 image_thumbnail: /assets/uploads/thumb-reglamento-2-.jpg
 image_hero: /assets/uploads/hero-reglamento-2-.jpg
