@@ -5,6 +5,9 @@ image_thumbnail: /assets/uploads/thumb-pf.jpg
 image_hero: /assets/uploads/hero-pf.jpg
 title_es: Política Fiscal
 brief_es: Por una política fiscal con enfoque de derechos
+button_es: Las decisiones en torno a cómo el estado recauda y gasta sus recursos
+  deben estar orientadas hacia la satisfacción de los derechos sociales de la
+  población
 content_block_es: >-
   <p>Política Fiscal es un proyecto de incidencia que busca promover una
   política fiscal con enfoque de derechos en el marco del proceso constituyente
