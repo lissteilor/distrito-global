@@ -1,6 +1,6 @@
 ---
 layout: publication
-active: false
+active: true
 image_slider: /assets/uploads/slider-techo2.jpg
 image_thumbnail: /assets/uploads/thumb-techo2.jpg
 image_hero: /assets/uploads/hero-techo2.jpg
