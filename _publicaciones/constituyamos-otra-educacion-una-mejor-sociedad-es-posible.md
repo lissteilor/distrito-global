@@ -1,6 +1,6 @@
 ---
 layout: publication
-active: true
+active: false
 image_slider: /assets/uploads/slider-summa.jpg
 image_thumbnail: /assets/uploads/thumb-summa.jpg
 image_hero: /assets/uploads/hero-summa.jpg
