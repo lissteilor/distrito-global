@@ -1,6 +1,6 @@
 ---
 layout: initiative-basic
-active: true
+active: false
 image_thumbnail: /assets/uploads/thumb-lcen.jpg
 image_hero: /assets/uploads/hero-lcen.jpg
 title_es: La Constitución es Nuestra
