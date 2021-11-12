@@ -1,6 +1,6 @@
 ---
 layout: publication
-active: false
+active: true
 image_slider: /assets/uploads/slider-pf.jpg
 image_thumbnail: /assets/uploads/thumb-pf-1-.jpg
 image_hero: /assets/uploads/hero-pf-1-.jpg
