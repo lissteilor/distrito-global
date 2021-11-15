@@ -40,7 +40,7 @@ content_block_es: >-
 
   * Diálogo #3: [Impuestos y territorios en la Nueva Constitución, ¿quién paga la cuenta?](https://www.distritoglobal.org/publicaciones/impuestos-y-territorios-en-la-nueva-constituci%C3%B3n-%C2%BFqui%C3%A9n-paga-la-cuenta.html)
 
-  * Diálogo #4: Política fiscal para un Chile verde y feminista
+  * Diálogo #4: [Política fiscal para un Chile verde y feminista](https://www.distritoglobal.org/publicaciones/pol%C3%ADtica-fiscal-para-un-chile-verde-y-feminista.html)
 title_en: Fiscal policy
 content_block_en: >-
   Our advocacy project on fiscal policy that seeks to promote a rights-based
