@@ -50,6 +50,12 @@ content_block_es: >-
 
   * Sebastián Smart, director regional del INDH en Los Ríos (Chile)
 
+  * Andrea Bentancor, PhD en Economía y profesora de la Universidad de Talca (Chile)
+
+  * Cristóbal Otero, PhD (c) en Economía y editor del libro "Impuestos justos"
+
+  * Aldo Madariaga, investigador de COES
+
 
   El ciclo de diálogos #SinRecursosNoHayDerechos es organizado por la Iniciativa Global por los Derechos Económicos, Sociales y Culturales (GI-ESCR), en alianza con Espacio Público, OXFAM, Ciudadanía Inteligente, Center for Economic and Social Rights, Centro Contribuye, la Iniciativa por los Principios de Derechos Humanos en Política Fiscal y COES.
 
@@ -57,14 +63,13 @@ content_block_es: >-
   ### Revive los diálogos aquí
 
 
-  Diálogo 1: Nueva Constitución y modelo económico
+  * Diálogo #1: [Nueva Constitución y Modelo Económico](https://www.distritoglobal.org/publicaciones/nueva-constituci%C3%B3n-y-modelo-econ%C3%B3mico.html)
 
+  * Diálogo #2: [Régimen Político y Constitución Financiera](https://www.distritoglobal.org/publicaciones/r%C3%A9gimen-pol%C3%ADtico-y-constituci%C3%B3n-financiera.html)
 
-  ```
+  * Diálogo #3: [Impuestos y territorios en la Nueva Constitución, ¿quién paga la cuenta?](https://www.distritoglobal.org/publicaciones/impuestos-y-territorios-en-la-nueva-constituci%C3%B3n-%C2%BFqui%C3%A9n-paga-la-cuenta.html)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/quo6Uh1VnoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  ```
+  * Diálogo #4: [Política fiscal para un Chile verde y feminista](https://www.distritoglobal.org/publicaciones/pol%C3%ADtica-fiscal-para-un-chile-verde-y-feminista.html)
 category_es: Noticias
 category_en: News
 color: dash-pink
