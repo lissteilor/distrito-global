@@ -1,6 +1,6 @@
 ---
 layout: news
-active-l: true
+active-l: false
 active-m: false
 image_thumbnail: /assets/uploads/thumb-10.jpg
 image_hero: /assets/uploads/hero-10.jpg
