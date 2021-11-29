@@ -46,7 +46,7 @@ content_block_es: >-
   #### Revívelo aquí
 
 
-  https://youtu.be/quo6Uh1VnoU
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/quo6Uh1VnoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 category_es: Política Fiscal
 category_en: Fiscal Policy
 color: dash-orange bg-orange
