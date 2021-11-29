@@ -43,7 +43,10 @@ content_block_es: >-
   <br>
 
 
-  #### [Inscríbete aquí](https://us02web.zoom.us/webinar/register/8716369963124/WN_i1sxLrC-SOKbUysFau3l9w)
+  #### Revívelo aquí
+
+
+  https://youtu.be/quo6Uh1VnoU
 category_es: Política Fiscal
 category_en: Fiscal Policy
 color: dash-orange bg-orange
