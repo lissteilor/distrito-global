@@ -8,7 +8,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Quiénes viven en el campamento?
+  ##### ¿Quiénes viven en el campamento?
 
 
   Mira, en general aquí las familias trabajan en la feria o tienen algún puesto en la calle. La mayoría son comerciantes ambulantes y otro sector trabaja en la feria. Y los jefes de familia trabajan en construcción. Y eso es más que nada, pero aquí lo que predomina mucho es el comercio ambulante. Familias que trabajan en el comercio ambulante.
@@ -17,7 +17,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Por qué llegan a vivir las personas a un campamento?
+  ##### ¿Por qué llegan a vivir las personas a un campamento?
 
 
   Mi experiencia personal y de varias familias con las que yo he conversado, es porque se ha demorado el subsidio habitacional. La mayoría, o algunos pocos, hemos tratado de hacerlo por la vía que corresponde, y estos subsidios se demoran muchísimo. Entonces, claro, la familia empieza a crecer, uno está de allegado en la casa de los papás o está arrendando con un sueldo mínimo que no te alcanza, y el espacio en que tú estás ya no da. 
@@ -28,7 +28,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Cuáles son los principales problemas relacionados con la vivienda en tu comunidad?
+  ##### ¿Cuáles son los principales problemas relacionados con la vivienda en tu comunidad?
 
 
   Los principales problemas en mi comunidad relacionado a la vivienda son la construcción precaria y los materiales fatigados. Nuestra realidad conlleva un clima bastante fuerte, por lo que en invierno, a la mayoría de las familias de aquí, la casa se les llueven sin pausa, además de que esta es una comunidad que se caracteriza por tener viento fuerte. Entonces el material de construcción de las viviendas no les ayuda mucho en ese sentido, porque es material precario. Nosotros acá no usamos el material que se usa para construir las viviendas. Entonces esa es la mayor dificultad que hay con respecto a la a la problemática relacionada con la vivienda. Muchas veces, la mayoría, han usado material reciclable también para sus viviendas. Entonces con el pasar del tiempo, obviamente eso va fatigando con la lluvia, con el sol, todo eso.
@@ -37,7 +37,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Cómo consiguen los materiales para la construcción de las casas?
+  ##### ¿Cómo consiguen los materiales para la construcción de las casas?
 
 
   Es un material que por lo general se consigue por datos, datos de otras personas que han comprado. Hay personas que, por ejemplo, reciclan en el muelle, en el basural y los llevan a su casa y lo arreglan. Entonces se dedican a vender materiales de construcción baratos y que son reciclados. Y así la gente puede construir. Bueno, ahora está más caro que antes. Imagínate si antes era de un valor inalcanzable para para muchos chilenos, hoy en día es inalcanzable, pues se dispararon los precios. De esa manera se consiguen los datos, y si yo tengo un dato de una persona que vende más barato, se va pasando.
@@ -46,7 +46,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Qué pasó durante la pandemia?
+  ##### ¿Qué pasó durante la pandemia?
 
 
   En la parte alta \[del campamento], donde nosotros tenemos la cancha de fútbol de los chicos, había un espacio que nosotros teníamos para un futuro proyecto de poner maquinaria y poner áreas verdes, porque es un sector de relleno que no se puede obviamente habitar. De la noche a la mañana llegó una familia, se instaló, y a los dos días llegó otra familia. Porque cuando llega una familia, como te decía, se empieza el rumor, y conocen a otra persona que también está con dificultades de vivienda y de no poder pagar arriendo con todo esto de la pandemia y sin trabajo. Y claro, en una semana yo tenía seis familias más y en ese sector entonces ahora hay más. No sé cuánto porque yo no he ido a ver. Yo fui a hablar con la familia, les dije que lamentablemente era un sector peligroso, tanto para la salud como cuando hubiesen lluvias realmente fuertes en ese sector se iba a empezar a derrumbar porque es relleno, que los iban a sacar. La idea de si se van a quedar ahí, como que no construyan así tan sólido ni hagan tantos gastos, porque en realidad no es un sector que pueda la gente vivir. Es plano, se ve plano, pero es relleno y eso era un vertedero antiguamente, entonces la gente está tan desesperada y no tiene solución que no les importa siquiera el riesgo de ellos mismos ni de sus hijos. 
@@ -57,7 +57,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Hay algunas personas que hayan sido más afectadas que el resto?
+  ##### ¿Hay algunas personas que hayan sido más afectadas que el resto?
 
 
   Sí, obviamente sí, en sentido económico, psicológico, familiar. Con esta cuarentena, esta pandemia, muchos maridos se quedaron sin trabajo o bien se quedaron con el plan de trabajo que podían recibir menos sueldo. Aparte tú tienes que pensar que aquí la mayoría de las familias ganan el sueldo mínimo, y entre todo lo que te descuentan deben sacar 280, 290. Más de 300 mil pesos no logras tener como ingreso familiar. Y te ayudas, obviamente, con este asunto de los subsidios familiares. Entonces, claro, se viene una crisis general. Cuando una familia tiene una crisis económica, todo anda mal porque no te alcanza. Entonces empiezas a pelear, a discutir con tu pareja, retas a los niños más de la cuenta. El jefe de hogar está en la casa, se fija cómo andan las cosas en la casa. 
@@ -76,7 +76,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Y qué pasó con las mujeres?
+  ##### ¿Y qué pasó con las mujeres?
 
 
   Todo esto que pasó fue muy trágico para toda la familia. Hubieron muchas discusiones y peleas entre parejas, y se rompió la rutina que llevábamos de golpe. No estábamos acostumbrados o no estaban acostumbradas las mujeres a tener a su pareja en la casa. 
@@ -87,7 +87,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Y antes de la pandemia era distinto?
+  ##### ¿Y antes de la pandemia era distinto?
 
 
   Obviamente, sí, era distinto. Porque claro, papá y mamá salían a trabajar y ellos iban al colegio, los más grandecitos se podían venir solos a la casa. Llegaban a su casa y se ponían a ver tele mientras llegaba mamá o papá a casa. Y si se tenían niños más chiquitos, bueno, ya la mamá lo pasaba a buscar al colegio, llegaban a casa. Era otra rutina: después del colegio hacer las tareas, cumplir con los deberes. Pero no había tanto… No sé si es fuerte la palabra que voy a decir, pero no había tanto maltrato hacia el niño o niña. Porque después la mamá llevaba a los niños a casa y se preocupaba de las tareas, y después se preocupaba de que tenían que comer y de esperar al marido o a su pareja y darle comida. En fin, es otra rutina. La mente está ocupada en otra cosa. Entonces en la vida anterior a la pandemia, obviamente era diferente. Los niños salían a jugar a la plaza, tenían más contacto con el resto de sus vecinitos. Tenían un punto de encuentro. Sabían que cierto día iban a la biblioteca y jugaban con los tíos, los voluntarios. Entonces era vida, o sea era otra cosa con actividades. Porque eso es lo que afectó, el no tener actividades. Tanto los adultos como a los niños.
@@ -96,7 +96,7 @@ content_block_es: >-
   <br>
 
 
-  ###### ¿Qué significa para ti ser mujer en el campamento?
+  ##### ¿Qué significa para ti ser mujer en el campamento?
 
 
   Yo como mujer te podría decir muchas cosas porque las he hecho de todas. Afortunadamente tengo buena salud, tengo vocación para esto. Se dificulta porque ser dirigente, mamá, trabajadora, todo un complemento; y de repente no saber cuáles son las prioridades en tu vida es como igual complicado. Dentro de la comunidad hemos pasado muchas etapas, muchos desafíos en los cuales yo he tenido que ser tomar el papel de dirigenta, más que de mamá y más que de mujer. Por las dificultades, he tenido así como que cerrar mis ojos y decir “ya”. Bueno, por ejemplo, en el incendio del año 2014, cuando hubo también el terremoto; cuando también hubo un huracán en el sector, que voló varios techos y botó unas casas. Y dejar a mi hijo solo por atender todas esas dificultades. De repente no llegar a la casa a hacerles el almuerzo a mis hijos, porque estoy atendiendo a las familias. Y te estoy hablando de hijos, no como están ahora mayores; estoy hablando de hijos de menores de edad. Dejar familia atender situaciones comunitarias. Entonces, como mujer, de repente me he examinado y no me arrepiento fíjate. No me arrepiento de todas las cosas que he hecho y que he tenido que priorizar, a veces dejando a mis hijos solos, porque creo que es lo que se debía hacer en su oportunidad. Ahora a lo mejor se me haría más difícil, a pesar de que los chiquillos son todos mayores de edad y más grandes, pero la misma vida a veces te enseña que a veces cuando tú das mucho a los demás, se confunde el voluntariado con obligaciones. Después llega a pasar como que estás obligada a hacerlo porque eres dirigente. Y no es así.
