@@ -67,10 +67,10 @@ content_block_es: >-
   * [El rol de las mujeres y niñas en la gestión hídrica](https://www.elmostrador.cl/braga/2021/11/04/el-rol-de-las-mujeres-y-ninas-en-la-gestion-hidrica/)
 
   * [Teletrabajo e inequidades de género: "Durante la crisis sanitaria no ha sido voluntario ni gradual, esto ha traído una sobre exigencia a las mujeres"](https://www.elmostrador.cl/braga/2021/11/10/teletrabajo-e-inequidades-de-genero-en-el-contexto-de-la-crisis-sanitaria-no-ha-sido-voluntario-ni-gradual-lo-que-ha-traido-aparejado-una-sobre-exigencia-a-las-mujeres/)
-    <br>
-    <small>¿Quieres participar de Más que Juanitas? Contáctanos [aquí](https://www.distritoglobal.org/contacto/)</small>
+
+  * [Servicios públicos para la igualdad de género: "La Convención tiene la capacidad de transformar las condiciones de vida de las mujeres"](https://www.elmostrador.cl/braga/2022/01/20/servicios-publicos-para-la-igualdad-de-genero-la-convencion-tiene-la-capacidad-de-transformar-las-condiciones-de-vida-de-las-mujeres/)
 title_en: More than Juanitas
-button_en: Read the testimonials
+button_en: Read the testimonies
 content_block_en: >-
   “La señora Juanita” is a deep-rooted metaphor in the collective Chilean
   unconscious. It represents a universalization of women’s political experience
