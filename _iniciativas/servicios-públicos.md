@@ -29,7 +29,7 @@ content_block_es: >-
 
 
   #### [Conoce la propuesta de norma constitucional aquí](https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=18202)
-title_en: Fiscal policy
+title_en: Public services
 content_block_en: ""
 alliance_1_org: Internacional de Servicios Públicos
 alliance_1_logo: ""
