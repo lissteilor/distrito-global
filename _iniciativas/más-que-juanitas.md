@@ -4,11 +4,9 @@ active: true
 image_thumbnail: /assets/uploads/thumb-juanitas-morado.jpg
 image_hero: /assets/uploads/hero-juanitas-color.jpg
 title_es: Más que Juanitas
-summary_es: Construimos una bitácora feminista de elaboración colectiva, que
-  visibiliza los impactos desiguales en la vivencia de los derechos económicos,
-  sociales, culturales y ambientales por parte de las mujeres chilenas, asi como
-  las formas en que la nueva Constitución puede mejorar sus experiencias de
-  vida.
+summary_es: Los derechos sociales serán con enfoque de género o no serán. Para
+  ello construimos una bitácora que identifica cómo las nueva Constitución de
+  Chile puede mejorar las experiencias de vida de las mujeres
 brief_es: Derechos sociales con enfoque de género en la nueva constitución
 button_es: Revisa los testimonios
 content_block_es: >-
