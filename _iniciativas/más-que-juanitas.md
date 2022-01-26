@@ -34,6 +34,12 @@ content_block_es: >-
   <br>
 
 
+  #### [Descarga el libro aquí](https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/61bb25f3f22f076f2f930e19/1639654920501/Mas_Que_Juanitas_vfinal.pdf)
+
+
+  [](https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/61bb25f3f22f076f2f930e19/1639654920501/Mas_Que_Juanitas_vfinal.pdf)<br>
+
+
   #### Revive las conversaciones:
 
 
