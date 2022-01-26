@@ -22,13 +22,22 @@ content_block_es: >-
   Para que éstos se hagan realidad en una sociedad, se requiere que la Constitución establezca explícitamente la obligación del Estado de prestar servicios públicos universales y de calidad. Esto implica el <em>reconocimiento de los servicios públicos como la puerta que conecta a las personas con sus derechos humanos y les permite acceder a ellos en la práctica</em>. Asimismo, la Constitución debe reconocer que los servicios públicos son la base de una sociedad justa y sostenible, permitiendo su adaptación y ampliación según el contexto social y protegiéndolos frente a la mercantilización. Por último, la regulación de los servicios públicos debería fijar un marco general de comprensión de su finalidad que permita que la práctica jurídica vaya dotándole de significado, al mismo tiempo que debiera identificar algunos ejemplos de áreas de especial interés, tales como la salud, la educación, la seguridad social y el agua, entre otros.
 
 
-  Para lograr este objetivo, junto a sindicatos del sector públicos en Chile y organizaciones de la sociedad civil, levantamos una iniciativa popular de norma de cara al proceso constituyente.
+  Para lograr este objetivo, junto a sindicatos del sector públicos en Chile y organizaciones de la sociedad civil, levantamos una iniciativa popular de norma de cara al proceso constituyente, basada en el Manifiesto Global por los Servicios Públicos.
 
 
   <br>
 
 
   #### [Conoce la propuesta de norma constitucional aquí](https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=18202)
+
+
+  <br>
+
+
+  ##### <small>Revisa aquí los documentos fundantes:</small>
+
+
+  * <small>[Manifiesto Global por los Servicios Públicos](https://www.distritoglobal.org/assets/uploads/el-futuro-es-publico-manifiesto-global-por-los-servicios-publicos.pdf)</small>
 title_en: Public services
 content_block_en: ""
 alliance_1_org: Internacional de Servicios Públicos
