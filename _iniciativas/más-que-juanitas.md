@@ -68,6 +68,8 @@ content_block_es: >-
 
   * [Teletrabajo e inequidades de género: "Durante la crisis sanitaria no ha sido voluntario ni gradual, esto ha traído una sobre exigencia a las mujeres"](https://www.elmostrador.cl/braga/2021/11/10/teletrabajo-e-inequidades-de-genero-en-el-contexto-de-la-crisis-sanitaria-no-ha-sido-voluntario-ni-gradual-lo-que-ha-traido-aparejado-una-sobre-exigencia-a-las-mujeres/)
 
+  * [Constitución con enfoque de desarrollo territorial](https://www.elmostrador.cl/braga/2021/12/13/constitucion-con-enfoque-de-desarrollo-territorial/)
+
   * [Servicios públicos para la igualdad de género: "La Convención tiene la capacidad de transformar las condiciones de vida de las mujeres"](https://www.elmostrador.cl/braga/2022/01/20/servicios-publicos-para-la-igualdad-de-genero-la-convencion-tiene-la-capacidad-de-transformar-las-condiciones-de-vida-de-las-mujeres/)
 title_en: More than Juanitas
 button_en: Read the testimonies
