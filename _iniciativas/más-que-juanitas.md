@@ -71,6 +71,12 @@ content_block_es: >-
   * [Constitución con enfoque de desarrollo territorial](https://www.elmostrador.cl/braga/2021/12/13/constitucion-con-enfoque-de-desarrollo-territorial/)
 
   * [Servicios públicos para la igualdad de género: "La Convención tiene la capacidad de transformar las condiciones de vida de las mujeres"](https://www.elmostrador.cl/braga/2022/01/20/servicios-publicos-para-la-igualdad-de-genero-la-convencion-tiene-la-capacidad-de-transformar-las-condiciones-de-vida-de-las-mujeres/)
+
+
+  <br>
+
+
+  <small>¿Quieres aportar ru reflexión a "Más que Juanitas"? [¡Escríbenos!](https://www.distritoglobal.org/contacto/)</small>
 title_en: More than Juanitas
 button_en: Read the testimonies
 content_block_en: >-
