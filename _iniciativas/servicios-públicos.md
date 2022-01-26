@@ -5,8 +5,8 @@ image_thumbnail: /assets/uploads/thumb-sspp-2-.jpg
 image_hero: /assets/uploads/hero-sspp.jpg
 title_es: Servicios públicos
 summary_es: Los servicios públicos son una construcción social que conecta a las
-  personas con sus derechos sociales. Por eso, movilizamos una propuesta de
-  norma constitucional
+  personas con sus derechos sociales. Por eso, impulsamos una propuesta de norma
+  constitucional en Chile
 brief_es: Conectando a las personas con sus derechos sociales
 button_es: Conoce la propuesta
 content_block_es: >-
