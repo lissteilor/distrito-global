@@ -8,7 +8,7 @@ summary_es: Los servicios públicos son una construcción social que conecta a l
   personas con sus derechos sociales. Éstos deben regularse y fijárseles
   estándares mínimos desde un enfoque basado en derechos humanos
 brief_es: Conectando a las personas con sus derechos sociales
-button_es: Revisa la propuesta de norma constitucional
+button_es: Conoce la propuesta de norma constitucional
 content_block_es: >-
   <p>Los servicios públicos de calidad entregan prestaciones universales y
   accesibles para todas las personas; son participativos y transparentes,
