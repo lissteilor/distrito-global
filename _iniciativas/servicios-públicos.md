@@ -34,7 +34,7 @@ content_block_es: >-
   <br>
 
 
-  #### Revisa nuestras apariciones en la prensa:
+  #### Revisa nuestras apariciones en prensa:
 
 
   * [Servicios públicos para la igualdad de género: "La Convención tiene la capacidad de transformar las condiciones de vida de las mujeres"](https://www.elmostrador.cl/braga/2022/01/20/servicios-publicos-para-la-igualdad-de-genero-la-convencion-tiene-la-capacidad-de-transformar-las-condiciones-de-vida-de-las-mujeres/)
