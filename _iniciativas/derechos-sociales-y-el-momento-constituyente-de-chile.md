@@ -1,6 +1,6 @@
 ---
 layout: initiative-book
-active: true
+active: false
 image_thumbnail: /assets/uploads/thumb-libro.jpg
 image_hero: /assets/uploads/hero-libro-color.jpg
 title_es: Derechos sociales y el momento constituyente de Chile
