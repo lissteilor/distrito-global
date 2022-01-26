@@ -2,7 +2,7 @@
 layout: initiative-basic
 active: true
 image_thumbnail: /assets/uploads/thumb-sspp-2-.jpg
-image_hero: /assets/uploads/hero-sspp.jpg
+image_hero: /assets/uploads/hero-sspp-1-.jpg
 title_es: Servicios públicos
 summary_es: Los servicios públicos son una construcción social que conecta a las
   personas con sus derechos sociales. Por eso, impulsamos una propuesta de norma
