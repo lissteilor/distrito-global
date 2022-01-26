@@ -12,11 +12,14 @@ summary_es: Construimos una bitácora feminista de elaboración colectiva, que
 brief_es: Derechos sociales con enfoque de género en la nueva constitución
 button_es: Revisa los testimonios
 content_block_es: >-
-  <p>“La señora Juanita” es una metáfora asentada en el inconsciente colectivo
-  chileno. Representa una universalización de la experiencia política femenina
-  en Chile, una imagen externa y machista de la mujer chilena sobre el que se
-  construyen normas, políticas y programas de "ayuda social", y sobre la que
-  muchas veces se centra el imaginario político de todos los sectores.</p>
+  #### [Descarga la publicación
+  aquí](https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/61bb25f3f22f076f2f930e19/1639654920501/Mas_Que_Juanitas_vfinal.pdf)
+
+
+  [](https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/61bb25f3f22f076f2f930e19/1639654920501/Mas_Que_Juanitas_vfinal.pdf)<br>
+
+
+  <p>“La señora Juanita” es una metáfora asentada en el inconsciente colectivo chileno. Representa una universalización de la experiencia política femenina en Chile, una imagen externa y machista de la mujer chilena sobre el que se construyen normas, políticas y programas de "ayuda social", y sobre la que muchas veces se centra el imaginario político de todos los sectores.</p>
 
 
   <p>Ante el enorme riesgo de que figuras conceptuales como esta puedan teñir el debate constitucional sobre los derechos económicos, sociales, culturales y ambientales (DESCA), abordar este debate desde una perspectiva que integre el enfoque de género, la constitución y los DESCA ofrece una oportunidad y un espacio transformativo para tratar los problemas endémicos de injusticia social y económica que afectan a las mujeres y diversidades en Chile, con miras a la construcción del nuevo texto constitucional.</p>
@@ -32,12 +35,6 @@ content_block_es: >-
 
 
   <br>
-
-
-  #### [Descarga la publicación aquí](https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/61bb25f3f22f076f2f930e19/1639654920501/Mas_Que_Juanitas_vfinal.pdf)
-
-
-  [](https://static1.squarespace.com/static/5a6e0958f6576ebde0e78c18/t/61bb25f3f22f076f2f930e19/1639654920501/Mas_Que_Juanitas_vfinal.pdf)<br>
 
 
   #### Revive las conversaciones:
