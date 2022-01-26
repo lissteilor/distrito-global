@@ -34,6 +34,17 @@ content_block_es: >-
   <br>
 
 
+  #### Revisa nuestras apariciones en la prensa:
+
+
+  * [Servicios públicos para la igualdad de género: "La Convención tiene la capacidad de transformar las condiciones de vida de las mujeres"](https://www.elmostrador.cl/braga/2022/01/20/servicios-publicos-para-la-igualdad-de-genero-la-convencion-tiene-la-capacidad-de-transformar-las-condiciones-de-vida-de-las-mujeres/)
+
+  * [“Sin recursos ni servicios públicos no hay derechos": Sindicatos y organizaciones presentan iniciativa popular de norma para garantizar derechos sociales](https://www.elmostrador.cl/dia/2022/01/25/sin-recursos-ni-servicios-publicos-no-hay-derechos-sindicatos-y-organizaciones-presentan-iniciativa-popular-de-norma-para-garantizar-derechos-sociales/)
+
+
+  <br>
+
+
   ##### <small>Revisa aquí los documentos fundantes:</small>
 
 
