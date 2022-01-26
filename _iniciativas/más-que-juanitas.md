@@ -35,7 +35,7 @@ content_block_es: >-
   <br>
 
 
-  #### Descarga la infografía "Claves para asegurar derechos sociales con enfoque de género en la nueva Constitución"
+  #### [Descarga la infografía "Claves para asegurar derechos sociales con enfoque de género en la nueva Constitución"](https://www.distritoglobal.org/assets/uploads/infografia-ma%CC%81s-que-juanitas.pdf)
 
 
   <br>
