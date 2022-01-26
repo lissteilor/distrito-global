@@ -45,10 +45,10 @@ content_block_es: >-
   <br>
 
 
-  ##### <small>Revisa aquí los documentos fundantes:</small>
+  ##### Revisa aquí los documentos fundantes:
 
 
-  * <small>[Manifiesto Global por los Servicios Públicos](https://www.distritoglobal.org/assets/uploads/el-futuro-es-publico-manifiesto-global-por-los-servicios-publicos.pdf)</small>
+  * [Manifiesto Global por los Servicios Públicos](https://www.distritoglobal.org/assets/uploads/el-futuro-es-publico-manifiesto-global-por-los-servicios-publicos.pdf)
 title_en: Public services
 content_block_en: ""
 alliance_1_org: Internacional de Servicios Públicos
