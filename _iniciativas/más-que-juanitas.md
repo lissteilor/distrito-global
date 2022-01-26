@@ -35,6 +35,12 @@ content_block_es: >-
   <br>
 
 
+  #### Descarga la infografía "Claves para asegurar derechos sociales con enfoque de género en la nueva Constitución"
+
+
+  <br>
+
+
   #### Revive las conversaciones:
 
 
