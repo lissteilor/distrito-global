@@ -10,37 +10,25 @@ summary_es: Los servicios públicos son una construcción social que conecta a l
 brief_es: Conectando a las personas con sus derechos sociales
 button_es: Revisa la propuesta de norma constitucional
 content_block_es: >-
-  <p>Política Fiscal es un proyecto de incidencia que busca promover una
-  política fiscal con enfoque de derechos en el marco del proceso constituyente
-  en Chile. Esto significa que las decisiones en torno a cómo el estado recauda
-  y gasta sus recursos estén orientadas hacia  la satisfacción de los derechos
-  sociales de la población.</p>
+  <p>Los servicios públicos de calidad entregan prestaciones universales y
+  accesibles para todas las personas; son participativos y transparentes,
+  confiables y responsables. Ellos se diseñan para el futuro, mejoran y se
+  adaptan a personas y contextos. Se orientan a la igualdad, incluida la de
+  género y son conscientes ambientalmente. Se fundamentan en la solidaridad,
+  están protegidos frente a la economía de mercado y se construyen sobre una
+  base sólida de financiamiento público a largo plazo.</p>
 
 
-  Algunos de los objetivos de la campaña son:
+  Para que éstos se hagan realidad en una sociedad, se requiere que la Constitución establezca explícitamente la obligación del Estado de prestar servicios públicos universales y de calidad. Esto implica el <em>reconocimiento de los servicios públicos como la puerta que conecta a las personas con sus derechos humanos y les permite acceder a ellos en la práctica</em>. Asimismo, la Constitución debe reconocer que los servicios públicos son la base de una sociedad justa y sostenible, permitiendo su adaptación y ampliación según el contexto social y protegiéndolos frente a la mercantilización. Por último, la regulación de los servicios públicos debería fijar un marco general de comprensión de su finalidad que permita que la práctica jurídica vaya dotándole de significado, al mismo tiempo que debiera identificar algunos ejemplos de áreas de especial interés, tales como la salud, la educación, la seguridad social y el agua, entre otros.
 
 
-  <ul>
-
-  <li>Generar espacios de reflexión y debate sobre  los estándares internacionales y mejores prácticas comparadas en materia de principios constitucionales para una política fiscal con enfoque de derechos.</li>
-
-  <li>Vincular organizaciones de la sociedad civil en temáticas de política fiscal y derechos sociales</li>
-
-  <li>Poner a disposición de la Convención Constitucional alternativas normativas para la consagración de principios e instituciones que garanticen una política fiscal con enfoque de derechos.</li>
-
-  </ul>
+  Para lograr este objetivo, junto a sindicatos del sector públicos en Chile y organizaciones de la sociedad civil, levantamos una iniciativa popular de norma de cara al proceso constituyente.
 
 
-  #### Revive las conversaciones aquí:
+  <br>
 
 
-  * Diálogo #1: [Nueva Constitución y Modelo Económico](https://www.distritoglobal.org/publicaciones/nueva-constituci%C3%B3n-y-modelo-econ%C3%B3mico.html)
-
-  * Diálogo #2: [Régimen Político y Constitución Financiera](https://www.distritoglobal.org/publicaciones/r%C3%A9gimen-pol%C3%ADtico-y-constituci%C3%B3n-financiera.html)
-
-  * Diálogo #3: [Impuestos y territorios en la Nueva Constitución, ¿quién paga la cuenta?](https://www.distritoglobal.org/publicaciones/impuestos-y-territorios-en-la-nueva-constituci%C3%B3n-%C2%BFqui%C3%A9n-paga-la-cuenta.html)
-
-  * Diálogo #4: [Política fiscal para un Chile verde y feminista](https://www.distritoglobal.org/publicaciones/pol%C3%ADtica-fiscal-para-un-chile-verde-y-feminista.html)
+  #### [Conoce la propuesta de norma constitucional aquí](https://plataforma.chileconvencion.cl/m/iniciativa_popular/detalle?id=18202)
 title_en: Fiscal policy
 content_block_en: ""
 alliance_1_org: Internacional de Servicios Públicos
